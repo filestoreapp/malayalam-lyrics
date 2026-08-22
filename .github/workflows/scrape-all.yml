@@ -1,7 +1,10 @@
-﻿name: Scrape All Years
+name: Scrape All Years
 
 on:
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   scrape:
@@ -17,29 +20,51 @@ jobs:
           node-version: '20'
       - run: npm install cheerio
       - run: node tools/scrape_year.mjs ${{ matrix.year }}
-      - name: Commit lyrics
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/lyrics
-          git commit -m "Scrape lyrics for ${{ matrix.year }}" || echo "No changes to commit"
-          git push
 
-  build-index:
+      # Upload the lyrics folder as an artifact (no push here)
+      - name: Upload lyrics artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: lyrics-${{ matrix.year }}
+          path: data/lyrics
+          retention-days: 1
+
+  merge-and-push:
     needs: scrape
     runs-on: ubuntu-latest
+    if: always()
     steps:
       - uses: actions/checkout@v4
         with:
           ref: main
-      - uses: actions/setup-node@v4
+
+      - name: Create data/lyrics directory if not exists
+        run: mkdir -p data/lyrics
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
         with:
-          node-version: '20'
-      - run: node tools/build-index.mjs
-      - name: Commit index
+          path: artifacts
+          merge-multiple: true
+
+      - name: Copy scraped lyrics into repository
+        run: |
+          if [ -d "artifacts" ]; then
+            cp -rf artifacts/* data/lyrics/
+            # Remove any nested directories that might exist from artifacts
+            find data/lyrics -type f -name "*.json" -exec cp {} data/lyrics/ \; 2>/dev/null || true
+          fi
+
+      - name: List number of lyric files
+        run: echo "Total lyrics files: $(find data/lyrics -name '*.json' | wc -l)"
+
+      - name: Build index.json
+        run: node tools/build-index.mjs
+
+      - name: Commit and push all changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/index.json
-          git commit -m "Update index.json" || echo "No changes to commit"
+          git add data/lyrics data/index.json
+          git commit -m "Add scraped lyrics and update index" || echo "No changes to commit"
           git push
