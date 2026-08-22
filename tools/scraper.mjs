@@ -1,57 +1,150 @@
-﻿import { writeFileSync, mkdirSync } from 'fs';
+import { writeFileSync, mkdirSync, existsSync } from 'fs';
 import { load } from 'cheerio';
 
-console.log('Script started...');
+const BASE_URL = 'https://m3db.com';
+const DELAY_MS = 2000;
+const YEAR = process.argv[2];
 
-const SAMPLE_URL = 'https://m3db.com/lyric/ammapputhappe';
+if (!YEAR) {
+  console.error('Usage: node tools/scrape_year.mjs <year>');
+  process.exit(1);
+}
+
+const YEAR_URL = `https://m3db.com/archive/lyrics/year/${YEAR}`;
 
 async function fetchPage(url) {
   const response = await fetch(url, {
     headers: {
-      'User-Agent':
-        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
     },
   });
-
-  if (!response.ok) {
-    throw new Error(`Failed to fetch ${url} - Status: ${response.status}`);
-  }
-
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
   return await response.text();
 }
 
-try {
-  console.log('Fetching:', SAMPLE_URL);
-  const html = await fetchPage(SAMPLE_URL);
+function extractList($, selector) {
+  const items = [];
+  $(selector + ' .field-item').each((i, el) => {
+    const text = $(el).text().trim().replace(/\s+/g, ' ');
+    if (text) items.push(text);
+  });
+  if (items.length === 0) {
+    const text = $(selector).text().trim().replace(/\s+/g, ' ');
+    if (text) items.push(text);
+  }
+  return items;
+}
 
-  mkdirSync('debug', { recursive: true });
-  writeFileSync('debug/sample.html', html, 'utf8');
-  console.log('✅ HTML saved to debug/sample.html\n');
+function extractText($, selector) {
+  return $(selector).text().trim().replace(/\s+/g, ' ');
+}
 
+function extractLyrics($) {
+  const lyricsEl = $('.field-name-body .field-item').first();
+  if (!lyricsEl.length) return '';
+  let html = lyricsEl.html() || '';
+  html = html.replace(/<br\s*\/?>/gi, '\n');
+  html = html.replace(/<\/(p|div)>/gi, '\n');
+  html = html.replace(/<[^>]+>/g, '');
+  const $decoded = load('<div>' + html + '</div>');
+  return $decoded('div').text().trim();
+}
+
+function sleep(ms) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+async function scrapeSong(url) {
+  const html = await fetchPage(url);
   const $ = load(html);
+  const id = url.split('/').pop();
+  const songName = extractText($, 'h1');
+  const lyrics = extractLyrics($);
+  const music = extractList($, '.field-name-field-music');
+  const lyricist = extractList($, '.field-name-field-lyricist');
+  const singers = extractList($, '.field-name-field-singer');
+  const film = extractList($, '.field-name-field-film');
+  const yearField = extractText($, '.field-name-field-year');
+  const year = yearField.replace(/^Year:\s*/i, '').trim();
 
-  console.log('Page Title:', $('title').text().trim());
-  console.log('H1:', $('h1').first().text().trim());
-  console.log('H2:', $('h2').first().text().trim());
+  return {
+    id,
+    songName,
+    film: film.join(', '),
+    lyricist: lyricist.join(', '),
+    musicDirector: music.join(', '),
+    singers: singers.join(', '),
+    year: year || '',
+    lyrics
+  };
+}
 
-  const selectors = [
-    '.lyric', '.lyrics', '#lyric', '#lyrics', '.song-lyrics',
-    '.lyric-content', '.entry-content', 'article', '.content',
-    '.lyric_text', '.lyrics_text', '.song_lyrics',
-  ];
-
-  console.log('\n--- Checking possible lyrics selectors ---');
-  for (const sel of selectors) {
-    const el = $(sel);
-    if (el.length > 0) {
-      const text = el.first().text().trim();
-      console.log(`✔ Found: ${sel} (${el.length} elements)`);
-      console.log('  Preview:', text.substring(0, 150).replace(/\n/g, ' '));
-      console.log('');
+async function getLyricLinksFromPage(pageNum) {
+  let url = YEAR_URL;
+  if (pageNum > 0) {
+    url += `?page=${pageNum}`;
+  }
+  console.log(`Fetching page ${pageNum} (${url})`);
+  const html = await fetchPage(url);
+  const $ = load(html);
+  const links = new Set();
+  $('a').each((i, el) => {
+    const href = $(el).attr('href') || '';
+    if (href.includes('/lyric/')) {
+      links.add(href.startsWith('http') ? href : BASE_URL + href);
     }
+  });
+  return links;
+}
+
+try {
+  console.log(`Processing year ${YEAR}...`);
+  const allSongUrls = new Set();
+  let pageNum = 0;
+
+  while (true) {
+    const links = await getLyricLinksFromPage(pageNum);
+    console.log(`Found ${links.size} lyric links on page ${pageNum}.`);
+    if (links.size === 0) break;
+    links.forEach(link => allSongUrls.add(link));
+    // If less than 500, this is the last page
+    if (links.size < 500) break;
+    pageNum++;
+    // small delay between page requests
+    await sleep(1000);
   }
 
-  console.log('--- Done ---');
-} catch (error) {
-  console.error('❌ Error:', error.message);
+  const songUrls = [...allSongUrls];
+  console.log(`Total unique songs found for year ${YEAR}: ${songUrls.length}`);
+
+  mkdirSync('data/lyrics', { recursive: true });
+
+  let success = 0, skipped = 0, failed = 0;
+
+  for (let i = 0; i < songUrls.length; i++) {
+    const url = songUrls[i];
+    const id = url.split('/').pop();
+    const file = `data/lyrics/${id}.json`;
+
+    // Always overwrite to ensure correct alignment
+    // no skip condition
+
+    try {
+      console.log(`🎵 [${i+1}/${songUrls.length}] Scraping: ${id}`);
+      const song = await scrapeSong(url);
+      writeFileSync(file, JSON.stringify(song, null, 2), 'utf8');
+      console.log(`   ✅ Saved: ${song.songName} (${song.year})`);
+      success++;
+    } catch (err) {
+      console.error(`   ❌ Failed: ${id} - ${err.message}`);
+      failed++;
+    }
+
+    if (i < songUrls.length - 1) await sleep(DELAY_MS);
+  }
+
+  console.log(`\nYear ${YEAR} complete: success=${success}, skipped=${skipped}, failed=${failed}`);
+} catch (err) {
+  console.error(`❌ Year ${YEAR} failed: ${err.message}`);
+  process.exit(1);
 }
