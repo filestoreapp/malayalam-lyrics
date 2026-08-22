@@ -58,10 +58,15 @@ jobs:
       - name: Build index.json
         run: node tools/build-index.mjs
 
+      - name: Fetch movie posters
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node tools/fetch_posters.mjs
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/lyrics data/index.json
-          git commit -m "Add scraped lyrics and update index" || echo "No changes to commit"
+          git add data/lyrics data/index.json data/movies.json
+          git commit -m "Add scraped lyrics, index, and posters" || echo "No changes to commit"
           git push
