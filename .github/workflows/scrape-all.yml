@@ -52,9 +52,6 @@ jobs:
             find artifacts -type f -name "*.json" -exec cp -f {} data/lyrics/ \;
           fi
 
-      - name: Show lyric count
-        run: echo "Total lyrics files: $(find data/lyrics -name '*.json' | wc -l)"
-
       - name: Build index.json
         run: node tools/build-index.mjs
 
