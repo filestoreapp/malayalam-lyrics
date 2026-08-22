@@ -107,10 +107,8 @@ try {
     console.log(`Found ${links.size} lyric links on page ${pageNum}.`);
     if (links.size === 0) break;
     links.forEach(link => allSongUrls.add(link));
-    // If less than 500, this is the last page
     if (links.size < 500) break;
     pageNum++;
-    // small delay between page requests
     await sleep(1000);
   }
 
@@ -119,7 +117,7 @@ try {
 
   mkdirSync('data/lyrics', { recursive: true });
 
-  let success = 0, skipped = 0, failed = 0;
+  let success = 0, failed = 0;
 
   for (let i = 0; i < songUrls.length; i++) {
     const url = songUrls[i];
@@ -127,8 +125,6 @@ try {
     const file = `data/lyrics/${id}.json`;
 
     // Always overwrite to ensure correct alignment
-    // no skip condition
-
     try {
       console.log(`🎵 [${i+1}/${songUrls.length}] Scraping: ${id}`);
       const song = await scrapeSong(url);
@@ -143,7 +139,7 @@ try {
     if (i < songUrls.length - 1) await sleep(DELAY_MS);
   }
 
-  console.log(`\nYear ${YEAR} complete: success=${success}, skipped=${skipped}, failed=${failed}`);
+  console.log(`\nYear ${YEAR} complete: success=${success}, failed=${failed}`);
 } catch (err) {
   console.error(`❌ Year ${YEAR} failed: ${err.message}`);
   process.exit(1);
