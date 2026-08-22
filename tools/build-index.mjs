@@ -1,4 +1,4 @@
-﻿import { readdirSync, readFileSync, writeFileSync } from 'fs';
+import { readdirSync, readFileSync, writeFileSync } from 'fs';
 import { join } from 'path';
 
 const lyricsDir = 'data/lyrics';
