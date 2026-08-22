@@ -37,6 +37,9 @@ jobs:
         with:
           ref: main
 
+      - name: Clean old lyrics
+        run: rm -rf data/lyrics
+
       - name: Create data/lyrics directory
         run: mkdir -p data/lyrics
 
