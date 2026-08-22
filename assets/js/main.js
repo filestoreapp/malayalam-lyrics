@@ -1,91 +1,86 @@
-﻿async function loadIndex() {
-  const response = await fetch('data/index.json');
+async function loadMovies() {
+  const response = await fetch('data/movies.json');
+  if (!response.ok) throw new Error('Failed to load movies.json');
   return await response.json();
 }
 
-function renderSongCard(song) {
+function createSongLink(song) {
+  const a = document.createElement('a');
+  a.href = `song.html?id=${song.id}`;
+  a.textContent = song.songName;
+  a.className = 'song-link';
+  return a;
+}
+
+function renderMovieCard(movie) {
   const card = document.createElement('div');
-  card.className = 'song-card';
-  card.innerHTML = `
-    <h3>${song.songName}</h3>
-    <p>Film: ${song.film}</p>
-    <p>Lyricist: ${song.lyricist}</p>
-    <p>Music: ${song.musicDirector}</p>
-    <p>Singer(s): ${song.singers}</p>
-    <p>Year: ${song.year}</p>
-  `;
-  card.addEventListener('click', () => {
-    window.location.href = `song.html?id=${song.id}`;
+  card.className = 'movie-card';
+
+  if (movie.poster) {
+    const posterImg = document.createElement('img');
+    posterImg.className = 'movie-poster';
+    posterImg.src = movie.poster;
+    posterImg.alt = movie.film;
+    posterImg.loading = 'lazy';
+    card.appendChild(posterImg);
+  } else {
+    const placeholder = document.createElement('div');
+    placeholder.className = 'poster-placeholder';
+    placeholder.textContent = '🎬';
+    card.appendChild(placeholder);
+  }
+
+  const info = document.createElement('div');
+  info.className = 'movie-info';
+
+  const title = document.createElement('h3');
+  title.className = 'movie-title';
+  title.textContent = movie.film;
+  info.appendChild(title);
+
+  if (movie.year) {
+    const year = document.createElement('p');
+    year.className = 'movie-year';
+    year.textContent = movie.year;
+    info.appendChild(year);
+  }
+
+  const songsList = document.createElement('ul');
+  songsList.className = 'song-list';
+  movie.songs.forEach(song => {
+    const li = document.createElement('li');
+    li.appendChild(createSongLink(song));
+    songsList.appendChild(li);
   });
+  info.appendChild(songsList);
+
+  card.appendChild(info);
   return card;
 }
 
-function getFilterValues(songs, type) {
-  const values = new Set();
-  songs.forEach(song => {
-    const value = song[type];
-    if (value) values.add(value);
-  });
-  return Array.from(values).sort();
-}
-
 async function init() {
-  const songsObj = await loadIndex();
-  const songs = Object.values(songsObj);
-  const listEl = document.getElementById('songList');
-  const countEl = document.getElementById('songCount');
+  const movies = await loadMovies();
+  const listEl = document.getElementById('movieList');
+  const countEl = document.getElementById('movieCount');
   const searchInput = document.getElementById('searchInput');
-  const filterType = document.getElementById('filterType');
-  const filterValue = document.getElementById('filterValue');
 
   function updateList() {
     const query = searchInput.value.toLowerCase().trim();
-    const type = filterType.value;
-    const value = filterValue.value;
-
-    const filtered = songs.filter(song => {
-      const matchesSearch = !query ||
-        song.songName.toLowerCase().includes(query) ||
-        song.film.toLowerCase().includes(query) ||
-        song.lyricist.toLowerCase().includes(query) ||
-        song.musicDirector.toLowerCase().includes(query) ||
-        song.singers.toLowerCase().includes(query) ||
-        song.year.includes(query);
-
-      const matchesFilter = type === 'all' || value === '' || song[type] === value;
-
-      return matchesSearch && matchesFilter;
+    const filtered = movies.filter(movie => {
+      const haystack = (movie.film + ' ' + movie.year + ' ' + movie.songs.map(s => s.songName).join(' ')).toLowerCase();
+      return haystack.includes(query);
     });
 
     listEl.innerHTML = '';
-    filtered.forEach(song => listEl.appendChild(renderSongCard(song)));
-    countEl.textContent = `Showing ${filtered.length} of ${songs.length} songs`;
-  }
-
-  // Populate filter value dropdown based on type
-  function populateFilterValues() {
-    const type = filterType.value;
-    filterValue.innerHTML = '<option value="">All</option>';
-    if (type !== 'all') {
-      const values = getFilterValues(songs, type);
-      values.forEach(val => {
-        const opt = document.createElement('option');
-        opt.value = val;
-        opt.textContent = val;
-        filterValue.appendChild(opt);
-      });
-    }
+    filtered.forEach(movie => listEl.appendChild(renderMovieCard(movie)));
+    countEl.textContent = `Showing ${filtered.length} of ${movies.length} movies`;
   }
 
   searchInput.addEventListener('input', updateList);
-  filterType.addEventListener('change', () => {
-    populateFilterValues();
-    updateList();
-  });
-  filterValue.addEventListener('change', updateList);
-
-  populateFilterValues();
   updateList();
 }
 
-init();
+init().catch(err => {
+  console.error(err);
+  document.getElementById('movieList').textContent = 'Error loading movies. Please try again later.';
+});
