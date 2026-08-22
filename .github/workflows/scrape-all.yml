@@ -21,7 +21,6 @@ jobs:
       - run: npm install cheerio
       - run: node tools/scrape_year.mjs ${{ matrix.year }}
 
-      # Upload the lyrics folder as an artifact (no push here)
       - name: Upload lyrics artifact
         uses: actions/upload-artifact@v4
         with:
@@ -38,7 +37,7 @@ jobs:
         with:
           ref: main
 
-      - name: Create data/lyrics directory if not exists
+      - name: Create data/lyrics directory
         run: mkdir -p data/lyrics
 
       - name: Download all artifacts
@@ -47,21 +46,19 @@ jobs:
           path: artifacts
           merge-multiple: true
 
-      - name: Copy scraped lyrics into repository
+      - name: Copy lyrics into repository
         run: |
           if [ -d "artifacts" ]; then
-            cp -rf artifacts/* data/lyrics/
-            # Remove any nested directories that might exist from artifacts
-            find data/lyrics -type f -name "*.json" -exec cp {} data/lyrics/ \; 2>/dev/null || true
+            find artifacts -type f -name "*.json" -exec cp -f {} data/lyrics/ \;
           fi
 
-      - name: List number of lyric files
+      - name: Show lyric count
         run: echo "Total lyrics files: $(find data/lyrics -name '*.json' | wc -l)"
 
       - name: Build index.json
         run: node tools/build-index.mjs
 
-      - name: Commit and push all changes
+      - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
