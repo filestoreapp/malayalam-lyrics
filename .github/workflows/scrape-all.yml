@@ -53,12 +53,25 @@ jobs:
 
           for YEAR in $YEARS; do
             echo "Processing year: $YEAR"
-            node tools/master_scrape.mjs "$YEAR"
+            
+            # Run scraper; if it fails, continue to next year to avoid total job failure
+            node tools/master_scrape.mjs "$YEAR" || echo "Scraper failed for year $YEAR, but continuing..."
+            
             echo "Committing after year $YEAR"
             git config --global user.name 'github-actions[bot]'
             git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-            git add data/ scrape_log.txt
-            git diff --cached --quiet || git commit -m "Scrape year $YEAR"
-            git push
+            
+            # Stage all changes (including deletions, new year folders)
+            git add -A data/ scrape_log.txt 2>/dev/null || true
+            
+            # Commit only if there are changes
+            if ! git diff --cached --quiet; then
+              git commit -m "Scrape year $YEAR" || echo "Commit failed, but continuing..."
+              git push || echo "Push failed, but continuing..."
+            else
+              echo "No changes to commit for year $YEAR"
+            fi
+            
+            # Optional delay between years
             sleep 5
           done
