@@ -20906,6 +20906,15 @@
     "singers": "പി സുശീല",
     "year": ""
   },
+  "12123": {
+    "id": "12123",
+    "songName": "തങ്കക്കിനാക്കൾ ഹൃദയേ വീശും",
+    "film": "നവലോകം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കോഴിക്കോട് അബ്ദുൾഖാദർ",
+    "year": ""
+  },
   "12125": {
     "id": "12125",
     "songName": "പാൽനിലാവിനും",
@@ -22121,6 +22130,24 @@
     "singers": "കവിയൂർ രേവമ്മ",
     "year": ""
   },
+  "12521": {
+    "id": "12521",
+    "songName": "പാഹി തായേ പാർവതീ",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കവിയൂർ രേവമ്മ, മെഹ്ബൂബ്",
+    "year": "1961"
+  },
+  "12522": {
+    "id": "12522",
+    "songName": "ആനത്തലയോളം വെണ്ണ തരാമെടാ",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "സെബാസ്റ്റ്യൻ കുഞ്ഞു കുഞ്ഞു ഭാഗവതർ, ആലപ്പുഴ പുഷ്പം",
+    "year": ""
+  },
   "12524": {
     "id": "12524",
     "songName": "കണ്ടാ നല്ലൊരു ചേട്ടാ",
@@ -22272,6 +22299,60 @@
     "lyricist": "അഭയദേവ്",
     "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
     "singers": "കമുകറ പുരുഷോത്തമൻ",
+    "year": ""
+  },
+  "12595": {
+    "id": "12595",
+    "songName": "തോർന്നിടുമോ കണ്ണീർ",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കവിയൂർ രേവമ്മ, മെഹ്ബൂബ്",
+    "year": ""
+  },
+  "12596": {
+    "id": "12596",
+    "songName": "വനഗായികേ വാനിൽ",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല, മെഹ്ബൂബ്",
+    "year": ""
+  },
+  "12599": {
+    "id": "12599",
+    "songName": "പാതകളിൽ വാണിടുമീ",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കവിയൂർ രേവമ്മ",
+    "year": ""
+  },
+  "12600": {
+    "id": "12600",
+    "songName": "അകാലേ ആരും കൈവിടും",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "മെഹ്ബൂബ്",
+    "year": ""
+  },
+  "12601": {
+    "id": "12601",
+    "songName": "ആനന്ദമിയലൂ ബാലേ",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല",
+    "year": ""
+  },
+  "12603": {
+    "id": "12603",
+    "songName": "ഘോരാന്ധകാരമായ",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല, ട്രിച്ചി ലോകനാഥൻ",
     "year": ""
   },
   "12605": {
@@ -22452,6 +22533,24 @@
     "lyricist": "വയലാർ രാമവർമ്മ",
     "musicDirector": "ജി ദേവരാജൻ",
     "singers": "പി സുശീല",
+    "year": ""
+  },
+  "12661": {
+    "id": "12661",
+    "songName": "ജനകീയരാജ്യനീതിയിൽ",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "ട്രിച്ചി ലോകനാഥൻ",
+    "year": ""
+  },
+  "12665": {
+    "id": "12665",
+    "songName": "സ്വന്തം വിയർപ്പിനാൽ",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "വൈക്കം രാജൻ",
     "year": ""
   },
   "12674": {
@@ -28347,6 +28446,15 @@
     "lyricist": "പി ഭാസ്ക്കരൻ",
     "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
     "singers": "പി ലീല, കോറസ്",
+    "year": ""
+  },
+  "14437": {
+    "id": "14437",
+    "songName": "ഗായകാ ഗായകാ ഗായകാ",
+    "film": "നവലോകം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല",
     "year": ""
   },
   "14438": {
@@ -38067,6 +38175,51 @@
     "lyricist": "പി ഭാസ്ക്കരൻ",
     "musicDirector": "ബി എ ചിദംബരനാഥ്",
     "singers": "കെ ജെ യേശുദാസ്, പി ലീല",
+    "year": ""
+  },
+  "17815": {
+    "id": "17815",
+    "songName": "മലയാളമലർവാടിയേ",
+    "film": "നവലോകം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കവിയൂർ രേവമ്മ",
+    "year": ""
+  },
+  "17817": {
+    "id": "17817",
+    "songName": "ഭൂവിൽ ബാഷ്പധാര നീ",
+    "film": "നവലോകം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കോഴിക്കോട് അബ്ദുൾഖാദർ",
+    "year": ""
+  },
+  "17818": {
+    "id": "17818",
+    "songName": "മാഞ്ഞിടാതെ മധുരനിലാവേ",
+    "film": "നവലോകം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കോഴിക്കോട് അബ്ദുൾഖാദർ, പി ലീല",
+    "year": ""
+  },
+  "17821": {
+    "id": "17821",
+    "songName": "സുന്ദരജീവിത നവയുഗമേ",
+    "film": "നവലോകം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": ""
+  },
+  "17823": {
+    "id": "17823",
+    "songName": "മായുന്നൂ വനസൂനമേ",
+    "film": "നവലോകം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല",
     "year": ""
   },
   "17839": {
@@ -63188,6 +63341,24 @@
     "singers": "സയനോര ഫിലിപ്പ്",
     "year": "2007"
   },
+  "52478": {
+    "id": "52478",
+    "songName": "കരുതിടാതെ",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ആലപ്പുഴ പുഷ്പം",
+    "year": "1951"
+  },
+  "52479": {
+    "id": "52479",
+    "songName": "കറുത്ത പെണ്ണേ..",
+    "film": "നവലോകം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ആലപ്പുഴ പുഷ്പം",
+    "year": ""
+  },
   "52499": {
     "id": "52499",
     "songName": "തട്ടാരം മൊഴിയമ്മാ",
@@ -80756,6 +80927,87 @@
     "singers": "എം ജി ശ്രീകുമാർ, സുജാത മോഹൻ",
     "year": "2005"
   },
+  "66257": {
+    "id": "66257",
+    "songName": "ഗതിയേതുമില്ല തായേ",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കവിയൂർ രേവമ്മ",
+    "year": "1951"
+  },
+  "66258": {
+    "id": "66258",
+    "songName": "വാര്‍ത്തിങ്കള്‍ താലമെടുത്ത",
+    "film": "ജീവിതനൗക",
+    "lyricist": "വള്ളത്തോൾ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കവിയൂർ രേവമ്മ, മെഹ്ബൂബ്, വി ദക്ഷിണാമൂർത്തി",
+    "year": "1951"
+  },
+  "66260": {
+    "id": "66260",
+    "songName": "ഇന്നു ഞാന്‍ നാളെ നീ",
+    "film": "യാചകൻ",
+    "lyricist": "ജി ശങ്കരക്കുറുപ്പ്",
+    "musicDirector": "എസ് എൻ ചാമി",
+    "singers": "വൈക്കം രാജൻ",
+    "year": "1951"
+  },
+  "66262": {
+    "id": "66262",
+    "songName": "വിസ്മൃതരായ്",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ ചാമി",
+    "singers": "ട്രിച്ചി ലോകനാഥൻ",
+    "year": "1951"
+  },
+  "66267": {
+    "id": "66267",
+    "songName": "ആനന്ദഗാനം പാടി അനുദിനവും",
+    "film": "നവലോകം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കവിയൂർ രേവമ്മ",
+    "year": "1951"
+  },
+  "66288": {
+    "id": "66288",
+    "songName": "അയ്യപ്പാ അഖിലാണ്ഡകോടിനിലയാ",
+    "film": "കേരളകേസരി",
+    "lyricist": "തുമ്പമൺ പത്മനാഭൻകുട്ടി",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "വൈക്കം വാസുദേവൻ നായർ, കോറസ്",
+    "year": "1951"
+  },
+  "66289": {
+    "id": "66289",
+    "songName": "ജന്മമോ ഹതമായ് വ്യാമോഹത്താലേ",
+    "film": "കേരളകേസരി",
+    "lyricist": "തുമ്പമൺ പത്മനാഭൻകുട്ടി",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "തങ്കം വാസുദേവൻ നായർ",
+    "year": "1951"
+  },
+  "66290": {
+    "id": "66290",
+    "songName": "നീതിയഹോ ഭൂവനെ മറവായ്",
+    "film": "കേരളകേസരി",
+    "lyricist": "തുമ്പമൺ പത്മനാഭൻകുട്ടി",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "വൈക്കം വാസുദേവൻ നായർ",
+    "year": "1951"
+  },
+  "66291": {
+    "id": "66291",
+    "songName": "പരമേശ്വരി നാഥേ ജനനി",
+    "film": "കേരളകേസരി",
+    "lyricist": "തുമ്പമൺ പത്മനാഭൻകുട്ടി",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "കവിയൂർ രേവമ്മ",
+    "year": "1951"
+  },
   "66292": {
     "id": "66292",
     "songName": "പന്തു തട്ടുന്ന മട്ടില് തട്ടണം",
@@ -93679,6 +93931,78 @@
     "musicDirector": "പി എസ് ദിവാകർ",
     "singers": "",
     "year": "1952"
+  },
+  "79476": {
+    "id": "79476",
+    "songName": "നീതിയോ മനുജാ",
+    "film": "കേരളകേസരി",
+    "lyricist": "തുമ്പമൺ പത്മനാഭൻകുട്ടി",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "വൈക്കം വാസുദേവൻ നായർ",
+    "year": "1951"
+  },
+  "79477": {
+    "id": "79477",
+    "songName": "വേനല്‍ക്കാലം പോയേ",
+    "film": "കേരളകേസരി",
+    "lyricist": "തുമ്പമൺ പത്മനാഭൻകുട്ടി",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "തങ്കം വാസുദേവൻ നായർ",
+    "year": "1951"
+  },
+  "79478": {
+    "id": "79478",
+    "songName": "ആഹാ ഞാനിനി വാഴ്വിലെ",
+    "film": "കേരളകേസരി",
+    "lyricist": "തുമ്പമൺ പത്മനാഭൻകുട്ടി",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "",
+    "year": "1951"
+  },
+  "79479": {
+    "id": "79479",
+    "songName": "ആനന്ദമെ പരമാനന്ദമെ",
+    "film": "കേരളകേസരി",
+    "lyricist": "തുമ്പമൺ പത്മനാഭൻകുട്ടി",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "",
+    "year": "1951"
+  },
+  "79480": {
+    "id": "79480",
+    "songName": "നേരിടുവിന്‍ പോരാടാം",
+    "film": "കേരളകേസരി",
+    "lyricist": "തുമ്പമൺ പത്മനാഭൻകുട്ടി",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "",
+    "year": "1951"
+  },
+  "79481": {
+    "id": "79481",
+    "songName": "കലിതീരാത്ത കാലഗതിയെ",
+    "film": "കേരളകേസരി",
+    "lyricist": "തുമ്പമൺ പത്മനാഭൻകുട്ടി",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "",
+    "year": "1951"
+  },
+  "79482": {
+    "id": "79482",
+    "songName": "തള്ളിത്തള്ളി ഹാ വെള്ളംതള്ളി",
+    "film": "വനമാല",
+    "lyricist": "പി കുഞ്ഞുകൃഷ്ണ മേനോൻ",
+    "musicDirector": "പി എസ് ദിവാകർ",
+    "singers": "ജിക്കി",
+    "year": "1951"
+  },
+  "79483": {
+    "id": "79483",
+    "songName": "പ്രേമദാ പ്രേമദാ",
+    "film": "വനമാല",
+    "lyricist": "പി കുഞ്ഞുകൃഷ്ണ മേനോൻ",
+    "musicDirector": "പി എസ് ദിവാകർ",
+    "singers": "",
+    "year": ""
   },
   "79484": {
     "id": "79484",
@@ -196918,5 +197242,257 @@
     "musicDirector": "പി എസ് ദിവാകർ",
     "singers": "പി ലീല, മെഹ്ബൂബ്",
     "year": "1952"
+  },
+  "thoraathorasrudhara": {
+    "id": "thoraathorasrudhara",
+    "songName": "തോരാതശ്രുധാരാ",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": ""
+  },
+  "pashiyaaluyir-vaadi": {
+    "id": "pashiyaaluyir-vaadi",
+    "songName": "പശിയാലുയിർ വാടി",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": ""
+  },
+  "paapamaanithu-baale": {
+    "id": "paapamaanithu-baale",
+    "songName": "പാപമാണിതു ബാലേ",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": ""
+  },
+  "premaraajyamaarnnu-vaazhoo": {
+    "id": "premaraajyamaarnnu-vaazhoo",
+    "songName": "പ്രേമരാജ്യമാർന്നു വാഴു",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": ""
+  },
+  "mgdalama-mariyam": {
+    "id": "mgdalama-mariyam",
+    "songName": "മഗ്ദലന മറിയം",
+    "film": "ജീവിതനൗക",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "രേവമ്മ",
+    "year": "1951"
+  },
+  "parithapamithe-haa": {
+    "id": "parithapamithe-haa",
+    "songName": "പരിതാപമിതേ ഹാ",
+    "film": "നവലോകം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കോഴിക്കോട് അബ്ദുൾഖാദർ",
+    "year": ""
+  },
+  "puthusooryashobhayil-polum": {
+    "id": "puthusooryashobhayil-polum",
+    "songName": "പുതുസൂര്യശോഭയിൽ പോലും",
+    "film": "നവലോകം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "വി ദക്ഷിണാമൂർത്തി",
+    "year": ""
+  },
+  "sahajare": {
+    "id": "sahajare",
+    "songName": "സഹജരേ സഹജരേ",
+    "film": "നവലോകം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കോഴിക്കോട് അബ്ദുൾഖാദർ, കോറസ്",
+    "year": ""
+  },
+  "haa-pon-pularkaalam": {
+    "id": "haa-pon-pularkaalam",
+    "songName": "ഹാ പൊൻ പുലർകാലം",
+    "film": "നവലോകം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": ""
+  },
+  "aasakale-vidarathinimel": {
+    "id": "aasakale-vidarathinimel",
+    "songName": "ആശകളേ വിടരാതിനിമേൽ",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "",
+    "year": ""
+  },
+  "iru-kaiyyum-neetti": {
+    "id": "iru-kaiyyum-neetti",
+    "songName": "ഇരുകൈയ്യും നീട്ടി",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "",
+    "year": ""
+  },
+  "ellam-nashichoduvilee": {
+    "id": "ellam-nashichoduvilee",
+    "songName": "എല്ലാം നശിച്ചൊടുവിലീ",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "",
+    "year": ""
+  },
+  "komala-keralame": {
+    "id": "komala-keralame",
+    "songName": "കോമളകേരളമേ",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "",
+    "year": ""
+  },
+  "jeevithame-nee": {
+    "id": "jeevithame-nee",
+    "songName": "ജീവിതമേ നീ",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "",
+    "year": ""
+  },
+  "poonkuyile-nee-paaduka": {
+    "id": "poonkuyile-nee-paaduka",
+    "songName": "പൂങ്കുയിലേ നീ പാടുക",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "",
+    "year": ""
+  },
+  "pokaathe-sodaraa": {
+    "id": "pokaathe-sodaraa",
+    "songName": "പോകാതെ സോദരാ",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "",
+    "year": ""
+  },
+  "premame-premame": {
+    "id": "premame-premame",
+    "songName": "പ്രേമമേ പ്രേമമേ",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "",
+    "year": ""
+  },
+  "manmadhamohanane": {
+    "id": "manmadhamohanane",
+    "songName": "മന്മഥമോഹനനേ",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "",
+    "year": ""
+  },
+  "mahaneeyam-thiruvonam": {
+    "id": "mahaneeyam-thiruvonam",
+    "songName": "മഹനീയം തിരുവോണം",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "",
+    "year": ""
+  },
+  "veeshuka-neele": {
+    "id": "veeshuka-neele",
+    "songName": "വീശുക നീളെ",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "",
+    "year": ""
+  },
+  "haa-parayuka-thozhee": {
+    "id": "haa-parayuka-thozhee",
+    "songName": "ഹാ പറയുക തോഴീ",
+    "film": "യാചകൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ രംഗനാഥൻ",
+    "singers": "",
+    "year": ""
+  },
+  "premathin-neethi": {
+    "id": "premathin-neethi",
+    "songName": "പ്രേമത്തിൻ നീതി",
+    "film": "രക്തബന്ധം",
+    "lyricist": "",
+    "musicDirector": "എസ് എം സുബ്ബയ്യ നായിഡു",
+    "singers": "രേവമ്മ",
+    "year": "1951"
+  },
+  "varoo-varoo-nayaka": {
+    "id": "varoo-varoo-nayaka",
+    "songName": "വരൂ വരൂ നായകാ",
+    "film": "രക്തബന്ധം",
+    "lyricist": "",
+    "musicDirector": "എസ് എം സുബ്ബയ്യ നായിഡു",
+    "singers": "രേവമ്മ",
+    "year": "1951"
+  },
+  "sambho-gaurisa": {
+    "id": "sambho-gaurisa",
+    "songName": "ശംഭോ ഗൗരീശ",
+    "film": "രക്തബന്ധം",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "എസ് എൻ ചാമി",
+    "singers": "കുട്ടപ്പൻ ഭാഗവതർ, വൈക്കം മണി, അഗസ്റ്റിൻ ജോസഫ്, പി ലീല",
+    "year": "1951"
+  },
+  "sumadhura-sushama-karame": {
+    "id": "sumadhura-sushama-karame",
+    "songName": "സുമധുര സുഷമകരമേ",
+    "film": "രക്തബന്ധം",
+    "lyricist": "",
+    "musicDirector": "എസ് എം സുബ്ബയ്യ നായിഡു",
+    "singers": "രേവമ്മ",
+    "year": "1951"
+  },
+  "chapala-chapala-chapala-manam": {
+    "id": "chapala-chapala-chapala-manam",
+    "songName": "ചപല ചപല ചപല മനം",
+    "film": "വനമാല",
+    "lyricist": "പി കുഞ്ഞുകൃഷ്ണ മേനോൻ",
+    "musicDirector": "പി എസ് ദിവാകർ",
+    "singers": "",
+    "year": "1951"
+  },
+  "pokalle-pokalle": {
+    "id": "pokalle-pokalle",
+    "songName": "പോകല്ലേ പോകല്ലേ",
+    "film": "വനമാല",
+    "lyricist": "പി കുഞ്ഞുകൃഷ്ണ മേനോൻ",
+    "musicDirector": "പി എസ് ദിവാകർ",
+    "singers": "",
+    "year": "1951"
+  },
+  "vannallo-vasanthakalam": {
+    "id": "vannallo-vasanthakalam",
+    "songName": "വന്നല്ലോ വസന്തകാലം",
+    "film": "വനമാല",
+    "lyricist": "പി കുഞ്ഞുകൃഷ്ണ മേനോൻ",
+    "musicDirector": "പി എസ് ദിവാകർ",
+    "singers": "രാധാ ജയലക്ഷ്മി",
+    "year": "1951"
   }
 }

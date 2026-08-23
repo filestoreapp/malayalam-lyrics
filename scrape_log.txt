@@ -84561,3 +84561,144 @@ Year complete: success=153, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 21880
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1951
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1951
+   Page 1: https://m3db.com/archive/lyrics/year/1951
+   Found 64 songs on this page. Total unique so far: 64
+Total songs to scrape for this year: 64
+🎵 [1/64] Scraping: 66288
+   ✅ Saved: അയ്യപ്പാ അഖിലാണ്ഡകോടിനിലയാ (1951)
+🎵 [2/64] Scraping: 79479
+   ✅ Saved: ആനന്ദമെ പരമാനന്ദമെ (1951)
+🎵 [3/64] Scraping: 79478
+   ✅ Saved: ആഹാ ഞാനിനി വാഴ്വിലെ (1951)
+🎵 [4/64] Scraping: 79481
+   ✅ Saved: കലിതീരാത്ത കാലഗതിയെ (1951)
+🎵 [5/64] Scraping: 66289
+   ✅ Saved: ജന്മമോ ഹതമായ് വ്യാമോഹത്താലേ (1951)
+🎵 [6/64] Scraping: 66290
+   ✅ Saved: നീതിയഹോ ഭൂവനെ മറവായ് (1951)
+🎵 [7/64] Scraping: 79476
+   ✅ Saved: നീതിയോ മനുജാ (1951)
+🎵 [8/64] Scraping: 79480
+   ✅ Saved: നേരിടുവിന്‍ പോരാടാം (1951)
+🎵 [9/64] Scraping: 66291
+   ✅ Saved: പരമേശ്വരി നാഥേ ജനനി (1951)
+🎵 [10/64] Scraping: 79477
+   ✅ Saved: വേനല്‍ക്കാലം പോയേ (1951)
+🎵 [11/64] Scraping: 12600
+   ✅ Saved: അകാലേ ആരും കൈവിടും ()
+🎵 [12/64] Scraping: 12522
+   ✅ Saved: ആനത്തലയോളം വെണ്ണ തരാമെടാ ()
+🎵 [13/64] Scraping: 12601
+   ✅ Saved: ആനന്ദമിയലൂ ബാലേ ()
+🎵 [14/64] Scraping: 52478
+   ✅ Saved: കരുതിടാതെ (1951)
+🎵 [15/64] Scraping: 66257
+   ✅ Saved: ഗതിയേതുമില്ല തായേ (1951)
+🎵 [16/64] Scraping: 12603
+   ✅ Saved: ഘോരാന്ധകാരമായ ()
+🎵 [17/64] Scraping: thoraathorasrudhara
+   ✅ Saved: തോരാതശ്രുധാരാ ()
+🎵 [18/64] Scraping: 12595
+   ✅ Saved: തോർന്നിടുമോ കണ്ണീർ ()
+🎵 [19/64] Scraping: pashiyaaluyir-vaadi
+   ✅ Saved: പശിയാലുയിർ വാടി ()
+🎵 [20/64] Scraping: 12599
+   ✅ Saved: പാതകളിൽ വാണിടുമീ ()
+🎵 [21/64] Scraping: paapamaanithu-baale
+   ✅ Saved: പാപമാണിതു ബാലേ ()
+🎵 [22/64] Scraping: 12521
+   ✅ Saved: പാഹി തായേ പാർവതീ (1961)
+🎵 [23/64] Scraping: premaraajyamaarnnu-vaazhoo
+   ✅ Saved: പ്രേമരാജ്യമാർന്നു വാഴു ()
+🎵 [24/64] Scraping: mgdalama-mariyam
+   ✅ Saved: മഗ്ദലന മറിയം (1951)
+🎵 [25/64] Scraping: 12596
+   ✅ Saved: വനഗായികേ വാനിൽ ()
+🎵 [26/64] Scraping: 66258
+   ✅ Saved: വാര്‍ത്തിങ്കള്‍ താലമെടുത്ത (1951)
+🎵 [27/64] Scraping: 66267
+   ✅ Saved: ആനന്ദഗാനം പാടി അനുദിനവും (1951)
+🎵 [28/64] Scraping: 52479
+   ✅ Saved: കറുത്ത പെണ്ണേ.. ()
+🎵 [29/64] Scraping: 14437
+   ✅ Saved: ഗായകാ ഗായകാ ഗായകാ ()
+🎵 [30/64] Scraping: 12123
+   ✅ Saved: തങ്കക്കിനാക്കൾ ഹൃദയേ വീശും ()
+🎵 [31/64] Scraping: parithapamithe-haa
+   ✅ Saved: പരിതാപമിതേ ഹാ ()
+🎵 [32/64] Scraping: puthusooryashobhayil-polum
+   ✅ Saved: പുതുസൂര്യശോഭയിൽ പോലും ()
+🎵 [33/64] Scraping: 17817
+   ✅ Saved: ഭൂവിൽ ബാഷ്പധാര നീ ()
+🎵 [34/64] Scraping: 17815
+   ✅ Saved: മലയാളമലർവാടിയേ ()
+🎵 [35/64] Scraping: 17818
+   ✅ Saved: മാഞ്ഞിടാതെ മധുരനിലാവേ ()
+🎵 [36/64] Scraping: 17823
+   ✅ Saved: മായുന്നൂ വനസൂനമേ ()
+🎵 [37/64] Scraping: sahajare
+   ✅ Saved: സഹജരേ സഹജരേ ()
+🎵 [38/64] Scraping: 17821
+   ✅ Saved: സുന്ദരജീവിത നവയുഗമേ ()
+🎵 [39/64] Scraping: haa-pon-pularkaalam
+   ✅ Saved: ഹാ പൊൻ പുലർകാലം ()
+🎵 [40/64] Scraping: aasakale-vidarathinimel
+   ✅ Saved: ആശകളേ വിടരാതിനിമേൽ ()
+🎵 [41/64] Scraping: 66260
+   ✅ Saved: ഇന്നു ഞാന്‍ നാളെ നീ (1951)
+🎵 [42/64] Scraping: iru-kaiyyum-neetti
+   ✅ Saved: ഇരുകൈയ്യും നീട്ടി ()
+🎵 [43/64] Scraping: ellam-nashichoduvilee
+   ✅ Saved: എല്ലാം നശിച്ചൊടുവിലീ ()
+🎵 [44/64] Scraping: komala-keralame
+   ✅ Saved: കോമളകേരളമേ ()
+🎵 [45/64] Scraping: 12661
+   ✅ Saved: ജനകീയരാജ്യനീതിയിൽ ()
+🎵 [46/64] Scraping: jeevithame-nee
+   ✅ Saved: ജീവിതമേ നീ ()
+🎵 [47/64] Scraping: poonkuyile-nee-paaduka
+   ✅ Saved: പൂങ്കുയിലേ നീ പാടുക ()
+🎵 [48/64] Scraping: pokaathe-sodaraa
+   ✅ Saved: പോകാതെ സോദരാ ()
+🎵 [49/64] Scraping: premame-premame
+   ✅ Saved: പ്രേമമേ പ്രേമമേ ()
+🎵 [50/64] Scraping: manmadhamohanane
+   ✅ Saved: മന്മഥമോഹനനേ ()
+🎵 [51/64] Scraping: mahaneeyam-thiruvonam
+   ✅ Saved: മഹനീയം തിരുവോണം ()
+🎵 [52/64] Scraping: 66262
+   ✅ Saved: വിസ്മൃതരായ് (1951)
+🎵 [53/64] Scraping: veeshuka-neele
+   ✅ Saved: വീശുക നീളെ ()
+🎵 [54/64] Scraping: 12665
+   ✅ Saved: സ്വന്തം വിയർപ്പിനാൽ ()
+🎵 [55/64] Scraping: haa-parayuka-thozhee
+   ✅ Saved: ഹാ പറയുക തോഴീ ()
+🎵 [56/64] Scraping: premathin-neethi
+   ✅ Saved: പ്രേമത്തിൻ നീതി (1951)
+🎵 [57/64] Scraping: varoo-varoo-nayaka
+   ✅ Saved: വരൂ വരൂ നായകാ (1951)
+🎵 [58/64] Scraping: sambho-gaurisa
+   ✅ Saved: ശംഭോ ഗൗരീശ (1951)
+🎵 [59/64] Scraping: sumadhura-sushama-karame
+   ✅ Saved: സുമധുര സുഷമകരമേ (1951)
+🎵 [60/64] Scraping: chapala-chapala-chapala-manam
+   ✅ Saved: ചപല ചപല ചപല മനം (1951)
+🎵 [61/64] Scraping: 79482
+   ✅ Saved: തള്ളിത്തള്ളി ഹാ വെള്ളംതള്ളി (1951)
+🎵 [62/64] Scraping: pokalle-pokalle
+   ✅ Saved: പോകല്ലേ പോകല്ലേ (1951)
+🎵 [63/64] Scraping: 79483
+   ✅ Saved: പ്രേമദാ പ്രേമദാ ()
+🎵 [64/64] Scraping: vannallo-vasanthakalam
+   ✅ Saved: വന്നല്ലോ വസന്തകാലം (1951)
+Year complete: success=64, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 21944
