@@ -37,7 +37,7 @@ jobs:
       - name: Get year list
         id: years
         run: |
-          node -e "const { load } = require('cheerio'); (async()=>{ const res = await fetch('https://m3db.com/archive/lyrics/year'); const html = await res.text(); const $ = load(html); const years = new Set(); $('a').each((i,el)=>{ const href=$(el).attr('href')||''; const m=href.match(/\/archive\/lyrics\/year\/(\d+)/); if(m) years.add(m[1]); }); console.log([...years].join(' ')); })()" > years.txt
+          node tools/get_years.mjs > years.txt
           cat years.txt
           echo "years=$(cat years.txt)" >> $GITHUB_OUTPUT
 
