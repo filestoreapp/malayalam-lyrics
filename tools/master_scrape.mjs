@@ -5,10 +5,10 @@ const BASE_URL = 'https://m3db.com';
 const YEAR_LIST_URL = 'https://m3db.com/archive/lyrics/year';
 const DELAY_BETWEEN_SONGS = 2000; // 2 seconds
 const DELAY_BETWEEN_YEARS = 5000; // 5 seconds
+const DELAY_BETWEEN_PAGES = 3000; // 3 seconds between pages
 const MAX_RETRIES = 3;
 const LOG_FILE = 'scrape_log.txt';
 
-// Read years from command-line arguments (after node and script path)
 const requestedYears = process.argv.slice(2);
 const onlySpecificYears = requestedYears.length > 0;
 
@@ -56,30 +56,18 @@ function extractText($, selector) {
   return $(selector).text().trim().replace(/\s+/g, ' ');
 }
 
-// New function to preserve line breaks
 function extractLyricsWithLineBreaks($, selector) {
   const html = $(selector).html() || '';
   if (!html) return '';
 
-  // Replace <br> and <br/> with newline
   let text = html.replace(/<br\s*\/?>/gi, '\n');
-
-  // Replace closing </p> with newline
   text = text.replace(/<\/p>/gi, '\n');
-
-  // Remove all remaining HTML tags
   text = text.replace(/<[^>]+>/g, '');
-
-  // Decode common HTML entities
   text = text.replace(/&nbsp;/gi, ' ');
   text = text.replace(/&amp;/gi, '&');
   text = text.replace(/&lt;/gi, '<');
   text = text.replace(/&gt;/gi, '>');
-
-  // Remove zero-width joiner if present (as seen in some lyrics)
-  text = text.replace(/\u200d/g, '');
-
-  // Trim but keep newlines
+  text = text.replace(/\u200d/g, ''); // remove zero-width joiner
   return text.trim();
 }
 
@@ -98,7 +86,6 @@ async function scrapeSong(songUrl) {
 
   const id = songUrl.split('/').pop();
   const songName = extractText($, 'h1');
-  // Use #protectedText as primary selector, fallback to .field-name-body .field-item
   const lyrics = extractLyricsWithLineBreaks($, '#protectedText') ||
                  extractLyricsWithLineBreaks($, '.field-name-body .field-item');
   const music = extractList($, '.field-name-field-music');
@@ -119,13 +106,11 @@ async function scrapeSong(songUrl) {
     lyrics
   };
 
-  // Save lyrics
   const lyricsDir = 'data/lyrics';
   mkdirSync(lyricsDir, { recursive: true });
   const lyricsFile = `${lyricsDir}/${id}.json`;
   writeFileSync(lyricsFile, JSON.stringify(songData, null, 2), 'utf8');
 
-  // Update index
   const indexFile = 'data/index.json';
   let index = {};
   if (existsSync(indexFile)) {
@@ -148,20 +133,65 @@ async function scrapeSong(songUrl) {
 
 async function processYear(yearUrl) {
   logMessage(`\n📅 Processing year: ${yearUrl}`);
-  const yearHtml = await fetchPage(yearUrl);
-  const $ = load(yearHtml);
+  let currentPageUrl = yearUrl;
+  let pageNum = 1;
+  let allSongUrls = new Set();
 
-  const linksSet = new Set();
-  $('a').each((i, el) => {
-    const href = $(el).attr('href') || '';
-    if (href.includes('/lyric/')) {
-      const fullUrl = href.startsWith('http') ? href : BASE_URL + href;
-      linksSet.add(fullUrl);
+  while (currentPageUrl) {
+    logMessage(`   Page ${pageNum}: ${currentPageUrl}`);
+    const html = await fetchPage(currentPageUrl);
+    const $ = load(html);
+
+    const pageLinks = new Set();
+    $('a').each((i, el) => {
+      const href = $(el).attr('href') || '';
+      if (href.includes('/lyric/')) {
+        const fullUrl = href.startsWith('http') ? href : BASE_URL + href;
+        pageLinks.add(fullUrl);
+      }
+    });
+
+    if (pageLinks.size === 0) {
+      logMessage(`   No songs found on page ${pageNum}. Stopping pagination.`);
+      break;
     }
-  });
 
-  const songUrls = [...linksSet];
-  logMessage(`Found ${songUrls.length} songs in this year.`);
+    const previousSize = allSongUrls.size;
+    pageLinks.forEach(link => allSongUrls.add(link));
+    logMessage(`   Found ${pageLinks.size} songs on this page. Total unique so far: ${allSongUrls.size}`);
+
+    // Find next page link (if any)
+    let nextPageUrl = null;
+    $('a').each((i, el) => {
+      const href = $(el).attr('href') || '';
+      const text = $(el).text().trim().toLowerCase();
+      if (href.match(/[?&]page=\d+/) && text.match(/next|»|›|more|അടുത്തത്/i)) {
+        const resolved = href.startsWith('http') ? href : BASE_URL + href;
+        nextPageUrl = resolved;
+        return false; // break out of each
+      }
+    });
+
+    if (!nextPageUrl && pageNum === 1) {
+      // Try to guess pagination format: ?page=2 if no explicit next link but we had 500 songs
+      if (pageLinks.size >= 500) {
+        const sep = yearUrl.includes('?') ? '&' : '?';
+        nextPageUrl = `${yearUrl}${sep}page=2`;
+        logMessage(`   Guessing next page URL: ${nextPageUrl}`);
+      }
+    }
+
+    if (nextPageUrl) {
+      currentPageUrl = nextPageUrl;
+      pageNum++;
+      await sleep(DELAY_BETWEEN_PAGES);
+    } else {
+      currentPageUrl = null;
+    }
+  }
+
+  const songUrls = [...allSongUrls];
+  logMessage(`Total songs to scrape for this year: ${songUrls.length}`);
 
   let success = 0, skipped = 0, failed = 0;
 
@@ -212,7 +242,6 @@ async function main() {
   let uniqueYears = [...new Set(yearUrls)];
 
   if (onlySpecificYears) {
-    // Filter to only requested years
     uniqueYears = uniqueYears.filter(url => {
       const yearPart = url.split('/').pop();
       return requestedYears.includes(yearPart);
