@@ -364,3 +364,418 @@ Year complete: success=150, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 170
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 2024
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/2024
+   Page 1: https://m3db.com/archive/lyrics/year/2024
+   Found 201 songs on this page. Total unique so far: 201
+Total songs to scrape for this year: 201
+🎵 [1/201] Scraping: narabhoji
+   ✅ Saved: നരഭോജി (2024)
+🎵 [2/201] Scraping: angu-vaanakkonilu
+   ✅ Saved: അങ്ങ് വാനക്കോണില് (2024)
+🎵 [3/201] Scraping: kiliye
+   ✅ Saved: കിളിയേ തത്തക്കിളിയേ (2023)
+🎵 [4/201] Scraping: bhairavan-paattu
+   ✅ Saved: ഭൈരവൻ പാട്ട് (2024)
+🎵 [5/201] Scraping: viduthal
+   ✅ Saved: വിടുതൽ (2022)
+🎵 [6/201] Scraping: iyer-kanda-dubai
+   ✅ Saved: അയ്യർ കണ്ട ദുബായ് (2023)
+🎵 [7/201] Scraping: istigfar-0
+   ✅ Saved: Istigfar (2024)
+🎵 [8/201] Scraping: istigfar
+   ✅ Saved: ഇസ്തിഗ്ഫർ (2024)
+🎵 [9/201] Scraping: ninne-kinavu-kanum
+   ✅ Saved: നിന്നെ കിനാവ് കാണും (2024)
+🎵 [10/201] Scraping: periyone
+   ✅ Saved: പെരിയോനേ (2024)
+🎵 [11/201] Scraping: badaweih
+   ✅ Saved: ബദവേ (2024)
+🎵 [12/201] Scraping: benevolent-breeze
+   ✅ Saved: ബെനവലന്റ് ബ്രീസ് (2024)
+🎵 [13/201] Scraping: indeevarangalen
+   ✅ Saved: ഇന്ദീവരങ്ങളെൻ (2024)
+🎵 [14/201] Scraping: innee-jeevitham-nashicha-porkkalam
+   ✅ Saved: ഇന്നീ ജീവിതം (2024)
+🎵 [15/201] Scraping: sathyameva-jayate
+   ✅ Saved: സത്യമേവ ജയതേ (2024)
+🎵 [16/201] Scraping: etho-yamangalil
+   ✅ Saved: ഏതോ യാമങ്ങളിൽ (2024)
+🎵 [17/201] Scraping: mandara-malaril-instrumental-music
+   ✅ Saved: മന്ദാര മലരിൽ (ഉപകരണ ഗാനം) (2024)
+🎵 [18/201] Scraping: mandara-malaril
+   ✅ Saved: മന്ദാരമലരിൽ (2024)
+🎵 [19/201] Scraping: yaathra-polum
+   ✅ Saved: യാത്ര പോലും (2024)
+🎵 [20/201] Scraping: adholokam-adrushyavathilengo
+   ✅ Saved: അധോലോകം (അദൃശ്യ വാതിലെങ്ങോ ) (2024)
+🎵 [21/201] Scraping: armadam-oru-salputhran
+   ✅ Saved: ആർമാദം (ഒരു സൽപുത്രൻ ) (2024)
+🎵 [22/201] Scraping: illuminatti
+   ✅ Saved: ഇല്ലുമിനാറ്റി (2024)
+🎵 [23/201] Scraping: odimaga
+   ✅ Saved: ഓടിമാഗാ (2024)
+🎵 [24/201] Scraping: galaatta
+   ✅ Saved: ഗലാട്ടാ (2024)
+🎵 [25/201] Scraping: jaada
+   ✅ Saved: ജാട (2024)
+🎵 [26/201] Scraping: thuruppucheett
+   ✅ Saved: തുറുപ്പ് ചീട്ട് (2024)
+🎵 [27/201] Scraping: last-dance
+   ✅ Saved: ദി ലാസ്റ്റ് ഡാൻസ് (2024)
+🎵 [28/201] Scraping: maathaapithaakkale
+   ✅ Saved: മാതാപിതാക്കളെ (2024)
+🎵 [29/201] Scraping: ente-manassilum-ninte-manassilum
+   ✅ Saved: എന്റേ മനസ്സിലും നിന്റേ മനസ്സിലും (2024)
+🎵 [30/201] Scraping: kathil-kunukkittu
+   ✅ Saved: കാതിൽ കുണുക്കിട്ട് (2024)
+🎵 [31/201] Scraping: maaridathamara
+   ✅ Saved: മാറിടത്താമര (2024)
+🎵 [32/201] Scraping: margazhiyil-manju
+   ✅ Saved: മാർഗഴിയിൽ മഞ്ഞ് (2024)
+🎵 [33/201] Scraping: lallalam-chollum
+   ✅ Saved: ലല്ലലം ചൊല്ലും (2024)
+🎵 [34/201] Scraping: vasanthakala-pakshi
+   ✅ Saved: വസന്തകാല പക്ഷീ (2024)
+🎵 [35/201] Scraping: aa-e-ee
+   ✅ Saved: അ ആ ഇ ഈ (2024)
+🎵 [36/201] Scraping: thinkalum-tharangalum
+   ✅ Saved: തിങ്കളും താരങ്ങളും (2024)
+🎵 [37/201] Scraping: nee-aparanaar
+   ✅ Saved: നീ അപരനാര് (2024)
+🎵 [38/201] Scraping: nenjile
+   ✅ Saved: നെഞ്ചിലേ (2024)
+🎵 [39/201] Scraping: azhakerum-kathalpoove
+   ✅ Saved: അഴകേറും കാതൽപ്പൂവേ (2024)
+🎵 [40/201] Scraping: ulmanam
+   ✅ Saved: ഉൾമനം (2024)
+🎵 [41/201] Scraping: kannale
+   ✅ Saved: കണ്ണാലെ (2024)
+🎵 [42/201] Scraping: charumukhi
+   ✅ Saved: ചാരുമുഖി (2024)
+🎵 [43/201] Scraping: nin-mizhiyil
+   ✅ Saved: നിൻ മിഴിയിൽ (2024)
+🎵 [44/201] Scraping: nee-pathiye-moolum-0
+   ✅ Saved: നീ പതിയെ മൂളും (2024)
+🎵 [45/201] Scraping: baleyam
+   ✅ Saved: ബാലേയം (2024)
+🎵 [46/201] Scraping: marala
+   ✅ Saved: മാറാല (2024)
+🎵 [47/201] Scraping: ravoram
+   ✅ Saved: രാവോരം (2024)
+🎵 [48/201] Scraping: ajjappamada
+   ✅ Saved: അജ്ജപ്പാമട (അരിമുല്ലപ്പൂമണം) (2024)
+🎵 [49/201] Scraping: kannil-minnum-1
+   ✅ Saved: കണ്ണിൽ മിന്നും (2024)
+🎵 [50/201] Scraping: minnum-tharangal
+   ✅ Saved: മിന്നും താരങ്ങൾ (2024)
+🎵 [51/201] Scraping: chirimalarukale-virinju
+   ✅ Saved: ചിരിമലരുകളെ വിരിഞ്ഞു (2022)
+🎵 [52/201] Scraping: vellithooval-mekham
+   ✅ Saved: വെള്ളിത്തൂവൽ മേഘം (2022)
+🎵 [53/201] Scraping: vegame
+   ✅ Saved: വേഗമേ (2022)
+🎵 [54/201] Scraping: namarinjeeda-palathum-ulakil
+   ✅ Saved: നാമറിഞ്ഞീടാ പലതും ഉലകിൽ (2024)
+🎵 [55/201] Scraping: vaanaralokam
+   ✅ Saved: വാനരലോകം (2022)
+🎵 [56/201] Scraping: ente-punyala-maatturaykum-kunninmele
+   ✅ Saved: എന്റെ പുണ്യാളാ (മാറ്റുരയ്ക്കും കുന്നിന്മേലെ ) (2024)
+🎵 [57/201] Scraping: chembarunthe-ee-kavalayiloru
+   ✅ Saved: ചെമ്പരുന്തേ (ഈ കവലയിലൊരു ) (2024)
+🎵 [58/201] Scraping: parayuvan-ariyathe
+   ✅ Saved: പറയുവാൻ അറിയാതെ (2022)
+🎵 [59/201] Scraping: kanmunakalil
+   ✅ Saved: കൺമുനകളിൽ (2024)
+🎵 [60/201] Scraping: k-krishna
+   ✅ Saved: K ഫോർ കൃഷ്ണ (വന്ദേ വന്ദേ) (2024)
+🎵 [61/201] Scraping: shoopara-da-nee-shoopparada
+   ✅ Saved: ഷൂപ്പറാഡാ നീ ഷൂപ്പറാഡാ (2024)
+🎵 [62/201] Scraping: aaru-nee-aaraanu-nee
+   ✅ Saved: ആരു നീ ആരാണു നീ (2024)
+🎵 [63/201] Scraping: njanum-neeyum
+   ✅ Saved: ഞാനും നീയും (2024)
+🎵 [64/201] Scraping: le-le-le-le
+   ✅ Saved: ലേ ലെ ലേ ലെ (2024)
+🎵 [65/201] Scraping: shylanandini
+   ✅ Saved: ശൈലനന്ദിനി (2024)
+🎵 [66/201] Scraping: thorum
+   ✅ Saved: തോരും (2024)
+🎵 [67/201] Scraping: noorazhake-lavoliye
+   ✅ Saved: നൂറഴകേ ലാവൊളിയേ (2024)
+🎵 [68/201] Scraping: manathoru-mekham-payunne
+   ✅ Saved: മാനത്തൊരു മേഘം പായുന്നെ (2024)
+🎵 [69/201] Scraping: ambada-njaane
+   ✅ Saved: അമ്പട ഞാനേ (2024)
+🎵 [70/201] Scraping: othungi-nikkaeda
+   ✅ Saved: ഒതുങ്ങി നിക്കെട (2024)
+🎵 [71/201] Scraping: eyes-close-promo-song
+   ✅ Saved: അയ്‌സ്‌ ക്ലോസ് (പ്രമോ സോങ് ) (2023)
+🎵 [72/201] Scraping: ullamarinjavale
+   ✅ Saved: ഉള്ളമറിഞ്ഞവളെ (2023)
+🎵 [73/201] Scraping: erivenal-0
+   ✅ Saved: എരിവേനൽ (2023)
+🎵 [74/201] Scraping: fight-song
+   ✅ Saved: ഫൈറ്റ് സോങ് (2023)
+🎵 [75/201] Scraping: ya-kareem
+   ✅ Saved: യാ കരീം (2023)
+🎵 [76/201] Scraping: yaathra
+   ✅ Saved: യാത്ര (2023)
+🎵 [77/201] Scraping: penninte-peralla
+   ✅ Saved: പെണ്ണിന്റ പേരല്ല (2023)
+🎵 [78/201] Scraping: aambale-neelambale
+   ✅ Saved: ആമ്പലേ നീലാമ്പലേ (2022)
+🎵 [79/201] Scraping: omal-kanave
+   ✅ Saved: ഓമൽ കനവേ (2024)
+🎵 [80/201] Scraping: hallelujah
+   ✅ Saved: ഹല്ലേലൂയാ (2024)
+🎵 [81/201] Scraping: doorathu-doorathu
+   ✅ Saved: ദൂരത്ത് ദൂരത്ത് (2024)
+🎵 [82/201] Scraping: 90106
+   ✅ Saved: ഏതാണ്ടൊരു പെണ്ണു വന്ന് - അളിയൻ പാട്ട് (2019)
+🎵 [83/201] Scraping: veylin-chumbanangal
+   ✅ Saved: വെയിലിൻ ചുംബനങ്ങൾ (2019)
+🎵 [84/201] Scraping: 91187
+   ✅ Saved: സഖാവിന്റെ പെണ്ണ് (2019)
+🎵 [85/201] Scraping: family
+   ✅ Saved: ദി ഫാമിലി (2024)
+🎵 [86/201] Scraping: dhoorekku-dhoorekku
+   ✅ Saved: ദൂരേക്ക് ദൂരേക്ക് (2024)
+🎵 [87/201] Scraping: nayadikal
+   ✅ Saved: നായാടികൾ (2024)
+🎵 [88/201] Scraping: marannaadu-pulle
+   ✅ Saved: മറന്നാടു പുള്ളേ (2024)
+🎵 [89/201] Scraping: isa-massiya
+   ✅ Saved: ഇസ മസ്സിയ (2024)
+🎵 [90/201] Scraping: en-uyire-0
+   ✅ Saved: എൻ ഉയിരേ (2024)
+🎵 [91/201] Scraping: oh-makane
+   ✅ Saved: ഓ മകനെ (2024)
+🎵 [92/201] Scraping: kanmaniye
+   ✅ Saved: കണ്മണിയെ (2024)
+🎵 [93/201] Scraping: neeyen
+   ✅ Saved: നീയെൻ (2024)
+🎵 [94/201] Scraping: fearless-knight
+   ✅ Saved: ഫിയർലെസ്സ് നൈറ്റ്‌ (2024)
+🎵 [95/201] Scraping: saaga-saptha
+   ✅ Saved: സാഗ സപ്ത (2024)
+🎵 [96/201] Scraping: amma-poove-amma-paatt
+   ✅ Saved: അമ്മ പൂവേ (അമ്മ പാട്ട് ) (2024)
+🎵 [97/201] Scraping: eru
+   ✅ Saved: ഇറു (2024)
+🎵 [98/201] Scraping: kanave-mizhiyil
+   ✅ Saved: കനവേ മിഴിയിൽ (2021)
+🎵 [99/201] Scraping: cherukulir-thanal-friendship-anthem
+   ✅ Saved: ചെറുകുളിർ തണൽ (ഫ്രണ്ട്ഷിപ് ആന്തം) (2024)
+🎵 [100/201] Scraping: nattupappadam
+   ✅ Saved: നാട്ടുപപ്പടം (2021)
+🎵 [101/201] Scraping: naalam-tharam-school-nalumani-paattu
+   ✅ Saved: നാലാം തരം സ്കൂൾ (നാലുമണി പാട്ട്) (2024)
+🎵 [102/201] Scraping: neramavane-maalle-maalle
+   ✅ Saved: നേരമാവണേ (മാലേ മാലേ) (2024)
+🎵 [103/201] Scraping: pallotty-paattu
+   ✅ Saved: പല്ലൊട്ടി പാട്ട് (2024)
+🎵 [104/201] Scraping: pootha-kadha
+   ✅ Saved: പൂതക്കഥ (2022)
+🎵 [105/201] Scraping: manassake-chooderunne-dosha-pattu
+   ✅ Saved: മനസ്സാകെ ചൂടേറുന്നേ (ദോശ പാട്ട്) (2024)
+🎵 [106/201] Scraping: mele-vanam-pole
+   ✅ Saved: മേലേ വാനം പോലേ (2023)
+🎵 [107/201] Scraping: aalambana
+   ✅ Saved: ആലമ്പനാ (2024)
+🎵 [108/201] Scraping: azhithiramala
+   ✅ Saved: ആഴിത്തിരമാല (2024)
+🎵 [109/201] Scraping: kadhal-vanthirichu
+   ✅ Saved: കാതൽ വന്തിരിച്ചു (2024)
+🎵 [110/201] Scraping: badass-bitch
+   ✅ Saved: ബഡാസ് ബിച്ച് (2024)
+🎵 [111/201] Scraping: pennayi-petta-pulle
+   ✅ Saved: പെണ്ണായി പെറ്റ പുള്ളേ (2024)
+🎵 [112/201] Scraping: porakalorungunnunde
+   ✅ Saved: പൊരകളൊരുങ്ങുന്നുണ്ടേ (2024)
+🎵 [113/201] Scraping: poka-poka
+   ✅ Saved: പൊക പൊക (2024)
+🎵 [114/201] Scraping: makale-nee-valuthakumbol
+   ✅ Saved: മകളേ നീ വലുതാകുമ്പോൾ (2024)
+🎵 [115/201] Scraping: manjupole-ente
+   ✅ Saved: മഞ്ഞുപോലെ എന്റെ (2024)
+🎵 [116/201] Scraping: kadinte-ullupolane
+   ✅ Saved: കാടിന്റെ ഉള്ളുപോലാണേ (2024)
+🎵 [117/201] Scraping: aare-vittathamma
+   ✅ Saved: ആരെ വിട്ടതമ്മാ (2024)
+🎵 [118/201] Scraping: gore-hubba
+   ✅ Saved: ഗോരെ ഹബ്ബ (2024)
+🎵 [119/201] Scraping: thuyilunarthu-pattu
+   ✅ Saved: തുയിലുണർത്തു പാട്ട് (2024)
+🎵 [120/201] Scraping: nazhoori-paalu
+   ✅ Saved: നാഴൂരി പാല് (2024)
+🎵 [121/201] Scraping: balli-balli
+   ✅ Saved: ബല്ലി ബല്ലി (2024)
+🎵 [122/201] Scraping: vatta
+   ✅ Saved: വട്ടപ്പൊട്ടുകാരി (2024)
+🎵 [123/201] Scraping: kutty-kudiye
+   ✅ Saved: കുട്ടി കുടിയേ (2024)
+🎵 [124/201] Scraping: telangana-bommalu
+   ✅ Saved: തെലുങ്കാന ബൊമ്മലു (2024)
+🎵 [125/201] Scraping: mini-maharani
+   ✅ Saved: മിനി മഹാറാണി (2024)
+🎵 [126/201] Scraping: welcome-hyderabad
+   ✅ Saved: വെൽക്കം റ്റു ഹൈദ്രാബാദ് (2024)
+🎵 [127/201] Scraping: 101778
+   ✅ Saved: * ആ പുല്ലേൽ ഈ പുല്ലേൽ (2020)
+🎵 [128/201] Scraping: aarambham-thulumbum
+   ✅ Saved: ആരംഭം തുളുംമ്പും (2024)
+🎵 [129/201] Scraping: isabella
+   ✅ Saved: ഇസബെല്ല (2024)
+🎵 [130/201] Scraping: maname-0
+   ✅ Saved: മനമേ (2024)
+🎵 [131/201] Scraping: maravikale-parayoo
+   ✅ Saved: മറവികളേ പറയൂ (2024)
+🎵 [132/201] Scraping: sthuthi
+   ✅ Saved: സ്തുതി (2024)
+🎵 [133/201] Scraping: tharavattipperannathane
+   ✅ Saved: തറവാട്ടിപ്പെറന്നതാണേ (2024)
+🎵 [134/201] Scraping: vambanmarayi-valiya
+   ✅ Saved: വമ്പന്മാരായ് വലിയ (2024)
+🎵 [135/201] Scraping: adithyan-illathe
+   ✅ Saved: ആദിത്യൻ ഇല്ലാതെ (2023)
+🎵 [136/201] Scraping: chentheepori-beginning
+   ✅ Saved: ചെന്തീപ്പൊരി ചിന്തണ ചോലകൾ (ദ് ബിഗിനിംഗ്) (2023)
+🎵 [137/201] Scraping: thambaye
+   ✅ Saved: തമ്പായേ (2023)
+🎵 [138/201] Scraping: kuthanthram
+   ✅ Saved: കുതന്ത്രം (2023)
+🎵 [139/201] Scraping: nebulakal
+   ✅ Saved: നെബുലകൾ (2024)
+🎵 [140/201] Scraping: nilavinte-keeru-medanju
+   ✅ Saved: നിലാവിന്റെ കീറു മെടഞ്ഞു (2024)
+🎵 [141/201] Scraping: ullam-thudiykanu
+   ✅ Saved: ഉള്ളം തുടിയ്ക്കണ് (2024)
+🎵 [142/201] Scraping: o-maaraa
+   ✅ Saved: ഓ മാരാ (2024)
+🎵 [143/201] Scraping: vatteppam
+   ✅ Saved: വട്ടേപ്പം (അന്നൊരു നാളിൽ) (2024)
+🎵 [144/201] Scraping: vidhumuikhiye
+   ✅ Saved: വിധുമുഖിയേ (2024)
+🎵 [145/201] Scraping: krishna-song-0
+   ✅ Saved: കൃഷ്ണാ (2024)
+🎵 [146/201] Scraping: ezhimala-kottayile
+   ✅ Saved: ഏഴിമല കോട്ടയിലെ (2024)
+🎵 [147/201] Scraping: punnaarakkattile-poovanathil
+   ✅ Saved: പുന്നാരക്കാട്ടിലെ പൂവനത്തിൽ (2023)
+🎵 [148/201] Scraping: madabharamizhiyoram
+   ✅ Saved: മദഭരമിഴിയോരം (2023)
+🎵 [149/201] Scraping: rakk
+   ✅ Saved: റാക്ക് (2023)
+🎵 [150/201] Scraping: doore-doore-0
+   ✅ Saved: ദൂരെ ദൂരെ (2023)
+🎵 [151/201] Scraping: kaatharamizhiyinakal
+   ✅ Saved: കാതരമിഴിയിണകൾ (2024)
+🎵 [152/201] Scraping: kailasa-vasante
+   ✅ Saved: കൈലാസ വാസന്റെ (2024)
+🎵 [153/201] Scraping: nagalokathulla
+   ✅ Saved: നാഗലോകത്തുള്ള (2024)
+🎵 [154/201] Scraping: shree-mahadevante
+   ✅ Saved: ശ്രീ മഹാദേവന്റെ (2024)
+🎵 [155/201] Scraping: manam-manam
+   ✅ Saved: മനം മനം (2024)
+🎵 [156/201] Scraping: thee-kulir-nilaa-veyil
+   ✅ Saved: തീ കുളിർ നിലാ വെയിൽ (2024)
+🎵 [157/201] Scraping: aduthottadukkanda
+   ✅ Saved: അടുത്തോട്ടടുക്കണ്ട (2024)
+🎵 [158/201] Scraping: chirakukal
+   ✅ Saved: ചിറകുകൾ (2024)
+🎵 [159/201] Scraping: noolilla-karakkam
+   ✅ Saved: നൂലില്ലാ കറക്കം (2024)
+🎵 [160/201] Scraping: veenurukiyo-0
+   ✅ Saved: വീണുരുകിയോ (2024)
+🎵 [161/201] Scraping: veenurukiyo
+   ✅ Saved: വീണുരുകിയോ (2024)
+🎵 [162/201] Scraping: chila-yathrakal
+   ✅ Saved: ചില യാത്രകൾ (2023)
+🎵 [163/201] Scraping: vaarminnal-chiraathaay
+   ✅ Saved: വാർമിന്നൽ ചിരാതായ് (2023)
+🎵 [164/201] Scraping: gandharva-ganam
+   ✅ Saved: ഗന്ധർവ ഗാാനം (2024)
+🎵 [165/201] Scraping: eden-poove
+   ✅ Saved: ഏദൻ പൂവേ (2024)
+🎵 [166/201] Scraping: naam-chernna-vazhikalil
+   ✅ Saved: നാം ചേർന്ന വഴികളിൽ (2024)
+🎵 [167/201] Scraping: aarum-kaanaathurukunnennullam
+   ✅ Saved: ആരും കാണാതുരുകുന്നെന്നുള്ളം (2024)
+🎵 [168/201] Scraping: thalam-thulli
+   ✅ Saved: താളം തുള്ളി (2022)
+🎵 [169/201] Scraping: 94348
+   ✅ Saved: * ആരോടും പറയാതെ നീയെന്നുള്ളിൽ (2020)
+🎵 [170/201] Scraping: 94445
+   ✅ Saved: * തേപ്പ് പാട്ട് (2020)
+🎵 [171/201] Scraping: 93767
+   ✅ Saved: * നിലാ ഒഴുകി (2020)
+🎵 [172/201] Scraping: athimanoharam
+   ✅ Saved: അതിമനോഹരം (2024)
+🎵 [173/201] Scraping: ey-banane
+   ✅ Saved: ഏയ് ബനാനേ (2024)
+🎵 [174/201] Scraping: oru-chillupaathram
+   ✅ Saved: ഒരു ചില്ലുപാത്രമുടയുന്ന പോലെ (2023)
+🎵 [175/201] Scraping: kande-nhan-akashathoru
+   ✅ Saved: കണ്ടേ ഞാനാകാശത്തൊരു (സുഹ്റാ ജബീ) (2024)
+🎵 [176/201] Scraping: pande-pande
+   ✅ Saved: പണ്ടേ പണ്ടേ (2024)
+🎵 [177/201] Scraping: njaanaalunna-theeyil-ninnu
+   ✅ Saved: ഞാനാളുന്ന തീയിൽ നിന്ന് (2024)
+🎵 [178/201] Scraping: nyabagam
+   ✅ Saved: ന്യാബഗം (2024)
+🎵 [179/201] Scraping: madhu-pakaroo
+   ✅ Saved: മധു പകരൂ (2024)
+🎵 [180/201] Scraping: varaveena
+   ✅ Saved: വരവീണ (2024)
+🎵 [181/201] Scraping: sangamam
+   ✅ Saved: സംഗമം (2024)
+🎵 [182/201] Scraping: thedumoru-ponnambal
+   ✅ Saved: തേടുമൊരു പൊന്നാമ്പൽ (2024)
+🎵 [183/201] Scraping: chankurichchaalu
+   ✅ Saved: ചങ്കുരിച്ചാല് (2024)
+🎵 [184/201] Scraping: naadake-naadakam
+   ✅ Saved: നാടാകെ നാടകം (2024)
+🎵 [185/201] Scraping: premalola
+   ✅ Saved: പ്രേമലോല (2024)
+🎵 [186/201] Scraping: durooha-mandahaasame
+   ✅ Saved: ദുരൂഹ മന്ദഹാസമേ (2024)
+🎵 [187/201] Scraping: priyalokame
+   ✅ Saved: പ്രിയലോകമേ (2024)
+🎵 [188/201] Scraping: enthanu-enthanu
+   ✅ Saved: എന്താണ് എന്താണ് (2024)
+🎵 [189/201] Scraping: oru-kansoochithumbaal
+   ✅ Saved: ഒരു കൺസൂചിത്തുമ്പാൽ (2024)
+🎵 [190/201] Scraping: kattakko-kottilla
+   ✅ Saved: കട്ടക്കോ കൊട്ടില്ല (2024)
+🎵 [191/201] Scraping: khatarnak-khilladi
+   ✅ Saved: ഖത്തർനാക്ക് കില്ലാഡി (2024)
+🎵 [192/201] Scraping: vanuyaraan
+   ✅ Saved: വാനുയരാൻ (2024)
+🎵 [193/201] Scraping: vashi-pashi
+   ✅ Saved: വാശിപ്പശി (2024)
+🎵 [194/201] Scraping: neeyo
+   ✅ Saved: നീയോ (2024)
+🎵 [195/201] Scraping: pulliman-kannile
+   ✅ Saved: പുള്ളിമാൻ കണ്ണിലെ (2024)
+🎵 [196/201] Scraping: pulliman-kannile-0
+   ✅ Saved: പുള്ളിമാൻ കണ്ണിലെ (2024)
+🎵 [197/201] Scraping: readya-maaran
+   ✅ Saved: റെഡിയാ മാരൻ (2024)
+🎵 [198/201] Scraping: hello-mummy
+   ✅ Saved: ഹലോ മമ്മി (2024)
+🎵 [199/201] Scraping: anandathin-dinangal
+   ✅ Saved: ആനന്ദത്തിൻ ദിനങ്ങൾ (2024)
+🎵 [200/201] Scraping: ulakinulaku-thorum-her-story
+   ✅ Saved: ഉലകിനുലകു തോറും (ഹേർ സ്റ്റോറി ) (2022)
+🎵 [201/201] Scraping: reshmas-world
+   ✅ Saved: രേഷ്മ (2022)
+Year complete: success=201, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 371
