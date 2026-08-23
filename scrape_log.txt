@@ -83584,3 +83584,136 @@ Year complete: success=92, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 21424
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1956
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1956
+   Page 1: https://m3db.com/archive/lyrics/year/1956
+   Found 60 songs on this page. Total unique so far: 60
+Total songs to scrape for this year: 60
+🎵 [1/60] Scraping: 38124
+   ✅ Saved: അറിയാമോ ചോറാണ് (1956)
+🎵 [2/60] Scraping: 38128
+   ✅ Saved: ആരോമല്‍ക്കുഞ്ഞേ ആരീരാരോ (1956)
+🎵 [3/60] Scraping: 38131
+   ✅ Saved: ആലോലത്തിരയാടി (1956)
+🎵 [4/60] Scraping: ithu-jeevitham-thaan
+   ✅ Saved: ഇത് ജീവിതം താൻ (1956)
+🎵 [5/60] Scraping: 38123
+   ✅ Saved: എന്‍ മാനസമേ നിലാവേ (1956)
+🎵 [6/60] Scraping: 11275
+   ✅ Saved: ഒരു കാറ്റും കാറ്റല്ല ()
+🎵 [7/60] Scraping: 38129
+   ✅ Saved: ഒരു മുല്ലപ്പന്തലില്‍ (1956)
+🎵 [8/60] Scraping: kizhakku-ninnoru
+   ✅ Saved: കിഴക്കു നിന്നൊരു ()
+🎵 [9/60] Scraping: 38127
+   ✅ Saved: പാലൊളി പൂനിലാ (1956)
+🎵 [10/60] Scraping: 38126
+   ✅ Saved: പുതുജീവിതം താന്‍ (1956)
+🎵 [11/60] Scraping: 38132
+   ✅ Saved: മണി നെല്ലിൻ (1956)
+🎵 [12/60] Scraping: 38125
+   ✅ Saved: മാവേലിനാട്ടിലെ (1956)
+🎵 [13/60] Scraping: munnetam-pranayam
+   ✅ Saved: മുന്നേറ്റം പ്രണയം (1956)
+🎵 [14/60] Scraping: anandavalli-nee-thanneyallee
+   ✅ Saved: ആനന്ദവല്ലീ നീ തന്നെയല്ലീ ()
+🎵 [15/60] Scraping: ullathu-chollu-penne
+   ✅ Saved: ഉള്ളതു ചൊല്ലു പെണ്ണേ ()
+🎵 [16/60] Scraping: puthuvarsham-vannalo
+   ✅ Saved: പുതുവർഷം വന്നല്ലോ ()
+🎵 [17/60] Scraping: maniyarayellamalankarichu
+   ✅ Saved: മണിയറയെല്ലാമലങ്കരിച്ചൂ ()
+🎵 [18/60] Scraping: 66747
+   ✅ Saved: മഴമുകിലേ മഴമുകിലേ (1956)
+🎵 [19/60] Scraping: 66745
+   ✅ Saved: മാഞ്ഞുപോവാന്‍ മാത്രമായെന്‍ (1956)
+🎵 [20/60] Scraping: maariville-maranju
+   ✅ Saved: മാരിവില്ലേ മറഞ്ഞു ()
+🎵 [21/60] Scraping: 66748
+   ✅ Saved: വാടാതെ നില്‍ക്കണേ (1956)
+🎵 [22/60] Scraping: hare-murare
+   ✅ Saved: ഹരേ മുരാരേ (1956)
+🎵 [23/60] Scraping: 11268
+   ✅ Saved: അങ്ങാടീ തോറ്റു മടങ്ങിയ ()
+🎵 [24/60] Scraping: 66772
+   ✅ Saved: അലര്‍ശരപരിതാപം (1956)
+🎵 [25/60] Scraping: 11265
+   ✅ Saved: ആയിരം കൈകള് ()
+🎵 [26/60] Scraping: 11266
+   ✅ Saved: എന്തിനു പൊൻ കനികൾ ()
+🎵 [27/60] Scraping: 11271
+   ✅ Saved: ചിങ്കാരപ്പെണ്ണിന്റെ കാതിൽ ()
+🎵 [28/60] Scraping: 7108
+   ✅ Saved: തുമ്പീ തുമ്പീ വാ വാ ()
+🎵 [29/60] Scraping: 66774
+   ✅ Saved: പാത്തുമ്മാബീവീടെ ഭാഗ്യം (1956)
+🎵 [30/60] Scraping: 11269
+   ✅ Saved: പൂമുല്ല പൂത്തല്ലോ ()
+🎵 [31/60] Scraping: 11273
+   ✅ Saved: ബുദ്ധം ശരണം ഗച്ചാമി ()
+🎵 [32/60] Scraping: 11272
+   ✅ Saved: മണിവർണ്ണനെ ഇന്നു ഞാൻ ()
+🎵 [33/60] Scraping: 11267
+   ✅ Saved: മാനസറാണീ ()
+🎵 [34/60] Scraping: maayalle-maariville
+   ✅ Saved: മായല്ലേ മാരിവില്ലേ ()
+🎵 [35/60] Scraping: 38148
+   ✅ Saved: ആടുപാമ്പേ ചുഴന്നാടു (1956)
+🎵 [36/60] Scraping: 38160
+   ✅ Saved: ആരും ശരണമില്ലേ (1956)
+🎵 [37/60] Scraping: 67006
+   ✅ Saved: എത്ര എത്രനാളായ്‌ കാത്തു (1956)
+🎵 [38/60] Scraping: 38156
+   ✅ Saved: എന്തെന്ത്‌ ചൊന്നു നീ (1956)
+🎵 [39/60] Scraping: 38150
+   ✅ Saved: കണ്ടതുണ്ടോ സഖി കണ്ടതുണ്ടോ (1956)
+🎵 [40/60] Scraping: 38153
+   ✅ Saved: കണ്ണിനോട് കണ്ണു (1956)
+🎵 [41/60] Scraping: 38151
+   ✅ Saved: കൂടുവിട്ട പൈങ്കിളിക്ക് (1956)
+🎵 [42/60] Scraping: chanchaadunni
+   ✅ Saved: ചാഞ്ചാടുണ്ണി ചരിഞാടുണ്ണി (1956)
+🎵 [43/60] Scraping: 38157
+   ✅ Saved: ജയ് ജയ് ജയ് ജഗദലം (1956)
+🎵 [44/60] Scraping: jeeveswaraa-nee-pirinjaal
+   ✅ Saved: ജീവേശ്വരാ നീ പിരിഞ്ഞാൽ ()
+🎵 [45/60] Scraping: 38158
+   ✅ Saved: തായേ കൈവെടിയാതെ (1956)
+🎵 [46/60] Scraping: 38155
+   ✅ Saved: തെന്നലേ നീ പറയുമോ (1956)
+🎵 [47/60] Scraping: 38149
+   ✅ Saved: പൂവണിപ്പൊയ്കയില്‍ (1956)
+🎵 [48/60] Scraping: 38154
+   ✅ Saved: മണിമാലയാലിനി ലീലയാം (1956)
+🎵 [49/60] Scraping: 38152
+   ✅ Saved: മഹാരണ്യവാസേ മന്ദഹാസേ (1956)
+🎵 [50/60] Scraping: 38147
+   ✅ Saved: വിണ്ണില്‍ മേഘം പോലെ (1956)
+🎵 [51/60] Scraping: 17893
+   ✅ Saved: കല്ലേ കനിവില്ലേ ()
+🎵 [52/60] Scraping: 17896
+   ✅ Saved: ചൂട്ടു വീശി പാതിരാവില്‍ ()
+🎵 [53/60] Scraping: 17892
+   ✅ Saved: തെക്കുന്നു നമ്മളൊരു ()
+🎵 [54/60] Scraping: nazhiyuri-paalu-kondu
+   ✅ Saved: നാഴിയുരി പാലു കൊണ്ട് ()
+🎵 [55/60] Scraping: 14426
+   ✅ Saved: പണ്ടു പണ്ടു പണ്ടു നിന്നെ കണ്ട നാളയ്യാ ()
+🎵 [56/60] Scraping: 11840
+   ✅ Saved: പൂമുറ്റത്തൊരു മുല്ല വിരിഞ്ഞു ()
+🎵 [57/60] Scraping: 17891
+   ✅ Saved: പൂരണമധു മാറിലേന്തിയ ()
+🎵 [58/60] Scraping: 66814
+   ✅ Saved: പെണ്ണിന്റെ കണ്ണിനകത്തൊരു (1956)
+🎵 [59/60] Scraping: bhaaram-thingiya-jeevitham
+   ✅ Saved: ഭാരം തിങ്ങിയ ജീവിതം ()
+🎵 [60/60] Scraping: 17895
+   ✅ Saved: മണവാളൻ ബന്നല്ലോ ()
+Year complete: success=60, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 21484
