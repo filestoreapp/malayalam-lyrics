@@ -16317,3 +16317,778 @@ Year complete: success=376, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 5908
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 2010
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/2010
+   Page 1: https://m3db.com/archive/lyrics/year/2010
+   Found 381 songs on this page. Total unique so far: 381
+Total songs to scrape for this year: 381
+🎵 [1/381] Scraping: 104898
+   ✅ Saved: ഒന്നാം കടല്‍ നീന്തിയൊരമ്പിളീ (2010)
+🎵 [2/381] Scraping: 83757
+   ✅ Saved: ട്വെന്റി ഫോർ(തീം) (2010)
+🎵 [3/381] Scraping: 20077
+   ✅ Saved: കൊച്ചുണ്ണിയാശാൻ ()
+🎵 [4/381] Scraping: 19050
+   ✅ Saved: പാടി പാലൂട്ടും ()
+🎵 [5/381] Scraping: paadi-paaloottum-thaarattanachan
+   ✅ Saved: പാടി പാലൂട്ടും താരാട്ടാണച്ഛൻ ()
+🎵 [6/381] Scraping: suravanditha-harimohana
+   ✅ Saved: സുരവന്ദിത ഹരിമോഹന ()
+🎵 [7/381] Scraping: azhalinte-azhako-apsarasso
+   ✅ Saved: അഴകിന്റെ അഴകോ അപ്സരസ്സോ (2010)
+🎵 [8/381] Scraping: k-k-road-theme-music-manakkannil
+   ✅ Saved: കെ കെ റോഡ് തീം മ്യൂസിക് ( മനക്കണ്ണിൽ) (2010)
+🎵 [9/381] Scraping: gange-sneha-gange-mooka-gange
+   ✅ Saved: ഗംഗേ സ്നേഹ ഗംഗേ മൂക ഗംഗേ (2010)
+🎵 [10/381] Scraping: tharangal-thoovum-hemantha-raavil
+   ✅ Saved: താരങ്ങൾ തൂവും ഹേമന്ത രാവിൽ (2010)
+🎵 [11/381] Scraping: thaarangal-thoovum-hemantha-raavil
+   ✅ Saved: താരങ്ങൾ തൂവും ഹേമന്ത രാവിൽ (2010)
+🎵 [12/381] Scraping: thaarangal-thoovum-hemantha-raavil-0
+   ✅ Saved: താരങ്ങൾ തൂവും ഹേമന്ത രാവിൽ (2010)
+🎵 [13/381] Scraping: maanthrika-cheppallayo-maanasam
+   ✅ Saved: മാന്ത്രികച്ചെപ്പല്ലയോ മാനസം (2010)
+🎵 [14/381] Scraping: mridhu-mayilppeeliyai-manasinte-thaalil
+   ✅ Saved: മൃദുമയിൽപ്പീലിയായ് മനസ്സിന്റെ താളിൽ (2010)
+🎵 [15/381] Scraping: snehaveedhiyil-manjupeyyum
+   ✅ Saved: സ്നേഹവീഥിയിൽ മഞ്ഞുപെയ്യും (2010)
+🎵 [16/381] Scraping: 20410
+   ✅ Saved: അഴകിന്‍ ശ്രീദേവി ()
+🎵 [17/381] Scraping: aarupadai-veedirukku
+   ✅ Saved: ആറുപടൈ വീടിരുക്ക് ()
+🎵 [18/381] Scraping: vakkeel-vakkeel
+   ✅ Saved: വക്കീൽ വക്കീല്‍ ()
+🎵 [19/381] Scraping: kuruval-kuruvi
+   ✅ Saved: കുറുവാൽ കുരുവി* (2010)
+🎵 [20/381] Scraping: 80775
+   ✅ Saved: പൂത്താങ്കിരിയേ പൂത്താങ്കിരിയേ (2010)
+🎵 [21/381] Scraping: 63621
+   ✅ Saved: പൊന്നാം തുമ്പി പെണ്ണെ (2010)
+🎵 [22/381] Scraping: 19903
+   ✅ Saved: ആതിര രാക്കുടിലിൽ (2010)
+🎵 [23/381] Scraping: 19952
+   ✅ Saved: നൂലില്ലാപട്ടങ്ങൾ (2010)
+🎵 [24/381] Scraping: 19905
+   ✅ Saved: മാനത്തെ മീനാറിൽ (2010)
+🎵 [25/381] Scraping: amma-nilaavaay
+   ✅ Saved: അമ്മ നിലാവായ് ()
+🎵 [26/381] Scraping: amma-nilaavaay-varum
+   ✅ Saved: അമ്മ നിലാവായ് വരും ()
+🎵 [27/381] Scraping: ee-kaattum-kulirum
+   ✅ Saved: ഈ കാറ്റും കുളിരും ()
+🎵 [28/381] Scraping: 19518
+   ✅ Saved: രംപുന്തനവരുതി ()
+🎵 [29/381] Scraping: 19516
+   ✅ Saved: രം‌പുന്തനവരുതി ()
+🎵 [30/381] Scraping: 34036
+   ✅ Saved: ഏതോ ഒരു വാക്കില്‍ (2010)
+🎵 [31/381] Scraping: 34037
+   ✅ Saved: ധക് ധക് ധക് (2010)
+🎵 [32/381] Scraping: thozha-en-thozha
+   ✅ Saved: തോഴാ എൻ തോഴാ (2010)
+🎵 [33/381] Scraping: mayathe-nilppu
+   ✅ Saved: മായാതെ നിൽപ്പൂ (2010)
+🎵 [34/381] Scraping: kanninima-neele
+   ✅ Saved: കണ്ണിനിമ നീളെ ()
+🎵 [35/381] Scraping: kavithapol
+   ✅ Saved: കവിതപോല്‍ ()
+🎵 [36/381] Scraping: kizhakku-pookkum
+   ✅ Saved: കിഴക്കു പൂക്കും ()
+🎵 [37/381] Scraping: njan
+   ✅ Saved: ഞാന്‍ ()
+🎵 [38/381] Scraping: vijanatheeram
+   ✅ Saved: വിജനതീരം ()
+🎵 [39/381] Scraping: oro-kanavum-vidarunno
+   ✅ Saved: ഓരോ കനവും വിടരുന്നോ ()
+🎵 [40/381] Scraping: nhan-kanavil-kandoru
+   ✅ Saved: ഞാൻ കനവിൽ കണ്ടൊരു ()
+🎵 [41/381] Scraping: njan-kanavil-kandoru
+   ✅ Saved: ഞാൻ കനവിൽ കണ്ടൊരു സ്നേഹിതൻ ()
+🎵 [42/381] Scraping: manjumazhakkaattil
+   ✅ Saved: മഞ്ഞുമഴക്കാട്ടിൽ ()
+🎵 [43/381] Scraping: manjumazhakkaattil-kunjumulam-koottil
+   ✅ Saved: മഞ്ഞുമഴക്കാട്ടിൽ കുഞ്ഞുമുളം കൂട്ടിൽ ()
+🎵 [44/381] Scraping: munthirippoovin-varnajaalam
+   ✅ Saved: മുന്തിരിപ്പൂവിൻ വർണ്ണജാലം ()
+🎵 [45/381] Scraping: 19921
+   ✅ Saved: കന്നിത്തിങ്കള്‍ ()
+🎵 [46/381] Scraping: thane-thirayuvathare
+   ✅ Saved: താനേ തിരയുവതാരെ ()
+🎵 [47/381] Scraping: puthumakalaayi
+   ✅ Saved: പുതുമകളായ് ()
+🎵 [48/381] Scraping: ponthaarakamee-thoovinnilee
+   ✅ Saved: പൊന്‍താരകമേ തൂവിണ്ണിലെ ()
+🎵 [49/381] Scraping: vellaram-kannulla-0
+   ✅ Saved: വെള്ളാരം കണ്ണുള്ള ()
+🎵 [50/381] Scraping: kai-neettunnu-sagaram
+   ✅ Saved: കൈ നീട്ടുന്നു സാഗരം ()
+🎵 [51/381] Scraping: chendumallika-poovu
+   ✅ Saved: ചെണ്ടുമല്ലികപ്പൂവു ()
+🎵 [52/381] Scraping: 87160
+   ✅ Saved: അനുരാഗവീണാഗാനം (2010)
+🎵 [53/381] Scraping: 87161
+   ✅ Saved: പൂവനങ്ങൾ തേടി വാ (2010)
+🎵 [54/381] Scraping: 87095
+   ✅ Saved: മാലിനീ വനമാലിനീ (2010)
+🎵 [55/381] Scraping: adavukal-pathinettum-payattiya-kalam
+   ✅ Saved: അടവുകൾ പതിനെട്ടും പയറ്റിയ കാലം ()
+🎵 [56/381] Scraping: 80760
+   ✅ Saved: ഒലെ ഒലെ ഒലെ (2010)
+🎵 [57/381] Scraping: oh-rambo-rambo
+   ✅ Saved: ഓ റംബോ റംബോ ()
+🎵 [58/381] Scraping: thee-kaayum-themmadi-kaatte
+   ✅ Saved: തീ കായും തെമ്മാടിക്കാറ്റേ ()
+🎵 [59/381] Scraping: 80762
+   ✅ Saved: വിയ്യ മിയ്യ (ടൈറ്റിൽ സോങ്ങ്) (2010)
+🎵 [60/381] Scraping: 80763
+   ✅ Saved: വെൻ ഐ ആം വിത്ത് യു (2010)
+🎵 [61/381] Scraping: 104266
+   ✅ Saved: *പാൽക്കടൽ (2010)
+🎵 [62/381] Scraping: 83875
+   ✅ Saved: എഗൈൻ കാസർഗോഡ് (2010)
+🎵 [63/381] Scraping: 83877
+   ✅ Saved: പറയരുതേ (2010)
+🎵 [64/381] Scraping: 27370
+   ✅ Saved: പറയരുതേ നീ ആരോടും (2010)
+🎵 [65/381] Scraping: 83876
+   ✅ Saved: പാൽക്കടൽ (2010)
+🎵 [66/381] Scraping: amodhamaai-kalikkan
+   ✅ Saved: ആമോദമായ് കളിയ്ക്കാന്‍ കളം ()
+🎵 [67/381] Scraping: ithile-thozhi
+   ✅ Saved: ഇതിലേ തോഴീ ()
+🎵 [68/381] Scraping: ithile
+   ✅ Saved: ഇതിലേ.. ()
+🎵 [69/381] Scraping: kannadi-chirakulla
+   ✅ Saved: കണ്ണാടി ചിറകുള്ള ()
+🎵 [70/381] Scraping: 19912
+   ✅ Saved: കണ്ണാരം പൊത്തിപ്പൊത്തി (2010)
+🎵 [71/381] Scraping: kattil-parannirangum
+   ✅ Saved: കാറ്റിൽ പറന്നിറങ്ങും ()
+🎵 [72/381] Scraping: 18356
+   ✅ Saved: സുന്ദരിയാം സൗമിനീ (2010)
+🎵 [73/381] Scraping: 33486
+   ✅ Saved: ഒറ്റപ്പെട്ടും കുറ്റപ്പെട്ടും (2010)
+🎵 [74/381] Scraping: 33483
+   ✅ Saved: കുഴിമടിയാ കുലമടിയാ (2010)
+🎵 [75/381] Scraping: 33484
+   ✅ Saved: പൊട്ടു കുത്തി പുലരിയിതാ (2010)
+🎵 [76/381] Scraping: 19406
+   ✅ Saved: ഒരു കണ്ടൻ പൂച്ച വരുന്നേ (2010)
+🎵 [77/381] Scraping: 19405
+   ✅ Saved: നാത്തൂനേ നാത്തൂനേ (2010)
+🎵 [78/381] Scraping: 19413
+   ✅ Saved: പാടാൻ നിനക്കൊരു പാട്ടു തന്നെങ്കിലും (2010)
+🎵 [79/381] Scraping: 19404
+   ✅ Saved: പാ‍ടാൻ നിനക്കൊരു പാട്ടു തന്നെങ്കിലും (2010)
+🎵 [80/381] Scraping: 19411
+   ✅ Saved: പ്രണയനിലാവിന്റെ കുളിരുള്ള (2010)
+🎵 [81/381] Scraping: maavin-chottile
+   ✅ Saved: മാവിൻ ചോട്ടിലെ (2010)
+🎵 [82/381] Scraping: maavin-chottile-manamulla-madhuramay
+   ✅ Saved: മാവിൻ ചോട്ടിലെ മണമുള്ള മധുരമായ് (2010)
+🎵 [83/381] Scraping: 60073
+   ✅ Saved: കള്ളു കുടിക്കാൻ (2010)
+🎵 [84/381] Scraping: 60075
+   ✅ Saved: പണ്ടു പണ്ടു (2010)
+🎵 [85/381] Scraping: 60074
+   ✅ Saved: സ്വന്തം സ്വന്തം (2010)
+🎵 [86/381] Scraping: 29340
+   ✅ Saved: ഉതൃട്ടാതി വള്ളംകളി (2010)
+🎵 [87/381] Scraping: 29336
+   ✅ Saved: ഓർമ്മകൾ പൂക്കുമെന്റെ (2010)
+🎵 [88/381] Scraping: 29338
+   ✅ Saved: തിരുവോണക്കതിരൊളിചാർത്തി (2010)
+🎵 [89/381] Scraping: 29339
+   ✅ Saved: പൂക്കൈതപ്പാടത്തെ (2010)
+🎵 [90/381] Scraping: 29337
+   ✅ Saved: പൂത്തുമ്പീ തുള്ളാൻ വാ (2010)
+🎵 [91/381] Scraping: 29335
+   ✅ Saved: ശ്രാവണ സംഗീതമേ… (2010)
+🎵 [92/381] Scraping: 18627
+   ✅ Saved: ഓമനപ്പെണ്ണല്ലയോ (2010)
+🎵 [93/381] Scraping: 60071
+   ✅ Saved: കല്‍ ചൗധ്‌വീൻ (2010)
+🎵 [94/381] Scraping: 18240
+   ✅ Saved: പറയാതെ വയ്യ (2010)
+🎵 [95/381] Scraping: 17311
+   ✅ Saved: പ്രാണനാഥൻ എനിക്കു നൽകിയ (2010)
+🎵 [96/381] Scraping: 19357
+   ✅ Saved: ആരോ പാടുന്നു ദൂരെ (2010)
+🎵 [97/381] Scraping: 19385
+   ✅ Saved: കിഴക്കുമല കമ്മലിട്ട (2010)
+🎵 [98/381] Scraping: 19384
+   ✅ Saved: മഴമേഘച്ചേലിൽ പൂരം (2010)
+🎵 [99/381] Scraping: 81042
+   ✅ Saved: കാറ്റു വന്നു ചാരെ (2010)
+🎵 [100/381] Scraping: 83821
+   ✅ Saved: എവിടെ എവിടെ (2010)
+🎵 [101/381] Scraping: 83820
+   ✅ Saved: ചിലമ്പൊലിയുടെ (2010)
+🎵 [102/381] Scraping: 23592
+   ✅ Saved: ചിത്രശലഭമേ ()
+🎵 [103/381] Scraping: neeyillayenkil
+   ✅ Saved: നീയില്ലയെങ്കിൽ ()
+🎵 [104/381] Scraping: 23594
+   ✅ Saved: പച്ചില ചാർത്താം (F) ()
+🎵 [105/381] Scraping: 60076
+   ✅ Saved: പച്ചില ചാർത്താം (M) (2010)
+🎵 [106/381] Scraping: 23597
+   ✅ Saved: വട്ടപ്പറമ്പിലൊരു (2010)
+🎵 [107/381] Scraping: hridayathin-madhupaathram
+   ✅ Saved: ഹൃദയത്തിൻ മധുപാത്രം ()
+🎵 [108/381] Scraping: hridayathin-madhupathram
+   ✅ Saved: ഹൃദയത്തിൻ മധുപാത്രം (F) (2010)
+🎵 [109/381] Scraping: 83839
+   ✅ Saved: ആയേ ജനനി (2010)
+🎵 [110/381] Scraping: 83840
+   ✅ Saved: ആയേ ജനനി(F) (2010)
+🎵 [111/381] Scraping: 83864
+   ✅ Saved: ടിഗ്‌ഡെ ടിഗ്‌ഡെ (2010)
+🎵 [112/381] Scraping: 83841
+   ✅ Saved: ധിമി ധിമി (2010)
+🎵 [113/381] Scraping: 83863
+   ✅ Saved: പകിട പകിട (2010)
+🎵 [114/381] Scraping: 83862
+   ✅ Saved: ഹേ ചുപി ഹേ (2010)
+🎵 [115/381] Scraping: 52922
+   ✅ Saved: ഓണവില്ലിൻ തംബുരുമീട്ടും (2010)
+🎵 [116/381] Scraping: thenikkappuram-thenkashippattanam
+   ✅ Saved: തേനിയ്ക്കപ്പുറം തെങ്കാശിക്കപ്പുറം ()
+🎵 [117/381] Scraping: neeyinnenne-maranno
+   ✅ Saved: നീയിന്നെന്നെ മറന്നോ ()
+🎵 [118/381] Scraping: mangalangal-vaari-kori-choriyaam
+   ✅ Saved: മംഗളങ്ങൾ വാരി കോരി ചൊരിയാം (2010)
+🎵 [119/381] Scraping: malayalipenne-ninte-mukhasreeyilayiram
+   ✅ Saved: മലയാളിപ്പെണ്ണേ നിന്റെ മുഖശ്രീയിലായിരം (2010)
+🎵 [120/381] Scraping: 80262
+   ✅ Saved: ആരാണ്ടും കൂരി കൂട്ടി (2010)
+🎵 [121/381] Scraping: 80263
+   ✅ Saved: ഇവളാരിവളാര്‍ (2010)
+🎵 [122/381] Scraping: oru-minnaminni
+   ✅ Saved: ഒരു മിന്നാമിന്നി (2010)
+🎵 [123/381] Scraping: 80264
+   ✅ Saved: കാട്ടിയക്കാരന്‍ (2010)
+🎵 [124/381] Scraping: 80269
+   ✅ Saved: തങ്കമെയ്യോളി (2010)
+🎵 [125/381] Scraping: 80266
+   ✅ Saved: നേശമാന (2010)
+🎵 [126/381] Scraping: 80265
+   ✅ Saved: മാഘ ചന്ദിരാ (2010)
+🎵 [127/381] Scraping: 80268
+   ✅ Saved: രാജദമ്പതിമാര്‍ (2010)
+🎵 [128/381] Scraping: insha-allah
+   ✅ Saved: ഇൻഷാ അള്ളാ (2010)
+🎵 [129/381] Scraping: 81950
+   ✅ Saved: ഉണ്ണിക്കുരുളകൾ (2010)
+🎵 [130/381] Scraping: chendumalli-thazhvarayil
+   ✅ Saved: ചെണ്ടുമല്ലി താഴ്വരയിൽ (2010)
+🎵 [131/381] Scraping: 81949
+   ✅ Saved: മധുവൂറും (2010)
+🎵 [132/381] Scraping: 20422
+   ✅ Saved: നീയാം തണലിനു ()
+🎵 [133/381] Scraping: 20425
+   ✅ Saved: പറയാതാരോ (2010)
+🎵 [134/381] Scraping: 20423
+   ✅ Saved: വെണ്ണിലാവിനുമിവിടെ (2010)
+🎵 [135/381] Scraping: 33445
+   ✅ Saved: ജഗണു ജഗണു തക (2010)
+🎵 [136/381] Scraping: 33446
+   ✅ Saved: തുമ്പിപ്പെണ്ണേ വമ്പത്തിപ്പെണ്ണേ (2010)
+🎵 [137/381] Scraping: 33444
+   ✅ Saved: വെണ്ണിലാവിന്‍ ചിറകിലേറി(f) (2010)
+🎵 [138/381] Scraping: vennilaavin-chirakeri
+   ✅ Saved: വെണ്ണിലാവിൻ ചിറകേറി ()
+🎵 [139/381] Scraping: 11893
+   ✅ Saved: ഈ മരച്ചില്ലയിൽ (2010)
+🎵 [140/381] Scraping: 83725
+   ✅ Saved: ഞാൻ താൻ (2010)
+🎵 [141/381] Scraping: 11892
+   ✅ Saved: താരിളം കൈകളിൽ (2010)
+🎵 [142/381] Scraping: 11891
+   ✅ Saved: നീരാട്ട് കഴിഞ്ഞോ കണ്ണാ (2010)
+🎵 [143/381] Scraping: 83724
+   ✅ Saved: മനമോഹന (2010)
+🎵 [144/381] Scraping: 13075
+   ✅ Saved: മനമോഹന(F) (2010)
+🎵 [145/381] Scraping: 65862
+   ✅ Saved: ചെമ്പകം പൂക്കുന്ന യാമം (2013)
+🎵 [146/381] Scraping: 19015
+   ✅ Saved: അഴകുള്ളോരാകാശപ്പൂവാണു നീ ()
+🎵 [147/381] Scraping: 19013
+   ✅ Saved: ഇനിയും എഴുതാത്ത ഗാനം പോലെ ()
+🎵 [148/381] Scraping: irul-chayum-vaniyil
+   ✅ Saved: ഇരുൾ ചായും വനിയിൽ ()
+🎵 [149/381] Scraping: munthirippoovinte-selulla-muthe
+   ✅ Saved: മുന്തിരിപ്പൂവിന്റെ ശേലുള്ള മുത്തേ ()
+🎵 [150/381] Scraping: 19012
+   ✅ Saved: വെറുതെ ഒന്നു കാണുവാൻ ()
+🎵 [151/381] Scraping: 83871
+   ✅ Saved: ഒന്നാനാം കുന്നത്തെ (2010)
+🎵 [152/381] Scraping: 83872
+   ✅ Saved: ഓർമ്മകളെ മയരുതേ (2010)
+🎵 [153/381] Scraping: 63358
+   ✅ Saved: ഓർമ്മകളേ മായരുതേ (2010)
+🎵 [154/381] Scraping: 83870
+   ✅ Saved: നാഗപട (2010)
+🎵 [155/381] Scraping: 83765
+   ✅ Saved: താതിന്തക തെയ്തരോ (2010)
+🎵 [156/381] Scraping: 83712
+   ✅ Saved: കണ്ണിലെ (2010)
+🎵 [157/381] Scraping: 83714
+   ✅ Saved: കുമാര (2010)
+🎵 [158/381] Scraping: 20607
+   ✅ Saved: പൂഞ്ചില്ലയില്‍ (2010)
+🎵 [159/381] Scraping: 32571
+   ✅ Saved: പോരിൽ തെയ്യാരം ഘടകം (2013)
+🎵 [160/381] Scraping: olichirunne
+   ✅ Saved: ഒളിച്ചിരുന്നേ ()
+🎵 [161/381] Scraping: agaathamaam-aazhi-vithumbi
+   ✅ Saved: അഗാധമാം ആഴി വിതുമ്പി (2010)
+🎵 [162/381] Scraping: 34909
+   ✅ Saved: മഞ്ഞു പൂക്കളില്‍ നിലാ ഹിമം പൊഴിയുന്ന പോല്‍ (2010)
+🎵 [163/381] Scraping: 23272
+   ✅ Saved: നിലാ നിലാ (D) ()
+🎵 [164/381] Scraping: 68346
+   ✅ Saved: നിലാ നിലാ (Unplugged) (2010)
+🎵 [165/381] Scraping: 23305
+   ✅ Saved: മനസ്സിൻ മുറിയുടെ ()
+🎵 [166/381] Scraping: 23361
+   ✅ Saved: ഹേയ്യോ ()
+🎵 [167/381] Scraping: eeashasuthan-ayya
+   ✅ Saved: ഈശസുതന്‍ അയ്യാ വിഷ്ണുസുതൻ അയ്യാ ()
+🎵 [168/381] Scraping: thathwamasi-vaakyam
+   ✅ Saved: തത്ത്വമസി വാക്യം ()
+🎵 [169/381] Scraping: daivanindayil-baalyam
+   ✅ Saved: ദൈവനിന്ദയിൽ ബാല്യം ()
+🎵 [170/381] Scraping: 18619
+   ✅ Saved: മണികണ്ഠസ്വാമി തൻ ()
+🎵 [171/381] Scraping: 18621
+   ✅ Saved: മണ്ഡലം തൊഴുതാൽ ()
+🎵 [172/381] Scraping: lokaveeram-mahaapoojyam
+   ✅ Saved: ലോകവീരം മഹാപൂജ്യം ()
+🎵 [173/381] Scraping: swamiye-kananam-swamiye-kananam
+   ✅ Saved: സ്വാമിയെ കാണണം സ്വാമിയെ കാണണം ()
+🎵 [174/381] Scraping: 18623
+   ✅ Saved: ഹരിവരാസനം വിശ്വമോഹനം ()
+🎵 [175/381] Scraping: 18613
+   ✅ Saved: ആകാശമറിയാതെ (2010)
+🎵 [176/381] Scraping: 18611
+   ✅ Saved: കാറ്റു പറഞ്ഞതും ()
+🎵 [177/381] Scraping: 18615
+   ✅ Saved: കാറ്റു പറഞ്ഞതും (2) ()
+🎵 [178/381] Scraping: 18616
+   ✅ Saved: താന്തോന്നി താന്തോന്നി (2010)
+🎵 [179/381] Scraping: 18614
+   ✅ Saved: പെരിയ തേവരേ ()
+🎵 [180/381] Scraping: nagamallika-aadiyulayum
+   ✅ Saved: നാഗമല്ലികയാടിയുലയും ()
+🎵 [181/381] Scraping: ninnekkandaalullil
+   ✅ Saved: നിന്നെക്കണ്ടാലുള്ളിൽ ()
+🎵 [182/381] Scraping: neram-nalla-neram
+   ✅ Saved: നേരം നല്ല നേരം ()
+🎵 [183/381] Scraping: pathinaalaam-raaviludichoru
+   ✅ Saved: പതിനാലാം രാവിലുദിച്ചൊരു ()
+🎵 [184/381] Scraping: anjikonjathedi
+   ✅ Saved: അഞ്ചിക്കൊഞ്ചാതെടീ (2010)
+🎵 [185/381] Scraping: 19089
+   ✅ Saved: ശതസൂര്യ ശോഭയിൽ (2010)
+🎵 [186/381] Scraping: 83721
+   ✅ Saved: നിൻ മിഴിയിൽ (2010)
+🎵 [187/381] Scraping: 83719
+   ✅ Saved: നെഞ്ചത്തൊരു (2010)
+🎵 [188/381] Scraping: 83720
+   ✅ Saved: ഹരിചന്ദനം (2010)
+🎵 [189/381] Scraping: amme-mookambike
+   ✅ Saved: അമ്മേ മൂകാംബികേ ()
+🎵 [190/381] Scraping: 19776
+   ✅ Saved: ആലാപം ആദിസായന്തനം ()
+🎵 [191/381] Scraping: chambaikka-chundane
+   ✅ Saved: ചാമ്പയ്ക്കാ ചുണ്ടാണേ ()
+🎵 [192/381] Scraping: 19766
+   ✅ Saved: നിലവെ നിലവെ ()
+🎵 [193/381] Scraping: may-june-maasam
+   ✅ Saved: മെയ് ജൂൺ മാസം ()
+🎵 [194/381] Scraping: sharab-pattin
+   ✅ Saved: ഷരാബ് പാട്ടിൻ ()
+🎵 [195/381] Scraping: 19960
+   ✅ Saved: തൂ മല്ലികേ അല്ലിത്തേന്മല്ലികേ ()
+🎵 [196/381] Scraping: 80261
+   ✅ Saved: നല്ലവന്‍ (തീം സോംഗ് ) (2010)
+🎵 [197/381] Scraping: 20048
+   ✅ Saved: പുടിച്ചാച്ച് ()
+🎵 [198/381] Scraping: 19961
+   ✅ Saved: മായക്കനവേ നിന്നെ തേടി ()
+🎵 [199/381] Scraping: 32572
+   ✅ Saved: രണധീരധീര രൗദ്രഭാവം (2010)
+🎵 [200/381] Scraping: 18805
+   ✅ Saved: സ്വപ്നത്തിൻ കുന്നത്തേറി (2010)
+🎵 [201/381] Scraping: varayum-kuriyum-chayam
+   ✅ Saved: വരയും കുറിയും ചായം (2010)
+🎵 [202/381] Scraping: swarnathin-kalithamarapoo
+   ✅ Saved: സ്വർണ്ണത്തിൻ കളിത്താമരപ്പൂ (2010)
+🎵 [203/381] Scraping: 19365
+   ✅ Saved: അറിയാതെ ഒന്നും പറയാതെ ()
+🎵 [204/381] Scraping: 18396
+   ✅ Saved: രാവിൻ നിലാമഴക്കീഴിൽ (2010)
+🎵 [205/381] Scraping: 102347
+   ✅ Saved: * ആമ്പലിനോടോ (2010)
+🎵 [206/381] Scraping: 102345
+   ✅ Saved: * ഇന്ദ്രനീല രാവിലൂടെ (2010)
+🎵 [207/381] Scraping: 102346
+   ✅ Saved: * മുത്തായി മണിമുത്തായി (2010)
+🎵 [208/381] Scraping: 102348
+   ✅ Saved: * രാമാ രാമാ (2007)
+🎵 [209/381] Scraping: 102344
+   ✅ Saved: * ശംഭോ ശങ്കര (2010)
+🎵 [210/381] Scraping: anuradha-anuragini-radha
+   ✅ Saved: അനുരാധ അനുരാഗിണി രാധ ()
+🎵 [211/381] Scraping: 31509
+   ✅ Saved: മാർകഴീ മാർകഴീ നറുതേൻമൊഴീ ()
+🎵 [212/381] Scraping: ammakkuruvee-kuruvee
+   ✅ Saved: അമ്മക്കുരുവീ കുരുവീ ()
+🎵 [213/381] Scraping: udayasooryane-thuyilunarthuvaan
+   ✅ Saved: ഉദയസൂര്യനെ തുയിലുണർത്തുവാൻ ()
+🎵 [214/381] Scraping: oru-malar-manjalumayi-vaa
+   ✅ Saved: ഒരു മലർമഞ്ചലുമായി വാ ()
+🎵 [215/381] Scraping: 18410
+   ✅ Saved: പാട്ടു പാടുവാൻ മാത്രം ()
+🎵 [216/381] Scraping: ponnum-noolil-poomuthu-pole
+   ✅ Saved: പൊന്നും നൂലിൽ പൂമുത്തു പോലെ ()
+🎵 [217/381] Scraping: sathathandriyakum-maniveena
+   ✅ Saved: ശതതന്ത്രിയാകും മണിവീണ ()
+🎵 [218/381] Scraping: 19400
+   ✅ Saved: കാട്ടുമാക്കാനായാലും ()
+🎵 [219/381] Scraping: thammil-thammil
+   ✅ Saved: തമ്മിൽ തമ്മിൽ കാണുന്നുണ്ടെന്നാലും ()
+🎵 [220/381] Scraping: 19396
+   ✅ Saved: പാപ്പീ അപ്പച്ചാ എടാ മോനെ ()
+🎵 [221/381] Scraping: 19399
+   ✅ Saved: മഞ്ഞിൻ വെള്ളി തൂവൽ ()
+🎵 [222/381] Scraping: adi-thottu-mudiyolam
+   ✅ Saved: അടിതൊട്ടുമുടിയോളം ()
+🎵 [223/381] Scraping: kunnathu-vaazhunna
+   ✅ Saved: കുന്നത്തു വാഴുന്ന ()
+🎵 [224/381] Scraping: kottarakkara-ganapathikkum
+   ✅ Saved: കൊട്ടാരക്കരഗണപതിക്കും ()
+🎵 [225/381] Scraping: thiruvayyar-kovil
+   ✅ Saved: തിരുവയ്യാർക്കോവിൽ ()
+🎵 [226/381] Scraping: thrikkani-nedikkam
+   ✅ Saved: തൃക്കണിനേദിക്കാം ()
+🎵 [227/381] Scraping: padayanithan-chodu
+   ✅ Saved: പടയണിതൻ ചോടു ()
+🎵 [228/381] Scraping: paalkkaavadi
+   ✅ Saved: പാൽക്കാവടി ()
+🎵 [229/381] Scraping: baalasubrahmanya-swaami
+   ✅ Saved: ബാലസുബ്രഹ്മണ്യസ്വാമീ ()
+🎵 [230/381] Scraping: sreevazhum-cherunattil
+   ✅ Saved: ശ്രീവാഴും ചെറുനാട്ടിൽ ()
+🎵 [231/381] Scraping: ishtangalokkeyum
+   ✅ Saved: ഇഷ്ടങ്ങളൊക്കെയും ()
+🎵 [232/381] Scraping: 83822
+   ✅ Saved: അങ്ങിനെ അങ്ങിനെ (2010)
+🎵 [233/381] Scraping: 83823
+   ✅ Saved: കിളിയെ കിളിയെ (2010)
+🎵 [234/381] Scraping: 83825
+   ✅ Saved: മണിമലർക്കാവിൽ (2010)
+🎵 [235/381] Scraping: 83828
+   ✅ Saved: രാരീരൊ (2010)
+🎵 [236/381] Scraping: 65343
+   ✅ Saved: ആനന്ദം പരമാനന്ദം...... ()
+🎵 [237/381] Scraping: 19060
+   ✅ Saved: ആനന്ദം പരമാനന്ദമാണെന്റെ ()
+🎵 [238/381] Scraping: 19062
+   ✅ Saved: ഓ വാനമേ ()
+🎵 [239/381] Scraping: 19057
+   ✅ Saved: കളിയരങ്ങിലൊരു ()
+🎵 [240/381] Scraping: 19056
+   ✅ Saved: തന്താനേലേലോ പാട്ട് (M) ()
+🎵 [241/381] Scraping: 19065
+   ✅ Saved: തന്താനേലേലോ പാട്ട് മനസ്സിലൊരു നീരാട്ട് ()
+🎵 [242/381] Scraping: 19064
+   ✅ Saved: മല്ലിപ്പൂ മല്ലിപ്പൂ ()
+🎵 [243/381] Scraping: 19063
+   ✅ Saved: സടുകുടുകെ ()
+🎵 [244/381] Scraping: 19061
+   ✅ Saved: സാലമ്പാക്കം ()
+🎵 [245/381] Scraping: 65594
+   ✅ Saved: ചന്ദനത്തിൻ തേരല്ലേ (2010)
+🎵 [246/381] Scraping: 19929
+   ✅ Saved: നീയെന്റേതല്ലേ (D) ()
+🎵 [247/381] Scraping: 19882
+   ✅ Saved: നീയെന്റേതല്ലേ (M) ()
+🎵 [248/381] Scraping: 65619
+   ✅ Saved: നേരം പുലരും മുൻപേ (2010)
+🎵 [249/381] Scraping: 65623
+   ✅ Saved: പെൺപട്ടണം (2010)
+🎵 [250/381] Scraping: kettille-kettille
+   ✅ Saved: കേട്ടില്ലേ കേട്ടില്ലേ ()
+🎵 [251/381] Scraping: kettille-kettille-ente-kalla-cherukkanu
+   ✅ Saved: കേട്ടില്ലേ കേട്ടില്ലേ എന്റെ കള്ളച്ചെറുക്കനു ()
+🎵 [252/381] Scraping: chenthengil
+   ✅ Saved: ചെന്തെങ്ങിൽ ()
+🎵 [253/381] Scraping: manikkinavin-kothumbu-vallam
+   ✅ Saved: മണിക്കിനാവിൻ കൊതുമ്പുവള്ളം ()
+🎵 [254/381] Scraping: maaniyakallin-mookkuthi-charthum
+   ✅ Saved: മാണിക്ക്യക്കല്ലിൻ മൂക്കുത്തി ചാർത്തും (2010)
+🎵 [255/381] Scraping: 18705
+   ✅ Saved: ഒരു വെണ്ണിലാപൂപ്പാടം ()
+🎵 [256/381] Scraping: 18707
+   ✅ Saved: കറകറങ്ങണ കിങ്ങിണിത്താറാവേ ()
+🎵 [257/381] Scraping: 60070
+   ✅ Saved: പ്രമാണി തീം (2010)
+🎵 [258/381] Scraping: 65593
+   ✅ Saved: കിനാവിലെ ജനാലകൾ (2010)
+🎵 [259/381] Scraping: 20381
+   ✅ Saved: കിനാവിലെ (F) ()
+🎵 [260/381] Scraping: 19923
+   ✅ Saved: കണ്ണോളം കാണാനും ()
+🎵 [261/381] Scraping: thane-thirayuvathare-f
+   ✅ Saved: താനേ തിരയുവതാരേ - F (2010)
+🎵 [262/381] Scraping: thane-thirayuvathare-d
+   ✅ Saved: താനേ തിരയുവതാരേ -D (2010)
+🎵 [263/381] Scraping: thamarakkatte
+   ✅ Saved: താമരക്കാറ്റേ (2010)
+🎵 [264/381] Scraping: pakalilla-ravilla
+   ✅ Saved: പകലില്ല രാവില്ല (2010)
+🎵 [265/381] Scraping: puthumakalaai-thammilariyam
+   ✅ Saved: പുതുമകളായ് തമ്മിലറിയാം (2010)
+🎵 [266/381] Scraping: 35947
+   ✅ Saved: മഞ്ചാടിച്ചോപ്പുള്ള മാനം (2010)
+🎵 [267/381] Scraping: vellaram-kannulla
+   ✅ Saved: വെള്ളാരം കണ്ണുള്ള പെണ്ണേ (2010)
+🎵 [268/381] Scraping: 39992
+   ✅ Saved: ദൂരെ വാനിന്‍ മേലേ (2010)
+🎵 [269/381] Scraping: 39985
+   ✅ Saved: എന്റെ ചിത്തിരത്താമരത്തുമ്പീ (2010)
+🎵 [270/381] Scraping: 51549
+   ✅ Saved: ഒരുനാള്‍ അന്നൊരുനാള്‍ (2010)
+🎵 [271/381] Scraping: 51546
+   ✅ Saved: പറയാമോ രാപ്പാടീ (2010)
+🎵 [272/381] Scraping: 51547
+   ✅ Saved: യേ ദോസ്തി (2010)
+🎵 [273/381] Scraping: kadha-poloru
+   ✅ Saved: കഥ പോലൊരു ()
+🎵 [274/381] Scraping: kanalu-malayude
+   ✅ Saved: കനല്‌ മലയുടെ ()
+🎵 [275/381] Scraping: swapnamoru-chaakku
+   ✅ Saved: സ്വപ്നമൊരു ചാക്ക് ()
+🎵 [276/381] Scraping: 80196
+   ✅ Saved: സ്വപ്നമൊരു ചാക്ക് (2010)
+🎵 [277/381] Scraping: 37543
+   ✅ Saved: ആകാശത്തെ മല്ലി (2010)
+🎵 [278/381] Scraping: 37545
+   ✅ Saved: ചിന്നക്കുഴൽ ഊതിക്കുയിൽ (2010)
+🎵 [279/381] Scraping: 37544
+   ✅ Saved: ബെസ്റ്റ് ഓഫ് (2010)
+🎵 [280/381] Scraping: 28010
+   ✅ Saved: അരികത്തായാരോ പാടുന്നുണ്ടോ (2010)
+🎵 [281/381] Scraping: 18297
+   ✅ Saved: അരികത്തായാരോ പാടുന്നുണ്ടോ (2010)
+🎵 [282/381] Scraping: 18344
+   ✅ Saved: എന്നെയാണോ അതോ നിന്നെയാണോ (2010)
+🎵 [283/381] Scraping: kozhi-chinkaara-poonkozhi
+   ✅ Saved: കോഴീ ചിങ്കാര പൂങ്കോഴീ (2010)
+🎵 [284/381] Scraping: perilla-rajyathe-rajakumari
+   ✅ Saved: പേരില്ലാ രാജ്യത്തെ രാജകുമാരീ (2010)
+🎵 [285/381] Scraping: 81021
+   ✅ Saved: മച്ചിലമ്മക്ക് ഉച്ചനേരത്തു ആറാട്ട് (2010)
+🎵 [286/381] Scraping: 81035
+   ✅ Saved: കളിവാക്ക് (2010)
+🎵 [287/381] Scraping: 81036
+   ✅ Saved: പെണ്ണല്ലേ (2010)
+🎵 [288/381] Scraping: ponnomanaykoru
+   ✅ Saved: പൊന്നോമനയ്ക്കൊരു (2010)
+🎵 [289/381] Scraping: 81034
+   ✅ Saved: പ്രിയസഖി (2010)
+🎵 [290/381] Scraping: 18329
+   ✅ Saved: ശാന്തിയുടെ തീരങ്ങൾ (2010)
+🎵 [291/381] Scraping: 81037
+   ✅ Saved: സന്ധ്യയുടെ (2010)
+🎵 [292/381] Scraping: 81055
+   ✅ Saved: ഞാൻ മോഹിക്കും (2010)
+🎵 [293/381] Scraping: 19094
+   ✅ Saved: താളത്തിൻ ലഹരിയിൽ (2010)
+🎵 [294/381] Scraping: nee-pokum-shyaamaveedhiyil
+   ✅ Saved: നീ പോകും ശ്യാമവീഥിയിൽ ()
+🎵 [295/381] Scraping: nombarangal-thannathaaro
+   ✅ Saved: നൊമ്പരങ്ങൾ തന്നതാരോ ()
+🎵 [296/381] Scraping: 16105
+   ✅ Saved: പാടാത്ത പൈങ്കിളിയേ (2010)
+🎵 [297/381] Scraping: 81054
+   ✅ Saved: ഹേയ് സെക്സി ലേഡി (2010)
+🎵 [298/381] Scraping: 19415
+   ✅ Saved: ആരുമേ കാണാതെ (2010)
+🎵 [299/381] Scraping: 19359
+   ✅ Saved: മാലാഖ പോലെ മകളേ (2010)
+🎵 [300/381] Scraping: 67619
+   ✅ Saved: മൈക്കൽ ജാക്സൺ (2010)
+🎵 [301/381] Scraping: 19424
+   ✅ Saved: വെണ്മുകിലിൻ കമ്പിളി ()
+🎵 [302/381] Scraping: 19426
+   ✅ Saved: വെണ്മുകിലിൻ കമ്പിളി മാറും ()
+🎵 [303/381] Scraping: 67618
+   ✅ Saved: സൂപ്പർ മോം (2010)
+🎵 [304/381] Scraping: 19466
+   ✅ Saved: ഇന്നൊരീ മഴയിൽ (2010)
+🎵 [305/381] Scraping: 19467
+   ✅ Saved: കാത്തു കാത്തു വെച്ചൊരു (2010)
+🎵 [306/381] Scraping: 19465
+   ✅ Saved: ചങ്ങായീ (2010)
+🎵 [307/381] Scraping: 80382
+   ✅ Saved: നേരിൻ വഴിതൻ (2010)
+🎵 [308/381] Scraping: 19464
+   ✅ Saved: മാന്യമഹാജനങ്ങളെ (2010)
+🎵 [309/381] Scraping: 19468
+   ✅ Saved: ലവൻ കശ്മലൻ (2010)
+🎵 [310/381] Scraping: 80380
+   ✅ Saved: സ്നേഹമേ (2010)
+🎵 [311/381] Scraping: 24436
+   ✅ Saved: അത്തിക്കൊമ്പിലിരുന്നാലോ ()
+🎵 [312/381] Scraping: 24434
+   ✅ Saved: എന്റടുക്കെ വന്നടുക്കും ()
+🎵 [313/381] Scraping: 68046
+   ✅ Saved: കുഞ്ഞാടേ (F) (2010)
+🎵 [314/381] Scraping: 24433
+   ✅ Saved: കുഞ്ഞാടേ കുറുമ്പനാടേ (M) ()
+🎵 [315/381] Scraping: pancharachiri
+   ✅ Saved: പഞ്ചാരച്ചിരി കൊണ്ട് ()
+🎵 [316/381] Scraping: anuraga-yamune
+   ✅ Saved: അനുരാഗയമുനേ ()
+🎵 [317/381] Scraping: thenundo-poove
+   ✅ Saved: തേനുണ്ടോ പൂവേ ()
+🎵 [318/381] Scraping: ponmaane-en-allimulam-koottinullil
+   ✅ Saved: പൊന്മാനേ എൻ അല്ലിമുളം കൂട്ടിനുള്ളിൽ ()
+🎵 [319/381] Scraping: vrindavanamundo-radhe
+   ✅ Saved: വൃന്ദാവനമുണ്ടോ രാധേ ()
+🎵 [320/381] Scraping: 18334
+   ✅ Saved: ഒരു മതവുമന്യമല്ലെന്നും (2010)
+🎵 [321/381] Scraping: 18335
+   ✅ Saved: കോടി കോടി അടിമകൾ (2010)
+🎵 [322/381] Scraping: 18336
+   ✅ Saved: ജാതിഭേദം മതദ്വേഷം (2010)
+🎵 [323/381] Scraping: 18346
+   ✅ Saved: ദാഹിക്കുന്നു ഭഗിനീ (2010)
+🎵 [324/381] Scraping: 80824
+   ✅ Saved: പ്രജ്ഞാനം (2010)
+🎵 [325/381] Scraping: 80820
+   ✅ Saved: മഞ്ഞുമലയിൽ (2010)
+🎵 [326/381] Scraping: 34065
+   ✅ Saved: ഓ മനോമീ മനോമീ (2010)
+🎵 [327/381] Scraping: 34066
+   ✅ Saved: കിളിപ്പെണ്ണേ മിണ്ടല്ലേ (2010)
+🎵 [328/381] Scraping: 80728
+   ✅ Saved: പൂക്കൾ നിനയ്പ്പതു പോൽ (2010)
+🎵 [329/381] Scraping: 34067
+   ✅ Saved: യാത്രാമൊഴി പറയാതെ (2010)
+🎵 [330/381] Scraping: 34068
+   ✅ Saved: ഹേ സൂര്യാ ഹേ സൂര്യാ (2010)
+🎵 [331/381] Scraping: ilamaan-mizhi-idariyo
+   ✅ Saved: ഇളമാൻ മിഴിയിടറിയോ ()
+🎵 [332/381] Scraping: ilamaan-mizhiyidariyo
+   ✅ Saved: ഇളമാൻ മിഴിയിടറിയോ (ഫീമെയിൽ വേർഷൻ ) ()
+🎵 [333/381] Scraping: 19440
+   ✅ Saved: നീലപ്പൊന്മാനേ (2010)
+🎵 [334/381] Scraping: 36897
+   ✅ Saved: റിംഗ് ടോൺ-ടൈറ്റിൽ സോംഗ് (2010)
+🎵 [335/381] Scraping: 19442
+   ✅ Saved: സുരസുന്ദരി (പത്തല്ലേ പത്തല്ലേ ) (2010)
+🎵 [336/381] Scraping: 63359
+   ✅ Saved: മഴയിൽ വെയിൽ വീണ പോലെ (2010)
+🎵 [337/381] Scraping: prananiletho-swara
+   ✅ Saved: പ്രാണനിലേതോ സ്വര (2010)
+🎵 [338/381] Scraping: 16856
+   ✅ Saved: കണ്ണനാമുണ്ണിയെ കാണുമാറാകേണം ()
+🎵 [339/381] Scraping: 67429
+   ✅ Saved: മണികണ്ഠാ ജയ (2010)
+🎵 [340/381] Scraping: 16851
+   ✅ Saved: വെഞ്ചാമരക്കാറ്റേ ()
+🎵 [341/381] Scraping: gala-gala-gala
+   ✅ Saved: ഗല ഗല ഗല ഗാലേ ()
+🎵 [342/381] Scraping: saaramgiyil-ninnen
+   ✅ Saved: സാരംഗിയിൽ നിന്നെൻ ()
+🎵 [343/381] Scraping: 105725
+   ✅ Saved: എവിടെയാണു നീ (2010)
+🎵 [344/381] Scraping: 64154
+   ✅ Saved: കിനാവിലിന്നൊരു നിലാവൊരുക്കണതാരാണു് (2010)
+🎵 [345/381] Scraping: 64153
+   ✅ Saved: തെങ്കാശിക്കാരെ പൊങ്കലാടിവാ (2010)
+🎵 [346/381] Scraping: 64155
+   ✅ Saved: നീര്‍മിഴിയോടെ അലയുകയായോ (2010)
+🎵 [347/381] Scraping: 19874
+   ✅ Saved: എന്തെടീ എന്തെടീ പനങ്കിളിയേ ()
+🎵 [348/381] Scraping: 19877
+   ✅ Saved: കുതിരവാലു കുലുങ്കതെടീ ()
+🎵 [349/381] Scraping: pada-nayichu-pada-nayichu
+   ✅ Saved: പട നയിച്ചു പട നയിച്ചു ()
+🎵 [350/381] Scraping: pinne-ennodonnum
+   ✅ Saved: പിന്നെ എന്നോടൊന്നും ()
+🎵 [351/381] Scraping: 60080
+   ✅ Saved: പിന്നെ എന്നോടൊന്നും (D) (2010)
+🎵 [352/381] Scraping: 60081
+   ✅ Saved: പ്രതിഘഡിൻസു (2010)
+🎵 [353/381] Scraping: 29203
+   ✅ Saved: അന്തകാന്തകാ (2010)
+🎵 [354/381] Scraping: 29204
+   ✅ Saved: അമ്പിളിക്കലചൂടും (2010)
+🎵 [355/381] Scraping: 29206
+   ✅ Saved: ക്ഷീരധാരയിൽ... (2010)
+🎵 [356/381] Scraping: 29205
+   ✅ Saved: ദക്ഷിണകൈലാസവാസാ... (2010)
+🎵 [357/381] Scraping: 29202
+   ✅ Saved: പമ്പാ ഗണപതിയേ.... (2010)
+🎵 [358/381] Scraping: 29207
+   ✅ Saved: പാർവ്വതീ നായകൻ (2010)
+🎵 [359/381] Scraping: 29208
+   ✅ Saved: പെരുമയാർന്നമരും (2010)
+🎵 [360/381] Scraping: 29209
+   ✅ Saved: രക്തകണ്ഠൻ (2010)
+🎵 [361/381] Scraping: 29210
+   ✅ Saved: ശ്രീശൈലവാസന്റെ (2010)
+🎵 [362/381] Scraping: 35264
+   ✅ Saved: ഒരു പൂവിനിയും വിടരും വനിയിൽ (2010)
+🎵 [363/381] Scraping: 35261
+   ✅ Saved: കാത്തിരുന്നു ഞാൻ, കാത്തിരുന്നു ഞാൻ (2010)
+🎵 [364/381] Scraping: 60078
+   ✅ Saved: ഏതോ രാവില്‍ (2010)
+🎵 [365/381] Scraping: 60079
+   ✅ Saved: കണ്ണേ വാ (2010)
+🎵 [366/381] Scraping: 64695
+   ✅ Saved: നിധി നിറഞ്ഞ (2010)
+🎵 [367/381] Scraping: 64692
+   ✅ Saved: വമ്പുകാട്ടിനടക്കണ (2010)
+🎵 [368/381] Scraping: 81097
+   ✅ Saved: വള നല്ല കുപ്പിവള (2010)
+🎵 [369/381] Scraping: 65036
+   ✅ Saved: ഹോയ്യേഗാ ഹോയ്യേഗാ ()
+🎵 [370/381] Scraping: 16836
+   ✅ Saved: തെക്കിനിക്കോലായച്ചുമരിൽ ()
+🎵 [371/381] Scraping: saayamsandhya
+   ✅ Saved: സായംസന്ധ്യേ ()
+🎵 [372/381] Scraping: 80198
+   ✅ Saved: ചന്തമുള്ള (2010)
+🎵 [373/381] Scraping: 80259
+   ✅ Saved: ചെങ്കൊടി പാറിക്കാന്‍ (2010)
+🎵 [374/381] Scraping: 80260
+   ✅ Saved: സുന്ദരനാം (2010)
+🎵 [375/381] Scraping: 18052
+   ✅ Saved: ഏതോ പൂനിലാക്കാലം (2010)
+🎵 [376/381] Scraping: 18348
+   ✅ Saved: ഒരു മഞ്ഞക്കിളിക്കൂട് (2010)
+🎵 [377/381] Scraping: 18347
+   ✅ Saved: ടേക്ക് ഇറ്റ് ഈസി (2010)
+🎵 [378/381] Scraping: 83776
+   ✅ Saved: ഇന്ദുമുഖീ വരുമോ (2010)
+🎵 [379/381] Scraping: 83778
+   ✅ Saved: താമര വള (2010)
+🎵 [380/381] Scraping: 83777
+   ✅ Saved: പതിനെട്ടഴകൊത്ത (2010)
+🎵 [381/381] Scraping: 83775
+   ✅ Saved: ഹോളിഡേയ്‌സ് (2010)
+Year complete: success=381, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 6289
