@@ -84702,3 +84702,172 @@ Year complete: success=64, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 21944
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1950
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1950
+   Page 1: https://m3db.com/archive/lyrics/year/1950
+   Found 78 songs on this page. Total unique so far: 78
+Total songs to scrape for this year: 78
+🎵 [1/78] Scraping: 40424
+   ✅ Saved: അന്‍പെഴുമെന്‍ പ്രിയതോഴികളേ (1950)
+🎵 [2/78] Scraping: 40421
+   ✅ Saved: എന്നുള്ളം കളിയാടുതേ (1950)
+🎵 [3/78] Scraping: kezhuka-athmasakhi
+   ✅ Saved: കേഴുക ആത്മസഖീ ()
+🎵 [4/78] Scraping: 40420
+   ✅ Saved: ഗാനാമൃതരസലീനാ മദന (1950)
+🎵 [5/78] Scraping: 17812
+   ✅ Saved: ചൊരിയുക മധുമാരി ()
+🎵 [6/78] Scraping: 40423
+   ✅ Saved: ജീവിതാനന്ദം തരും (1950)
+🎵 [7/78] Scraping: 40419
+   ✅ Saved: നൊന്തുയിര്‍ വാടിടും (1950)
+🎵 [8/78] Scraping: 40422
+   ✅ Saved: മന്നില്‍ മഹനീയം (1950)
+🎵 [9/78] Scraping: 40418
+   ✅ Saved: മുല്ലവള്ളിമേലെ (1950)
+🎵 [10/78] Scraping: 40417
+   ✅ Saved: ലില്ലിപപ്പി ലില്ലിപപ്പി (1950)
+🎵 [11/78] Scraping: 40425
+   ✅ Saved: ഹലോ മൈ ഡീയര്‍ (1950)
+🎵 [12/78] Scraping: 12587
+   ✅ Saved: അതിദൂരെയിരുന്നകതാര് ()
+🎵 [13/78] Scraping: aasha-thakarukayo
+   ✅ Saved: ആശ തകരുകയോ ()
+🎵 [14/78] Scraping: 12592
+   ✅ Saved: ഒരു വിചാരം ()
+🎵 [15/78] Scraping: 12589
+   ✅ Saved: ഓ പൊന്നുഷസ്സ് വന്നു ചേർന്നിതാ ()
+🎵 [16/78] Scraping: kalitha-kalamaya
+   ✅ Saved: കലിതകലാമയ ()
+🎵 [17/78] Scraping: 66253
+   ✅ Saved: ചിരകാലമനോഭാവം (1950)
+🎵 [18/78] Scraping: 66254
+   ✅ Saved: ചുടുചിന്തതന്‍ ചിതയില്‍ (1950)
+🎵 [19/78] Scraping: nee-maathraminnu-chaare
+   ✅ Saved: നീ മാത്രമിന്നു ചാരേ ()
+🎵 [20/78] Scraping: varika-varika
+   ✅ Saved: വരിക വരിക (1950)
+🎵 [21/78] Scraping: varumo-en-priyamaanasan
+   ✅ Saved: വരുമോയെൻ പ്രിയ മാനസൻ ()
+🎵 [22/78] Scraping: 12624
+   ✅ Saved: അമ്മതൻ പ്രേമ സൌഭാഗ്യത്തിടമ്പേ ()
+🎵 [23/78] Scraping: 12628
+   ✅ Saved: ആനന്ദമാണാകെ ആമോദമാണാകെ ()
+🎵 [24/78] Scraping: 66242
+   ✅ Saved: ഇമ്പമേറും ഇതളാകും മിഴികളാല്‍ (1950)
+🎵 [25/78] Scraping: 12630
+   ✅ Saved: കാരണമെന്താവോ ()
+🎵 [26/78] Scraping: 12631
+   ✅ Saved: കൃപാലോ ()
+🎵 [27/78] Scraping: 12627
+   ✅ Saved: ജീവിതവാനം ()
+🎵 [28/78] Scraping: 12632
+   ✅ Saved: പതിയെ ദൈവം (1950)
+🎵 [29/78] Scraping: 12626
+   ✅ Saved: മനോഹരമീ ()
+🎵 [30/78] Scraping: manoharamee-maharajyam
+   ✅ Saved: മനോഹരമീ മഹാരാജ്യം ()
+🎵 [31/78] Scraping: 12525
+   ✅ Saved: മഹേശാ മായമോ ()
+🎵 [32/78] Scraping: 12625
+   ✅ Saved: മാനം തന്ന മാരിവില്ലേ ()
+🎵 [33/78] Scraping: 66241
+   ✅ Saved: ശംഭോ ശംഭോ ഞാന്‍ കാണ്മതെന്താണിദം (1950)
+🎵 [34/78] Scraping: 12629
+   ✅ Saved: ശംഭോ ശംഭോ ശിവനേ ()
+🎵 [35/78] Scraping: 12623
+   ✅ Saved: സോദരബന്ധം അതൊന്നേ ()
+🎵 [36/78] Scraping: 12647
+   ✅ Saved: ആഗതമായ് മധുകാലം ()
+🎵 [37/78] Scraping: ellaam-sundaramayam
+   ✅ Saved: എല്ലാം സുന്ദരമയം (1950)
+🎵 [38/78] Scraping: 12645
+   ✅ Saved: കലാനികേതേ ()
+🎵 [39/78] Scraping: 66246
+   ✅ Saved: കായികസൌഭാഗ്യം സദാ (1950)
+🎵 [40/78] Scraping: ganamohana
+   ✅ Saved: ഗാനമോഹനാ ()
+🎵 [41/78] Scraping: jaathivairam
+   ✅ Saved: ജാതിവൈരം ()
+🎵 [42/78] Scraping: thakarukayo
+   ✅ Saved: തകരുകയോ ()
+🎵 [43/78] Scraping: dhavalaroopa
+   ✅ Saved: ധവളരൂപാ (1950)
+🎵 [44/78] Scraping: ninne-charanatainthen
+   ✅ Saved: നിന്നൈ ചരണടൈന്തേൻ (1950)
+🎵 [45/78] Scraping: ponne-neeyum-njanum
+   ✅ Saved: പൊന്നേ നീയും ഞാനും (1950)
+🎵 [46/78] Scraping: 66245
+   ✅ Saved: ഭാരതമാതാ (1950)
+🎵 [47/78] Scraping: 12642
+   ✅ Saved: വിധിയുടെ ലീലാവിനോദങ്ങളേ ()
+🎵 [48/78] Scraping: sukrutharaagamayamullam
+   ✅ Saved: സുകൃതരാഗമയമുള്ളം ()
+🎵 [49/78] Scraping: sneham-thookum-mathe
+   ✅ Saved: സ്നേഹം തൂകും മാതേ ()
+🎵 [50/78] Scraping: 34994
+   ✅ Saved: അഴലേഴും ജീവിതം (1950)
+🎵 [51/78] Scraping: 34998
+   ✅ Saved: അഹോ പ്രേമമേ നീ നേടീടും (1950)
+🎵 [52/78] Scraping: 66243
+   ✅ Saved: ആനന്ദമേ (1950)
+🎵 [53/78] Scraping: 34999
+   ✅ Saved: ഇമ്പമേ.. ഇമ്പമേ (1950)
+🎵 [54/78] Scraping: 34996
+   ✅ Saved: കണ്ണേ നാണം (1950)
+🎵 [55/78] Scraping: jeevithamoham
+   ✅ Saved: ജീവിതമോഹം (1950)
+🎵 [56/78] Scraping: 34995
+   ✅ Saved: നീയെന്‍ ചന്ദ്രനേ (1950)
+🎵 [57/78] Scraping: 66244
+   ✅ Saved: നീയെന്‍ ചന്ദ്രനേ ഞാന്‍ നിന്‍ ചന്ദ്രിക (F) (1950)
+🎵 [58/78] Scraping: prameswari-nathe
+   ✅ Saved: പരമേശ്വരി നാഥേ (1950)
+🎵 [59/78] Scraping: 34997
+   ✅ Saved: പ്രേമസുധാ സാരമേ സരസ (1950)
+🎵 [60/78] Scraping: mayam
+   ✅ Saved: മായം താൻ (1950)
+🎵 [61/78] Scraping: vanparideena
+   ✅ Saved: വൻപരിദീന (1950)
+🎵 [62/78] Scraping: 78115
+   ✅ Saved: അനിതരവനിതാ (1950)
+🎵 [63/78] Scraping: 78134
+   ✅ Saved: ഈ ലോകം ശോകമൂകം (1950)
+🎵 [64/78] Scraping: 66239
+   ✅ Saved: ഓമനത്തിങ്കള്‍ക്കിടാവോ (1950)
+🎵 [65/78] Scraping: 78133
+   ✅ Saved: കവിയായി കഴിയുവാന്‍ (1950)
+🎵 [66/78] Scraping: 78132
+   ✅ Saved: ക്ഷണഭംഗുര (1950)
+🎵 [67/78] Scraping: 78131
+   ✅ Saved: ജഗമൊരു നാടകശാലാ (1950)
+🎵 [68/78] Scraping: 78130
+   ✅ Saved: ജീവിത മഹിതാരാമം (1950)
+🎵 [69/78] Scraping: 78129
+   ✅ Saved: താമരത്താരിതള്‍കണ്മിഴി ()
+🎵 [70/78] Scraping: 78128
+   ✅ Saved: നന്ദനന്ദനാ (1950)
+🎵 [71/78] Scraping: 78127
+   ✅ Saved: നാഗരികരസികജീവിതമേന്തി (1950)
+🎵 [72/78] Scraping: 78126
+   ✅ Saved: പഞ്ചശരസന്താപാല്‍ (1950)
+🎵 [73/78] Scraping: 78123
+   ✅ Saved: പതിതന്നെ പരദൈവതം (1950)
+🎵 [74/78] Scraping: parasurama-bhoomi
+   ✅ Saved: പരശുരാമ ഭൂമി (1950)
+🎵 [75/78] Scraping: 78122
+   ✅ Saved: പരശുരാമഭൂമീ (1950)
+🎵 [76/78] Scraping: 78121
+   ✅ Saved: മാമകജീവിതലതികയില്‍ (1950)
+🎵 [77/78] Scraping: 78118
+   ✅ Saved: രാഗസാഗരതരംഗമാലാ (1950)
+🎵 [78/78] Scraping: 78117
+   ✅ Saved: ഹാഹാ മോഹനം (1950)
+Year complete: success=78, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22022
