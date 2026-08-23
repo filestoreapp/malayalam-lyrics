@@ -83098,3 +83098,124 @@ Year complete: success=163, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 21207
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1960
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1960
+   Page 1: https://m3db.com/archive/lyrics/year/1960
+   Found 54 songs on this page. Total unique so far: 54
+Total songs to scrape for this year: 54
+🎵 [1/54] Scraping: 11975
+   ✅ Saved: അപ്പം തിന്നാൻ തപ്പുകൊട്ട് ()
+🎵 [2/54] Scraping: illa-varilla-nee
+   ✅ Saved: ഇല്ല വരില്ല നീ (1960)
+🎵 [3/54] Scraping: 13241
+   ✅ Saved: എൻ കണ്ണിന്റെ കടവിലടുത്താൽ ()
+🎵 [4/54] Scraping: 13243
+   ✅ Saved: കണ്ണീരെന്തിനു വാനമ്പാടി ()
+🎵 [5/54] Scraping: 13244
+   ✅ Saved: കഥ പറയാമെൻ കഥ പറയാം ()
+🎵 [6/54] Scraping: 6677
+   ✅ Saved: കദളിവാഴക്കൈയിലിരുന്നു ()
+🎵 [7/54] Scraping: 14427
+   ✅ Saved: കുയിലേ കുയിലേ ()
+🎵 [8/54] Scraping: 13245
+   ✅ Saved: കൊഞ്ചുന്ന പൈങ്കിളിയാണു ()
+🎵 [9/54] Scraping: 13242
+   ✅ Saved: തള്ളാനും കൊള്ളാനും നീയാരു മൂഢാ ()
+🎵 [10/54] Scraping: 11974
+   ✅ Saved: നിത്യസഹായ നാഥേ ()
+🎵 [11/54] Scraping: 11976
+   ✅ Saved: പാലാണു തേനാണെൻ ()
+🎵 [12/54] Scraping: 67003
+   ✅ Saved: പെറ്റമ്മയാകും (1960)
+🎵 [13/54] Scraping: 67004
+   ✅ Saved: പോരുനീ പൊന്മയിലേ (1960)
+🎵 [14/54] Scraping: 67005
+   ✅ Saved: രാരിരോ രാരാരിരോ (1960)
+🎵 [15/54] Scraping: 13240
+   ✅ Saved: വെളിക്കു കാണുമ്പം ()
+🎵 [16/54] Scraping: arakka-roofa
+   ✅ Saved: അരക്കാ രൂഫാ മാറാൻ കൊറുക്കാ ()
+🎵 [17/54] Scraping: ikkanathe-polathe-meesa
+   ✅ Saved: ഇക്കാനെപ്പോലത്തെ മീശ ()
+🎵 [18/54] Scraping: 13256
+   ✅ Saved: ഓട്ടക്കണ്ണിട്ടു നോക്കും കാക്കേ ()
+🎵 [19/54] Scraping: 13265
+   ✅ Saved: കര കാണാത്തൊരു കടലാണല്ലോ ()
+🎵 [20/54] Scraping: 13260
+   ✅ Saved: ദൈവത്തിൻ പുത്രൻ ജനിച്ചൂ ()
+🎵 [21/54] Scraping: 13258
+   ✅ Saved: നയാപൈസയില്ലാ കൈയ്യിലൊരു ()
+🎵 [22/54] Scraping: 13252
+   ✅ Saved: നീയല്ലാതാരുണ്ടെന്നുടെ പ്രണയപ്പുഴയില്‍ ()
+🎵 [23/54] Scraping: 13262
+   ✅ Saved: മനുസന്റെ നെഞ്ചില്‍ ()
+🎵 [24/54] Scraping: 13269
+   ✅ Saved: മാനത്തെക്കുന്നിൻ ചെരുവിൽ ()
+🎵 [25/54] Scraping: 13254
+   ✅ Saved: വാനിലെ മണിദീപം മങ്ങി ()
+🎵 [26/54] Scraping: 37980
+   ✅ Saved: ഒന്നുചിരിക്കൂ കണ്ണുതിരിക്കൂ (1960)
+🎵 [27/54] Scraping: 17550
+   ✅ Saved: ഒരു പിഴയും കരുതിടാത്ത ()
+🎵 [28/54] Scraping: 37979
+   ✅ Saved: ഓ ബാബുജി പുതുമണവാളാ (1960)
+🎵 [29/54] Scraping: 37969
+   ✅ Saved: കടലമ്മേ കനിയുക നീ (1960)
+🎵 [30/54] Scraping: 17548
+   ✅ Saved: കരുണതന്‍ മണിദീപമേ ()
+🎵 [31/54] Scraping: 37977
+   ✅ Saved: കല്യാണം കളിയാണെന്നാര് (1960)
+🎵 [32/54] Scraping: 37978
+   ✅ Saved: കളിയാടും പൂമാല (1960)
+🎵 [33/54] Scraping: 67019
+   ✅ Saved: ഉണ്ണിപിറന്നു ഉണ്ണിപിറന്നു (1960)
+🎵 [34/54] Scraping: 67008
+   ✅ Saved: കണ്ണേ നുകരൂ സ്വര്‍ഗ്ഗസുഖം (1960)
+🎵 [35/54] Scraping: 67007
+   ✅ Saved: കാണ്മൂ ഞാന്‍ നിന്റെ ദശാവതാരങ്ങള്‍ (1960)
+🎵 [36/54] Scraping: 67010
+   ✅ Saved: നേരം പോയീ നട നട (1960)
+🎵 [37/54] Scraping: paattupaadi-urakkaam-njaan
+   ✅ Saved: പാട്ടുപാടിയുറക്കാം ഞാൻ (1960)
+🎵 [38/54] Scraping: 67011
+   ✅ Saved: പാവനഭാരത നാരീമണിതന്‍ (1960)
+🎵 [39/54] Scraping: 67012
+   ✅ Saved: പ്രജകളുണ്ടോ പ്രജകളുണ്ടോ (1960)
+🎵 [40/54] Scraping: 64306
+   ✅ Saved: മംഗളം നേരുക (1960)
+🎵 [41/54] Scraping: 67013
+   ✅ Saved: രാമരാജ്യത്തിന്റെ മേന്മകണ്ടോ (1960)
+🎵 [42/54] Scraping: 67014
+   ✅ Saved: രാമരാമ പാഹിമാം മുകുന്ദരാമ പാഹിമാം (1960)
+🎵 [43/54] Scraping: 67009
+   ✅ Saved: ലങ്കയില്‍ വാണ സീതയിലെന്തോ (1960)
+🎵 [44/54] Scraping: 67020
+   ✅ Saved: വീണേ പാടുക പ്രിയതരമായ് (1960)
+🎵 [45/54] Scraping: 67015
+   ✅ Saved: സീതേ ലോകമാതേ (1960)
+🎵 [46/54] Scraping: 13248
+   ✅ Saved: ഇനിയുറങ്ങൂ നീലക്കുയിലുകളേ ()
+🎵 [47/54] Scraping: 13251
+   ✅ Saved: കഥ പറയാമോ കാറ്റേ ()
+🎵 [48/54] Scraping: chandana-charchitha
+   ✅ Saved: ചന്ദനചർച്ചിത നീലകളേബര (1960)
+🎵 [49/54] Scraping: 13250
+   ✅ Saved: താമരക്കണ്ണാലാരെ തേടണ ()
+🎵 [50/54] Scraping: 13249
+   ✅ Saved: തൊട്ടാൽ മൂക്കിന്നു ശുണ്ഠി നീ ()
+🎵 [51/54] Scraping: 67025
+   ✅ Saved: പ്രാണവല്ലഭമാരേ (1960)
+🎵 [52/54] Scraping: 13246
+   ✅ Saved: മധുവിധുവിൻ രാത്രി വന്നു ()
+🎵 [53/54] Scraping: 13247
+   ✅ Saved: മാനത്തുള്ളൊരു മുത്തശ്ശിയിന്നലെ ()
+🎵 [54/54] Scraping: maaran-varunnennu
+   ✅ Saved: മാരൻ വരുന്നെന്ന് (1960)
+Year complete: success=54, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 21261
