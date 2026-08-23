@@ -26083,3 +26083,696 @@ Year complete: success=384, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 10687
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1994
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1994
+   Page 1: https://m3db.com/archive/lyrics/year/1994
+   Found 340 songs on this page. Total unique so far: 340
+Total songs to scrape for this year: 340
+🎵 [1/340] Scraping: 102520
+   ✅ Saved: കണ്ണകിപ്പാട്ടുമായ് പാട്ടംബല (1990)
+🎵 [2/340] Scraping: 102519
+   ✅ Saved: കളിയാടിവന്നു കുളങ്ങരെ (1990)
+🎵 [3/340] Scraping: 102510
+   ✅ Saved: ഗം ഗണനായകം വന്ദേഹം (1990)
+🎵 [4/340] Scraping: 102508
+   ✅ Saved: ചിക്കരക്കുട്ടികളേ നിങ്ങൾ (1990)
+🎵 [5/340] Scraping: 102512
+   ✅ Saved: ജീവിത സാഗരം നീന്തി (1990)
+🎵 [6/340] Scraping: 102511
+   ✅ Saved: നീലമേഘക്കൂന്തലുണ്ട് (1990)
+🎵 [7/340] Scraping: 102521
+   ✅ Saved: മണിത്തിങ്കൾ കല വിളങ്ങും (1990)
+🎵 [8/340] Scraping: valampiri-shankhil-theerthavumayi
+   ✅ Saved: വലംപിരി ശംഖിൽ തീർത്ഥവുമായി (1990)
+🎵 [9/340] Scraping: 98557
+   ✅ Saved: കേളീ നന്ദന മധുവനിയിൽ (1994)
+🎵 [10/340] Scraping: 10030
+   ✅ Saved: ജന്മാന്തരങ്ങളെ മൃത്യുഞ്ജയം കൊണ്ട് ()
+🎵 [11/340] Scraping: 98574
+   ✅ Saved: നാഥാ നിൻ ഗന്ധർവ - F (1994)
+🎵 [12/340] Scraping: 10031
+   ✅ Saved: നാഥാ നിൻ ഗന്ധർവ - M ()
+🎵 [13/340] Scraping: samayam-manoharam
+   ✅ Saved: സമയം മനോഹരം (1994)
+🎵 [14/340] Scraping: 98558
+   ✅ Saved: സ്വർഗ്ഗവാതിൽക്കിളിക്കൂട്ടിൽ നിന്നും (1994)
+🎵 [15/340] Scraping: ninne-njan-snehikkunnu
+   ✅ Saved: നിന്നെ ഞാൻ സ്നേഹിക്കുന്നു (1994)
+🎵 [16/340] Scraping: ponnaram-vilayunna
+   ✅ Saved: പൊന്നാരം വിളയുന്ന ()
+🎵 [17/340] Scraping: ponnaryan-vilayunna
+   ✅ Saved: പൊന്നാര്യൻ വിളയുന്ന (1994)
+🎵 [18/340] Scraping: manathoru-thampuratti
+   ✅ Saved: മാനത്തൊരു തമ്പുരാട്ടി (1994)
+🎵 [19/340] Scraping: 87195
+   ✅ Saved: ഇല്ലിക്കാട്ടില്‍ നിന്നും - D (1994)
+🎵 [20/340] Scraping: 87196
+   ✅ Saved: ഇല്ലിക്കാട്ടില്‍ നിന്നും - F (1994)
+🎵 [21/340] Scraping: 87194
+   ✅ Saved: ഇല്ലിക്കാട്ടില്‍ നിന്നും - M (1994)
+🎵 [22/340] Scraping: 19523
+   ✅ Saved: ഇല്ലിക്കാട്ടിൽ നിന്നും (1994)
+🎵 [23/340] Scraping: 19524
+   ✅ Saved: ഓടിയോടി വന്നേ (1994)
+🎵 [24/340] Scraping: 87197
+   ✅ Saved: ഓടിയോടിയോടി വന്നേ (1994)
+🎵 [25/340] Scraping: 87190
+   ✅ Saved: കാണുവാൻ മോഹം (1994)
+🎵 [26/340] Scraping: 13391
+   ✅ Saved: കാണുവാൻ മോഹം കാണുവാൻ മോഹം (1994)
+🎵 [27/340] Scraping: 87193
+   ✅ Saved: ചാഞ്ചക്കം കടലില്‍ (1994)
+🎵 [28/340] Scraping: 19522
+   ✅ Saved: ചാഞ്ചക്കം കടലിൽ (1994)
+🎵 [29/340] Scraping: 100606
+   ✅ Saved: ഒരു മന്ത്രകോടിയുമായ് (1994)
+🎵 [30/340] Scraping: 100608
+   ✅ Saved: നുരപതയും തീരത്തോടും (1994)
+🎵 [31/340] Scraping: 100607
+   ✅ Saved: മേലേ വാനം കുടനിവർത്തിയ (1994)
+🎵 [32/340] Scraping: 100610
+   ✅ Saved: ശോകവിപഞ്ചിതൻ - F (1994)
+🎵 [33/340] Scraping: 100609
+   ✅ Saved: ശോകവിപഞ്ചിതൻ - M (1994)
+🎵 [34/340] Scraping: 99916
+   ✅ Saved: ചന്ദനം ചാറുന്ന ചക്കരപ്പന്തൽ (1994)
+🎵 [35/340] Scraping: 99917
+   ✅ Saved: നായ്ക്കരിമ്പ് കൂട് (1994)
+🎵 [36/340] Scraping: 99972
+   ✅ Saved: പൊണ്ണുക്ക് പൂമനസ്സ് (1994)
+🎵 [37/340] Scraping: kabulivala-nadodi
+   ✅ Saved: കാബൂളിവാലാ നാടോടി ()
+🎵 [38/340] Scraping: 100604
+   ✅ Saved: കാബൂളിവാലാ നാടോടി - M (1994)
+🎵 [39/340] Scraping: thennal-vannathum
+   ✅ Saved: തെന്നൽ വന്നതും ()
+🎵 [40/340] Scraping: 12125
+   ✅ Saved: പാൽനിലാവിനും ()
+🎵 [41/340] Scraping: 24653
+   ✅ Saved: പിറന്നൊരീമണ്ണും മാറുകില്ല്ല ()
+🎵 [42/340] Scraping: 7100
+   ✅ Saved: പുത്തൻപുതുക്കാലം ()
+🎵 [43/340] Scraping: 24654
+   ✅ Saved: പുത്തൻ‌പുതുക്കാലം മുത്തമിട്ടനേരം ()
+🎵 [44/340] Scraping: 16230
+   ✅ Saved: നോവുമിടനെഞ്ചിൽ ()
+🎵 [45/340] Scraping: 100448
+   ✅ Saved: പോരു നീ വാരിളം - M (1994)
+🎵 [46/340] Scraping: 13783
+   ✅ Saved: പോരു നീ വാരിളം ചന്ദ്രലേഖേ ()
+🎵 [47/340] Scraping: 100449
+   ✅ Saved: മസ്തി കെ യെഹ് രാത് (1994)
+🎵 [48/340] Scraping: 99488
+   ✅ Saved: ഓലച്ചങ്ങാലീ ഓമനച്ചങ്ങാതീ - F (1994)
+🎵 [49/340] Scraping: 14639
+   ✅ Saved: ഓലച്ചങ്ങാലീ ഓമനച്ചങ്ങാതീ - M ()
+🎵 [50/340] Scraping: 99487
+   ✅ Saved: ഓർമ്മകളിൽ പാൽമഴയായ് (1994)
+🎵 [51/340] Scraping: konnappoo-pon-niram
+   ✅ Saved: കൊന്നപ്പൂ പൊൻ നിറം ()
+🎵 [52/340] Scraping: 14640
+   ✅ Saved: താരാംബരം പൂക്കും ()
+🎵 [53/340] Scraping: 99489
+   ✅ Saved: മുത്തോലച്ചില്ലാട്ടം (1994)
+🎵 [54/340] Scraping: raagahemantha-sandhya
+   ✅ Saved: രാഗഹേമന്ത സന്ധ്യ (1994)
+🎵 [55/340] Scraping: anchunilappanthalitta-f
+   ✅ Saved: അഞ്ചുനിലപ്പന്തലിട്ട - F (1994)
+🎵 [56/340] Scraping: anchunilappanthalitta-m
+   ✅ Saved: അഞ്ചുനിലപ്പന്തലിട്ട - M (1994)
+🎵 [57/340] Scraping: pullanikkattile
+   ✅ Saved: പുല്ലാനിക്കാട്ടിലെ (1994)
+🎵 [58/340] Scraping: 64011
+   ✅ Saved: മുണ്ടോൻ പാടം വെളഞ്ഞിറങ്ങി (1994)
+🎵 [59/340] Scraping: 64017
+   ✅ Saved: ആതിരാ പാൽനിലാവ് (1994)
+🎵 [60/340] Scraping: 64013
+   ✅ Saved: ജന്മനാൾ ഭാവുകങ്ങൾ നേരുന്നു (1994)
+🎵 [61/340] Scraping: 64014
+   ✅ Saved: ഹരിശ്രീ ഗണപതയെ നമഹ (1994)
+🎵 [62/340] Scraping: 99887
+   ✅ Saved: കുളിരു കുമ്പിൾ കോട്ടും (1994)
+🎵 [63/340] Scraping: 15619
+   ✅ Saved: കൊല്ലംകോട്ടു തൂക്കം - M ()
+🎵 [64/340] Scraping: 99886
+   ✅ Saved: കോല്ലംകോട്ടു തൂക്കം - F (1994)
+🎵 [65/340] Scraping: niramezhum-thunni-cherkkum
+   ✅ Saved: നിറമേഴും തുന്നിച്ചേർക്കും ()
+🎵 [66/340] Scraping: 99834
+   ✅ Saved: കുങ്കുമപ്പൂ ചിരിച്ചു - D (1994)
+🎵 [67/340] Scraping: 99833
+   ✅ Saved: കുങ്കുമപ്പൂ ചിരിച്ചു - F (1994)
+🎵 [68/340] Scraping: 99832
+   ✅ Saved: പനിനീർ തെന്നലായ് (1994)
+🎵 [69/340] Scraping: 16056
+   ✅ Saved: കണ്ണനാരാരോ ഉണ്ണിക്കണ്മണി ആരാരോ - F ()
+🎵 [70/340] Scraping: 100157
+   ✅ Saved: കണ്ണനാരാരോ ഉണ്ണിക്കണ്മണി ആരാരോ - M (1994)
+🎵 [71/340] Scraping: 100156
+   ✅ Saved: പവിഴവുമായ് വരും (1994)
+🎵 [72/340] Scraping: 100158
+   ✅ Saved: പീലിവീശിയാടി (1994)
+🎵 [73/340] Scraping: sindoorappoo-manassl
+   ✅ Saved: സിന്ദൂരപ്പൂ മനസ്സിൽ ()
+🎵 [74/340] Scraping: akashaveedhiyil
+   ✅ Saved: ആകാശവീഥിയില്‍ (1994)
+🎵 [75/340] Scraping: manjaninja-poovin
+   ✅ Saved: മഞ്ഞണിഞ്ഞ പൂവിന്‍ (1994)
+🎵 [76/340] Scraping: love-oh-my-love
+   ✅ Saved: ലൗ ഓഹ് മൈ ലൗ (1994)
+🎵 [77/340] Scraping: varunnu-varunnoru-sangham
+   ✅ Saved: വരുന്നു വരുന്നൊരു സംഘം (1994)
+🎵 [78/340] Scraping: hrudayamennathenikkilla
+   ✅ Saved: ഹൃദയമെന്നതെനിക്കില്ല (1994)
+🎵 [79/340] Scraping: 100694
+   ✅ Saved: കലാവതി മനോഹരി (1994)
+🎵 [80/340] Scraping: 10115
+   ✅ Saved: ഗാനാലാപം മന്ത്ര ()
+🎵 [81/340] Scraping: nilaavin-geetham
+   ✅ Saved: നിലാവിൻ ഗീതം (1994)
+🎵 [82/340] Scraping: 100693
+   ✅ Saved: പകലിന്റെ പൂങ്കവിൾ (1994)
+🎵 [83/340] Scraping: mangala-sreeranga-vedhiyil
+   ✅ Saved: മംഗള ശ്രീരംഗവേദിയിൽ (1994)
+🎵 [84/340] Scraping: 3613
+   ✅ Saved: അ.. അ. അമ്മ ()
+🎵 [85/340] Scraping: aksharamoru
+   ✅ Saved: അക്ഷരമൊരു ()
+🎵 [86/340] Scraping: 3615
+   ✅ Saved: കതിരോൻ കണി വെയ്ക്കും ()
+🎵 [87/340] Scraping: 103654
+   ✅ Saved: വാ പൂവേ വാ പൂവേ (1994)
+🎵 [88/340] Scraping: 103655
+   ✅ Saved: സരസിജ (1994)
+🎵 [89/340] Scraping: 34142
+   ✅ Saved: താനാരോ തന്നാരോ തക (1994)
+🎵 [90/340] Scraping: 34140
+   ✅ Saved: നാട്ടുമാവിന്‍ കൊമ്പിലെ - D (1994)
+🎵 [91/340] Scraping: 99985
+   ✅ Saved: നാട്ടുമാവിന്‍ കൊമ്പിലെ - F (1994)
+🎵 [92/340] Scraping: 34141
+   ✅ Saved: പാലാഴി തിരകളില്‍ (1994)
+🎵 [93/340] Scraping: 99831
+   ✅ Saved: ജിന്നു തന്ന ലഹരിയോ (1994)
+🎵 [94/340] Scraping: 99464
+   ✅ Saved: അമ്മേ നീ ഒന്നുകൂടി (1994)
+🎵 [95/340] Scraping: 99467
+   ✅ Saved: ഇതെന്തു കൊമ്പാണോ (1994)
+🎵 [96/340] Scraping: 99466
+   ✅ Saved: ഒരു മോഹമഞ്ജിമയിൽ (1994)
+🎵 [97/340] Scraping: sangamam-eppol
+   ✅ Saved: സംഗമം എപ്പോള്‍... (1995)
+🎵 [98/340] Scraping: 99465
+   ✅ Saved: സംഗമം എപ്പോൾ (1994)
+🎵 [99/340] Scraping: 77140
+   ✅ Saved: ഇങ്ക്വിലാബ് സിന്ദാബാദ് (1994)
+🎵 [100/340] Scraping: 77141
+   ✅ Saved: ഇന്നു മുഴുവൻ (1994)
+🎵 [101/340] Scraping: 13393
+   ✅ Saved: പൂവണിക്കാറ്റേ വായോ പുന്നാരക്കാറ്റേ ()
+🎵 [102/340] Scraping: 77139
+   ✅ Saved: മലയപ്പുലയനാ (1994)
+🎵 [103/340] Scraping: 13395
+   ✅ Saved: രക്തസാക്ഷികളേ ലാൽസലാം ()
+🎵 [104/340] Scraping: anthimaanam-pootha-pole
+   ✅ Saved: അന്തിമാനം പൂത്ത പോലെ ()
+🎵 [105/340] Scraping: ini-yathra
+   ✅ Saved: ഇനി യാത്ര ()
+🎵 [106/340] Scraping: thaalathil-olangal
+   ✅ Saved: താളത്തിൽ ഓളങ്ങൾ ()
+🎵 [107/340] Scraping: malaramban-thazhukunna
+   ✅ Saved: മലരമ്പൻ തഴുകുന്ന ()
+🎵 [108/340] Scraping: 100672
+   ✅ Saved: അക്കരെ ഇക്കരെ (1994)
+🎵 [109/340] Scraping: 100674
+   ✅ Saved: അനുരാഗചന്ദ്രനായ് വരൂ (1994)
+🎵 [110/340] Scraping: 100098
+   ✅ Saved: ഏഴാം സ്വർഗ്ഗം കണ്ടു (1994)
+🎵 [111/340] Scraping: 100099
+   ✅ Saved: ജമ്മാ ജമ്മാ (1994)
+🎵 [112/340] Scraping: 100097
+   ✅ Saved: പാതിരാവിൽ പൂങ്കിനാവിൽ (1994)
+🎵 [113/340] Scraping: 100266
+   ✅ Saved: മേടക്കാറ്റേ കൂടെ വാ (1994)
+🎵 [114/340] Scraping: 100265
+   ✅ Saved: വരവർണ്ണമേളയായ് (1994)
+🎵 [115/340] Scraping: 99540
+   ✅ Saved: അഞ്ചൽക്കാരീ തൊട്ടാവാടി (1994)
+🎵 [116/340] Scraping: 99539
+   ✅ Saved: തൈത്തെന്നൽ ചെല്ലത്താളം തട്ടി (1994)
+🎵 [117/340] Scraping: 99537
+   ✅ Saved: വർണ്ണക്കിണ്ണം വാനോരം - F (1994)
+🎵 [118/340] Scraping: 99538
+   ✅ Saved: വർണ്ണക്കിണ്ണം വാനോരം - M (1994)
+🎵 [119/340] Scraping: 100226
+   ✅ Saved: പഞ്ചാരപ്പാട്ടും പാടി - D (1994)
+🎵 [120/340] Scraping: 100225
+   ✅ Saved: പഞ്ചാരപ്പാട്ടും പാടി - F (1994)
+🎵 [121/340] Scraping: manasukalude-sangamam
+   ✅ Saved: മനസ്സുകളുടെ സംഗമം ()
+🎵 [122/340] Scraping: enthe-manassiloru-naanam
+   ✅ Saved: എന്തേ മനസ്സിലൊരു നാണം ()
+🎵 [123/340] Scraping: 9930
+   ✅ Saved: കറുത്ത പെണ്ണേ നിന്നെ ()
+🎵 [124/340] Scraping: 8511
+   ✅ Saved: കള്ളി പൂങ്കുയിലേ ()
+🎵 [125/340] Scraping: nilaponkalayelo
+   ✅ Saved: നിലാപൊങ്കലായേലോ.. ()
+🎵 [126/340] Scraping: maanam-thelinje
+   ✅ Saved: മാനം തെളിഞ്ഞേ നിന്നാൽ ()
+🎵 [127/340] Scraping: 100227
+   ✅ Saved: അഷ്ടലക്ഷ്മി കോവിലിലെ (1994)
+🎵 [128/340] Scraping: mugdhahaasam
+   ✅ Saved: മുഗ്ദ്ധഹാസം ()
+🎵 [129/340] Scraping: 99830
+   ✅ Saved: അതിശയ സംഭ്രമ സാഗരം (1994)
+🎵 [130/340] Scraping: 98897
+   ✅ Saved: നാടെങ്ങ് കൂടെങ്ങ് പേരില്ല കാറ്റെ (1994)
+🎵 [131/340] Scraping: 99773
+   ✅ Saved: ബാഹോം മെ (1994)
+🎵 [132/340] Scraping: 98889
+   ✅ Saved: മാനസം തുഷാരം തൂവിടും സാരസം കിനാവോരം (1994)
+🎵 [133/340] Scraping: 4009
+   ✅ Saved: ഇനിയൊരു ഗാനം നിനക്കായ് ()
+🎵 [134/340] Scraping: irulin-mahanidrayil
+   ✅ Saved: ഇരുളിൻ മഹാനിദ്രയിൽ ()
+🎵 [135/340] Scraping: 99869
+   ✅ Saved: ഇറ്റ്സ് ബ്രേക്കിംഗ് മൈ ഹാർട്ട് (1994)
+🎵 [136/340] Scraping: 15006
+   ✅ Saved: ഞാൻ ഈ രാത്രിയെ സ്നേഹിക്കുന്നു ()
+🎵 [137/340] Scraping: 99867
+   ✅ Saved: ദൂരത്തൊരു തീരത്തിൽ (1994)
+🎵 [138/340] Scraping: 99866
+   ✅ Saved: നന്ദ്യാർ വിളക്കും (1994)
+🎵 [139/340] Scraping: innallo-poo-thirunal
+   ✅ Saved: ഇന്നല്ലോ പൂത്തിരുന്നാൾ ()
+🎵 [140/340] Scraping: 15016
+   ✅ Saved: മൈലാഞ്ചിയെന്തിനീ ()
+🎵 [141/340] Scraping: 99239
+   ✅ Saved: ഇടവഴിയോരത്തെ സുന്ദരി (1994)
+🎵 [142/340] Scraping: 99276
+   ✅ Saved: മഞ്ഞിൻ മയൂരി (1994)
+🎵 [143/340] Scraping: 99277
+   ✅ Saved: മറിമാൻ മിഴി (1994)
+🎵 [144/340] Scraping: 99750
+   ✅ Saved: ഗെറ്റ് മി ദി വൈൽഡ് ഫ്ലവേഴ്സ് (1994)
+🎵 [145/340] Scraping: 99685
+   ✅ Saved: നിറങ്ങളിൽ നീരാടണം (1994)
+🎵 [146/340] Scraping: 15222
+   ✅ Saved: മൂവന്തിയായ് പകലിൽ ()
+🎵 [147/340] Scraping: 11722
+   ✅ Saved: സൂര്യാംശു ഓരോ വയൽപ്പൂവിലും ()
+🎵 [148/340] Scraping: 12755
+   ✅ Saved: സൂര്യാംശുവോരോ വയൽപ്പൂവിലും ()
+🎵 [149/340] Scraping: 10197
+   ✅ Saved: അഞ്ചു ശരങ്ങളും ()
+🎵 [150/340] Scraping: 10196
+   ✅ Saved: പാർവണേന്ദുമുഖീ ()
+🎵 [151/340] Scraping: vaisakha-piurnamiyo
+   ✅ Saved: വൈശാഖപൗർണ്ണമിയോ ()
+🎵 [152/340] Scraping: 100125
+   ✅ Saved: വൈശാഖപൗർണ്ണമിയോ - F (1994)
+🎵 [153/340] Scraping: 10198
+   ✅ Saved: ശാന്താകാരം ()
+🎵 [154/340] Scraping: samaja-sanjarini
+   ✅ Saved: സാമജസഞ്ചാരിണി ()
+🎵 [155/340] Scraping: 100124
+   ✅ Saved: സാമജസഞ്ചാരിണി - F (1994)
+🎵 [156/340] Scraping: kannil-pedamaaninte
+   ✅ Saved: കണ്ണില്‍ പേടമാനിന്‍റെ (1994)
+🎵 [157/340] Scraping: thalamayanju
+   ✅ Saved: താളമയഞ്ഞൂ ഗാനമപൂർണ്ണം ()
+🎵 [158/340] Scraping: 14995
+   ✅ Saved: പറയൂ നിൻ ഹംസഗാനം ()
+🎵 [159/340] Scraping: 100159
+   ✅ Saved: പറയൂ നിൻ ഹംസഗാനം - M (1994)
+🎵 [160/340] Scraping: vaalinmel-poovum
+   ✅ Saved: വാലിന്മേൽ പൂവും ()
+🎵 [161/340] Scraping: sree-ragamo
+   ✅ Saved: ശ്രീരാഗമോ തേടുന്നു ()
+🎵 [162/340] Scraping: 100111
+   ✅ Saved: അന്തിമാനക്കൂടാരം (1994)
+🎵 [163/340] Scraping: 100224
+   ✅ Saved: കുളിരല ഞൊറിയും (1994)
+🎵 [164/340] Scraping: 100112
+   ✅ Saved: വാരിളം തിങ്കൾ - F (1994)
+🎵 [165/340] Scraping: 100113
+   ✅ Saved: വാരിളം തിങ്കൾ - M (1994)
+🎵 [166/340] Scraping: ayye-ayyayyo
+   ✅ Saved: അയ്യേ അയ്യയ്യോ (1994)
+🎵 [167/340] Scraping: 99064
+   ✅ Saved: ഒന്നു തൊട്ടാൽ (1994)
+🎵 [168/340] Scraping: 10210
+   ✅ Saved: ഒരു മൗനമായ് ()
+🎵 [169/340] Scraping: 99059
+   ✅ Saved: ഒരു മൗനമായ് (F) (1994)
+🎵 [170/340] Scraping: 99063
+   ✅ Saved: ഒരു സൂര്യതേജസ്സായ് (1994)
+🎵 [171/340] Scraping: 10209
+   ✅ Saved: തിരുസന്നിധാനം ()
+🎵 [172/340] Scraping: 66191
+   ✅ Saved: ഏഴാഴി നീന്തി നീന്തി (1994)
+🎵 [173/340] Scraping: 99352
+   ✅ Saved: കാർത്തികത്തിരി കത്തിപ്പിടിച്ചേ (1994)
+🎵 [174/340] Scraping: 99298
+   ✅ Saved: മഞ്ഞല മാറ്റി - M (1994)
+🎵 [175/340] Scraping: 99297
+   ✅ Saved: മഞ്ഞലമാറ്റി - F (1994)
+🎵 [176/340] Scraping: mocha-korangachan
+   ✅ Saved: മൊച്ച കൊരങ്ങച്ചൻ (1994)
+🎵 [177/340] Scraping: 64295
+   ✅ Saved: തെമ്മാടിക്കാറ്റേ നിന്നാട്ടെ (1994)
+🎵 [178/340] Scraping: 10211
+   ✅ Saved: വെണ്ണിലാവോ ചന്ദനമോ ()
+🎵 [179/340] Scraping: ethra-december
+   ✅ Saved: എത്ര ഡിസംബർ ()
+🎵 [180/340] Scraping: 18790
+   ✅ Saved: പനിനീർക്കുളിരിൽ മയങ്ങീ ()
+🎵 [181/340] Scraping: 18791
+   ✅ Saved: പ്രിയസാരംഗീ ()
+🎵 [182/340] Scraping: 15007
+   ✅ Saved: മണിക്കതിർ കൊയ്തു കൂട്ടും ()
+🎵 [183/340] Scraping: onam-thiruvonam-vannu
+   ✅ Saved: ഓണം തിരുവോണം വന്നു ()
+🎵 [184/340] Scraping: kachadevayani-kandu
+   ✅ Saved: കചദേവയാനി കണ്ടു കണ്ണു നനഞ്ഞപ്പോൾ ()
+🎵 [185/340] Scraping: karichal-chundan
+   ✅ Saved: കാരിച്ചാൽ ചുണ്ടൻ കണ്ണായ ചുണ്ടൻ ()
+🎵 [186/340] Scraping: puthuppooppalika
+   ✅ Saved: പുതുപൂപ്പാലിക ()
+🎵 [187/340] Scraping: polika-polika
+   ✅ Saved: പൊലിക പൊലിക ()
+🎵 [188/340] Scraping: malanaadan-thennale
+   ✅ Saved: മലനാടൻ തെന്നലേ ()
+🎵 [189/340] Scraping: vennilaavin-pookkalozhukum
+   ✅ Saved: വെണ്ണിലാവിൻ പൂക്കളൊഴുകും ()
+🎵 [190/340] Scraping: sugandham-ponnona-malaril-ninno
+   ✅ Saved: സുഗന്ധം പൊന്നോണ മലരിൽ നിന്നോ ()
+🎵 [191/340] Scraping: 18972
+   ✅ Saved: അടി മരുങ്ങേ അയ്യയ്യാ ()
+🎵 [192/340] Scraping: atham-pathinu
+   ✅ Saved: അത്തം പത്തിനു (1994)
+🎵 [193/340] Scraping: ona-nilavinte
+   ✅ Saved: ഓണ നിലാവിന്റെ (1994)
+🎵 [194/340] Scraping: 64135
+   ✅ Saved: ഓണം നിലാവിഴപോലെ (1994)
+🎵 [195/340] Scraping: kurumozhi-kurinchi
+   ✅ Saved: കുറുമിഴി കുറിഞ്ചി (1994)
+🎵 [196/340] Scraping: painkiraali-payye
+   ✅ Saved: പൈങ്കിരാലി പയ്യേ (1994)
+🎵 [197/340] Scraping: manjakkilikkunje
+   ✅ Saved: മഞ്ഞക്കിളിക്കുഞ്ഞേ (1994)
+🎵 [198/340] Scraping: shravana-sankalppa
+   ✅ Saved: ശ്രാവണ സങ്കല്‌പ (1994)
+🎵 [199/340] Scraping: swararaaga-bharathapuzhayude
+   ✅ Saved: സ്വരരാഗ ഭാരതപ്പുഴയുടെ (1994)
+🎵 [200/340] Scraping: edakochikkaaratthi-kochikkaari
+   ✅ Saved: ഇടക്കൊച്ചിക്കാരത്തി കൊച്ചിക്കാരി ()
+🎵 [201/340] Scraping: 10231
+   ✅ Saved: കാണാമറയത്ത് കൈത ()
+🎵 [202/340] Scraping: moodupadam-maatti-vanna-muracherukkaa
+   ✅ Saved: മൂടുപടം മാറ്റി വന്ന മുറച്ചെറുക്കാ ()
+🎵 [203/340] Scraping: moodupadam-maatti-vanna-murappenne
+   ✅ Saved: മൂടുപടം മാറ്റി വന്ന മുറപ്പെണ്ണേ ()
+🎵 [204/340] Scraping: alakapuriyil
+   ✅ Saved: അളകാപുരിയിൽ ()
+🎵 [205/340] Scraping: althara-thannile
+   ✅ Saved: അൾത്താര തന്നിലെ (1994)
+🎵 [206/340] Scraping: 3555
+   ✅ Saved: താളം താളം ()
+🎵 [207/340] Scraping: athi-varambil-thathakal-padum
+   ✅ Saved: അത്തിവരമ്പിൽ തത്തകൾ പാടും ()
+🎵 [208/340] Scraping: madhuvanangal
+   ✅ Saved: മധുവനങ്ങൾ ()
+🎵 [209/340] Scraping: 14930
+   ✅ Saved: കണ്ണാടിപ്പുഴയുടെ കടവത്തു ()
+🎵 [210/340] Scraping: kanneer-puzhayude
+   ✅ Saved: കണ്ണീർപ്പുഴയുടെ ()
+🎵 [211/340] Scraping: 7278
+   ✅ Saved: ചന്ദനക്കാറ്റേ കുളിർ കൊണ്ടു വാ ()
+🎵 [212/340] Scraping: 99282
+   ✅ Saved: ചന്ദനക്കാറ്റേ കുളിർ കൊണ്ടു വാ - F (1994)
+🎵 [213/340] Scraping: parannu-poonkuyil-vidooram
+   ✅ Saved: പറന്നൂ പൂങ്കുയിൽ വിദൂരം ()
+🎵 [214/340] Scraping: syaamamegha-varnan
+   ✅ Saved: ശ്യാമമേഘ വർണ്ണൻ ()
+🎵 [215/340] Scraping: 99404
+   ✅ Saved: സ്വർഗ്ഗം ഇനിയെനിക്ക് സ്വന്തം (1994)
+🎵 [216/340] Scraping: 91208
+   ✅ Saved: പെൺകിളിയേ നില്ല് (1994)
+🎵 [217/340] Scraping: 98859
+   ✅ Saved: മാനം മുട്ടെ കെട്ടിപ്പൊക്കാം വിജ്ഞാന കൊട്ടാരങ്ങൾ (1994)
+🎵 [218/340] Scraping: 99889
+   ✅ Saved: കണ്ണീർക്കിനാവിന്റെയുള്ളിൽ (1994)
+🎵 [219/340] Scraping: poonilamazha-peithirangiya-d
+   ✅ Saved: പൂനിലാമഴ പെയ്തിറങ്ങിയ - D ()
+🎵 [220/340] Scraping: poonilamazha-peithirangiya-f
+   ✅ Saved: പൂനിലാമഴ പെയ്തിറങ്ങിയ - F (1994)
+🎵 [221/340] Scraping: 99890
+   ✅ Saved: മഞ്ഞുരുക്കി (1994)
+🎵 [222/340] Scraping: 16233
+   ✅ Saved: അന്തിമാനച്ചോപ്പ് മാഞ്ഞു ()
+🎵 [223/340] Scraping: 99973
+   ✅ Saved: പൂന്തത്തമ്മേ (1994)
+🎵 [224/340] Scraping: manasin-madiyile-maanthalirin
+   ✅ Saved: മനസ്സിൻ മടിയിലെ മാന്തളിരിൻ ()
+🎵 [225/340] Scraping: maanathe-vellitheril
+   ✅ Saved: മാനത്തെ വെള്ളിത്തേരിൽ ()
+🎵 [226/340] Scraping: 37853
+   ✅ Saved: മൂവന്തി നേരത്താരോ പാടീ (1994)
+🎵 [227/340] Scraping: 16237
+   ✅ Saved: ഒരു വല്ലം പൊന്നും പൂവും ()
+🎵 [228/340] Scraping: 16236
+   ✅ Saved: കുഞ്ഞൂഞ്ഞാലാടാം കിന്നാരം ചൊല്ലാം ()
+🎵 [229/340] Scraping: 16238
+   ✅ Saved: ചിങ്കാരക്കിന്നാരം ചിരിച്ചു കൊഞ്ചുന്ന ()
+🎵 [230/340] Scraping: 65040
+   ✅ Saved: ഡാർലിങ്സ് ഓഫ് മൈൻ ()
+🎵 [231/340] Scraping: 16235
+   ✅ Saved: തളിരണിഞ്ഞൊരു കിളിമരത്തിലെ ()
+🎵 [232/340] Scraping: 65017
+   ✅ Saved: നിലാവേ മായുമോ (F) (1994)
+🎵 [233/340] Scraping: 12812
+   ✅ Saved: നിലാവേ മായുമോ (M) ()
+🎵 [234/340] Scraping: 16234
+   ✅ Saved: മഞ്ഞക്കുഞ്ഞിക്കാതുള്ള ചക്കിപ്പൂച്ചക്ക് ()
+🎵 [235/340] Scraping: 99284
+   ✅ Saved: ആയി ബസന്തി (1994)
+🎵 [236/340] Scraping: 64297
+   ✅ Saved: ചേലുള്ള പച്ചത്തത്തപ്പെണ്ണേ (1994)
+🎵 [237/340] Scraping: 99283
+   ✅ Saved: തുളുമ്പും മഞ്ഞുകൂട്ടിലെ (1994)
+🎵 [238/340] Scraping: 99237
+   ✅ Saved: എള്ളോളം മാരിക്കീറ് (1994)
+🎵 [239/340] Scraping: ganagatharanga
+   ✅ Saved: ഗംഗാതരംഗ (1994)
+🎵 [240/340] Scraping: 99232
+   ✅ Saved: ചില്ലുജാലകത്തിനപ്പുറം (1994)
+🎵 [241/340] Scraping: sree-parvathi-pahimam-d
+   ✅ Saved: ശ്രീ പാർവതി പാഹിമാം - D (1994)
+🎵 [242/340] Scraping: 16239
+   ✅ Saved: ശ്രീപാർവതീ പാഹിമാം - F ()
+🎵 [243/340] Scraping: indraneelapoomizhikal
+   ✅ Saved: ഇന്ദ്രനീലപ്പൂമിഴികൾ (1994)
+🎵 [244/340] Scraping: oru-devamaalika-theerthu
+   ✅ Saved: ഒരു ദേവമാളിക തീർത്തു (1994)
+🎵 [245/340] Scraping: 100692
+   ✅ Saved: കോലോത്തെ കാവിലിന്ന് (1994)
+🎵 [246/340] Scraping: 66211
+   ✅ Saved: ക്രിക്കറ്റ്ബോള് ഒന്ന് വിക്കറ്റ്‌സ്റ്റംബ്‌ മൂന്ന് (1994)
+🎵 [247/340] Scraping: 66292
+   ✅ Saved: പന്തു തട്ടുന്ന മട്ടില് തട്ടണം (1994)
+🎵 [248/340] Scraping: 66212
+   ✅ Saved: വീട്ടിൽ നിന്ന് വെളിയിൽ (1994)
+🎵 [249/340] Scraping: 100586
+   ✅ Saved: കണ്മണീ നിൻ (1994)
+🎵 [250/340] Scraping: 100587
+   ✅ Saved: തങ്കത്തേരിൽ ശരൽക്കാലം (1994)
+🎵 [251/340] Scraping: 100584
+   ✅ Saved: പുലർക്കാല ചന്ദ്രിക - F (1994)
+🎵 [252/340] Scraping: 100585
+   ✅ Saved: പുലർക്കാല ചന്ദ്രിക - M (1994)
+🎵 [253/340] Scraping: 34879
+   ✅ Saved: അതിലോല നഖലീലയില്‍ (1994)
+🎵 [254/340] Scraping: 100223
+   ✅ Saved: ആവഴി ഈവഴി (1994)
+🎵 [255/340] Scraping: 100194
+   ✅ Saved: ഓമനിയ്ക്കും ഓര്‍മ്മകളേ - M (1994)
+🎵 [256/340] Scraping: 34878
+   ✅ Saved: ഓമനിയ്ക്കും ഓര്‍മ്മകളേ -F (1994)
+🎵 [257/340] Scraping: 34880
+   ✅ Saved: വസന്തകാലജാലകക്കിളീ (1994)
+🎵 [258/340] Scraping: thathamme
+   ✅ Saved: തത്തമ്മേ ചൊല്ല് ചൊല്ല് ()
+🎵 [259/340] Scraping: 21071
+   ✅ Saved: പാഠമൊന്നു പട്ടാളം ()
+🎵 [260/340] Scraping: 10407
+   ✅ Saved: സ്വരജതി പാടും ()
+🎵 [261/340] Scraping: 99408
+   ✅ Saved: സ്വരജതി പാടും പൈങ്കിളി - F (1994)
+🎵 [262/340] Scraping: 16241
+   ✅ Saved: പാൽനിലാവിൻ കളഹംസമേ ()
+🎵 [263/340] Scraping: 100021
+   ✅ Saved: വല്ലാത്തൊരു യോഗം (1994)
+🎵 [264/340] Scraping: veenapaadum-eenamaai-f
+   ✅ Saved: വീണപാടുമീണമായി (F) (1994)
+🎵 [265/340] Scraping: veenapaadum-eenamaai-m
+   ✅ Saved: വീണപാടുമീണമായി (M) ()
+🎵 [266/340] Scraping: 99380
+   ✅ Saved: അമ്മാനക്കുന്നുമ്മേലെ (1994)
+🎵 [267/340] Scraping: devike-noopuram-nee
+   ✅ Saved: ദേവികേ നൂപുരം നീ ചാർത്തൂ (1994)
+🎵 [268/340] Scraping: 99379
+   ✅ Saved: വാചാലമൗനമേ (1994)
+🎵 [269/340] Scraping: nizhalaay-ormmakal
+   ✅ Saved: നിഴലായ് ഓർമ്മകൾ(M) (1994)
+🎵 [270/340] Scraping: nizhalaay-ormmakal-0
+   ✅ Saved: നിഴലായ് ഓർമ്മകൾ(F) (1994)
+🎵 [271/340] Scraping: 10423
+   ✅ Saved: പനിനീരുമായ് പുഴകൾ ()
+🎵 [272/340] Scraping: 22880
+   ✅ Saved: സോമ സമവദനേ ()
+🎵 [273/340] Scraping: 16247
+   ✅ Saved: നീലക്കണ്ണാ നിന്നെ കണ്ടൂ ()
+🎵 [274/340] Scraping: 63665
+   ✅ Saved: യേശുവേ നാഥാ (1994)
+🎵 [275/340] Scraping: 66063
+   ✅ Saved: ലില്ലി വിടരും(F) ()
+🎵 [276/340] Scraping: 66062
+   ✅ Saved: ലില്ലിവിടരും (M ) ()
+🎵 [277/340] Scraping: 66065
+   ✅ Saved: ലീലാമാധവം (F) ()
+🎵 [278/340] Scraping: 66064
+   ✅ Saved: ലീലാമാധവം (M) ()
+🎵 [279/340] Scraping: 99514
+   ✅ Saved: എന്റെ രാജയോഗം (1994)
+🎵 [280/340] Scraping: 99513
+   ✅ Saved: ഗണപതി പാദം (1994)
+🎵 [281/340] Scraping: 99515
+   ✅ Saved: പമ്പയാറ്റിറമ്പിൽ (1994)
+🎵 [282/340] Scraping: 99518
+   ✅ Saved: ആരോമൽ സാരംഗമേ (1994)
+🎵 [283/340] Scraping: 99517
+   ✅ Saved: പൂന്തേൻ മൊഴിയേ (1994)
+🎵 [284/340] Scraping: 100632
+   ✅ Saved: എത്ര ഡിസംബർ കഴിഞ്ഞു (1994)
+🎵 [285/340] Scraping: manorajyamake-vishadam
+   ✅ Saved: മനോരാജ്യമാകെ വിഷാദം (1994)
+🎵 [286/340] Scraping: 100633
+   ✅ Saved: വേളിപ്പെൺകിടാവേ (1994)
+🎵 [287/340] Scraping: sankeerthanam-sankeerthanam
+   ✅ Saved: സങ്കീർത്തനം സങ്കീർത്തനം (1994)
+🎵 [288/340] Scraping: 77407
+   ✅ Saved: താരം തൂകും ()
+🎵 [289/340] Scraping: 77406
+   ✅ Saved: തിങ്കൾ തുടുക്കുമ്പോൾ ()
+🎵 [290/340] Scraping: 77405
+   ✅ Saved: പ്രദോഷ കുങ്കുമം ()
+🎵 [291/340] Scraping: karayaathe-kannurangu
+   ✅ Saved: കരയാതെ കണ്ണുറങ്ങു ()
+🎵 [292/340] Scraping: karayathe-kannurangu
+   ✅ Saved: കരയാതെ കണ്ണുറങ്ങ് ()
+🎵 [293/340] Scraping: neelaakaasham
+   ✅ Saved: നീലാകാശം ()
+🎵 [294/340] Scraping: 66334
+   ✅ Saved: ശ്യാമ സന്ധ്യേ സൂര്യനെവിടെ ()
+🎵 [295/340] Scraping: 66333
+   ✅ Saved: സ്വർഗ്ഗമിന്നെന്റെ ()
+🎵 [296/340] Scraping: aalkkoottathil-thaniye
+   ✅ Saved: ആൾക്കൂട്ടത്തിൽ തനിയേ ()
+🎵 [297/340] Scraping: kallum-malayum-udachavare
+   ✅ Saved: കല്ലും മലയും ഉടച്ചവരേ ()
+🎵 [298/340] Scraping: 95892
+   ✅ Saved: ജിലു ജിലു കുളിരണി രാവിൽ (1994)
+🎵 [299/340] Scraping: pandathe-paavaadapraayam
+   ✅ Saved: പണ്ടത്തെ പാവാടപ്രായം ()
+🎵 [300/340] Scraping: pahavaan-paalazhi-pallikollumbam
+   ✅ Saved: പഹവാൻ പാലാഴീ പള്ളികൊള്ളുമ്പം ()
+🎵 [301/340] Scraping: aararivum-thane
+   ✅ Saved: ആരറിവും താനേ ()
+🎵 [302/340] Scraping: 62676
+   ✅ Saved: ആവണിപ്പൂവിന്‍ വെണ്മണി താലത്തിൽ (1994)
+🎵 [303/340] Scraping: 62677
+   ✅ Saved: ഉരുക്കിന്റെ കരുത്തുള്ള ചെറുപ്പത്തിൻ (1994)
+🎵 [304/340] Scraping: 7584
+   ✅ Saved: എന്നൊടൊത്തുണരുന്ന പുലരികളേ (1994)
+🎵 [305/340] Scraping: 7585
+   ✅ Saved: കടലിന്നഗാധമാം നീലിമയിൽ ()
+🎵 [306/340] Scraping: 7587
+   ✅ Saved: ജന്മാന്തരസ്നേഹ ബന്ധങ്ങളേ ()
+🎵 [307/340] Scraping: 7586
+   ✅ Saved: സഹസ്രദള സംശോഭിത നളിനം ()
+🎵 [308/340] Scraping: 99855
+   ✅ Saved: ഊഞ്ഞാലേ കാറ്റൂഞ്ഞാലേ (1994)
+🎵 [309/340] Scraping: 99854
+   ✅ Saved: ഋതുമതി പാലാഴി (1994)
+🎵 [310/340] Scraping: 99856
+   ✅ Saved: ഒരുമിക്കാം നേടാം (1994)
+🎵 [311/340] Scraping: 99853
+   ✅ Saved: തിരുമൊഴിപ്പെണ്ണേ കുറുമൊഴിക്കാറ്റേ (1994)
+🎵 [312/340] Scraping: 99839
+   ✅ Saved: ദിസ് ലവ് ഈസ് സ്പോൺസേഡ് (1994)
+🎵 [313/340] Scraping: ninte-neelathamara-mizhikal
+   ✅ Saved: നിന്റെ നീലത്താമരമിഴികൾ (1994)
+🎵 [314/340] Scraping: 99838
+   ✅ Saved: സുഖകരം ഇതു സുഖകരം (1994)
+🎵 [315/340] Scraping: 99535
+   ✅ Saved: പൊന്നാതിരച്ചന്ദ്രികയോ (1994)
+🎵 [316/340] Scraping: 99536
+   ✅ Saved: മഞ്ഞോ മഞ്ചാടിച്ചില്ലയിൽ (1994)
+🎵 [317/340] Scraping: 99519
+   ✅ Saved: രാഗമിടറുന്നു - F (1994)
+🎵 [318/340] Scraping: 99534
+   ✅ Saved: രാഗമിടറുന്നു - M (1994)
+🎵 [319/340] Scraping: kallikkuyile
+   ✅ Saved: കള്ളിക്കുയിലേ ()
+🎵 [320/340] Scraping: 99470
+   ✅ Saved: ചെല്ലച്ചെറുകാറ്റേ ചെമ്പകപ്പൂങ്കാറ്റേ (1994)
+🎵 [321/340] Scraping: 99468
+   ✅ Saved: നെഞ്ചിൽ ഇടനെഞ്ചിൽ (1994)
+🎵 [322/340] Scraping: 16068
+   ✅ Saved: ബാഗീ ജീൻസും ()
+🎵 [323/340] Scraping: 99469
+   ✅ Saved: മെർക്കുറി ലാമ്പു വീണു (1994)
+🎵 [324/340] Scraping: vaarmudi-thumbil
+   ✅ Saved: വാർമുടിത്തുമ്പിൽ ()
+🎵 [325/340] Scraping: 100489
+   ✅ Saved: ആരോ കാതോരം (1994)
+🎵 [326/340] Scraping: 100487
+   ✅ Saved: പാലാഴിയിൽ പൂന്തോണിപോൽ (1994)
+🎵 [327/340] Scraping: 100490
+   ✅ Saved: മഠയാ മരമണ്ഡോദരാ (1994)
+🎵 [328/340] Scraping: 100486
+   ✅ Saved: മോഹം കാക്കത്തൊള്ളായിരം (1994)
+🎵 [329/340] Scraping: 100257
+   ✅ Saved: ആരാധയേ മന്മോഹന രാധേ (1994)
+🎵 [330/340] Scraping: 100263
+   ✅ Saved: ക്ഷീര സാഗര ശയന (1994)
+🎵 [331/340] Scraping: thara-noopuram
+   ✅ Saved: താരനൂപുരം ചാർത്തി മൂകയാമം ()
+🎵 [332/340] Scraping: 100256
+   ✅ Saved: നഗുമോമു കലവാണി (1994)
+🎵 [333/340] Scraping: pavana-gurupavanapuraadheeshamashraye
+   ✅ Saved: പാവന ഗുരുപവനപുരാധീശമാശ്രയേ (1994)
+🎵 [334/340] Scraping: 18466
+   ✅ Saved: പൊന്മേഘമേ ശലഭങ്ങളേ ()
+🎵 [335/340] Scraping: 18468
+   ✅ Saved: ശൃത കമലാ കുച ()
+🎵 [336/340] Scraping: sadhinchane-sadhinchane
+   ✅ Saved: സാധിഞ്ചനേ സാധിഞ്ചനേ (1994)
+🎵 [337/340] Scraping: sogasuga-mrudangathalamu
+   ✅ Saved: സൊഗസുഗാ മൃദംഗതാളമു (1994)
+🎵 [338/340] Scraping: 99029
+   ✅ Saved: കിലുകിലുങ്ങിയോ (1994)
+🎵 [339/340] Scraping: 99097
+   ✅ Saved: പാടും നാം വീരരണഗീതങ്ങൾ (1994)
+🎵 [340/340] Scraping: 14585
+   ✅ Saved: മഞ്ഞൾക്കുങ്കുമം തൊട്ടെന്തിനിന്നും സന്ധ്യയിൽ ()
+Year complete: success=340, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 11027
