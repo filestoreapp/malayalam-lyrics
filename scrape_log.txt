@@ -85000,3 +85000,44 @@ Year complete: success=24, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22067
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1940
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1940
+   Page 1: https://m3db.com/archive/lyrics/year/1940
+   Found 14 songs on this page. Total unique so far: 14
+Total songs to scrape for this year: 14
+🎵 [1/14] Scraping: kathayithu-kelkkan-sahajare-vaa
+   ✅ Saved: കഥയിതു കേൾക്കാൻ സഹജരെ വാ (1940)
+🎵 [2/14] Scraping: 37519
+   ✅ Saved: കൃഷ്ണ കൃഷ്ണ (1940)
+🎵 [3/14] Scraping: 37518
+   ✅ Saved: ജീവിതേശനെ (1940)
+🎵 [4/14] Scraping: 37517
+   ✅ Saved: ദേവകി വരസുധ (1940)
+🎵 [5/14] Scraping: 37516
+   ✅ Saved: ദേവരാധവല്ലഭ (1940)
+🎵 [6/14] Scraping: 37523
+   ✅ Saved: നിൻ പാദമേ ശരണം (1940)
+🎵 [7/14] Scraping: 37524
+   ✅ Saved: പ്രിയചന്ദ്രൻ മമചന്ദ്രൻ (1940)
+🎵 [8/14] Scraping: 37521
+   ✅ Saved: മനോജ്ഞം മാമക (1940)
+🎵 [9/14] Scraping: 37520
+   ✅ Saved: മായാരസിതം മായാചരിതം (1940)
+🎵 [10/14] Scraping: 37522
+   ✅ Saved: മോഹനമേ മനോ (1940)
+🎵 [11/14] Scraping: 37526
+   ✅ Saved: വന്ദനം അംബുജ (1984)
+🎵 [12/14] Scraping: 37527
+   ✅ Saved: വിഷാദം തിങ്ങും (1940)
+🎵 [13/14] Scraping: 37525
+   ✅ Saved: സുഖ മധുരം സുഖ മധുരം (1940)
+🎵 [14/14] Scraping: 34992
+   ✅ Saved: സുന്ദരമാം സുരഭീമാസം (1940)
+Year complete: success=14, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22081
