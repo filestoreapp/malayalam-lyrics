@@ -22373,6 +22373,15 @@
     "singers": "എ എം രാജ, പി ലീല",
     "year": ""
   },
+  "12693": {
+    "id": "12693",
+    "songName": "മായേ മഹാമായേ",
+    "film": "വേലക്കാരൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല, കോറസ്",
+    "year": "1953"
+  },
   "12697": {
     "id": "12697",
     "songName": "കാത്തുകൊൾക ഞങ്ങളെ",
@@ -22381,6 +22390,15 @@
     "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
     "singers": "പി ലീല",
     "year": ""
+  },
+  "12707": {
+    "id": "12707",
+    "songName": "ആതിര തന്നാനന്ദകാലമായ്",
+    "film": "വേലക്കാരൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കവിയൂർ രേവമ്മ, പി ലീല",
+    "year": "1953"
   },
   "12711": {
     "id": "12711",
@@ -37871,6 +37889,159 @@
     "singers": "കെ ജെ യേശുദാസ്, പി ലീല",
     "year": ""
   },
+  "17846": {
+    "id": "17846",
+    "songName": "ഗ്രാമത്തിൻ ഹൃദയം",
+    "film": "ആശാദീപം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ജിക്കി",
+    "year": ""
+  },
+  "17848": {
+    "id": "17848",
+    "songName": "ശരണം മയിൽ വാഹനാ",
+    "film": "ആശാദീപം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "എം എൽ വസന്തകുമാരി",
+    "year": ""
+  },
+  "17850": {
+    "id": "17850",
+    "songName": "പന്തലിട്ടു മേലേ",
+    "film": "ആശാദീപം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "എ എം രാജ, പി ലീല",
+    "year": ""
+  },
+  "17852": {
+    "id": "17852",
+    "songName": "കർമ്മഫലമേ",
+    "film": "ആശാദീപം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ഘണ്ടശാല വെങ്കടേശ്വര റാവു",
+    "year": ""
+  },
+  "17854": {
+    "id": "17854",
+    "songName": "പൂ വേണോ പുതുപൂക്കൾ വേണോ",
+    "film": "ആശാദീപം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല",
+    "year": ""
+  },
+  "17856": {
+    "id": "17856",
+    "songName": "ജീവിതം ഈ വിധമേ",
+    "film": "ആശാദീപം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല, നാഗയ്യ",
+    "year": ""
+  },
+  "17858": {
+    "id": "17858",
+    "songName": "കണ്മണി വാവാവോ",
+    "film": "ആശാദീപം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല",
+    "year": ""
+  },
+  "17859": {
+    "id": "17859",
+    "songName": "മാരിവില്ലൊളി വീശി",
+    "film": "ആശാദീപം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ജിക്കി",
+    "year": ""
+  },
+  "17863": {
+    "id": "17863",
+    "songName": "ആനന്ദവാസം അമരവിലാസം",
+    "film": "പൊൻകതിർ",
+    "lyricist": "തിരുനയിനാര്‍ കുറിച്ചി മാധവന്‍നായര്‍",
+    "musicDirector": "ബ്രദർ ലക്ഷ്മൺ",
+    "singers": "എൻ ലളിത, കോറസ്",
+    "year": ""
+  },
+  "17864": {
+    "id": "17864",
+    "songName": "കളിയാടും പൂവേ",
+    "film": "പൊൻകതിർ",
+    "lyricist": "തിരുനയിനാര്‍ കുറിച്ചി മാധവന്‍നായര്‍",
+    "musicDirector": "ബ്രദർ ലക്ഷ്മൺ",
+    "singers": "ജിക്കി",
+    "year": ""
+  },
+  "17865": {
+    "id": "17865",
+    "songName": "ആനന്ദരൂപൻ ആരിവനാരോ",
+    "film": "പൊൻകതിർ",
+    "lyricist": "തിരുനയിനാര്‍ കുറിച്ചി മാധവന്‍നായര്‍",
+    "musicDirector": "ബ്രദർ ലക്ഷ്മൺ",
+    "singers": "ജിക്കി",
+    "year": ""
+  },
+  "17866": {
+    "id": "17866",
+    "songName": "ആശങ്കാതിമിരം",
+    "film": "പൊൻകതിർ",
+    "lyricist": "തിരുനയിനാര്‍ കുറിച്ചി മാധവന്‍നായര്‍",
+    "musicDirector": "ബ്രദർ ലക്ഷ്മൺ",
+    "singers": "കമുകറ പുരുഷോത്തമൻ",
+    "year": ""
+  },
+  "17868": {
+    "id": "17868",
+    "songName": "പ്രണയത്തിൻ കോവിൽ",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "കോഴിക്കോട് അബ്ദുൾഖാദർ, ശാന്ത പി നായർ",
+    "year": ""
+  },
+  "17869": {
+    "id": "17869",
+    "songName": "ഹേ കളിയോടമേ പോയാലും",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "കോഴിക്കോട് അബ്ദുൾഖാദർ, ശാന്ത പി നായർ",
+    "year": ""
+  },
+  "17870": {
+    "id": "17870",
+    "songName": "വനമുല്ലമാല വാടീ",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "ശാന്ത പി നായർ, ലക്ഷ്മി ശങ്കർ",
+    "year": ""
+  },
+  "17873": {
+    "id": "17873",
+    "songName": "മായരുതേ പൊൻകിനാവേ",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "",
+    "year": ""
+  },
+  "17874": {
+    "id": "17874",
+    "songName": "മാതാവേ പായും",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "",
+    "year": ""
+  },
   "17876": {
     "id": "17876",
     "songName": "വാ‍ വാ എൻ ദേവാ",
@@ -40758,6 +40929,24 @@
     "lyricist": "അനിൽ പനച്ചൂരാൻ",
     "musicDirector": "മോഹൻ സിത്താര",
     "singers": "അരുൺ ഗോപൻ, അജിമോൾ",
+    "year": ""
+  },
+  "19971": {
+    "id": "19971",
+    "songName": "പാലാഴിയാം നിലാവില്‍",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "കോഴിക്കോട് അബ്ദുൾഖാദർ, ശാന്ത പി നായർ",
+    "year": ""
+  },
+  "19973": {
+    "id": "19973",
+    "songName": "കുരുവികളായ് ഉയരാം",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "ശാന്ത പി നായർ, എം എസ് മാലതി, കോറസ്",
     "year": ""
   },
   "20048": {
@@ -58337,6 +58526,42 @@
     "singers": "ലഭ്യമായിട്ടില്ല",
     "year": "2014"
   },
+  "38766": {
+    "id": "38766",
+    "songName": "കണ്ണാ നീയുറങ്ങ് എന്‍",
+    "film": "ലോകനീതി",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "എ എം രാജ",
+    "year": "1953"
+  },
+  "38767": {
+    "id": "38767",
+    "songName": "അറിയാതെ കിനാക്കളില്‍",
+    "film": "ലോകനീതി",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "എ എം രാജ, കവിയൂർ രേവമ്മ",
+    "year": "1953"
+  },
+  "38768": {
+    "id": "38768",
+    "songName": "പൂവാടിയാകെ പൂവാടിയാകെ",
+    "film": "ലോകനീതി",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കവിയൂർ രേവമ്മ",
+    "year": "1953"
+  },
+  "38769": {
+    "id": "38769",
+    "songName": "പാടുന്നു പാടുന്നു ഞങ്ങള്‍",
+    "film": "ലോകനീതി",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ലഭ്യമായിട്ടില്ല",
+    "year": "1953"
+  },
   "38770": {
     "id": "38770",
     "songName": "പലനാളിൽ",
@@ -63007,6 +63232,15 @@
     "musicDirector": "മുഹമ്മദ് റാഫി താനൂർ",
     "singers": "അഫ്സൽ, കോറസ്",
     "year": "2014"
+  },
+  "53042": {
+    "id": "53042",
+    "songName": "താരമേ താണുവരൂ",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ജോസ് പ്രകാശ്",
+    "year": "1953"
   },
   "53044": {
     "id": "53044",
@@ -80135,6 +80369,87 @@
     "singers": "കവിയൂർ രേവമ്മ, ഗോകുലപാലൻ",
     "year": "1952"
   },
+  "66500": {
+    "id": "66500",
+    "songName": "താരകം ഇരുളിൽ മായുകയോ",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "കോഴിക്കോട് അബ്ദുൾഖാദർ",
+    "year": "1953"
+  },
+  "66501": {
+    "id": "66501",
+    "songName": "ആനന്ദമെന്നും മണിമേട തോറും",
+    "film": "വേലക്കാരൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല, അഗസ്റ്റിൻ ജോസഫ്",
+    "year": "1953"
+  },
+  "66502": {
+    "id": "66502",
+    "songName": "പ്രണയദ മാനസ മലരേ",
+    "film": "വേലക്കാരൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": "1953"
+  },
+  "66503": {
+    "id": "66503",
+    "songName": "വിദൂരമോ എന്‍വിലോലമാം",
+    "film": "വേലക്കാരൻ",
+    "lyricist": "തിരുനയിനാര്‍ കുറിച്ചി മാധവന്‍നായര്‍",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കവിയൂർ രേവമ്മ",
+    "year": "1953"
+  },
+  "66504": {
+    "id": "66504",
+    "songName": "അഞ്ജനശ്രീധരാ ചാരുമൂര്‍ത്തേ",
+    "film": "പൊൻകതിർ",
+    "lyricist": "പൂന്താനം",
+    "musicDirector": "ബ്രദർ ലക്ഷ്മൺ",
+    "singers": "എൻ ലളിത",
+    "year": "1953"
+  },
+  "66505": {
+    "id": "66505",
+    "songName": "ഓ പ്രേമമധുരമീ ജീവലോകമാകെ",
+    "film": "പൊൻകതിർ",
+    "lyricist": "തിരുനയിനാര്‍ കുറിച്ചി മാധവന്‍നായര്‍",
+    "musicDirector": "ബ്രദർ ലക്ഷ്മൺ",
+    "singers": "",
+    "year": "1953"
+  },
+  "66506": {
+    "id": "66506",
+    "songName": "പാടൂ മാനസമേ പാടൂ",
+    "film": "പൊൻകതിർ",
+    "lyricist": "തിരുനയിനാര്‍ കുറിച്ചി മാധവന്‍നായര്‍",
+    "musicDirector": "ബ്രദർ ലക്ഷ്മൺ",
+    "singers": "ജിക്കി",
+    "year": "1953"
+  },
+  "66507": {
+    "id": "66507",
+    "songName": "പാഴിരുള്‍ മൂടി പാതയാകേ",
+    "film": "പൊൻകതിർ",
+    "lyricist": "തിരുനയിനാര്‍ കുറിച്ചി മാധവന്‍നായര്‍",
+    "musicDirector": "ബ്രദർ ലക്ഷ്മൺ",
+    "singers": "എൻ ലളിത",
+    "year": "1953"
+  },
+  "66509": {
+    "id": "66509",
+    "songName": "പോവുക നാം പോവുക നാം",
+    "film": "പൊൻകതിർ",
+    "lyricist": "തിരുനയിനാര്‍ കുറിച്ചി മാധവന്‍നായര്‍",
+    "musicDirector": "ബ്രദർ ലക്ഷ്മൺ",
+    "singers": "എൻ ലളിത, ഗോകുലപാലൻ, കോറസ്",
+    "year": "1953"
+  },
   "66511": {
     "id": "66511",
     "songName": "ഞാനും ഞാനുമെന്റാളും",
@@ -80144,6 +80459,96 @@
     "singers": "ഫൈസൽ റാസി",
     "year": "2018"
   },
+  "66512": {
+    "id": "66512",
+    "songName": "പ്രണയമോഹന സ്വപ്നശതങ്ങളാല്‍",
+    "film": "പൊൻകതിർ",
+    "lyricist": "തിരുനയിനാര്‍ കുറിച്ചി മാധവന്‍നായര്‍",
+    "musicDirector": "ബ്രദർ ലക്ഷ്മൺ",
+    "singers": "ഗോകുലപാലൻ, എൻ ലളിത",
+    "year": "1953"
+  },
+  "66515": {
+    "id": "66515",
+    "songName": "സകലം വിധിയല്ലേ പാരില്‍",
+    "film": "പൊൻകതിർ",
+    "lyricist": "തിരുനയിനാര്‍ കുറിച്ചി മാധവന്‍നായര്‍",
+    "musicDirector": "ബ്രദർ ലക്ഷ്മൺ",
+    "singers": "മെഹ്ബൂബ്",
+    "year": "1953"
+  },
+  "66516": {
+    "id": "66516",
+    "songName": "സുഖമേ സുഖമേ സ്വര്‍ഗ്ഗ സുഖമേ",
+    "film": "പൊൻകതിർ",
+    "lyricist": "തിരുനയിനാര്‍ കുറിച്ചി മാധവന്‍നായര്‍",
+    "musicDirector": "ബ്രദർ ലക്ഷ്മൺ",
+    "singers": "എൻ ലളിത, കവിയൂർ രേവമ്മ",
+    "year": "1953"
+  },
+  "66517": {
+    "id": "66517",
+    "songName": "ഉല്ലാസം ഉലകെല്ലാം",
+    "film": "പൊൻകതിർ",
+    "lyricist": "തിരുനയിനാര്‍ കുറിച്ചി മാധവന്‍നായര്‍",
+    "musicDirector": "ബ്രദർ ലക്ഷ്മൺ",
+    "singers": "എൻ ലളിത, കവിയൂർ രേവമ്മ, മെഹ്ബൂബ്",
+    "year": "1953"
+  },
+  "66519": {
+    "id": "66519",
+    "songName": "അനുരാഗമോഹന",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "മീന സുലോചന",
+    "year": "1953"
+  },
+  "66520": {
+    "id": "66520",
+    "songName": "ബാലനാം പ്രഹ്ളാദനെപ്പോലെ",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കുട്ടപ്പൻ ഭാഗവതർ, വിജയലക്ഷ്മി",
+    "year": "1953"
+  },
+  "66521": {
+    "id": "66521",
+    "songName": "ഹന്തജീവിതഗതിതന്‍",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": "1953"
+  },
+  "66522": {
+    "id": "66522",
+    "songName": "കമലലോചനാ കണ്ണാ",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "മീന സുലോചന",
+    "year": "1953"
+  },
+  "66523": {
+    "id": "66523",
+    "songName": "കണ്ണുനീരു നീ ചൊരിയാതെ",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ജോസ് പ്രകാശ്",
+    "year": "1953"
+  },
+  "66525": {
+    "id": "66525",
+    "songName": "പോകാം പോകാം",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ജോസ് പ്രകാശ്",
+    "year": "1953"
+  },
   "66526": {
     "id": "66526",
     "songName": "ആരുണ്ടിനിയാരുണ്ട്",
@@ -80152,6 +80557,24 @@
     "musicDirector": "ബേണി-ഇഗ്നേഷ്യസ്",
     "singers": "അഫ്സൽ, വിജയ് യേശുദാസ്, കോറസ്",
     "year": ""
+  },
+  "66541": {
+    "id": "66541",
+    "songName": "പ്രേമത്തിന്‍ മുരളിയുമൂതി",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": "1953"
+  },
+  "66544": {
+    "id": "66544",
+    "songName": "തരുമോ തങ്കക്കുടമേ",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": "1953"
   },
   "66550": {
     "id": "66550",
@@ -80234,6 +80657,24 @@
     "singers": "സുജാത മോഹൻ, പി ഉണ്ണികൃഷ്ണൻ",
     "year": "2005"
   },
+  "66574": {
+    "id": "66574",
+    "songName": "വാര്‍മഴവില്ലേ വാ",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല, ജോസ് പ്രകാശ്",
+    "year": "1953"
+  },
+  "66575": {
+    "id": "66575",
+    "songName": "വൃന്ദാവനറാണി നീ",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": "1953"
+  },
   "66576": {
     "id": "66576",
     "songName": "ചിലമ്പിട്ട കാലുകൾ",
@@ -80261,6 +80702,15 @@
     "singers": "കെ എസ് ചിത്ര",
     "year": "2005"
   },
+  "66579": {
+    "id": "66579",
+    "songName": "പ്രതികാരചിന്താ ഗതിയാലെ",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "വി ദക്ഷിണാമൂർത്തി",
+    "year": "1953"
+  },
   "66580": {
     "id": "66580",
     "songName": "ആലപ്പുഴയിലെ ചെന്തെങ്ങിൻ",
@@ -80269,6 +80719,15 @@
     "musicDirector": "നിഖിൽ പ്രഭ",
     "singers": "വെങ്കിടേഷ്",
     "year": "2018"
+  },
+  "66582": {
+    "id": "66582",
+    "songName": "ജനനീ ജയിക്ക നീണാള്‍",
+    "film": "ആശാദീപം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല, എം എൽ വസന്തകുമാരി",
+    "year": "1953"
   },
   "66584": {
     "id": "66584",
@@ -80287,6 +80746,15 @@
     "musicDirector": "ഔസേപ്പച്ചൻ",
     "singers": "എം ജി ശ്രീകുമാർ, പി ലീല",
     "year": "1988"
+  },
+  "66587": {
+    "id": "66587",
+    "songName": "വീശി പൊൻവല പൊൻവല",
+    "film": "ആശാദീപം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": "1953"
   },
   "66588": {
     "id": "66588",
@@ -86578,6 +87046,33 @@
     "musicDirector": "നന്ദു കർത്ത",
     "singers": "നന്ദു കർത്ത",
     "year": "2017"
+  },
+  "69512": {
+    "id": "69512",
+    "songName": "മലര്‍വാടി മഹോത്സവം തേടി",
+    "film": "ജനോവ",
+    "lyricist": "സ്വാമി ബ്രഹ്മവ്രതൻ",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "പി ലീല, കോറസ്",
+    "year": "1953"
+  },
+  "69513": {
+    "id": "69513",
+    "songName": "കണ്ണിന്നു പുണ്യമേകും",
+    "film": "ജനോവ",
+    "lyricist": "പീതാംബരം",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "പി ലീല, എ എം രാജ",
+    "year": "1953"
+  },
+  "69514": {
+    "id": "69514",
+    "songName": "ഗതി നീയേ ദേവമാതാ",
+    "film": "ജനോവ",
+    "lyricist": "പീതാംബരം",
+    "musicDirector": "ടി എ കല്യാണം",
+    "singers": "പി ലീല",
+    "year": "1953"
   },
   "69517": {
     "id": "69517",
@@ -194731,5 +195226,320 @@
     "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
     "singers": "പി ലീല",
     "year": ""
+  },
+  "premamennaal-pulivalu": {
+    "id": "premamennaal-pulivalu",
+    "songName": "പ്രേമമെന്നാൽ പുലിവാല്",
+    "film": "ആശാദീപം",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": "1953"
+  },
+  "idiyappam": {
+    "id": "idiyappam",
+    "songName": "*ഇടിയപ്പം",
+    "film": "ജനോവ",
+    "lyricist": "ഗായക പീതാംബരം",
+    "musicDirector": "എം എസ് വിശ്വനാഥൻ",
+    "singers": "ജമുനാ റാണി",
+    "year": "1953"
+  },
+  "ethu-paapathinaalo": {
+    "id": "ethu-paapathinaalo",
+    "songName": "ഏതു പാപത്തിനാലോ",
+    "film": "ജനോവ",
+    "lyricist": "സ്വാമി ബ്രഹ്മവ്രതൻ",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "എ എം രാജ",
+    "year": "1953"
+  },
+  "omanayen": {
+    "id": "omanayen",
+    "songName": "ഓമനയെന്‍ ആനന്ദക്കാമ്പേ",
+    "film": "ജനോവ",
+    "lyricist": "പീതാംബരം",
+    "musicDirector": "എം എസ് വിശ്വനാഥൻ",
+    "singers": "പി ലീല",
+    "year": "1953"
+  },
+  "kuthukamee-lathakalil": {
+    "id": "kuthukamee-lathakalil",
+    "songName": "കുതുകമീ ലതകളില്‍",
+    "film": "ജനോവ",
+    "lyricist": "പീതാംബരം",
+    "musicDirector": "ജ്ഞാനമണി",
+    "singers": "പി ലീല, ജമുനാ റാണി",
+    "year": "1953"
+  },
+  "leelalolithame": {
+    "id": "leelalolithame",
+    "songName": "ലീലാലോലിതമേ നീകാണും",
+    "film": "ജനോവ",
+    "lyricist": "പീതാംബരം",
+    "musicDirector": "എം എസ് വിശ്വനാഥൻ",
+    "singers": "പി ലീല, എ എം രാജ",
+    "year": "1953"
+  },
+  "ammathan-thankakudame": {
+    "id": "ammathan-thankakudame",
+    "songName": "അമ്മ തൻ തങ്കക്കുടമേ",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "ശാന്ത പി നായർ",
+    "year": ""
+  },
+  "karayunnathenthe-soonyathayil": {
+    "id": "karayunnathenthe-soonyathayil",
+    "songName": "കരയുന്നതെന്തേ ശൂന്യതയിൽ",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "ശാന്ത പി നായർ",
+    "year": ""
+  },
+  "deva-jagannatha": {
+    "id": "deva-jagannatha",
+    "songName": "ദേവാ ജഗന്നാഥ",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "എം എസ് മാലതി",
+    "year": ""
+  },
+  "paaril-jeevitham-pole": {
+    "id": "paaril-jeevitham-pole",
+    "songName": "പാരിൽ ജീവിതം പോലെ",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "",
+    "year": ""
+  },
+  "paavana-bharatha": {
+    "id": "paavana-bharatha",
+    "songName": "പാവനഭാരത ഭൂവിൽ",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "എം എസ് മാലതി",
+    "year": ""
+  },
+  "veeshi-ponvala": {
+    "id": "veeshi-ponvala",
+    "songName": "വീശി പൊൻവല",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "",
+    "year": ""
+  },
+  "he-kaliyodame": {
+    "id": "he-kaliyodame",
+    "songName": "ഹേ കളിയോടമേ",
+    "film": "തിരമാല",
+    "lyricist": "പി ഭാസ്ക്കരൻ",
+    "musicDirector": "വിമൽകുമാർ",
+    "singers": "ശാന്ത പി നായർ",
+    "year": ""
+  },
+  "anuragamrutham": {
+    "id": "anuragamrutham",
+    "songName": "അനുരാഗാമൃതം",
+    "film": "ലോകനീതി",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ഗോകുലപാലൻ, പി ലീല",
+    "year": ""
+  },
+  "aadippadippokaam": {
+    "id": "aadippadippokaam",
+    "songName": "ആടിപ്പാടിപ്പോകാം",
+    "film": "ലോകനീതി",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": ""
+  },
+  "oru-navayugame": {
+    "id": "oru-navayugame",
+    "songName": "ഒരു നവയുഗമേ",
+    "film": "ലോകനീതി",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "എ എം രാജ, കവിയൂർ രേവമ്മ",
+    "year": ""
+  },
+  "kanna-neeyurangu": {
+    "id": "kanna-neeyurangu",
+    "songName": "കണ്ണാ നീയുറങ്ങ്",
+    "film": "ലോകനീതി",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല",
+    "year": ""
+  },
+  "komalamruthupadhe": {
+    "id": "komalamruthupadhe",
+    "songName": "കോമളമൃദുപദേ",
+    "film": "ലോകനീതി",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല, കവിയൂർ രേവമ്മ",
+    "year": ""
+  },
+  "pavangalilalivullore": {
+    "id": "pavangalilalivullore",
+    "songName": "പാവങ്ങളിലലിവുള്ളോരേ",
+    "film": "ലോകനീതി",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "എ എം രാജ, കവിയൂർ രേവമ്മ",
+    "year": "1953"
+  },
+  "sokamenthinaay": {
+    "id": "sokamenthinaay",
+    "songName": "ശോകമെന്തിനായ്",
+    "film": "ലോകനീതി",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "എ എം രാജ",
+    "year": "1953"
+  },
+  "snehame-lokam": {
+    "id": "snehame-lokam",
+    "songName": "സ്നേഹമേ ലോകം",
+    "film": "ലോകനീതി",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ഘണ്ടശാല വെങ്കടേശ്വര റാവു",
+    "year": "1953"
+  },
+  "alayukayam-njangal": {
+    "id": "alayukayam-njangal",
+    "songName": "അലയുകയാം ഞങ്ങൾ",
+    "film": "വേലക്കാരൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കവിയൂർ രേവമ്മ, പി ലീല",
+    "year": "1953"
+  },
+  "azhakin-ponnodavumayi": {
+    "id": "azhakin-ponnodavumayi",
+    "songName": "അഴകിൻ പൊന്നോടവുമായ്",
+    "film": "വേലക്കാരൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ലഭ്യമായിട്ടില്ല",
+    "year": "1953"
+  },
+  "paathumaam-jagadeeshwaraa": {
+    "id": "paathumaam-jagadeeshwaraa",
+    "songName": "പാതുമാം ജഗദീശ്വരാ",
+    "film": "വേലക്കാരൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "അഗസ്റ്റിൻ ജോസഫ്",
+    "year": "1953"
+  },
+  "picchakappoo-choodum": {
+    "id": "picchakappoo-choodum",
+    "songName": "പിച്ചകപ്പൂ ചൂടും",
+    "film": "വേലക്കാരൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "കവിയൂർ രേവമ്മ",
+    "year": ""
+  },
+  "mangalacharithe": {
+    "id": "mangalacharithe",
+    "songName": "മംഗളചരിതേ",
+    "film": "വേലക്കാരൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല",
+    "year": "1953"
+  },
+  "malanadu": {
+    "id": "malanadu",
+    "songName": "മലനാട്",
+    "film": "വേലക്കാരൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": "1953"
+  },
+  "vanikayilangane": {
+    "id": "vanikayilangane",
+    "songName": "വനികയിലങ്ങനെ",
+    "film": "വേലക്കാരൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ലഭ്യമായിട്ടില്ല",
+    "year": "1953"
+  },
+  "cycle-vandiyeri-varum": {
+    "id": "cycle-vandiyeri-varum",
+    "songName": "സൈക്കിൾ വണ്ടിയേറി വരും",
+    "film": "വേലക്കാരൻ",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ലഭ്യമായിട്ടില്ല",
+    "year": "1953"
+  },
+  "thoomulla-scentu-pole": {
+    "id": "thoomulla-scentu-pole",
+    "songName": "തൂമുല്ല സെന്റു പോലെ",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "മീന സുലോചന, ജോസ് പ്രകാശ്",
+    "year": "1953"
+  },
+  "paadu-pettu-paadangalil": {
+    "id": "paadu-pettu-paadangalil",
+    "songName": "പാടുപെട്ടു പാടങ്ങളില്‍ (1)",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ജോസ് പ്രകാശ്",
+    "year": "1953"
+  },
+  "paadupettu-paadangalil": {
+    "id": "paadupettu-paadangalil",
+    "songName": "പാടുപെട്ടു പാടങ്ങളില്‍ (2)",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ജോസ് പ്രകാശ്, വി ദക്ഷിണാമൂർത്തി",
+    "year": "1953"
+  },
+  "prathikarachintha": {
+    "id": "prathikarachintha",
+    "songName": "പ്രതികാരചിന്ത",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "വി ദക്ഷിണാമൂർത്തി",
+    "year": "1953"
+  },
+  "sariyo-thetto": {
+    "id": "sariyo-thetto",
+    "songName": "ശരിയോ തെറ്റോ",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "",
+    "year": "1953"
+  },
+  "sreeraman-seethaye": {
+    "id": "sreeraman-seethaye",
+    "songName": "ശ്രീരാമന്‍ സീതയെ",
+    "film": "ശരിയോ തെറ്റോ",
+    "lyricist": "തിക്കുറിശ്ശി സുകുമാരൻ നായർ",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "പി ലീല",
+    "year": "1953"
   }
 }

@@ -84049,3 +84049,196 @@ Year complete: success=83, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 21637
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1953
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1953
+   Page 1: https://m3db.com/archive/lyrics/year/1953
+   Found 90 songs on this page. Total unique so far: 90
+Total songs to scrape for this year: 90
+🎵 [1/90] Scraping: 17858
+   ✅ Saved: കണ്മണി വാവാവോ ()
+🎵 [2/90] Scraping: 17852
+   ✅ Saved: കർമ്മഫലമേ ()
+🎵 [3/90] Scraping: 17846
+   ✅ Saved: ഗ്രാമത്തിൻ ഹൃദയം ()
+🎵 [4/90] Scraping: 66582
+   ✅ Saved: ജനനീ ജയിക്ക നീണാള്‍ (1953)
+🎵 [5/90] Scraping: 17856
+   ✅ Saved: ജീവിതം ഈ വിധമേ ()
+🎵 [6/90] Scraping: 17850
+   ✅ Saved: പന്തലിട്ടു മേലേ ()
+🎵 [7/90] Scraping: 17854
+   ✅ Saved: പൂ വേണോ പുതുപൂക്കൾ വേണോ ()
+🎵 [8/90] Scraping: premamennaal-pulivalu
+   ✅ Saved: പ്രേമമെന്നാൽ പുലിവാല് (1953)
+🎵 [9/90] Scraping: 17859
+   ✅ Saved: മാരിവില്ലൊളി വീശി ()
+🎵 [10/90] Scraping: 66587
+   ✅ Saved: വീശി പൊൻവല പൊൻവല (1953)
+🎵 [11/90] Scraping: 17848
+   ✅ Saved: ശരണം മയിൽ വാഹനാ ()
+🎵 [12/90] Scraping: idiyappam
+   ✅ Saved: *ഇടിയപ്പം (1953)
+🎵 [13/90] Scraping: ethu-paapathinaalo
+   ✅ Saved: ഏതു പാപത്തിനാലോ (1953)
+🎵 [14/90] Scraping: omanayen
+   ✅ Saved: ഓമനയെന്‍ ആനന്ദക്കാമ്പേ (1953)
+🎵 [15/90] Scraping: 69513
+   ✅ Saved: കണ്ണിന്നു പുണ്യമേകും (1953)
+🎵 [16/90] Scraping: kuthukamee-lathakalil
+   ✅ Saved: കുതുകമീ ലതകളില്‍ (1953)
+🎵 [17/90] Scraping: 69514
+   ✅ Saved: ഗതി നീയേ ദേവമാതാ (1953)
+🎵 [18/90] Scraping: 69512
+   ✅ Saved: മലര്‍വാടി മഹോത്സവം തേടി (1953)
+🎵 [19/90] Scraping: leelalolithame
+   ✅ Saved: ലീലാലോലിതമേ നീകാണും (1953)
+🎵 [20/90] Scraping: ammathan-thankakudame
+   ✅ Saved: അമ്മ തൻ തങ്കക്കുടമേ ()
+🎵 [21/90] Scraping: karayunnathenthe-soonyathayil
+   ✅ Saved: കരയുന്നതെന്തേ ശൂന്യതയിൽ ()
+🎵 [22/90] Scraping: 19973
+   ✅ Saved: കുരുവികളായ് ഉയരാം ()
+🎵 [23/90] Scraping: 66500
+   ✅ Saved: താരകം ഇരുളിൽ മായുകയോ (1953)
+🎵 [24/90] Scraping: deva-jagannatha
+   ✅ Saved: ദേവാ ജഗന്നാഥ ()
+🎵 [25/90] Scraping: paaril-jeevitham-pole
+   ✅ Saved: പാരിൽ ജീവിതം പോലെ ()
+🎵 [26/90] Scraping: 19971
+   ✅ Saved: പാലാഴിയാം നിലാവില്‍ ()
+🎵 [27/90] Scraping: paavana-bharatha
+   ✅ Saved: പാവനഭാരത ഭൂവിൽ ()
+🎵 [28/90] Scraping: 17868
+   ✅ Saved: പ്രണയത്തിൻ കോവിൽ ()
+🎵 [29/90] Scraping: 17874
+   ✅ Saved: മാതാവേ പായും ()
+🎵 [30/90] Scraping: 17873
+   ✅ Saved: മായരുതേ പൊൻകിനാവേ ()
+🎵 [31/90] Scraping: 17870
+   ✅ Saved: വനമുല്ലമാല വാടീ ()
+🎵 [32/90] Scraping: veeshi-ponvala
+   ✅ Saved: വീശി പൊൻവല ()
+🎵 [33/90] Scraping: he-kaliyodame
+   ✅ Saved: ഹേ കളിയോടമേ ()
+🎵 [34/90] Scraping: 17869
+   ✅ Saved: ഹേ കളിയോടമേ പോയാലും ()
+🎵 [35/90] Scraping: 66512
+   ✅ Saved: പ്രണയമോഹന സ്വപ്നശതങ്ങളാല്‍ (1953)
+🎵 [36/90] Scraping: 66504
+   ✅ Saved: അഞ്ജനശ്രീധരാ ചാരുമൂര്‍ത്തേ (1953)
+🎵 [37/90] Scraping: 17865
+   ✅ Saved: ആനന്ദരൂപൻ ആരിവനാരോ ()
+🎵 [38/90] Scraping: 17863
+   ✅ Saved: ആനന്ദവാസം അമരവിലാസം ()
+🎵 [39/90] Scraping: 17866
+   ✅ Saved: ആശങ്കാതിമിരം ()
+🎵 [40/90] Scraping: 66517
+   ✅ Saved: ഉല്ലാസം ഉലകെല്ലാം (1953)
+🎵 [41/90] Scraping: 66505
+   ✅ Saved: ഓ പ്രേമമധുരമീ ജീവലോകമാകെ (1953)
+🎵 [42/90] Scraping: 17864
+   ✅ Saved: കളിയാടും പൂവേ ()
+🎵 [43/90] Scraping: 66506
+   ✅ Saved: പാടൂ മാനസമേ പാടൂ (1953)
+🎵 [44/90] Scraping: 66507
+   ✅ Saved: പാഴിരുള്‍ മൂടി പാതയാകേ (1953)
+🎵 [45/90] Scraping: 66509
+   ✅ Saved: പോവുക നാം പോവുക നാം (1953)
+🎵 [46/90] Scraping: 66515
+   ✅ Saved: സകലം വിധിയല്ലേ പാരില്‍ (1953)
+🎵 [47/90] Scraping: 66516
+   ✅ Saved: സുഖമേ സുഖമേ സ്വര്‍ഗ്ഗ സുഖമേ (1953)
+🎵 [48/90] Scraping: anuragamrutham
+   ✅ Saved: അനുരാഗാമൃതം ()
+🎵 [49/90] Scraping: 38767
+   ✅ Saved: അറിയാതെ കിനാക്കളില്‍ (1953)
+🎵 [50/90] Scraping: aadippadippokaam
+   ✅ Saved: ആടിപ്പാടിപ്പോകാം ()
+🎵 [51/90] Scraping: oru-navayugame
+   ✅ Saved: ഒരു നവയുഗമേ ()
+🎵 [52/90] Scraping: kanna-neeyurangu
+   ✅ Saved: കണ്ണാ നീയുറങ്ങ് ()
+🎵 [53/90] Scraping: 38766
+   ✅ Saved: കണ്ണാ നീയുറങ്ങ് എന്‍ (1953)
+🎵 [54/90] Scraping: komalamruthupadhe
+   ✅ Saved: കോമളമൃദുപദേ ()
+🎵 [55/90] Scraping: 38769
+   ✅ Saved: പാടുന്നു പാടുന്നു ഞങ്ങള്‍ (1953)
+🎵 [56/90] Scraping: pavangalilalivullore
+   ✅ Saved: പാവങ്ങളിലലിവുള്ളോരേ (1953)
+🎵 [57/90] Scraping: 38768
+   ✅ Saved: പൂവാടിയാകെ പൂവാടിയാകെ (1953)
+🎵 [58/90] Scraping: sokamenthinaay
+   ✅ Saved: ശോകമെന്തിനായ് (1953)
+🎵 [59/90] Scraping: snehame-lokam
+   ✅ Saved: സ്നേഹമേ ലോകം (1953)
+🎵 [60/90] Scraping: alayukayam-njangal
+   ✅ Saved: അലയുകയാം ഞങ്ങൾ (1953)
+🎵 [61/90] Scraping: azhakin-ponnodavumayi
+   ✅ Saved: അഴകിൻ പൊന്നോടവുമായ് (1953)
+🎵 [62/90] Scraping: 12707
+   ✅ Saved: ആതിര തന്നാനന്ദകാലമായ് (1953)
+🎵 [63/90] Scraping: 66501
+   ✅ Saved: ആനന്ദമെന്നും മണിമേട തോറും (1953)
+🎵 [64/90] Scraping: paathumaam-jagadeeshwaraa
+   ✅ Saved: പാതുമാം ജഗദീശ്വരാ (1953)
+🎵 [65/90] Scraping: picchakappoo-choodum
+   ✅ Saved: പിച്ചകപ്പൂ ചൂടും ()
+🎵 [66/90] Scraping: 66502
+   ✅ Saved: പ്രണയദ മാനസ മലരേ (1953)
+🎵 [67/90] Scraping: mangalacharithe
+   ✅ Saved: മംഗളചരിതേ (1953)
+🎵 [68/90] Scraping: malanadu
+   ✅ Saved: മലനാട് (1953)
+🎵 [69/90] Scraping: 12693
+   ✅ Saved: മായേ മഹാമായേ (1953)
+🎵 [70/90] Scraping: vanikayilangane
+   ✅ Saved: വനികയിലങ്ങനെ (1953)
+🎵 [71/90] Scraping: 66503
+   ✅ Saved: വിദൂരമോ എന്‍വിലോലമാം (1953)
+🎵 [72/90] Scraping: cycle-vandiyeri-varum
+   ✅ Saved: സൈക്കിൾ വണ്ടിയേറി വരും (1953)
+🎵 [73/90] Scraping: 66519
+   ✅ Saved: അനുരാഗമോഹന (1953)
+🎵 [74/90] Scraping: 66523
+   ✅ Saved: കണ്ണുനീരു നീ ചൊരിയാതെ (1953)
+🎵 [75/90] Scraping: 66522
+   ✅ Saved: കമലലോചനാ കണ്ണാ (1953)
+🎵 [76/90] Scraping: 66544
+   ✅ Saved: തരുമോ തങ്കക്കുടമേ (1953)
+🎵 [77/90] Scraping: 53042
+   ✅ Saved: താരമേ താണുവരൂ (1953)
+🎵 [78/90] Scraping: thoomulla-scentu-pole
+   ✅ Saved: തൂമുല്ല സെന്റു പോലെ (1953)
+🎵 [79/90] Scraping: paadu-pettu-paadangalil
+   ✅ Saved: പാടുപെട്ടു പാടങ്ങളില്‍ (1) (1953)
+🎵 [80/90] Scraping: paadupettu-paadangalil
+   ✅ Saved: പാടുപെട്ടു പാടങ്ങളില്‍ (2) (1953)
+🎵 [81/90] Scraping: 66525
+   ✅ Saved: പോകാം പോകാം (1953)
+🎵 [82/90] Scraping: prathikarachintha
+   ✅ Saved: പ്രതികാരചിന്ത (1953)
+🎵 [83/90] Scraping: 66579
+   ✅ Saved: പ്രതികാരചിന്താ ഗതിയാലെ (1953)
+🎵 [84/90] Scraping: 66541
+   ✅ Saved: പ്രേമത്തിന്‍ മുരളിയുമൂതി (1953)
+🎵 [85/90] Scraping: 66520
+   ✅ Saved: ബാലനാം പ്രഹ്ളാദനെപ്പോലെ (1953)
+🎵 [86/90] Scraping: 66574
+   ✅ Saved: വാര്‍മഴവില്ലേ വാ (1953)
+🎵 [87/90] Scraping: 66575
+   ✅ Saved: വൃന്ദാവനറാണി നീ (1953)
+🎵 [88/90] Scraping: sariyo-thetto
+   ✅ Saved: ശരിയോ തെറ്റോ (1953)
+🎵 [89/90] Scraping: sreeraman-seethaye
+   ✅ Saved: ശ്രീരാമന്‍ സീതയെ (1953)
+🎵 [90/90] Scraping: 66521
+   ✅ Saved: ഹന്തജീവിതഗതിതന്‍ (1953)
+Year complete: success=90, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 21727
