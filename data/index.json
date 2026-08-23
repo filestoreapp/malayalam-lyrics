@@ -42758,6 +42758,24 @@
     "singers": "ശ്രേയ ഘോഷൽ",
     "year": ""
   },
+  "26098": {
+    "id": "26098",
+    "songName": "നീരിലെ കുമിളപോലെ ജീവിതം",
+    "film": "നിർമ്മല(1948)",
+    "lyricist": "ജി ശങ്കരക്കുറുപ്പ്",
+    "musicDirector": "ഇ ഐ വാര്യർ",
+    "singers": "ടി കെ ഗോവിന്ദറാവു",
+    "year": ""
+  },
+  "26100": {
+    "id": "26100",
+    "songName": "കരുണാകര",
+    "film": "നിർമ്മല(1948)",
+    "lyricist": "ജി ശങ്കരക്കുറുപ്പ്",
+    "musicDirector": "ഇ ഐ വാര്യർ",
+    "singers": "സരോജിനി മേനോൻ, വിമല ബി വർമ്മ",
+    "year": ""
+  },
   "26109": {
     "id": "26109",
     "songName": "കാലമൊന്നു കാലാൽ",
@@ -54664,6 +54682,15 @@
     "musicDirector": "ഔസേപ്പച്ചൻ",
     "singers": "കെ എസ് ചിത്ര",
     "year": "2012"
+  },
+  "34993": {
+    "id": "34993",
+    "songName": "അറബിക്കടലിലെ കൊച്ചു",
+    "film": "നിർമ്മല(1948)",
+    "lyricist": "ജി ശങ്കരക്കുറുപ്പ്",
+    "musicDirector": "പി എസ് ദിവാകർ",
+    "singers": "ടി കെ ഗോവിന്ദറാവു",
+    "year": "1948"
   },
   "34994": {
     "id": "34994",
@@ -81187,6 +81214,24 @@
     "musicDirector": "എസ് പി വെങ്കടേഷ്",
     "singers": "എസ് ജാനകി",
     "year": "1995"
+  },
+  "66236": {
+    "id": "66236",
+    "songName": "പച്ചരത്നത്തളികയില്‍ മെച്ചമേറും പലപൂക്കള്‍",
+    "film": "നിർമ്മല(1948)",
+    "lyricist": "ജി ശങ്കരക്കുറുപ്പ്",
+    "musicDirector": "പി എസ് ദിവാകർ, ഇ ഐ വാര്യർ",
+    "singers": "പി കെ രാഘവൻ",
+    "year": "1948"
+  },
+  "66238": {
+    "id": "66238",
+    "songName": "വാഴുക സുരുചിരം",
+    "film": "നിർമ്മല(1948)",
+    "lyricist": "ജി ശങ്കരക്കുറുപ്പ്",
+    "musicDirector": "പി എസ് ദിവാകർ, ഇ ഐ വാര്യർ",
+    "singers": "വിമല ബി വർമ്മ",
+    "year": "1948"
   },
   "66239": {
     "id": "66239",
@@ -198286,5 +198331,59 @@
     "musicDirector": "പരമുദാസ്, ബി എ ചിദംബരനാഥ്",
     "singers": "",
     "year": "1949"
+  },
+  "ivalo-nirmala": {
+    "id": "ivalo-nirmala",
+    "songName": "ഇവളോ നിര്‍മ്മല",
+    "film": "നിർമ്മല(1948)",
+    "lyricist": "ജി ശങ്കരക്കുറുപ്പ്",
+    "musicDirector": "ഇ ഐ വാര്യർ",
+    "singers": "ടി കെ ഗോവിന്ദറാവു",
+    "year": ""
+  },
+  "ettan-varunna-diname": {
+    "id": "ettan-varunna-diname",
+    "songName": "ഏട്ടന്‍ വരുന്ന ദിനമേ",
+    "film": "നിർമ്മല(1948)",
+    "lyricist": "ജി ശങ്കരക്കുറുപ്പ്",
+    "musicDirector": "ഇ ഐ വാര്യർ",
+    "singers": "വിമല ബി വർമ്മ",
+    "year": "1948"
+  },
+  "keralame-lokanandam": {
+    "id": "keralame-lokanandam",
+    "songName": "കേരളമേ ലോകാനന്ദം",
+    "film": "നിർമ്മല(1948)",
+    "lyricist": "ജി ശങ്കരക്കുറുപ്പ്",
+    "musicDirector": "പി എസ് ദിവാകർ, ഇ ഐ വാര്യർ",
+    "singers": "പി ലീല",
+    "year": "1948"
+  },
+  "daivame-palaya": {
+    "id": "daivame-palaya",
+    "songName": "ദൈവമേ പാലയാ",
+    "film": "നിർമ്മല(1948)",
+    "lyricist": "ജി ശങ്കരക്കുറുപ്പ്",
+    "musicDirector": "പി എസ് ദിവാകർ, ഇ ഐ വാര്യർ",
+    "singers": "പി ലീല",
+    "year": "1948"
+  },
+  "paaduka-poonkuyile": {
+    "id": "paaduka-poonkuyile",
+    "songName": "പാടുക പൂങ്കുയിലേ",
+    "film": "നിർമ്മല(1948)",
+    "lyricist": "ജി ശങ്കരക്കുറുപ്പ്",
+    "musicDirector": "ഇ ഐ വാര്യർ",
+    "singers": "ടി കെ ഗോവിന്ദറാവു, പി ലീല",
+    "year": ""
+  },
+  "subhaleela": {
+    "id": "subhaleela",
+    "songName": "ശുഭലീല",
+    "film": "നിർമ്മല(1948)",
+    "lyricist": "ജി ശങ്കരക്കുറുപ്പ്",
+    "musicDirector": "പി എസ് ദിവാകർ",
+    "singers": "ടി കെ ഗോവിന്ദറാവു",
+    "year": ""
   }
 }

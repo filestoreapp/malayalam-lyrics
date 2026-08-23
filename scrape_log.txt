@@ -84904,3 +84904,38 @@ Year complete: success=10, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22032
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1948
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1948
+   Page 1: https://m3db.com/archive/lyrics/year/1948
+   Found 11 songs on this page. Total unique so far: 11
+Total songs to scrape for this year: 11
+🎵 [1/11] Scraping: 34993
+   ✅ Saved: അറബിക്കടലിലെ കൊച്ചു (1948)
+🎵 [2/11] Scraping: ivalo-nirmala
+   ✅ Saved: ഇവളോ നിര്‍മ്മല ()
+🎵 [3/11] Scraping: ettan-varunna-diname
+   ✅ Saved: ഏട്ടന്‍ വരുന്ന ദിനമേ (1948)
+🎵 [4/11] Scraping: 26100
+   ✅ Saved: കരുണാകര ()
+🎵 [5/11] Scraping: keralame-lokanandam
+   ✅ Saved: കേരളമേ ലോകാനന്ദം (1948)
+🎵 [6/11] Scraping: daivame-palaya
+   ✅ Saved: ദൈവമേ പാലയാ (1948)
+🎵 [7/11] Scraping: 26098
+   ✅ Saved: നീരിലെ കുമിളപോലെ ജീവിതം ()
+🎵 [8/11] Scraping: 66236
+   ✅ Saved: പച്ചരത്നത്തളികയില്‍ മെച്ചമേറും പലപൂക്കള്‍ (1948)
+🎵 [9/11] Scraping: paaduka-poonkuyile
+   ✅ Saved: പാടുക പൂങ്കുയിലേ ()
+🎵 [10/11] Scraping: 66238
+   ✅ Saved: വാഴുക സുരുചിരം (1948)
+🎵 [11/11] Scraping: subhaleela
+   ✅ Saved: ശുഭലീല ()
+Year complete: success=11, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22043
