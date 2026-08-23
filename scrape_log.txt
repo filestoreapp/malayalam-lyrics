@@ -82153,3 +82153,280 @@ Year complete: success=0, skipped=180, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 20754
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1963
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1963
+   Page 1: https://m3db.com/archive/lyrics/year/1963
+   Found 132 songs on this page. Total unique so far: 132
+Total songs to scrape for this year: 132
+🎵 [1/132] Scraping: 12014
+   ✅ Saved: ഉണരുണരൂ ഉണ്ണിപ്പൂവേ ()
+🎵 [2/132] Scraping: 12013
+   ✅ Saved: കഥ കഥ പ്പൈങ്കിളിയും ()
+🎵 [3/132] Scraping: konnappoove
+   ✅ Saved: കൊന്നപ്പൂവേ കൊങ്ങിണിപ്പൂവേ ()
+🎵 [4/132] Scraping: 17599
+   ✅ Saved: ഗോക്കളേ മേച്ചുകൊണ്ടും ()
+🎵 [5/132] Scraping: 17602
+   ✅ Saved: ദൈവമേ കൈതൊഴാം ()
+🎵 [6/132] Scraping: 12016
+   ✅ Saved: പെണ്ണായി പിറന്നെങ്കിൽ ()
+🎵 [7/132] Scraping: praanante-praananil
+   ✅ Saved: പ്രാണന്റെ പ്രാണനിൽ ()
+🎵 [8/132] Scraping: 12015
+   ✅ Saved: മധുരപ്പതിനേഴുകാരീ ()
+🎵 [9/132] Scraping: 13014
+   ✅ Saved: ആയിരത്തിരി കൈത്തിരി ()
+🎵 [10/132] Scraping: 8090
+   ✅ Saved: ഊഞ്ഞാലൂഞ്ഞാല് ()
+🎵 [11/132] Scraping: 8088
+   ✅ Saved: ഏതു കടലിലോ ഏതു കരയിലോ ()
+🎵 [12/132] Scraping: kadalamme
+   ✅ Saved: കടലമ്മേ ()
+🎵 [13/132] Scraping: 17620
+   ✅ Saved: കുമ്മിയടിക്കുവിൻ കുമ്മിയടിക്കുവിൻ ()
+🎵 [14/132] Scraping: 17618
+   ✅ Saved: ജലദേവതമാരേ വരൂ വരൂ ()
+🎵 [15/132] Scraping: 8086
+   ✅ Saved: തിരുവാതിരയുടെ നാട്ടീന്നോ ()
+🎵 [16/132] Scraping: 7941
+   ✅ Saved: പാലാഴിക്കടവിൽ നീരാട്ടിനിറങ്ങിയ ()
+🎵 [17/132] Scraping: 13016
+   ✅ Saved: മുങ്ങി മുങ്ങി മുത്തുകൾ വാരും ()
+🎵 [18/132] Scraping: 67455
+   ✅ Saved: മുത്തു തരാം കടലമ്മേ (1963)
+🎵 [19/132] Scraping: 8087
+   ✅ Saved: വരമരുളുക വനദുർഗ്ഗേ ()
+🎵 [20/132] Scraping: 67439
+   ✅ Saved: ഇന്നോളം എന്നെപ്പോല്‍ (1963)
+🎵 [21/132] Scraping: 67440
+   ✅ Saved: ഇരന്നാല്‍ കിട്ടാത്ത (1963)
+🎵 [22/132] Scraping: unnikkai-randilum
+   ✅ Saved: ഉണ്ണിക്കൈ രണ്ടിലും ()
+🎵 [23/132] Scraping: 67445
+   ✅ Saved: കണ്ടില്ലേ വമ്പ് (1963)
+🎵 [24/132] Scraping: 67442
+   ✅ Saved: കഥയില്ല എനിക്ക് കഥയില്ല (1963)
+🎵 [25/132] Scraping: 67441
+   ✅ Saved: കാലത്തീ പൂമരച്ചോട്ടില്‍ (1963)
+🎵 [26/132] Scraping: nenchil-thudikkumen
+   ✅ Saved: നെഞ്ചിൽ തുടിക്കുമെൻ (1963)
+🎵 [27/132] Scraping: 67447
+   ✅ Saved: പൊയ്പ്പോയ കാലം (1963)
+🎵 [28/132] Scraping: 67446
+   ✅ Saved: മലകളേ പുഴകളേ (1963)
+🎵 [29/132] Scraping: aadiyilaakaashavum
+   ✅ Saved: ആദിയിലാകാശവും ()
+🎵 [30/132] Scraping: karukakkattil-menju-nadannoru
+   ✅ Saved: കറുകക്കാട്ടിൽ മേഞ്ഞു നടന്നൊരു ()
+🎵 [31/132] Scraping: karirumbani-pazhuthulla
+   ✅ Saved: കാരിരുമ്പാണിപ്പഴുതുള്ള ()
+🎵 [32/132] Scraping: kurishu-chumannavane
+   ✅ Saved: കുരിശു ചുമന്നവനേ ()
+🎵 [33/132] Scraping: poonthinkalenthe-maranjoo
+   ✅ Saved: പൂന്തിങ്കളെന്തേ മറഞ്ഞു ()
+🎵 [34/132] Scraping: maanathe-mazhavillinezhu-niram
+   ✅ Saved: മാനത്തെ മഴവില്ലിനേഴു നിറം ()
+🎵 [35/132] Scraping: minnunnathellaam-ponnalla
+   ✅ Saved: മിന്നുന്നതെല്ലാം പൊന്നല്ല ()
+🎵 [36/132] Scraping: muthe-vaa
+   ✅ Saved: മുത്തേ വാ ()
+🎵 [37/132] Scraping: sathyamaayullavane
+   ✅ Saved: സത്യമായുള്ളവനേ ()
+🎵 [38/132] Scraping: 67421
+   ✅ Saved: കഴുത്തില്‍ ചിപ്പിയും (1963)
+🎵 [39/132] Scraping: 17614
+   ✅ Saved: കാട്ടുകുറിഞ്ഞീ കാട്ടുകുറിഞ്ഞീ ()
+🎵 [40/132] Scraping: 67420
+   ✅ Saved: കാവിലമ്മേ കരിങ്കാളീ (1963)
+🎵 [41/132] Scraping: 67425
+   ✅ Saved: നല്ലനല്ല കയ്യാണല്ലോ (1963)
+🎵 [42/132] Scraping: 67424
+   ✅ Saved: നാണത്താല്‍ പാതിവിരിഞ്ഞ (1963)
+🎵 [43/132] Scraping: 17616
+   ✅ Saved: പാടാൻ ചുണ്ടു വിടര്‍ത്തിയതേയുള്ളൂ ()
+🎵 [44/132] Scraping: 67423
+   ✅ Saved: മലമുകളില്‍ മാമരത്തില്‍ (1963)
+🎵 [45/132] Scraping: 67422
+   ✅ Saved: മായപ്പെട്ടിയുണ്ട് പലതരം (1963)
+🎵 [46/132] Scraping: 67438
+   ✅ Saved: വാ വാ വനരാജാവേ (1963)
+🎵 [47/132] Scraping: enthe-nee-kaniyaaivan
+   ✅ Saved: എന്തേ നീ കനിയായ്‌വാൻ ()
+🎵 [48/132] Scraping: odi-vaa-vaa
+   ✅ Saved: ഓടി വാ വാ ഓടിവാ കണ്ണാ ()
+🎵 [49/132] Scraping: 12580
+   ✅ Saved: കണ്ണനെ കണ്ടേൻ സഖീ ()
+🎵 [50/132] Scraping: kaladevathe-saraswathy
+   ✅ Saved: കലാദേവതേ സരസ്വതി ()
+🎵 [51/132] Scraping: kasthuri-thilakam
+   ✅ Saved: കസ്തൂരീ തിലകം (1963)
+🎵 [52/132] Scraping: 17608
+   ✅ Saved: കെട്ടിയ കൈ കൊണ്ടീ ()
+🎵 [53/132] Scraping: doorennu-doorennu-vannavare
+   ✅ Saved: ദൂരേന്നു ദൂരേന്നു വന്നവരേ ()
+🎵 [54/132] Scraping: 67492
+   ✅ Saved: ദേവാ നിന്നിലുറച്ചിടുന്ന (1963)
+🎵 [55/132] Scraping: paahi-mukundaa
+   ✅ Saved: പാഹി മുകുന്ദാ ()
+🎵 [56/132] Scraping: 17606
+   ✅ Saved: പൂവിനു മണമില്ലാ ()
+🎵 [57/132] Scraping: 17604
+   ✅ Saved: പ്രിയമാനസാ നീ വാ വാ (1963)
+🎵 [58/132] Scraping: maadhava-maadhava
+   ✅ Saved: മാധവാ മാധവാ ()
+🎵 [59/132] Scraping: 12584
+   ✅ Saved: മായാമയനുടെ ലീല ()
+🎵 [60/132] Scraping: 8464
+   ✅ Saved: എന്നാണെ നിന്നാണെ ()
+🎵 [61/132] Scraping: 8458
+   ✅ Saved: കല്പനയാകും യമുനാനദിയുടെ ()
+🎵 [62/132] Scraping: 8459
+   ✅ Saved: കിനാവിന്റെ കുഴിമാടത്തിൽ ()
+🎵 [63/132] Scraping: 8462
+   ✅ Saved: കേളടീ നിന്നെ ഞാൻ ()
+🎵 [64/132] Scraping: 8465
+   ✅ Saved: പൊന്നിൻ ചിലങ്ക ()
+🎵 [65/132] Scraping: 8461
+   ✅ Saved: വണ്ടീ പുകവണ്ടീ ()
+🎵 [66/132] Scraping: 8463
+   ✅ Saved: വരണൊണ്ട് വരണൊണ്ട് ()
+🎵 [67/132] Scraping: 8460
+   ✅ Saved: വിരലൊന്നു മുട്ടിയാൽ ()
+🎵 [68/132] Scraping: 7190
+   ✅ Saved: അനുരാഗനാടകത്തിൻ (1963)
+🎵 [69/132] Scraping: 12009
+   ✅ Saved: ഇതുമാത്രമിതുമാത്രം (1963)
+🎵 [70/132] Scraping: 14342
+   ✅ Saved: ഇനിയാരെത്തിരയുന്നു (1963)
+🎵 [71/132] Scraping: 14345
+   ✅ Saved: കന്യാതനയാ കരുണാനിലയാ (1963)
+🎵 [72/132] Scraping: 14347
+   ✅ Saved: പടിഞ്ഞാറെ മാനത്തുള്ള (1963)
+🎵 [73/132] Scraping: 14344
+   ✅ Saved: ഭാരത മേദിനി പോറ്റിവളർത്തിയ (1963)
+🎵 [74/132] Scraping: 12008
+   ✅ Saved: മാമലകൾക്കപ്പുറത്ത് മരതകപ്പട്ടുടുത്ത് (1963)
+🎵 [75/132] Scraping: 66218
+   ✅ Saved: മേംതൊ ഘുങ്ഘുരു (1963)
+🎵 [76/132] Scraping: 8607
+   ✅ Saved: എന്തെന്തു മോഹങ്ങളായിരുന്നു (1962)
+🎵 [77/132] Scraping: 67529
+   ✅ Saved: കണ്ണുനീര്‍ മുത്തുമായ് (F) (1963)
+🎵 [78/132] Scraping: 8606
+   ✅ Saved: കണ്ണുനീർമുത്തുമായ് (M) (1962)
+🎵 [79/132] Scraping: 17645
+   ✅ Saved: കൃഷ്ണാ കൃഷ്ണാ ഗുരുവായൂരപ്പാ (1962)
+🎵 [80/132] Scraping: 8608
+   ✅ Saved: കൈയ്യിൽ നിന്നെ കിട്ടിയാൽ (1962)
+🎵 [81/132] Scraping: 8605
+   ✅ Saved: തങ്കം കൊണ്ടൊരു (1962)
+🎵 [82/132] Scraping: 17646
+   ✅ Saved: മറക്കുമോ എന്നെ മറക്കുമോ (1962)
+🎵 [83/132] Scraping: 12422
+   ✅ Saved: അയലത്തെ സുന്ദരി ()
+🎵 [84/132] Scraping: 17623
+   ✅ Saved: ഇതാണു ഭാരതധരണി ()
+🎵 [85/132] Scraping: 12424
+   ✅ Saved: എന്തൊരു തൊന്തരവ് അയ്യയ്യോ ()
+🎵 [86/132] Scraping: 9819
+   ✅ Saved: തളിരിട്ട കിനാക്കൾ തൻ ()
+🎵 [87/132] Scraping: 12425
+   ✅ Saved: പണ്ടെന്റെ മുറ്റത്ത് ()
+🎵 [88/132] Scraping: 67448
+   ✅ Saved: മദനപ്പൂവനം വിട്ടു (1963)
+🎵 [89/132] Scraping: 13666
+   ✅ Saved: മാനത്തുള്ളൊരു വല്യമ്മാവനു ()
+🎵 [90/132] Scraping: 17626
+   ✅ Saved: മൈലാഞ്ചിത്തോപ്പിൽ ()
+🎵 [91/132] Scraping: 12423
+   ✅ Saved: വട്ടൻ വിളഞ്ഞിട്ടും ()
+🎵 [92/132] Scraping: 13672
+   ✅ Saved: വെണ്ണിലാവുദിച്ചപ്പോൾ ()
+🎵 [93/132] Scraping: 11297
+   ✅ Saved: ആകാശത്തിലെ കുരുവികൾ ()
+🎵 [94/132] Scraping: 11304
+   ✅ Saved: ഇനിയൊരു ജനനമുണ്ടോ ()
+🎵 [95/132] Scraping: 11301
+   ✅ Saved: കിളിവാതിലിൽ മുട്ടിവിളിച്ചത് ()
+🎵 [96/132] Scraping: 11302
+   ✅ Saved: കൊതിക്കല്ലേ കൊതിക്കല്ലേ ()
+🎵 [97/132] Scraping: 11299
+   ✅ Saved: താലിപീലി കാടുകളിൽ ()
+🎵 [98/132] Scraping: 67528
+   ✅ Saved: നിത്യസഹായ നാഥേ (bit) (1963)
+🎵 [99/132] Scraping: 11298
+   ✅ Saved: ബലിയല്ലാ എനിക്കു വേണ്ടത് ()
+🎵 [100/132] Scraping: 11300
+   ✅ Saved: മാനത്തെ ഏഴുനില മാളികയിൽ ()
+🎵 [101/132] Scraping: muzhangi-muzhangi-maranamani
+   ✅ Saved: മുഴങ്ങി മുഴങ്ങി മരണമണി ()
+🎵 [102/132] Scraping: 11303
+   ✅ Saved: യറുശലേമിൻ നായകനെ ()
+🎵 [103/132] Scraping: 17632
+   ✅ Saved: ആരാമത്തിൻ സുന്ദരിയല്ലേ ()
+🎵 [104/132] Scraping: 66209
+   ✅ Saved: ഇടതുകണ്ണിളകുന്നതെന്തിനാണോ (1963)
+🎵 [105/132] Scraping: oru-vazhi-cholken
+   ✅ Saved: ഒരു വഴി ചൊൽകെൻ ()
+🎵 [106/132] Scraping: 67525
+   ✅ Saved: കാടിന്റെ കരളു തുടിച്ചു (1963)
+🎵 [107/132] Scraping: 67523
+   ✅ Saved: ഗോകുലത്തില്‍ പണ്ട് പണ്ട് (1963)
+🎵 [108/132] Scraping: 67524
+   ✅ Saved: ജയജയ നാരായണാ (1963)
+🎵 [109/132] Scraping: prakasharoopaa
+   ✅ Saved: പ്രകാശരൂപാ ()
+🎵 [110/132] Scraping: prabhaathakaale-brahmaavaayi
+   ✅ Saved: പ്രഭാതകാലേ ബ്രഹ്മാവായി ()
+🎵 [111/132] Scraping: 67527
+   ✅ Saved: മതി മതി മായാലീലകള്‍ (1963)
+🎵 [112/132] Scraping: mannavanaayaalum
+   ✅ Saved: മന്നവനായാലും ()
+🎵 [113/132] Scraping: 67526
+   ✅ Saved: മാതേ ജഗന്മാതേ (1963)
+🎵 [114/132] Scraping: 17639
+   ✅ Saved: വാടരുതീ മലരിനി ()
+🎵 [115/132] Scraping: 17644
+   ✅ Saved: കണ്ടു ഞാൻ നിന്മുഖം ()
+🎵 [116/132] Scraping: 15165
+   ✅ Saved: കണ്ടോട്ടെ ഒന്നു കണ്ടോട്ടെ ()
+🎵 [117/132] Scraping: 17647
+   ✅ Saved: കുളിർകാറ്റേ നീ ()
+🎵 [118/132] Scraping: 67485
+   ✅ Saved: ഞാനൊരു കഥ പറയാം (1963)
+🎵 [119/132] Scraping: 67489
+   ✅ Saved: തസ്കരനല്ല ഞാന്‍ (1963)
+🎵 [120/132] Scraping: 67487
+   ✅ Saved: താലോലം തങ്കം താലോലം (1963)
+🎵 [121/132] Scraping: 24633
+   ✅ Saved: താലോലം തങ്കം താലോലം (pathos) ()
+🎵 [122/132] Scraping: 24635
+   ✅ Saved: യാത്രക്കാരാ വഴിയാത്രക്കാരാ ()
+🎵 [123/132] Scraping: 11295
+   ✅ Saved: ബത്‌ലഹേമിന്റെ തിരുമടിത്തട്ടിലെ ()
+🎵 [124/132] Scraping: 17640
+   ✅ Saved: ആകാശത്തിൻ മഹിമാവേ ()
+🎵 [125/132] Scraping: 61723
+   ✅ Saved: ഓശാന ദാവീദിൻ സുതനേ ഓശാന (1963)
+🎵 [126/132] Scraping: 17642
+   ✅ Saved: കാൽ‌വരീ കാൽ‌വരീ ()
+🎵 [127/132] Scraping: 67450
+   ✅ Saved: ഗലീലിയാ കടലിലേ (1963)
+🎵 [128/132] Scraping: 11296
+   ✅ Saved: താരാകുമാരികളെ ()
+🎵 [129/132] Scraping: 67451
+   ✅ Saved: നീരാടാം സഖി നീലമലര്‍പ്പൊയ്കയില്‍ (1963)
+🎵 [130/132] Scraping: 64357
+   ✅ Saved: പ്രണയം പ്രണയമീ പാരെങ്ങും (1963)
+🎵 [131/132] Scraping: 67454
+   ✅ Saved: യൂദെയാ വരൂ (1963)
+🎵 [132/132] Scraping: 67452
+   ✅ Saved: ശാരോണില്‍ വിരിയും (1963)
+Year complete: success=132, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 20886
