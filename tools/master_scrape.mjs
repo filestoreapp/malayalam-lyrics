@@ -3,9 +3,9 @@ import { load } from 'cheerio';
 
 const BASE_URL = 'https://m3db.com';
 const YEAR_LIST_URL = 'https://m3db.com/archive/lyrics/year';
-const DELAY_BETWEEN_SONGS = 2000; // 2 seconds
-const DELAY_BETWEEN_YEARS = 5000; // 5 seconds
-const DELAY_BETWEEN_PAGES = 3000; // 3 seconds between pages
+const DELAY_BETWEEN_SONGS = 2000;
+const DELAY_BETWEEN_YEARS = 5000;
+const DELAY_BETWEEN_PAGES = 3000;
 const MAX_RETRIES = 3;
 const LOG_FILE = 'scrape_log.txt';
 
@@ -67,7 +67,7 @@ function extractLyricsWithLineBreaks($, selector) {
   text = text.replace(/&amp;/gi, '&');
   text = text.replace(/&lt;/gi, '<');
   text = text.replace(/&gt;/gi, '>');
-  text = text.replace(/\u200d/g, ''); // remove zero-width joiner
+  text = text.replace(/\u200d/g, '');
   return text.trim();
 }
 
@@ -95,6 +95,9 @@ async function scrapeSong(songUrl) {
   const yearField = extractText($, '.field-name-field-year');
   const year = yearField.replace(/^Year:\s*/i, '').trim();
 
+  // Determine folder name: year or 'unknown'
+  const folderName = year || 'unknown';
+
   const songData = {
     id,
     songName,
@@ -106,11 +109,13 @@ async function scrapeSong(songUrl) {
     lyrics
   };
 
-  const lyricsDir = 'data/lyrics';
+  // Save lyrics in year-based folder
+  const lyricsDir = `data/lyrics/${folderName}`;
   mkdirSync(lyricsDir, { recursive: true });
   const lyricsFile = `${lyricsDir}/${id}.json`;
   writeFileSync(lyricsFile, JSON.stringify(songData, null, 2), 'utf8');
 
+  // Update index (same for all, flat index.json)
   const indexFile = 'data/index.json';
   let index = {};
   if (existsSync(indexFile)) {
@@ -160,7 +165,6 @@ async function processYear(yearUrl) {
     pageLinks.forEach(link => allSongUrls.add(link));
     logMessage(`   Found ${pageLinks.size} songs on this page. Total unique so far: ${allSongUrls.size}`);
 
-    // Find next page link (if any)
     let nextPageUrl = null;
     $('a').each((i, el) => {
       const href = $(el).attr('href') || '';
@@ -168,12 +172,11 @@ async function processYear(yearUrl) {
       if (href.match(/[?&]page=\d+/) && text.match(/next|»|›|more|അടുത്തത്/i)) {
         const resolved = href.startsWith('http') ? href : BASE_URL + href;
         nextPageUrl = resolved;
-        return false; // break out of each
+        return false;
       }
     });
 
     if (!nextPageUrl && pageNum === 1) {
-      // Try to guess pagination format: ?page=2 if no explicit next link but we had 500 songs
       if (pageLinks.size >= 500) {
         const sep = yearUrl.includes('?') ? '&' : '?';
         nextPageUrl = `${yearUrl}${sep}page=2`;
@@ -198,12 +201,18 @@ async function processYear(yearUrl) {
   for (let i = 0; i < songUrls.length; i++) {
     const url = songUrls[i];
     const id = url.split('/').pop();
-    const lyricsFile = `data/lyrics/${id}.json`;
-
-    if (existsSync(lyricsFile)) {
-      logMessage(`⏭️  [${i+1}/${songUrls.length}] Already exists: ${id}`);
-      skipped++;
-      continue;
+    // Check if file exists in any year folder (we don't know year yet without fetching)
+    // We'll fetch the song page to get year; but to skip, we need to check if any file with this id exists.
+    // Simpler: try to find in index first; if index has id, assume done.
+    // But index may be updated after each song, so we can use index to skip.
+    const indexFile = 'data/index.json';
+    if (existsSync(indexFile)) {
+      const index = JSON.parse(readFileSync(indexFile, 'utf8'));
+      if (index[id]) {
+        logMessage(`⏭️  [${i+1}/${songUrls.length}] Already exists in index: ${id}`);
+        skipped++;
+        continue;
+      }
     }
 
     try {
