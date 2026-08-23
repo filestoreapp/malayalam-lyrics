@@ -1,4 +1,4 @@
-name: Scrape Lyrics
+name: Scrape Lyrics (Year by Year)
 
 on:
   workflow_dispatch:
@@ -34,21 +34,31 @@ jobs:
           rm -f data/index.json
           rm -f scrape_log.txt
 
-      - name: Run scraper
+      - name: Get year list
+        id: years
         run: |
-          if [ -z "${{ github.event.inputs.years }}" ]; then
-            node tools/master_scrape.mjs
+          node -e "const { load } = require('cheerio'); (async()=>{ const res = await fetch('https://m3db.com/archive/lyrics/year'); const html = await res.text(); const $ = load(html); const years = new Set(); $('a').each((i,el)=>{ const href=$(el).attr('href')||''; const m=href.match(/\/archive\/lyrics\/year\/(\d+)/); if(m) years.add(m[1]); }); console.log([...years].join(' ')); })()" > years.txt
+          cat years.txt
+          echo "years=$(cat years.txt)" >> $GITHUB_OUTPUT
+
+      - name: Run scraper for each year and commit
+        env:
+          YEARS_INPUT: ${{ github.event.inputs.years }}
+        run: |
+          if [ -n "$YEARS_INPUT" ]; then
+            YEARS=$(echo "$YEARS_INPUT" | tr ',' ' ')
           else
-            YEARS=$(echo "${{ github.event.inputs.years }}" | tr ',' ' ')
-            node tools/master_scrape.mjs $YEARS
+            YEARS=$(cat years.txt)
           fi
 
-      - name: Commit data and log
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add data/ scrape_log.txt
-          git diff --cached --quiet || git commit -m "Update scraped lyrics data"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          for YEAR in $YEARS; do
+            echo "Processing year: $YEAR"
+            node tools/master_scrape.mjs "$YEAR"
+            echo "Committing after year $YEAR"
+            git config --global user.name 'github-actions[bot]'
+            git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+            git add data/ scrape_log.txt
+            git diff --cached --quiet || git commit -m "Scrape year $YEAR"
+            git push
+            sleep 5
+          done
