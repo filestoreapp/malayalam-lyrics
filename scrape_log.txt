@@ -20974,3 +20974,530 @@ Year complete: success=224, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 8178
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 2001
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/2001
+   Page 1: https://m3db.com/archive/lyrics/year/2001
+   Found 257 songs on this page. Total unique so far: 257
+Total songs to scrape for this year: 257
+🎵 [1/257] Scraping: 10342
+   ✅ Saved: മഴ വന്നു തൊട്ടു മെല്ലെ ()
+🎵 [2/257] Scraping: aa-thatha-ee-thatha
+   ✅ Saved: ആ തത്ത ഈ തത്ത (2001)
+🎵 [3/257] Scraping: kalivattam-kanavattam
+   ✅ Saved: കളിവട്ടം കാണാവട്ടം (2001)
+🎵 [4/257] Scraping: katte-katte-katte-poonkatte-f
+   ✅ Saved: കാറ്റേ കാറ്റെ പൂങ്കാറ്റേ - F (2001)
+🎵 [5/257] Scraping: kattu-kattu-kattu-poonkattu-m
+   ✅ Saved: കാറ്റ് കാറ്റ് കാറ്റ് പൂങ്കാറ്റ് - M (2001)
+🎵 [6/257] Scraping: salabham-vazhi
+   ✅ Saved: ശലഭം വഴിമാറുമാ (2001)
+🎵 [7/257] Scraping: nimishadalangalil
+   ✅ Saved: നിമിഷദളങ്ങളിൽ നീ മാത്രം (2001)
+🎵 [8/257] Scraping: madyalahariyil
+   ✅ Saved: മദ്യലഹരിയിൽ (2001)
+🎵 [9/257] Scraping: mayam-marimayam
+   ✅ Saved: മായം മറിമായം (2001)
+🎵 [10/257] Scraping: swapnangale-madhura
+   ✅ Saved: സ്വപ്നങ്ങളേ മധുരസ്വപ്നങ്ങളേ (2001)
+🎵 [11/257] Scraping: 63893
+   ✅ Saved: അങ്ങാടിവീടിനു കതകില്ല (2001)
+🎵 [12/257] Scraping: 63895
+   ✅ Saved: കളഭക്കുറിയിട്ട (2001)
+🎵 [13/257] Scraping: 63894
+   ✅ Saved: കാറ്റിലൂഞ്ഞാലിടാം (2001)
+🎵 [14/257] Scraping: 63901
+   ✅ Saved: തത്തപ്പെണ്ണ് പാട്ടുപാട് (F) (2001)
+🎵 [15/257] Scraping: 63902
+   ✅ Saved: തത്തപ്പെണ്ണ് പാട്ടുപാട് (M) (2001)
+🎵 [16/257] Scraping: 63897
+   ✅ Saved: പൊന്നുംകുടത്തിനു (D) (2001)
+🎵 [17/257] Scraping: 63899
+   ✅ Saved: പൊന്നുംകുടത്തിനു (F) (2001)
+🎵 [18/257] Scraping: 63898
+   ✅ Saved: പൊന്നുംകുടത്തിനു (M) (2001)
+🎵 [19/257] Scraping: 63900
+   ✅ Saved: മൂപ്പരുക്കൊരു നാലുകെട്ട് (2001)
+🎵 [20/257] Scraping: 63905
+   ✅ Saved: വരുത്തെന്റോപ്പം (2001)
+🎵 [21/257] Scraping: ambilipoli-pole
+   ✅ Saved: അമ്പിളിപ്പൊളി പോലെ (2001)
+🎵 [22/257] Scraping: 104211
+   ✅ Saved: കണ്ണാ കണ്ണിലുണ്ണി* (2001)
+🎵 [23/257] Scraping: 53511
+   ✅ Saved: കണ്ണാ കണ്ണിലുണ്ണീ (2001)
+🎵 [24/257] Scraping: 53513
+   ✅ Saved: നടരാജപദധൂളി (2001)
+🎵 [25/257] Scraping: randu-chandranudicha-rathri-f
+   ✅ Saved: രണ്ടു ചന്ദ്രനുദിച്ച രാത്രി - F (2001)
+🎵 [26/257] Scraping: 53510
+   ✅ Saved: രണ്ടു ചന്ദ്രനുദിച്ച രാത്രി - M (2001)
+🎵 [27/257] Scraping: 38060
+   ✅ Saved: കരളിന്റെ കൈകളിൽ (2001)
+🎵 [28/257] Scraping: 38061
+   ✅ Saved: മലമോളിൽ കുടിയിരിക്കും (2001)
+🎵 [29/257] Scraping: kandu-kandu-kandilla
+   ✅ Saved: കണ്ടു കണ്ടു കണ്ടില്ല ()
+🎵 [30/257] Scraping: 6672
+   ✅ Saved: കണ്ടൂ കണ്ടൂ കണ്ടില്ലാ - F ()
+🎵 [31/257] Scraping: kaliparayum-ninavukalil
+   ✅ Saved: കളിപറയും നിനവുകളിൽ (2001)
+🎵 [32/257] Scraping: kanumbol-parayamo-d
+   ✅ Saved: കാണുമ്പോൾ പറയാമോ - D ()
+🎵 [33/257] Scraping: kanumbol-parayamo-m
+   ✅ Saved: കാണുമ്പോൾ പറയാമോ - M (2001)
+🎵 [34/257] Scraping: 6671
+   ✅ Saved: ചഞ്ചല ദ്രുതപദതാളം ()
+🎵 [35/257] Scraping: vattathil-vellithingal
+   ✅ Saved: വട്ടത്തിൽ വെള്ളിത്തിങ്കൾ (2001)
+🎵 [36/257] Scraping: arumayam-sandhyayodu
+   ✅ Saved: അരുമയാം സന്ധ്യയോട് (2001)
+🎵 [37/257] Scraping: kakkattile-kookkoottile
+   ✅ Saved: കാക്കാട്ടിലെ കൂക്കൂട്ടിലെ (2001)
+🎵 [38/257] Scraping: 28113
+   ✅ Saved: കുടമുല്ല കമ്മലണിഞ്ഞാൽ (2001)
+🎵 [39/257] Scraping: kuppivala-kaikalum-f
+   ✅ Saved: കുപ്പിവളക്കൈകളും - F (2001)
+🎵 [40/257] Scraping: kuppivala-kaikalum-m
+   ✅ Saved: കുപ്പിവളക്കൈകളും - M (2001)
+🎵 [41/257] Scraping: pathu-pavanil
+   ✅ Saved: പത്തുപവനിൽ കൊത്തുവളയും (2001)
+🎵 [42/257] Scraping: parakkum-thalika-ithu-manushyare
+   ✅ Saved: പറക്കും തളിക ഇതു മനുഷ്യരെ ()
+🎵 [43/257] Scraping: 26364
+   ✅ Saved: കടലും കടങ്ങളും താണ്ടുവാൻ (2001)
+🎵 [44/257] Scraping: 53988
+   ✅ Saved: പതിനേഴിന്നഴകായ് മാറി പവിഴനിലാവ് (2001)
+🎵 [45/257] Scraping: 15564
+   ✅ Saved: പാലാഴീ തീരം ()
+🎵 [46/257] Scraping: 30166
+   ✅ Saved: പാലാഴീ തീരം കണ്ടൂ ഞാൻ (2001)
+🎵 [47/257] Scraping: nakshathrangal-thilangum
+   ✅ Saved: നക്ഷത്രങ്ങൾ തിളങ്ങും ()
+🎵 [48/257] Scraping: manippanthalil-kalyaanakkanippanthalil
+   ✅ Saved: മണിപ്പന്തലിൽ കല്യാണക്കണിപ്പന്തലിൽ ()
+🎵 [49/257] Scraping: muthani-munthiri-d
+   ✅ Saved: മുത്തണി മുന്തിരി വള്ളികൾ - D (2001)
+🎵 [50/257] Scraping: muthani-munthiri-m
+   ✅ Saved: മുത്തണി മുന്തിരി വള്ളികൾ - M (2001)
+🎵 [51/257] Scraping: kannuneerine-punchiriyakkam
+   ✅ Saved: കണ്ണുനീരിനെ പുഞ്ചിരിയാക്കാം (2001)
+🎵 [52/257] Scraping: neyyambal-poovano
+   ✅ Saved: നെയ്യാമ്പൽപ്പൂവാണോ (2001)
+🎵 [53/257] Scraping: angu-vadakk
+   ✅ Saved: അങ്ങ് വടക്ക് (2001)
+🎵 [54/257] Scraping: 6941
+   ✅ Saved: ഇനിയൊരു ജന്മമുണ്ടെങ്കിൽ ()
+🎵 [55/257] Scraping: ennuvarum-nee
+   ✅ Saved: എന്നുവരും നീ (M) ()
+🎵 [56/257] Scraping: ennu-varum-nee
+   ✅ Saved: എന്ന് വരും നീ ( F) (2001)
+🎵 [57/257] Scraping: karineela-kannazhaki
+   ✅ Saved: കരിനീല കണ്ണഴകി (M) (2001)
+🎵 [58/257] Scraping: karineela-kannazhaki-0
+   ✅ Saved: കരിനീലക്കണ്ണഴകി കണ്ണകി (F) (2001)
+🎵 [59/257] Scraping: kodungalluramme
+   ✅ Saved: കൊടുങ്ങല്ലൂരമ്മേ (2001)
+🎵 [60/257] Scraping: 95637
+   ✅ Saved: പൂപ്പറിക്കാൻ പോരുമോ (2001)
+🎵 [61/257] Scraping: innalekal
+   ✅ Saved: ഇന്നലെകൾ ()
+🎵 [62/257] Scraping: odivarum-ormmakalil
+   ✅ Saved: ഓടി വരും ഓർമ്മകളിൽ (2001)
+🎵 [63/257] Scraping: 97052
+   ✅ Saved: കണ്ണെഴുതി പൊട്ട് തൊട്ട് (2001)
+🎵 [64/257] Scraping: kaa-kaa-kaakkakkarumbi
+   ✅ Saved: കാ കാ കാക്കക്കറുമ്പി (2001)
+🎵 [65/257] Scraping: 8128
+   ✅ Saved: കൈ കൊട്ടു പെണ്ണേ ()
+🎵 [66/257] Scraping: chelulla-vallathil
+   ✅ Saved: ചേലുള്ള വള്ളത്തിൽ ()
+🎵 [67/257] Scraping: 97048
+   ✅ Saved: ചേലുള്ള വള്ളത്തിൽ (2001)
+🎵 [68/257] Scraping: thaalam-thaalam-sangama-thaalam
+   ✅ Saved: താളം താളം സംഗമ താളം ()
+🎵 [69/257] Scraping: 8129
+   ✅ Saved: നെഞ്ചുടുക്കിന്റെ ()
+🎵 [70/257] Scraping: yaahi-radhe
+   ✅ Saved: യാഹി രാധേ ()
+🎵 [71/257] Scraping: 8120
+   ✅ Saved: വാ വാ താമരപ്പെണ്ണേ ()
+🎵 [72/257] Scraping: 8117
+   ✅ Saved: സഹ്യസാനു ()
+🎵 [73/257] Scraping: 14583
+   ✅ Saved: ആരാരും കണ്ടില്ലെന്നോ ()
+🎵 [74/257] Scraping: 101686
+   ✅ Saved: കാക്കക്കുയിലേ (2001)
+🎵 [75/257] Scraping: govinda-govinda
+   ✅ Saved: ഗോവിന്ദാ ഗോവിന്ദാ (2001)
+🎵 [76/257] Scraping: 95626
+   ✅ Saved: പാടാം വനമാലീ നിലാവിൻ (2001)
+🎵 [77/257] Scraping: ponnumani-kannanunni-f
+   ✅ Saved: പൊന്നുമണി കണ്ണനുണ്ണി - F (2001)
+🎵 [78/257] Scraping: ponnumani-kannanunni-m
+   ✅ Saved: പൊന്നുമണി കണ്ണനുണ്ണി - M (2001)
+🎵 [79/257] Scraping: 19731
+   ✅ Saved: മേഘരാഗം ()
+🎵 [80/257] Scraping: 39202
+   ✅ Saved: ലളിത ലവംഗ ലതാനികുഞ്ജത്തിലെ (2001)
+🎵 [81/257] Scraping: 39203
+   ✅ Saved: സുധാമയീ മറന്നുവോ (2001)
+🎵 [82/257] Scraping: akashamegha-jalakam-d
+   ✅ Saved: ആകാശമേഘ ജാലകം - D (2001)
+🎵 [83/257] Scraping: 4017
+   ✅ Saved: ആകാശമേഘ ജാലകം - M ()
+🎵 [84/257] Scraping: niramizhikkonil
+   ✅ Saved: നിറമിഴിക്കോണിൽ (2001)
+🎵 [85/257] Scraping: nilaviral-thalodave
+   ✅ Saved: നിലാവിരൽ തലോടവേ (2001)
+🎵 [86/257] Scraping: sirayileriyumee
+   ✅ Saved: സിരയിലെരിയുമീ (2001)
+🎵 [87/257] Scraping: akashapooppadam
+   ✅ Saved: ആകാശപൂപ്പാടം (2001)
+🎵 [88/257] Scraping: ennuyire-ninnarike
+   ✅ Saved: എന്നുയിരേ നിന്നരികെ (2001)
+🎵 [89/257] Scraping: manasse-ninte
+   ✅ Saved: മനസ്സേ നിന്റെ (2001)
+🎵 [90/257] Scraping: manasse-ninte-0
+   ✅ Saved: മനസ്സേ നിന്റെ (2001)
+🎵 [91/257] Scraping: medakkattin-kayyil
+   ✅ Saved: മേടക്കാറ്റിൻ കയ്യിൽ (2001)
+🎵 [92/257] Scraping: rathisukhasaare-0
+   ✅ Saved: രതിസുഖസാരേ (2001)
+🎵 [93/257] Scraping: virinchathi-deva
+   ✅ Saved: വിരിഞ്ചാതി ദേവ (2001)
+🎵 [94/257] Scraping: 102494
+   ✅ Saved: * ആനന്ദത്തിൻ കല്ലോലങ്ങൾ വീശും നേരം (2001)
+🎵 [95/257] Scraping: 64492
+   ✅ Saved: എന്റെ മനസ്സില്‍ ()
+🎵 [96/257] Scraping: 58798
+   ✅ Saved: എന്റെ മനസ്സില്‍ കൂടു കൂട്ടിയ (2001)
+🎵 [97/257] Scraping: 64491
+   ✅ Saved: എവിടെയോ കിരണങ്ങള്‍ ()
+🎵 [98/257] Scraping: mandaram-poothallo
+   ✅ Saved: മന്ദാരം പൂത്തല്ലോ (2001)
+🎵 [99/257] Scraping: njan-anayunnu-sundaralokathil
+   ✅ Saved: ഞാന്‍ അണയുന്നു സുന്ദരലോകത്തില്‍ (2001)
+🎵 [100/257] Scraping: niranjum-kaviyaatha-punyadeva
+   ✅ Saved: നിറഞ്ഞും കവിയാത്ത പുണ്യദേവാ (2001)
+🎵 [101/257] Scraping: pingala-keshini-mruthyumatha
+   ✅ Saved: പിംഗളകേശിനീ മൃത്യുമാതാ (2001)
+🎵 [102/257] Scraping: kiliye-kalamozhi-kiliye
+   ✅ Saved: കിളിയേ കളമൊഴി കിളിയേ (2001)
+🎵 [103/257] Scraping: 105962
+   ✅ Saved: *പൂമഴയായ് (2001)
+🎵 [104/257] Scraping: 105961
+   ✅ Saved: *യാമിനി കൺതുറക്കുമ്പോൾ (2001)
+🎵 [105/257] Scraping: 105963
+   ✅ Saved: *സ്വപ്നങ്ങൾ മഞ്ചലൊരുക്കിയ (2001)
+🎵 [106/257] Scraping: madhurakkunavin
+   ✅ Saved: മധുരക്കിനാവിൻ ഏഴുസ്വരം (2001)
+🎵 [107/257] Scraping: 102753
+   ✅ Saved: ഈ വളപൊട്ടും (2001)
+🎵 [108/257] Scraping: enthennariyathoraradhana
+   ✅ Saved: എന്തെന്നറിയാത്തൊരാരാധന ()
+🎵 [109/257] Scraping: 38037
+   ✅ Saved: മൂളി മൂളി കാറ്റിനുണ്ടൊരു (2000)
+🎵 [110/257] Scraping: 38038
+   ✅ Saved: മൂളിമൂളി കാറ്റിനുണ്ടൊരു (m) (2000)
+🎵 [111/257] Scraping: 93302
+   ✅ Saved: സിന്ദൂര തിലകാഞ്ചിതേ (2001)
+🎵 [112/257] Scraping: souparnika-souparnika
+   ✅ Saved: സൗപർണികാ സൗപർണികാ (2001)
+🎵 [113/257] Scraping: 37722
+   ✅ Saved: ഒരു പാട്ടിന്‍ കാറ്റില്‍ (2001)
+🎵 [114/257] Scraping: 37742
+   ✅ Saved: ഖുദാ യെ ഹി (2001)
+🎵 [115/257] Scraping: 37735
+   ✅ Saved: മുകിൽ മുടി തിടമ്പിൽ (2001)
+🎵 [116/257] Scraping: 37723
+   ✅ Saved: യദുവംശ യാമിനി (2001)
+🎵 [117/257] Scraping: 37738
+   ✅ Saved: യദുവംശ യാമിനി (f) (2001)
+🎵 [118/257] Scraping: 37736
+   ✅ Saved: സാന്ധ്യതാരം തിരിയണച്ചൂ (2001)
+🎵 [119/257] Scraping: 37734
+   ✅ Saved: ഹൈ ഹിലാലിൻ തങ്കകിണ്ണം (2001)
+🎵 [120/257] Scraping: 33131
+   ✅ Saved: കിളിപ്പെണ്ണേ നിലാവിന്‍ (2001)
+🎵 [121/257] Scraping: 33133
+   ✅ Saved: തത്തമ്മപേരു താഴമ്പുവീട് (2001)
+🎵 [122/257] Scraping: 33132
+   ✅ Saved: മഞ്ഞു പോലെ മാന്‍കുഞ്ഞു (2001)
+🎵 [123/257] Scraping: 33136
+   ✅ Saved: മാരിപ്രാവേ മായപ്രാവേ (2001)
+🎵 [124/257] Scraping: 33134
+   ✅ Saved: വാനം പോലെ വാനം മാത്രം (2001)
+🎵 [125/257] Scraping: 58778
+   ✅ Saved: അന്തിമഴ മയങ്ങി (F) (2001)
+🎵 [126/257] Scraping: anthimazha-mayangi
+   ✅ Saved: അന്തിമഴ മയങ്ങീ ()
+🎵 [127/257] Scraping: 64348
+   ✅ Saved: അരികത്തൊരു നീലസൂര്യൻ (2001)
+🎵 [128/257] Scraping: 64349
+   ✅ Saved: അരികത്തൊരു നീലസൂര്യൻ (2001)
+🎵 [129/257] Scraping: 64346
+   ✅ Saved: കുക്കു കുക്കു കുയിലേ എന്റെ കൈ നോക്കുമോ (2001)
+🎵 [130/257] Scraping: 64347
+   ✅ Saved: കുക്കു കുക്കു കുയിലേ എന്റെ കൈ നോക്കുമോ (2001)
+🎵 [131/257] Scraping: thillai-thillai
+   ✅ Saved: തില്ലെയ് തില്ലെയ് ()
+🎵 [132/257] Scraping: 64344
+   ✅ Saved: നിശാഗന്ധി പൂത്തു കിനാമഞ്ഞു പെയ്തു (2001)
+🎵 [133/257] Scraping: nishagandhi-poothu
+   ✅ Saved: നിശാഗന്ധി പൂത്തു കിനാമഞ്ഞു പെയ്തു (2001)
+🎵 [134/257] Scraping: 59665
+   ✅ Saved: ചില്ലാട്ടം (M) (2001)
+🎵 [135/257] Scraping: 59666
+   ✅ Saved: ചില്ലാറ്റം (F) (2001)
+🎵 [136/257] Scraping: 19749
+   ✅ Saved: തൈ പിറന്താൽ ()
+🎵 [137/257] Scraping: 59664
+   ✅ Saved: തൈ പിറന്താൽ (M) (2001)
+🎵 [138/257] Scraping: 19750
+   ✅ Saved: പകലിനു കാവലാളായ് ()
+🎵 [139/257] Scraping: 59660
+   ✅ Saved: പകലിന്നു കാവലാളായ് [വെർഷൻ 2] (2001)
+🎵 [140/257] Scraping: 59663
+   ✅ Saved: പൂന്തേന്‍ നേര്‍‌മൊഴി (D) (2001)
+🎵 [141/257] Scraping: 59661
+   ✅ Saved: പൂന്തേന്‍ നേര്‍‌മൊഴി മതിമുഖി (2001)
+🎵 [142/257] Scraping: 59669
+   ✅ Saved: മെഹബൂബാ (2001)
+🎵 [143/257] Scraping: 33113
+   ✅ Saved: അമ്മയും നന്മയുമൊന്നാണ് (2001)
+🎵 [144/257] Scraping: 33112
+   ✅ Saved: ആരാരുമറിയാതൊരോമന കൗതുകം (2001)
+🎵 [145/257] Scraping: karutha-ravinte
+   ✅ Saved: കറുത്ത രാവിന്റെ ()
+🎵 [146/257] Scraping: karutharavinte-f
+   ✅ Saved: കറുത്തരാവിന്റെ - F (2001)
+🎵 [147/257] Scraping: 33110
+   ✅ Saved: വസന്തം വര്‍ണ്ണപ്പൂക്കുട (2001)
+🎵 [148/257] Scraping: vasantham-varnappookkuda-m
+   ✅ Saved: വസന്തം വർണ്ണപ്പൂക്കുട - M (2001)
+🎵 [149/257] Scraping: kilimozhiye-karinkuzhali
+   ✅ Saved: കിളിമൊഴിയേ കരിങ്കുഴലി (2001)
+🎵 [150/257] Scraping: koodu-vedinjo-kuyile
+   ✅ Saved: കൂടു വെടിഞ്ഞോ കുയിലേ (2001)
+🎵 [151/257] Scraping: njanoru-daham-f
+   ✅ Saved: ഞാനൊരു ദാഹം - F (2001)
+🎵 [152/257] Scraping: njanoru-daham-m
+   ✅ Saved: ഞാനൊരു ദാഹം - M (2001)
+🎵 [153/257] Scraping: mundakan-paadathu
+   ✅ Saved: മുണ്ടകൻ പാടത്ത് (2001)
+🎵 [154/257] Scraping: yamunahridayam
+   ✅ Saved: യമുനാഹൃദയം കണ്ണനെത്തേടി (2001)
+🎵 [155/257] Scraping: swayamvarappanthalilinnu
+   ✅ Saved: സ്വയംവരപ്പന്തലിലിന്ന് (2001)
+🎵 [156/257] Scraping: aathire-yaduradhike
+   ✅ Saved: ആതിരേ യദുരാധികേ ()
+🎵 [157/257] Scraping: aayiram-pakshikal
+   ✅ Saved: ആയിരം പക്ഷികൾ ()
+🎵 [158/257] Scraping: oh-butterfly
+   ✅ Saved: ഓ ബട്ടർഫ്ലൈ ()
+🎵 [159/257] Scraping: 33918
+   ✅ Saved: താമരപ്പൂവേ തങ്കനിലാവേ (2005)
+🎵 [160/257] Scraping: 40138
+   ✅ Saved: നിശീഥിനി (2001)
+🎵 [161/257] Scraping: aarorumillatha-kuttikkuranguvan
+   ✅ Saved: ആരോരുമില്ലാത്ത കുട്ടിക്കുറങ്ങുവാൻ ()
+🎵 [162/257] Scraping: ithile-ithile
+   ✅ Saved: ഇതിലേ ഇതിലേ ()
+🎵 [163/257] Scraping: pettu-kidakkum-puliyude
+   ✅ Saved: പെറ്റു കിടക്കും പുലിയുടെ ()
+🎵 [164/257] Scraping: 55862
+   ✅ Saved: അകലെയാണെങ്കിലും (2001)
+🎵 [165/257] Scraping: 63614
+   ✅ Saved: അല്ലികളില്‍ അഴകലയോ (2001)
+🎵 [166/257] Scraping: 65329
+   ✅ Saved: അല്ലികളില്‍ അഴകലയോ ()
+🎵 [167/257] Scraping: chandanamani-m
+   ✅ Saved: ചന്ദനമണിസന്ധ്യകളുടെ (M) ()
+🎵 [168/257] Scraping: ye-sindhagi-usi-ki-hai
+   ✅ Saved: യേ സിന്ദഗി ഉസീ കി ഹേ ()
+🎵 [169/257] Scraping: megham-mazhayayi
+   ✅ Saved: മേഘം മഴയായി (2001)
+🎵 [170/257] Scraping: theerangal-thedunnu
+   ✅ Saved: തീരങ്ങൾ തേടുന്നു (2001)
+🎵 [171/257] Scraping: 59678
+   ✅ Saved: കണികാണും താരം (2001)
+🎵 [172/257] Scraping: 59677
+   ✅ Saved: പൂമകളെ പൂത്തിരളേ (2001)
+🎵 [173/257] Scraping: kaumaramai-poovadiyil
+   ✅ Saved: കൗമാരമായ് പൂവാടിയിൽ (2001)
+🎵 [174/257] Scraping: 19733
+   ✅ Saved: കണിമലരായ് (2001)
+🎵 [175/257] Scraping: 19732
+   ✅ Saved: കണ്ണേ കണ്മണി (2001)
+🎵 [176/257] Scraping: 87436
+   ✅ Saved: കണ്ണേ കണ്മണി മുത്തേ (2001)
+🎵 [177/257] Scraping: 19736
+   ✅ Saved: പകലിൻ പടവിൽ (2001)
+🎵 [178/257] Scraping: 87434
+   ✅ Saved: മാമരക്കാവിൽ താമരപ്പൂവിൽ (2001)
+🎵 [179/257] Scraping: 87435
+   ✅ Saved: മാമരക്കാവിൽ താമരപ്പൂവിൽ (യുഗ്മഗാനം) (2001)
+🎵 [180/257] Scraping: 19735
+   ✅ Saved: മാമവ ജഗദീശ്വരാ (2001)
+🎵 [181/257] Scraping: 19737
+   ✅ Saved: സയ്യാ ഓ സയ്യാ (2001)
+🎵 [182/257] Scraping: oru-naru-pushpamay-f
+   ✅ Saved: ഒരു നറുപുഷ്പമായ് - F (2001)
+🎵 [183/257] Scraping: oru-naru-pushpamay-m
+   ✅ Saved: ഒരു നറുപുഷ്പമായ് - M ()
+🎵 [184/257] Scraping: ponnushasennum
+   ✅ Saved: പൊന്നുഷസ്സെന്നും (2001)
+🎵 [185/257] Scraping: 52217
+   ✅ Saved: ചങ്ങമ്പുഴക്കവിതകള്‍ (2001)
+🎵 [186/257] Scraping: 52216
+   ✅ Saved: മധുമാസം വിരിയണ് (2001)
+🎵 [187/257] Scraping: 51501
+   ✅ Saved: മഴനിലാവിന്റെ ചിറകുകളില്‍ (2001)
+🎵 [188/257] Scraping: 51502
+   ✅ Saved: മഴനിലാവിന്റെ ചിറകുകളില്‍ (m) ()
+🎵 [189/257] Scraping: amma-nakshathrame
+   ✅ Saved: അമ്മനക്ഷത്രമേ (2001)
+🎵 [190/257] Scraping: amma-nakshathrame-0
+   ✅ Saved: അമ്മനക്ഷത്രമേ ()
+🎵 [191/257] Scraping: kis-lamhe-ki
+   ✅ Saved: കിസ് ലംഹേ കി (2001)
+🎵 [192/257] Scraping: marannittumenthino
+   ✅ Saved: മറന്നിട്ടുമെന്തിനോ ()
+🎵 [193/257] Scraping: marannittumenthino-m
+   ✅ Saved: മറന്നിട്ടുമെന്തിനോ - M (2001)
+🎵 [194/257] Scraping: mehboobe-mehboobe
+   ✅ Saved: മെഹ്ബൂബെ മെഹ്ബൂബെ (2001)
+🎵 [195/257] Scraping: venprave-yathrayavam
+   ✅ Saved: വെൺപ്രാവേ യാത്രയാവാം (2001)
+🎵 [196/257] Scraping: 33764
+   ✅ Saved: ഇന്ദുമതി ഇതൾമിഴിയിൽ (2001)
+🎵 [197/257] Scraping: 65722
+   ✅ Saved: ഇന്ദുമതീ(D) (2001)
+🎵 [198/257] Scraping: 33761
+   ✅ Saved: കണ്ണാരേ കണ്ണാരേ (2001)
+🎵 [199/257] Scraping: 33762
+   ✅ Saved: പാലിനു മധുരം തേനിനു മധുരം (2001)
+🎵 [200/257] Scraping: 65720
+   ✅ Saved: മാരിക്കാറ്റ് (2001)
+🎵 [201/257] Scraping: 33763
+   ✅ Saved: ശരത്കാല മുകിലേ (2001)
+🎵 [202/257] Scraping: 33760
+   ✅ Saved: സ്വപ്നം ത്യജിച്ചാല്‍ സ്വര്‍ഗ്ഗം ലഭിക്കും (2001)
+🎵 [203/257] Scraping: swapnam-thyajichal
+   ✅ Saved: സ്വപ്നം ത്യജിച്ചാൽ(M) (2001)
+🎵 [204/257] Scraping: ariyathe-ariyathe
+   ✅ Saved: അറിയാതെ അറിയാതെ (D) ()
+🎵 [205/257] Scraping: 62334
+   ✅ Saved: അറിയാതെ അറിയാതെ (F) (2001)
+🎵 [206/257] Scraping: aakashadheepangal-sakshi
+   ✅ Saved: ആകാശദീപങ്ങൾ സാക്ഷി (F) (2001)
+🎵 [207/257] Scraping: aakashadheepangal-sakshi-0
+   ✅ Saved: ആകാശദീപങ്ങൾ സാക്ഷി (M) (2001)
+🎵 [208/257] Scraping: 19747
+   ✅ Saved: ആറ്റോരം അഴകോരം (2001)
+🎵 [209/257] Scraping: thakilu-pukilu
+   ✅ Saved: തകിലു പുകിലു (2001)
+🎵 [210/257] Scraping: 62336
+   ✅ Saved: പൊട്ടു കുത്തെടീ പുടവ ചുറ്റെടീ (2001)
+🎵 [211/257] Scraping: 62337
+   ✅ Saved: വന്ദേ മുകുന്ദ ഹരേ (2001)
+🎵 [212/257] Scraping: 87431
+   ✅ Saved: കണ്ണാടിപ്പുഴ പാടി (2001)
+🎵 [213/257] Scraping: 87433
+   ✅ Saved: പകൽമഴ പൊഴിയും (2001)
+🎵 [214/257] Scraping: 87430
+   ✅ Saved: പാതിരാ താരങ്ങൾ കാവലായ് (2001)
+🎵 [215/257] Scraping: 87432
+   ✅ Saved: ഹോയ്യാരേ ഹൊയ്യാരേ (2001)
+🎵 [216/257] Scraping: 95894
+   ✅ Saved: കാർകൂന്തൽ കെട്ടഴിഞ്ഞു (2001)
+🎵 [217/257] Scraping: poomazha-puthumazha
+   ✅ Saved: പൂമഴ പുതുമഴ (2001)
+🎵 [218/257] Scraping: manju-puthachoru
+   ✅ Saved: മഞ്ഞുപുതച്ചൊരു താഴ്വാരം (2001)
+🎵 [219/257] Scraping: veendum-varunnu
+   ✅ Saved: വീണ്ടും വരുന്നു (2001)
+🎵 [220/257] Scraping: 105964
+   ✅ Saved: *ആവാരംപൂ (2001)
+🎵 [221/257] Scraping: 87438
+   ✅ Saved: കുളമ്പടിച്ചും ഈ കുരുക്കഴിച്ചും (2001)
+🎵 [222/257] Scraping: 87437
+   ✅ Saved: മാംഗല്യക്കാലം മഞ്ഞോലും കാലം (2001)
+🎵 [223/257] Scraping: vaanaville-minnalkkodiye
+   ✅ Saved: വാനവില്ലേ മിന്നൽക്കൊടിയെ ()
+🎵 [224/257] Scraping: 19754
+   ✅ Saved: കാശിത്തുമ്പ ()
+🎵 [225/257] Scraping: pavizhamalarppenkodi
+   ✅ Saved: പവിഴമലർപ്പെൺകൊടീ ()
+🎵 [226/257] Scraping: 19755
+   ✅ Saved: രാക്കടമ്പിൽ (2001)
+🎵 [227/257] Scraping: rosappoo-rosappoo
+   ✅ Saved: റോസാപ്പൂ റോസാപ്പൂ ()
+🎵 [228/257] Scraping: 52224
+   ✅ Saved: ചന്ദന തെന്നലായ് (2001)
+🎵 [229/257] Scraping: chandanathennalaay-f
+   ✅ Saved: ചന്ദനത്തെന്നലായ് - F (2001)
+🎵 [230/257] Scraping: dil-dil-salam
+   ✅ Saved: ദിൽ ദിൽ സലാം സലാം ()
+🎵 [231/257] Scraping: dhu-dhu-dhurudhu
+   ✅ Saved: ദൂ ദൂ ദുരുദ്ദൂ (2001)
+🎵 [232/257] Scraping: aruvikalude-kalamozhikalil
+   ✅ Saved: അരുവികളുടെ കളമൊഴികളിൽ ()
+🎵 [233/257] Scraping: allikkalilu-vellam
+   ✅ Saved: അല്ലിക്കള്ളില് വെള്ളം (2001)
+🎵 [234/257] Scraping: 104719
+   ✅ Saved: ആരും ആരും പിന്‍വിളി (2001)
+🎵 [235/257] Scraping: oh-muttathe-mullathai
+   ✅ Saved: ഓ മുറ്റത്തെ മുല്ലത്തൈ ()
+🎵 [236/257] Scraping: japakodi-gunam
+   ✅ Saved: ജപകോടി ഗുണം (2001)
+🎵 [237/257] Scraping: 16813
+   ✅ Saved: യേശുനായകാ ()
+🎵 [238/257] Scraping: konchadi-konch
+   ✅ Saved: കൊഞ്ചടി കൊഞ്ച് - F (2001)
+🎵 [239/257] Scraping: konchadi-konch-m
+   ✅ Saved: കൊഞ്ചടി കൊഞ്ച് - M (2001)
+🎵 [240/257] Scraping: thankamanassin-peelikkadavile
+   ✅ Saved: തങ്കമനസ്സിൻ പീലിക്കടവിലെ ()
+🎵 [241/257] Scraping: thankamanassin-peeli-m
+   ✅ Saved: തങ്കമനസ്സിൻ പീലിക്കടവിലെ - M (2001)
+🎵 [242/257] Scraping: thurakkatha-ponvathil
+   ✅ Saved: തുറക്കാത്ത പൊൻവാതിൽ (2001)
+🎵 [243/257] Scraping: 98160
+   ✅ Saved: തൊടുന്നത് പൊന്നാക്കാൻ (2001)
+🎵 [244/257] Scraping: bhoochakravalangalil
+   ✅ Saved: ഭൂചക്രവാളങ്ങളിൽ (2001)
+🎵 [245/257] Scraping: 33769
+   ✅ Saved: ആലിന്റെ കൊമ്പിലെ നീലാരവിന്ദമെ (2001)
+🎵 [246/257] Scraping: 33766
+   ✅ Saved: ഇരുളുന്നു സന്ധ്യാംബരം (2001)
+🎵 [247/257] Scraping: 89419
+   ✅ Saved: ദർശൻ പായീ മോരെ (2001)
+🎵 [248/257] Scraping: 33768
+   ✅ Saved: ധീം തനനനന ദേവദുന്ദുഭി (2001)
+🎵 [249/257] Scraping: 33765
+   ✅ Saved: പേരറിയാം മകയിരം നാൾ അറിയാം (2001)
+🎵 [250/257] Scraping: 33767
+   ✅ Saved: മധുമയി നിന്‍ മിഴിയോരം (2001)
+🎵 [251/257] Scraping: 12854
+   ✅ Saved: രാവിൽ ആരോ ()
+🎵 [252/257] Scraping: 63744
+   ✅ Saved: സൂത്രധാരൻ തീം ()
+🎵 [253/257] Scraping: 89420
+   ✅ Saved: ഹരിഓം ശ്യാമഹരേ (2001)
+🎵 [254/257] Scraping: ente-munnil-pookkaalam
+   ✅ Saved: എന്റെ മുന്നിൽ പൂക്കാലം (2001)
+🎵 [255/257] Scraping: sundri-ennute
+   ✅ Saved: സുന്ദരി എന്നുടെ (2001)
+🎵 [256/257] Scraping: 40133
+   ✅ Saved: അമൃതും കുളിരും (2001)
+🎵 [257/257] Scraping: 40134
+   ✅ Saved: ഞാനറിഞ്ഞു സ്നേഹമേ (2001)
+Year complete: success=257, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 8435
