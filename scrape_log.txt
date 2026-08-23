@@ -30801,3 +30801,886 @@ Year complete: success=230, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 12994
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1986
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1986
+   Page 1: https://m3db.com/archive/lyrics/year/1986
+   Found 435 songs on this page. Total unique so far: 435
+Total songs to scrape for this year: 435
+🎵 [1/435] Scraping: 26741
+   ✅ Saved: ഇല്ലിലം പൂ ഇത്തിരിപ്പൂ - D ()
+🎵 [2/435] Scraping: 26739
+   ✅ Saved: രാഗോദയം ()
+🎵 [3/435] Scraping: 88172
+   ✅ Saved: ഓ ദേവി ശ്രീദേവി (1986)
+🎵 [4/435] Scraping: 88173
+   ✅ Saved: രജതസുന്ദര യാമിനി (1986)
+🎵 [5/435] Scraping: 34166
+   ✅ Saved: തേനാരീ തെങ്കാശിക്കാരീ (1986)
+🎵 [6/435] Scraping: mamazhakkade-poomarakkoode
+   ✅ Saved: മാമഴക്കാടേ പൂമരക്കൂടേ (1986)
+🎵 [7/435] Scraping: 34002
+   ✅ Saved: ഒന്നും ഒന്നും രണ്ട്‌ (1986)
+🎵 [8/435] Scraping: 34004
+   ✅ Saved: രാവിന്റെ തോളില്‍ രാപ്പാടി (1986)
+🎵 [9/435] Scraping: 34003
+   ✅ Saved: വസന്തം തളിര്‍ത്തു ഹേമന്തം കുളിര്‍ത്തു (1986)
+🎵 [10/435] Scraping: 88550
+   ✅ Saved: കല്യാണരേഖയുള്ള കയ്യില്‍ - F (1986)
+🎵 [11/435] Scraping: 88551
+   ✅ Saved: കല്യാണരേഖയുള്ള കയ്യില്‍ - M (1986)
+🎵 [12/435] Scraping: 88554
+   ✅ Saved: മാരിവില്ലിന്‍ നാട്ടുകാരി (1986)
+🎵 [13/435] Scraping: 88552
+   ✅ Saved: വഴി മറന്ന യാത്രക്കാരെ (1986)
+🎵 [14/435] Scraping: 84976
+   ✅ Saved: പള്ളിമഞ്ചലേറി വന്ന പൗർണ്ണമാസി (1986)
+🎵 [15/435] Scraping: 84975
+   ✅ Saved: റോമാപുരിയിലെ രാജാവേ (1986)
+🎵 [16/435] Scraping: 33651
+   ✅ Saved: കുന്നത്തൊരു കുന്നിലുദിച്ചു (1986)
+🎵 [17/435] Scraping: 33653
+   ✅ Saved: താതിന്ത തില്ലത്തെ തത്തമ്മക്കല്ല്യാണം (1986)
+🎵 [18/435] Scraping: 33650
+   ✅ Saved: മാനത്ത് വെതയ്ക്കണ പൊലയനുണ്ടേ (1986)
+🎵 [19/435] Scraping: 33652
+   ✅ Saved: മേടക്കൊന്നയ്ക്ക് മെയ് (1986)
+🎵 [20/435] Scraping: ambalapravukalurangi
+   ✅ Saved: അമ്പലപ്രാവുകളുറങ്ങി (1986)
+🎵 [21/435] Scraping: amma-vaazhum-mathilakathe
+   ✅ Saved: അമ്മ വാഴും മതിലകത്തെ (1986)
+🎵 [22/435] Scraping: ashadathile-aadyadinathilen
+   ✅ Saved: ആഷാഢത്തിലെ ആദ്യദിനത്തിലെന്‍ (1986)
+🎵 [23/435] Scraping: onnu-paadukennothi
+   ✅ Saved: ഒന്നു പാടുകെന്നോതി (1986)
+🎵 [24/435] Scraping: oru-vallam-poovumaay
+   ✅ Saved: ഒരു വല്ലം പൂവുമായ് (1986)
+🎵 [25/435] Scraping: chemparathippoovu
+   ✅ Saved: ചെമ്പരത്തിപ്പൂവു (1986)
+🎵 [26/435] Scraping: narajeevithamaam
+   ✅ Saved: നരജീവിതമാം (1986)
+🎵 [27/435] Scraping: madiyil-manjuvipanchika
+   ✅ Saved: മടിയില്‍ മഞ്ജുവിപഞ്ചിക (1986)
+🎵 [28/435] Scraping: 60254
+   ✅ Saved: സാരസാക്ഷപരിപാലയ പാടിയ സ്വാതിതൻ (1986)
+🎵 [29/435] Scraping: swantham-rakthathiluyir
+   ✅ Saved: സ്വന്തം രക്തത്തിലുയിര്‍ (1986)
+🎵 [30/435] Scraping: he-kaalidasa
+   ✅ Saved: ഹേ കാളിദാസ (1986)
+🎵 [31/435] Scraping: 39764
+   ✅ Saved: അക്കുത്തിക്കുത്താനവരമ്പേ (1986)
+🎵 [32/435] Scraping: 39765
+   ✅ Saved: ആലാപനം അധര (1986)
+🎵 [33/435] Scraping: 39766
+   ✅ Saved: സന്ധ്യേ ശാരദ സന്ധ്യേ (1986)
+🎵 [34/435] Scraping: amme-bhagavathee
+   ✅ Saved: അമ്മേ ഭഗവതീ (1986)
+🎵 [35/435] Scraping: 66138
+   ✅ Saved: ആയിരമിതളുള്ള താമരപ്പൂവില്‍ (1986)
+🎵 [36/435] Scraping: njane-saraswati
+   ✅ Saved: ഞാനേ സരസ്വതി (1986)
+🎵 [37/435] Scraping: 15852
+   ✅ Saved: മനസ്സുകൾ പാടുന്നൂ ()
+🎵 [38/435] Scraping: 102615
+   ✅ Saved: അഖിലാണ്ഡബ്രഹ്മത്തിന്‍ (1986)
+🎵 [39/435] Scraping: 102616
+   ✅ Saved: ആനയിറങ്ങും മാമലയില്‍ (1986)
+🎵 [40/435] Scraping: 102623
+   ✅ Saved: ഉണര്‍‌ന്നെത്തിടും ഈ (1986)
+🎵 [41/435] Scraping: udichuyarnnu-mamala-mele
+   ✅ Saved: ഉദിച്ചുയര്‍ന്നൂ മാമലമേലേ (1986)
+🎵 [42/435] Scraping: kaanana-vaasa
+   ✅ Saved: കാനനവാസാ കലിയുഗവരദാ (1986)
+🎵 [43/435] Scraping: 66609
+   ✅ Saved: മകര സംക്രമ ദീപാവലി (1986)
+🎵 [44/435] Scraping: 102620
+   ✅ Saved: മകരനിലാക്കുളിരാടിപ്പാടി (1986)
+🎵 [45/435] Scraping: 102625
+   ✅ Saved: മണ്ഡല ഉത്സവകാലം (1986)
+🎵 [46/435] Scraping: mandaaram-malarmazha
+   ✅ Saved: മന്ദാരം മലര്‍‌മഴ ചൊരിയും (1986)
+🎵 [47/435] Scraping: 102619
+   ✅ Saved: മഹാപ്രഭോ മമ (1986)
+🎵 [48/435] Scraping: 102618
+   ✅ Saved: മാനത്ത് മകരവിളക്ക് (1986)
+🎵 [49/435] Scraping: 102624
+   ✅ Saved: വൃശ്ചികപ്പുലര്‍‌വേള (1986)
+🎵 [50/435] Scraping: 39221
+   ✅ Saved: ഗുലുമാല് ഗുലുമാല് (1985)
+🎵 [51/435] Scraping: 39222
+   ✅ Saved: സ്വരമായ് (1985)
+🎵 [52/435] Scraping: 62958
+   ✅ Saved: ആടകൾ ഞൊറിയും (1986)
+🎵 [53/435] Scraping: 62959
+   ✅ Saved: എന്തു നൽകാൻ അനുജത്തി നിൻ (1986)
+🎵 [54/435] Scraping: 58980
+   ✅ Saved: ആരോമലേ (1986)
+🎵 [55/435] Scraping: 23043
+   ✅ Saved: കുറുകുറുകുറു (1986)
+🎵 [56/435] Scraping: 58982
+   ✅ Saved: തെന്നലിലും (1986)
+🎵 [57/435] Scraping: 23034
+   ✅ Saved: ദേവബിംബം (1986)
+🎵 [58/435] Scraping: 58981
+   ✅ Saved: പെണ്ണിന്റെ ചുറ്റിലും (1986)
+🎵 [59/435] Scraping: 50912
+   ✅ Saved: തൊട്ടിലില്‍ തുടങ്ങിടും (1986)
+🎵 [60/435] Scraping: 50910
+   ✅ Saved: നിന്നെ രതിയെന്നു (1986)
+🎵 [61/435] Scraping: 50911
+   ✅ Saved: പൂക്കളേ വര്‍ണ്ണവര്‍ണ്ണച്ചിറകുകള്‍ (1986)
+🎵 [62/435] Scraping: 50914
+   ✅ Saved: സരസം തിരുനടനമിടും (1986)
+🎵 [63/435] Scraping: 35612
+   ✅ Saved: അനുരാഗതീരം തളിരണിയും (1986)
+🎵 [64/435] Scraping: 35611
+   ✅ Saved: കരിനീല മേഘങ്ങൾ (1986)
+🎵 [65/435] Scraping: 87200
+   ✅ Saved: ആലോലം കിളി നീലമലര്‍ക്കിളി (1985)
+🎵 [66/435] Scraping: 87202
+   ✅ Saved: മനുഷ്യൻ എത്ര മനോഹരം (1986)
+🎵 [67/435] Scraping: 87201
+   ✅ Saved: മാവേലിത്തമ്പുരാന്‍ മക്കളെക്കാണുവാന്‍ (1985)
+🎵 [68/435] Scraping: ananda-subha-thandavam
+   ✅ Saved: ആനന്ദശുഭതാണ്ഡവം (1986)
+🎵 [69/435] Scraping: kalabha-chandana-puzhayil
+   ✅ Saved: കളഭചന്ദനപ്പുഴയിൽ (1986)
+🎵 [70/435] Scraping: 90347
+   ✅ Saved: പുഷ്യരാഗത്തേരിലീവഴിയെത്തും (1986)
+🎵 [71/435] Scraping: manninnilam-maaril
+   ✅ Saved: മണ്ണിന്നിളം മാറിൽ (1986)
+🎵 [72/435] Scraping: 90348
+   ✅ Saved: യാമം മദഭരം മാറില്‍ സുമശരം (1986)
+🎵 [73/435] Scraping: 64546
+   ✅ Saved: തേൻകിണ്ണം (1986)
+🎵 [74/435] Scraping: 64544
+   ✅ Saved: പഞ്ചമിരാവിൽ (1986)
+🎵 [75/435] Scraping: 64545
+   ✅ Saved: സിരയിൽ (1986)
+🎵 [76/435] Scraping: 34137
+   ✅ Saved: അത്യുന്നതങ്ങളില്‍ ആകാശവീഥിയില്‍ (1986)
+🎵 [77/435] Scraping: 34136
+   ✅ Saved: ഈ കുളിര്‍ നിശീഥിനിയില്‍ (1986)
+🎵 [78/435] Scraping: 64027
+   ✅ Saved: ഡ്രീംസ് ഡ്രീംസ് ഡ്രീംസ് ഡ്രീംസ് (1986)
+🎵 [79/435] Scraping: 94124
+   ✅ Saved: ഒന്നാം കുന്നിൽ ഓരടിക്കുന്നിൽ (1986)
+🎵 [80/435] Scraping: 94123
+   ✅ Saved: നീരദകന്യയ്ക്ക് കാമുക പൂജയ്ക്ക് (1986)
+🎵 [81/435] Scraping: 89993
+   ✅ Saved: ഒരു നാണം വിരിയുമ്പോൾ (1986)
+🎵 [82/435] Scraping: 15851
+   ✅ Saved: കനകമുന്തിരി മലരു കൊണ്ടൊരു വീട് ()
+🎵 [83/435] Scraping: 37178
+   ✅ Saved: കന്യാപുത്രന്‍ ഭൂമിയില്‍ (1986)
+🎵 [84/435] Scraping: 37177
+   ✅ Saved: ദേവത നീ വരദേ (1986)
+🎵 [85/435] Scraping: kinavilinnale-vannu-neeyen
+   ✅ Saved: കിനാവിലിന്നലെ ()
+🎵 [86/435] Scraping: 105384
+   ✅ Saved: നിത്യ തരുണി (1986)
+🎵 [87/435] Scraping: 35628
+   ✅ Saved: കാറ്റേ ചുണ്ടില്‍ പാട്ടുണര്‍ന്നുവോ (1986)
+🎵 [88/435] Scraping: 35626
+   ✅ Saved: പൂവിന്‍ പ്രസാദമേന്തി (1986)
+🎵 [89/435] Scraping: 35627
+   ✅ Saved: മാരി മാ‍രി ആനന്ദമാരി (1986)
+🎵 [90/435] Scraping: 90156
+   ✅ Saved: ആ മരത്തിലൊരാൺകിളി (1986)
+🎵 [91/435] Scraping: 90154
+   ✅ Saved: താരേ രാഗധാരേ (1986)
+🎵 [92/435] Scraping: 35075
+   ✅ Saved: അമ്പാടിക്കണ്ണാ കാർവർണ്ണാ ()
+🎵 [93/435] Scraping: 89394
+   ✅ Saved: മഴവിൽക്കൊടി പോലെ (1986)
+🎵 [94/435] Scraping: 89356
+   ✅ Saved: എത്ര നിലാത്തിരി (1986)
+🎵 [95/435] Scraping: 89357
+   ✅ Saved: മരതക്കൂട്ടില്‍ പാടും (1986)
+🎵 [96/435] Scraping: udayagiri-irangi
+   ✅ Saved: ഉദയഗിരിയിറങ്ങി വരും ()
+🎵 [97/435] Scraping: vishuppakshi-chilachu
+   ✅ Saved: വിഷുപ്പക്ഷി ചിലച്ചു ()
+🎵 [98/435] Scraping: 35614
+   ✅ Saved: കാരുണ്യക്കതിര്‍വീശി (1986)
+🎵 [99/435] Scraping: 35615
+   ✅ Saved: കുളിരലയില്‍ നീന്തിനീരാടും (1986)
+🎵 [100/435] Scraping: 30893
+   ✅ Saved: അത്തം ചിത്തിര ചോതിപ്പൂ (1986)
+🎵 [101/435] Scraping: 30890
+   ✅ Saved: ഓക്കുമരക്കൊമ്പത്തെ (1986)
+🎵 [102/435] Scraping: 30891
+   ✅ Saved: കണ്ണടച്ചിരുളിൽ വെളിവിൻ (1986)
+🎵 [103/435] Scraping: 58399
+   ✅ Saved: രാഗം പാടി (1986)
+🎵 [104/435] Scraping: 58400
+   ✅ Saved: വാർമഴവിൽ (1986)
+🎵 [105/435] Scraping: onnam-kombathu
+   ✅ Saved: ഒന്നാം കൊമ്പത്ത് വന്നിരുന്നന്നൊരു (1986)
+🎵 [106/435] Scraping: kaviyuduppumaay
+   ✅ Saved: കാവിയുടുപ്പുമായ് കാറ്റു കൊള്ളാൻ വരും (1986)
+🎵 [107/435] Scraping: kuthirappurathu
+   ✅ Saved: കുതിരപ്പുറത്ത് (1986)
+🎵 [108/435] Scraping: kerala-mulla-malar-kavil
+   ✅ Saved: കേരളമുല്ലമലർക്കാവിൽ (1986)
+🎵 [109/435] Scraping: kaiyyil-orindradhanussumaai
+   ✅ Saved: കൈയ്യിൽ ഒരിന്ദ്രധനുസ്സുമായ് (1986)
+🎵 [110/435] Scraping: jeevithathin-manonja-sangeetham
+   ✅ Saved: ജീവിതത്തിൻ മനോജ്ഞസംഗീതം (1986)
+🎵 [111/435] Scraping: puthan-pavizhakkoombukal-kandaa
+   ✅ Saved: പുത്തൻ പവിഴക്കൂമ്പുകൾ കണ്ടാ (1986)
+🎵 [112/435] Scraping: maraalakanyakamaarude-naduvil
+   ✅ Saved: മരാളകന്യകമാരുടെ നടുവിൽ (1986)
+🎵 [113/435] Scraping: maanathethiya-mazhavil
+   ✅ Saved: മാനത്തെത്തിയ മഴവിൽക്കൊടിയേ ()
+🎵 [114/435] Scraping: mezhukuthirikale-mezhukuthirikale
+   ✅ Saved: മെഴുകുതിരികളേ മെഴുകുതിരികളേ ()
+🎵 [115/435] Scraping: 89515
+   ✅ Saved: ഉള്ളം തുള്ളിത്തുള്ളി (1986)
+🎵 [116/435] Scraping: 15673
+   ✅ Saved: ചെമ്പനീർ പൂ പോലെൻ ()
+🎵 [117/435] Scraping: 15674
+   ✅ Saved: പൂവേ അരിമുല്ലപ്പൂവേ - D ()
+🎵 [118/435] Scraping: 15677
+   ✅ Saved: ശരത്കാലരാവും പാടി (1986)
+🎵 [119/435] Scraping: 15676
+   ✅ Saved: സന്ധ്യകളേ വൈശാഖസന്ധ്യകളേ (1986)
+🎵 [120/435] Scraping: 90345
+   ✅ Saved: അന്നലെഴും പൊന്നൂഞ്ഞാലില്‍ (1986)
+🎵 [121/435] Scraping: 90344
+   ✅ Saved: അല്ലിമുല്ലപ്പൂമരങ്ങള്‍ (1986)
+🎵 [122/435] Scraping: 23045
+   ✅ Saved: ഝിം ഝിം ഝിം കൊലുസ്സുകളിളകി ()
+🎵 [123/435] Scraping: 23125
+   ✅ Saved: മഴവിൽച്ചാറിൽ എഴുതും (1986)
+🎵 [124/435] Scraping: 23127
+   ✅ Saved: രാത്രി മുഴുവന്‍ മഴയായിരുന്നു - M ()
+🎵 [125/435] Scraping: 61552
+   ✅ Saved: രാത്രി മുഴുവൻ മഴയായിരുന്നു - F (1986)
+🎵 [126/435] Scraping: 51499
+   ✅ Saved: ഒന്നാനാം (1986)
+🎵 [127/435] Scraping: 15861
+   ✅ Saved: ഓ പൂവട്ടക തട്ടിച്ചിന്നി ()
+🎵 [128/435] Scraping: 51500
+   ✅ Saved: കാക്കേം കീക്കേം (1986)
+🎵 [129/435] Scraping: 118
+   ✅ Saved: തങ്കത്തളതാളം തെന്നി (1986)
+🎵 [130/435] Scraping: devadundubhi-sandralayam
+   ✅ Saved: ദേവദുന്ദുഭി സാന്ദ്രലയം ()
+🎵 [131/435] Scraping: devadwanthubi-sandaralayam
+   ✅ Saved: ദേവദുന്ദുഭി സാന്ദ്രലയം (D) (1986)
+🎵 [132/435] Scraping: 15862
+   ✅ Saved: നിഴലായ് പൊഴിയും (1986)
+🎵 [133/435] Scraping: 15654
+   ✅ Saved: ആരോമൽക്കുഞ്ഞുറങ്ങ് (1986)
+🎵 [134/435] Scraping: 15663
+   ✅ Saved: നിൻ മൗനം അതിലൊരു ഗാനം ()
+🎵 [135/435] Scraping: 15662
+   ✅ Saved: പൊന്നിൻകുടം പൊട്ട് തൊട്ട് ()
+🎵 [136/435] Scraping: ee-vishaada-mounam
+   ✅ Saved: ഈ വിഷാദ മൌനം (1986)
+🎵 [137/435] Scraping: kaayalthirakkullil
+   ✅ Saved: കായല്‍ത്തിരയ്ക്കുള്ളില്‍ (1986)
+🎵 [138/435] Scraping: kunjaanakkoottam
+   ✅ Saved: കുഞ്ഞാനക്കൂട്ടം (1986)
+🎵 [139/435] Scraping: gaaname-oro
+   ✅ Saved: ഗാനമേ ഓരോ (1986)
+🎵 [140/435] Scraping: neelaponman
+   ✅ Saved: നീലപ്പൊന്മാന്‍ (1986)
+🎵 [141/435] Scraping: poonkaate-vaa
+   ✅ Saved: പൂങ്കാറ്റേ വാ (1986)
+🎵 [142/435] Scraping: poonkuruvi-nee
+   ✅ Saved: പൂങ്കുരുവീ നീ (1986)
+🎵 [143/435] Scraping: poonkuruvi-nee-0
+   ✅ Saved: പൂങ്കുരുവീ നീ - M (1986)
+🎵 [144/435] Scraping: priye-neeyen
+   ✅ Saved: പ്രിയേ നീയെന്‍ (1986)
+🎵 [145/435] Scraping: maariville-nee
+   ✅ Saved: മാരിവില്ലേ നീ (1986)
+🎵 [146/435] Scraping: vasantham-virunnu-vannu
+   ✅ Saved: വസന്തം വിരുന്നു വന്നു (1986)
+🎵 [147/435] Scraping: vanambadi
+   ✅ Saved: വാനമ്പാടി (1986)
+🎵 [148/435] Scraping: viraham-tharum
+   ✅ Saved: വിരഹം തരും (1986)
+🎵 [149/435] Scraping: shalabhangale
+   ✅ Saved: ശലഭങ്ങളേ (1986)
+🎵 [150/435] Scraping: sangeetha-vaadhyamela
+   ✅ Saved: സംഗീത വാദ്യമേള (1986)
+🎵 [151/435] Scraping: soumini-sandye
+   ✅ Saved: സൌമിനീ സന്ധ്യേ (1986)
+🎵 [152/435] Scraping: 28466
+   ✅ Saved: താരുണ്യം കിനാവു (1986)
+🎵 [153/435] Scraping: 28467
+   ✅ Saved: നേടാനായ് പുതിയൊരു ലോകം (1986)
+🎵 [154/435] Scraping: 28465
+   ✅ Saved: പ്രേമമെന്നാലെന്ത് (1986)
+🎵 [155/435] Scraping: 89753
+   ✅ Saved: പൊന്നും തിങ്കള്‍ പോറ്റും - F (1986)
+🎵 [156/435] Scraping: 4028
+   ✅ Saved: പൊന്നും തിങ്കൾ പോറ്റും - M ()
+🎵 [157/435] Scraping: ponnolivein-pootha
+   ✅ Saved: പൊന്നൊലീവിൻ പൂത്ത ()
+🎵 [158/435] Scraping: 12404
+   ✅ Saved: രാരി രാരിരം രാരോ (1986)
+🎵 [159/435] Scraping: 89423
+   ✅ Saved: എന്റെ മനസ്സൊരു മന്ദാരമലരി (1986)
+🎵 [160/435] Scraping: 89422
+   ✅ Saved: പാടുമൊരു കിളിയായ് (1986)
+🎵 [161/435] Scraping: 58983
+   ✅ Saved: കമ്പിളിമേഘം പുതച്ച് (1986)
+🎵 [162/435] Scraping: 22963
+   ✅ Saved: പുഴയില്‍ നിന്നേതോ പൂമീന്‍ (1986)
+🎵 [163/435] Scraping: 22961
+   ✅ Saved: ഭൂമി കറങ്ങുന്നുണ്ടോടാ (1986)
+🎵 [164/435] Scraping: 90230
+   ✅ Saved: പൂവേ പൂവിടും മോഹമേ (1986)
+🎵 [165/435] Scraping: 90161
+   ✅ Saved: മുല്ലപ്പൂകൊണ്ട് മുഴുക്കാപ്പ് (1986)
+🎵 [166/435] Scraping: ariyaathe-ariyaathe
+   ✅ Saved: അറിയാതെ അറിയാതെ എന്നിലെ ()
+🎵 [167/435] Scraping: 88684
+   ✅ Saved: അഴകിന്റെ നിറകുംഭമേ (1986)
+🎵 [168/435] Scraping: 88685
+   ✅ Saved: കണ്ണാ ഞാൻ നിൻമുന്നിൽ (1986)
+🎵 [169/435] Scraping: 66105
+   ✅ Saved: കാലത്തിന്‍ കളിയോടം (1986)
+🎵 [170/435] Scraping: 88828
+   ✅ Saved: കുട്ടിച്ചാത്തനെ കൂട്ടുപിടിച്ച് (1986)
+🎵 [171/435] Scraping: 88683
+   ✅ Saved: പുലരിയ്ക്ക്‌ കുമ്പിളില്‍ (1986)
+🎵 [172/435] Scraping: 88822
+   ✅ Saved: ശാന്തി ചൊല്ലുവാൻ (1986)
+🎵 [173/435] Scraping: ivide-ee-vazhiyil
+   ✅ Saved: ഇവിടെ ഈ വഴിയിൽ ()
+🎵 [174/435] Scraping: 13219
+   ✅ Saved: ഈ ആശാന്റെ ()
+🎵 [175/435] Scraping: 89408
+   ✅ Saved: വമ്പനുക്കും വമ്പനായി (1986)
+🎵 [176/435] Scraping: velipparuthi-poove
+   ✅ Saved: വേലിപ്പരുത്തിപ്പൂവേ ()
+🎵 [177/435] Scraping: amrutham-choriyum
+   ✅ Saved: അമൃതം ചൊരിയും (1986)
+🎵 [178/435] Scraping: 89485
+   ✅ Saved: യാമങ്ങൾ ചിലങ്കകെട്ടി (1986)
+🎵 [179/435] Scraping: 37182
+   ✅ Saved: ഒരു വീണതന്‍ ഓംകാര (1986)
+🎵 [180/435] Scraping: 37180
+   ✅ Saved: ജന്മങ്ങള്‍ വരം തരും (1986)
+🎵 [181/435] Scraping: 37181
+   ✅ Saved: നീലലോഹിത ഹിതകാരിണീ (1986)
+🎵 [182/435] Scraping: 37183
+   ✅ Saved: സ്വര്‍ണ്ണ സന്ധ്യാ വനഭൂമീ (1986)
+🎵 [183/435] Scraping: 58414
+   ✅ Saved: ഹേരംബ ()
+🎵 [184/435] Scraping: 7103
+   ✅ Saved: ആകാശഗംഗാ തീരത്തിനപ്പൂറം ()
+🎵 [185/435] Scraping: 66146
+   ✅ Saved: ഈ പൊന്നു പൂത്ത കാടുകളിൽ (1986)
+🎵 [186/435] Scraping: 89510
+   ✅ Saved: ഓർമ്മ വെയ്ക്കാൻ ഒരു ദിവസം (1986)
+🎵 [187/435] Scraping: prabhaatham-vidarnnu
+   ✅ Saved: പ്രഭാതം വിടർന്നു ()
+🎵 [188/435] Scraping: 58357
+   ✅ Saved: ആടാനാവാതെ (1986)
+🎵 [189/435] Scraping: 58356
+   ✅ Saved: നിലാവല (1986)
+🎵 [190/435] Scraping: 58358
+   ✅ Saved: മലര്‍ തൂകുന്നു (1986)
+🎵 [191/435] Scraping: 89427
+   ✅ Saved: ആശംസകള്‍ നേരുന്നിതാ (1986)
+🎵 [192/435] Scraping: 89424
+   ✅ Saved: കിക്കിളിയുടെ മുത്തെല്ലാം (1986)
+🎵 [193/435] Scraping: 89425
+   ✅ Saved: ചന്ദ്രോത്സവസമം വന്നു (1986)
+🎵 [194/435] Scraping: 89426
+   ✅ Saved: മൂവന്തിമേഘം മൂടുന്ന മാനം (1986)
+🎵 [195/435] Scraping: 3771
+   ✅ Saved: എത്ര പുഷ്പങ്ങൾ മുന്നിൽ ()
+🎵 [196/435] Scraping: 89530
+   ✅ Saved: എനിക്കു വേണ്ട (1986)
+🎵 [197/435] Scraping: 19495
+   ✅ Saved: എന്നാലിനിയൊരു കഥ ()
+🎵 [198/435] Scraping: 3773
+   ✅ Saved: ഏതോ നദിയുടെ തീരത്തിൽ ()
+🎵 [199/435] Scraping: 3772
+   ✅ Saved: ദേവത ഞാൻ ()
+🎵 [200/435] Scraping: 89358
+   ✅ Saved: ആത്മാവിന്‍ സംഗീതം നീ - F (1986)
+🎵 [201/435] Scraping: 89359
+   ✅ Saved: ആത്മാവിന്‍ സംഗീതം നീ - M (1986)
+🎵 [202/435] Scraping: 89361
+   ✅ Saved: എന്റെ ഉയിരായി നീ മാറി (1986)
+🎵 [203/435] Scraping: 89360
+   ✅ Saved: രാഗങ്ങൾ രാഗിണികൾ (1986)
+🎵 [204/435] Scraping: 90233
+   ✅ Saved: പോകുന്നു ഞാനെന്‍ വത്സലരേ (1986)
+🎵 [205/435] Scraping: 90276
+   ✅ Saved: വിശ്വം മുഴുവന്‍ തഴുകി (1986)
+🎵 [206/435] Scraping: 15658
+   ✅ Saved: ഓർമ്മയിൽ ഒരു ശിശിരം ()
+🎵 [207/435] Scraping: 15660
+   ✅ Saved: തുടർക്കിനാക്കളിൽ ()
+🎵 [208/435] Scraping: aromal-hamsame
+   ✅ Saved: ആരോമൽഹംസമേ ()
+🎵 [209/435] Scraping: 31205
+   ✅ Saved: ഉലയിലാരു (1986)
+🎵 [210/435] Scraping: 10113
+   ✅ Saved: ഹേ കുറുമ്പേ ()
+🎵 [211/435] Scraping: 66158
+   ✅ Saved: നിമ്മി ഡാര്‍ലിങ് (1986)
+🎵 [212/435] Scraping: 105733
+   ✅ Saved: തനിത്തിരുന്ത്‌ വാഴും (1986)
+🎵 [213/435] Scraping: 51032
+   ✅ Saved: തൊണ്ടരഞ്ചു കളിരു ()
+🎵 [214/435] Scraping: 90137
+   ✅ Saved: മൂടല്‍മഞ്ഞിന്‍ ആടചുറ്റി (1986)
+🎵 [215/435] Scraping: tharum-thalirum-mizhi-pootti
+   ✅ Saved: താരും തളിരും മിഴി പൂട്ടി ()
+🎵 [216/435] Scraping: 13169
+   ✅ Saved: പുടമുറി കല്യാണം ()
+🎵 [217/435] Scraping: 15858
+   ✅ Saved: ജീവിതം ശാശ്വതസ്നേഹമെന്നോതുവാൻ ()
+🎵 [218/435] Scraping: 15859
+   ✅ Saved: സ്നേഹപ്പൂക്കൾ വാരിച്ചൂടി ()
+🎵 [219/435] Scraping: 14814
+   ✅ Saved: ജാലകനിഴലിൽ ഒരു പക്ഷിയായ് ()
+🎵 [220/435] Scraping: 15122
+   ✅ Saved: നിശയെ നിലാവ് പുണർന്നൂ ()
+🎵 [221/435] Scraping: 90135
+   ✅ Saved: നിശയെ നിലാവ് പുണർന്നൂ - F (1986)
+🎵 [222/435] Scraping: 15121
+   ✅ Saved: ഹരിനീലവനച്ഛായയിൽ ()
+🎵 [223/435] Scraping: madhurkkum-thenkani
+   ✅ Saved: മധുർക്കും തേൻകനി (1986)
+🎵 [224/435] Scraping: 50962
+   ✅ Saved: ഓരോ പൂവിലും (1986)
+🎵 [225/435] Scraping: 50992
+   ✅ Saved: നക്ഷത്രരാജ്യത്തെ രാജാവോ (1986)
+🎵 [226/435] Scraping: 35061
+   ✅ Saved: കളഭം ചാര്‍ത്തും (1986)
+🎵 [227/435] Scraping: 8483
+   ✅ Saved: കൂട്ടിൽ നിന്നും മേട്ടിൽ വന്ന ()
+🎵 [228/435] Scraping: 35064
+   ✅ Saved: കൊഞ്ചും നിന്‍ ഇമ്പം (1986)
+🎵 [229/435] Scraping: 35062
+   ✅ Saved: പൊന്‍ വീണേ എന്നുള്ളിന്‍(f) (1986)
+🎵 [230/435] Scraping: 8484
+   ✅ Saved: പൊൻ വീണേ (1986)
+🎵 [231/435] Scraping: 90151
+   ✅ Saved: ജന്മം പുനര്‍ജ്ജന്മം (1986)
+🎵 [232/435] Scraping: 90153
+   ✅ Saved: മലയജമാമലയില്‍ (1986)
+🎵 [233/435] Scraping: 90152
+   ✅ Saved: മഴ മഴമുകിലാടും (1986)
+🎵 [234/435] Scraping: 87606
+   ✅ Saved: വിശ്വതലത്തിന്റെ ഗോപുരവാതിലില്‍ (1986)
+🎵 [235/435] Scraping: ambalapuzhayilen
+   ✅ Saved: അമ്പലപ്പുഴയിലെൻ മനസോടിക്കളിക്കുന്നു ()
+🎵 [236/435] Scraping: ashtami-rohini
+   ✅ Saved: അഷ്ടമിരോഹിണി നാളിലെൻ മനസ്‌സൊരു ()
+🎵 [237/435] Scraping: 16252
+   ✅ Saved: ഒരു നേരമെങ്കിലും കാണാതെ ()
+🎵 [238/435] Scraping: oru-neramenkilum
+   ✅ Saved: ഒരു നേരമെങ്കിലും കാണാതെ വയ്യെന്റെ ()
+🎵 [239/435] Scraping: 12172
+   ✅ Saved: കാനനശ്രീലകത്തോംകാരം എൻ ()
+🎵 [240/435] Scraping: 12183
+   ✅ Saved: തിരുവാറന്മുളകൃഷ്‌ണാ‍ നിന്നോമൽ ()
+🎵 [241/435] Scraping: namaha-namaha
+   ✅ Saved: നമഹഃ നമഹഃ ശ്രീമഹാഗണപതേ നമഹഃ ()
+🎵 [242/435] Scraping: neelappeelikkaavadiyenthi-nee
+   ✅ Saved: നീലപ്പീലിക്കാവടിയേന്തീ നീ തണലേകും ()
+🎵 [243/435] Scraping: braahmamuhoorthathilunarnnum-udayaarkka
+   ✅ Saved: ബ്രാഹ്മമുഹൂർ‌ത്തത്തിലുണർന്നും ഉദയാർക്ക ()
+🎵 [244/435] Scraping: 12174
+   ✅ Saved: മൂകാംബികേ ദേവി ജഗദംബികേ ()
+🎵 [245/435] Scraping: 12181
+   ✅ Saved: ശ്രീപാർ‌ത്ഥസാരഥേ പാഹിമാം ()
+🎵 [246/435] Scraping: sree-mahaadevo-namaha-mangalyasreeyezhum
+   ✅ Saved: ശ്രീമഹാദേവോനമഃ മംഗല്യശ്രീയെഴും ()
+🎵 [247/435] Scraping: 89371
+   ✅ Saved: ആമരമീമരത്തിന്‍ (1986)
+🎵 [248/435] Scraping: 15860
+   ✅ Saved: പൊന്നിൻ കിനാവുകൾ ()
+🎵 [249/435] Scraping: 94167
+   ✅ Saved: നന്മയുള്ള മാനവനെ ദൈവം കാണുന്നൂ (1986)
+🎵 [250/435] Scraping: 10176
+   ✅ Saved: പൂ വേണോ ()
+🎵 [251/435] Scraping: 10177
+   ✅ Saved: വാനമ്പാടി ഏതോ ()
+🎵 [252/435] Scraping: 89478
+   ✅ Saved: ആരിവനാരിവന്‍ രാക്ഷസവീരരെ - ബാലെ (1986)
+🎵 [253/435] Scraping: 89477
+   ✅ Saved: ഒന്നാം കുന്നില്‍ ഓരടിക്കുന്നില്‍ (1986)
+🎵 [254/435] Scraping: 13843
+   ✅ Saved: കിളിയേ കിളിയേ കിളിമകളേ ()
+🎵 [255/435] Scraping: 89479
+   ✅ Saved: പണ്ടമാണു നീ - ബാലെ (1986)
+🎵 [256/435] Scraping: 89463
+   ✅ Saved: മന്ദാരങ്ങളെല്ലാം വാനില്‍ (1986)
+🎵 [257/435] Scraping: 89476
+   ✅ Saved: മാന്യശ്രീ വിശ്വാമിത്രാ - ബാലെ (1986)
+🎵 [258/435] Scraping: 174
+   ✅ Saved: ആരെയും ഭാവഗായകനാക്കും (1986)
+🎵 [259/435] Scraping: 9940
+   ✅ Saved: കേവല മർത്ത്യഭാഷ ()
+🎵 [260/435] Scraping: 7179
+   ✅ Saved: നീരാടുവാൻ നിളയിൽ (1986)
+🎵 [261/435] Scraping: 10185
+   ✅ Saved: മഞ്ഞൾ പ്രസാദവും (1986)
+🎵 [262/435] Scraping: 10186
+   ✅ Saved: വ്രീളാഭരിതയായ് വീണ്ടുമൊരു (1986)
+🎵 [263/435] Scraping: 15873
+   ✅ Saved: നിശാഗന്ധി പൂത്തു ചിരിച്ചു ()
+🎵 [264/435] Scraping: 89090
+   ✅ Saved: പണിഷ്മെന്റ് എങ്ങും പണിഷ്മെന്റ് (1986)
+🎵 [265/435] Scraping: aakashamake
+   ✅ Saved: ആകാശമാകേ ()
+🎵 [266/435] Scraping: pavizham-pol-pavizhadharam-pol
+   ✅ Saved: പവിഴം പോൽ പവിഴാധരം പോൽ (1986)
+🎵 [267/435] Scraping: aalippazham-innonnonnayen
+   ✅ Saved: ആലിപ്പഴം ഇന്നൊന്നായെൻ (1986)
+🎵 [268/435] Scraping: madhavamaasam
+   ✅ Saved: മാധവമാസം സ്വർണ്ണത്തേരിലണഞ്ഞിതാ (1986)
+🎵 [269/435] Scraping: ilam-manjin
+   ✅ Saved: ഇളം മഞ്ഞിൻ (സങ്കടം ) ()
+🎵 [270/435] Scraping: 4018
+   ✅ Saved: ഇളം മഞ്ഞിൻ കുളിരുമായൊരു (Happy) (1986)
+🎵 [271/435] Scraping: 11931
+   ✅ Saved: തുമ്പപ്പൂക്കാറ്റിൽ (1986)
+🎵 [272/435] Scraping: 11930
+   ✅ Saved: നാദങ്ങളായ് നീ വരൂ ()
+🎵 [273/435] Scraping: 62301
+   ✅ Saved: മുല്ലപ്പെരിയാറിന് കല്യാണം (1986)
+🎵 [274/435] Scraping: 62300
+   ✅ Saved: വാടിയ നീലക്കാടുകൾ വീണ്ടും (1986)
+🎵 [275/435] Scraping: 88677
+   ✅ Saved: പ്രകാശമായ് മനസ്സിൽ (1986)
+🎵 [276/435] Scraping: 90142
+   ✅ Saved: ആരാരിരാരോ ആരാരിരാരോ (1986)
+🎵 [277/435] Scraping: 90143
+   ✅ Saved: ദേവീ സുകൃദാനന്ദമയീ (1986)
+🎵 [278/435] Scraping: 90141
+   ✅ Saved: പാടാം ഞാന്‍ പാടാമൊരു സാന്ത്വനം (1986)
+🎵 [279/435] Scraping: 15874
+   ✅ Saved: എന്റെ മൺ വീണയിൽ കൂടണയാനൊരു ()
+🎵 [280/435] Scraping: 14874
+   ✅ Saved: കന്നിക്കതിർ മണി തേടും ()
+🎵 [281/435] Scraping: etho-yakshikkadhayiloru
+   ✅ Saved: ഏതോ യക്ഷിക്കഥയിലൊരു ()
+🎵 [282/435] Scraping: chellacheru-veedu-tharam
+   ✅ Saved: ചെല്ലച്ചെറു വീടു തരാം (1986)
+🎵 [283/435] Scraping: 21243
+   ✅ Saved: ചേലുള്ള മലങ്കുറവാ (1986)
+🎵 [284/435] Scraping: aa-rathri-maanjupoyi
+   ✅ Saved: ആ രാത്രി മാഞ്ഞു പോയീ ()
+🎵 [285/435] Scraping: 9950
+   ✅ Saved: സാഗരങ്ങളെ പാടി ഉണർത്തിയ ()
+🎵 [286/435] Scraping: hrudayam-oru-vallaki-md
+   ✅ Saved: ഹൃദയം ഒരു വല്ലകി - MD ()
+🎵 [287/435] Scraping: hrudayam-oru-vallaki-fd
+   ✅ Saved: ഹൃദയം ഒരു വല്ലകി -FD (1986)
+🎵 [288/435] Scraping: 56351
+   ✅ Saved: അല്ലിത്താമര പൂത്തിറങ്ങിയ (1986)
+🎵 [289/435] Scraping: 56355
+   ✅ Saved: കാലനില്ലാക്കാലത്തൊരു (1985)
+🎵 [290/435] Scraping: 56354
+   ✅ Saved: പുത്തന്‍ മണവാട്ടി (1985)
+🎵 [291/435] Scraping: 56352
+   ✅ Saved: ശാരികേ എന്നോമല്‍ (1986)
+🎵 [292/435] Scraping: 89409
+   ✅ Saved: പൊന്നേലസ്സും പൊന്നലുക്കത്തും (1986)
+🎵 [293/435] Scraping: 90355
+   ✅ Saved: കളിവീടു കെട്ടി ഞാൻ (1986)
+🎵 [294/435] Scraping: 95922
+   ✅ Saved: ജപാകുസുമ* (1986)
+🎵 [295/435] Scraping: 25883
+   ✅ Saved: കൊഞ്ചി കരയല്ലേ ()
+🎵 [296/435] Scraping: 64
+   ✅ Saved: പൂങ്കാറ്റിനോടും കിളികളോടും ()
+🎵 [297/435] Scraping: 89369
+   ✅ Saved: ആരോ ആരോ ആരാരോ - F (1986)
+🎵 [298/435] Scraping: 15651
+   ✅ Saved: ആരോ ആരോ ആരാരോ - M ()
+🎵 [299/435] Scraping: 89370
+   ✅ Saved: നെഞ്ചിന്നുള്ളിലെ നെടുംപാതയോരം (1986)
+🎵 [300/435] Scraping: peeliyezhum-veesi-vaa-d
+   ✅ Saved: പീലിയേഴും വീശി വാ - D ()
+🎵 [301/435] Scraping: 89368
+   ✅ Saved: പീലിയേഴും വീശി വാ - F (1986)
+🎵 [302/435] Scraping: 15652
+   ✅ Saved: പൂവേ പൂവേ പൊൻ പൂവേ ()
+🎵 [303/435] Scraping: 86841
+   ✅ Saved: ഈ രാവിലോ (1986)
+🎵 [304/435] Scraping: 15653
+   ✅ Saved: ഹേമന്തമായ് ഈ വേദിയിൽ (1986)
+🎵 [305/435] Scraping: 10230
+   ✅ Saved: കടലിളകി കരയൊടു ചൊല്ലി ()
+🎵 [306/435] Scraping: 10229
+   ✅ Saved: തളിരിയിലയിൽ താളം തുള്ളി ()
+🎵 [307/435] Scraping: 13182
+   ✅ Saved: താളം മറന്ന താരാട്ടു കേട്ടെൻ (M) ()
+🎵 [308/435] Scraping: 64358
+   ✅ Saved: താളംമറന്ന ()
+🎵 [309/435] Scraping: 35397
+   ✅ Saved: ഉദയം പ്രഭ ചൊരിയും (1986)
+🎵 [310/435] Scraping: 35398
+   ✅ Saved: ഓമനക്കയ്യില്‍ പാവക്കുഞ്ഞും (1986)
+🎵 [311/435] Scraping: 103871
+   ✅ Saved: കാടാമ്പുഴ തീർത്ഥമാടാൻ (1986)
+🎵 [312/435] Scraping: 66135
+   ✅ Saved: അമ്മാ അച്ചനും അല്ല (1986)
+🎵 [313/435] Scraping: 89350
+   ✅ Saved: പോരിനെ പോരുകൊണ്ട് (1986)
+🎵 [314/435] Scraping: 89180
+   ✅ Saved: മണ്ണിൻ വെണ്ണിലാവേ (1986)
+🎵 [315/435] Scraping: 89179
+   ✅ Saved: മാനേ പൊന്‍വർണ്ണ മാനേ (1986)
+🎵 [316/435] Scraping: 89351
+   ✅ Saved: സ്വതന്ത്രരായുള്ള അടിമകളേ (1986)
+🎵 [317/435] Scraping: 89349
+   ✅ Saved: സ്വന്തങ്ങളെ വാഴ്ത്തി (1986)
+🎵 [318/435] Scraping: 89177
+   ✅ Saved: ഏഴുകടലിന്നക്കരെയുള്ളൊരു (1986)
+🎵 [319/435] Scraping: 89178
+   ✅ Saved: കവിതകള്‍ വിളയും കാവുകൾ (1986)
+🎵 [320/435] Scraping: 89175
+   ✅ Saved: ഗീതം പ്രേമഗീതം (1986)
+🎵 [321/435] Scraping: 89176
+   ✅ Saved: രാവൊരുങ്ങി പൗർണ്ണമിയിൽ (1986)
+🎵 [322/435] Scraping: 99100
+   ✅ Saved: അമ്മേ കേഴരുതേ (1986)
+🎵 [323/435] Scraping: 99117
+   ✅ Saved: ആടുകയോ നടരാജൻ (1986)
+🎵 [324/435] Scraping: 99118
+   ✅ Saved: ഈ മെയ്യും ഈ മനസ്സും (1986)
+🎵 [325/435] Scraping: 99115
+   ✅ Saved: ഗംഗാധരനോ (1986)
+🎵 [326/435] Scraping: 99101
+   ✅ Saved: ജഗമാകെ (1986)
+🎵 [327/435] Scraping: 99102
+   ✅ Saved: ജയജയ സർവ്വേശാ (1986)
+🎵 [328/435] Scraping: 99103
+   ✅ Saved: മഹിമകളറിയാൻ (1986)
+🎵 [329/435] Scraping: 99116
+   ✅ Saved: ശിവനെ കാണുകയോ (1986)
+🎵 [330/435] Scraping: 95319
+   ✅ Saved: മലർമാരി മധുമാരി (1986)
+🎵 [331/435] Scraping: 95320
+   ✅ Saved: മൈലാഞ്ചിക്കരം കൊണ്ട് (1986)
+🎵 [332/435] Scraping: 95318
+   ✅ Saved: വിഗ്രഹമല്ല ഞാൻ ദൈവമല്ലാ (1986)
+🎵 [333/435] Scraping: sukhamulla-kulirthennal
+   ✅ Saved: സുഖമുള്ള കുളിര്‍തെന്നല്‍ (1986)
+🎵 [334/435] Scraping: karalinte-ullil
+   ✅ Saved: കരളിന്റെയുള്ളില്‍ കരിവേണിയാളേ (1986)
+🎵 [335/435] Scraping: 63476
+   ✅ Saved: വാത്സ്യായനൻറെ രാത്രികള്‍ (1986)
+🎵 [336/435] Scraping: veene-ninne-meettaan
+   ✅ Saved: വീണേ നിന്നെ മീട്ടാൻ (1986)
+🎵 [337/435] Scraping: ayyo-ente-saare
+   ✅ Saved: അയ്യോ എന്റെ സാറേ (1986)
+🎵 [338/435] Scraping: 90278
+   ✅ Saved: ഭൂമി പൂചൂടും മധുമാധവം (1986)
+🎵 [339/435] Scraping: aadiyil-naadangal
+   ✅ Saved: ആദിയിൽ നാദങ്ങൾ (1986)
+🎵 [340/435] Scraping: chundil-thenmadhuram
+   ✅ Saved: ചുണ്ടിൽ തേന്മധുരം (1986)
+🎵 [341/435] Scraping: manjin-thulli
+   ✅ Saved: മഞ്ഞിൻ തുള്ളി (1986)
+🎵 [342/435] Scraping: vendayka-cherthoru
+   ✅ Saved: വെണ്ടയ്ക ചേർത്തൊരു (1986)
+🎵 [343/435] Scraping: 15868
+   ✅ Saved: എൻ ജീവനിൽ മൺവീണയിൽ ()
+🎵 [344/435] Scraping: 35625
+   ✅ Saved: കണ്ടു ഞാൻ കണ്ടു (1986)
+🎵 [345/435] Scraping: 39763
+   ✅ Saved: തുമ്പീ മഞ്ചലേറി വാ (1986)
+🎵 [346/435] Scraping: 15869
+   ✅ Saved: ധനുമാസക്കുളിരല ചൂടി ()
+🎵 [347/435] Scraping: 89362
+   ✅ Saved: കൂടെ വാ കൂടു തേടി വാ (1986)
+🎵 [348/435] Scraping: 7308
+   ✅ Saved: ചന്ദ്രകിരണത്തിൻ ചന്ദനമുണ്ണും ()
+🎵 [349/435] Scraping: 37939
+   ✅ Saved: അടയ്ക്കാക്കുരുവികളടക്കം പറയണ (1986)
+🎵 [350/435] Scraping: ithanu-kayyur
+   ✅ Saved: ഇതാണു കയ്യൂർ ()
+🎵 [351/435] Scraping: 37942
+   ✅ Saved: ഏലേലം കിളിമകളേ (1986)
+🎵 [352/435] Scraping: 89367
+   ✅ Saved: മാരിക്കാര്‍ മേയുന്ന (1986)
+🎵 [353/435] Scraping: 37946
+   ✅ Saved: സത്യമേ സത്യമേ (1986)
+🎵 [354/435] Scraping: 95321
+   ✅ Saved: പെണ്ണുണ്ടോ അളിയാ (1986)
+🎵 [355/435] Scraping: 66103
+   ✅ Saved: പോയകാലം പൂവിരിച്ച താഴ്വരയില്‍ നിന്നും (1986)
+🎵 [356/435] Scraping: 10379
+   ✅ Saved: അമ്പലമുക്ക് കഴിഞ്ഞാൽ ()
+🎵 [357/435] Scraping: aa-mukham-kanda-naal
+   ✅ Saved: ആ മുഖം കണ്ട നാൾ ()
+🎵 [358/435] Scraping: innumente-kannuneeril
+   ✅ Saved: ഇന്നുമെന്റെ കണ്ണുനീരിൽ (1986)
+🎵 [359/435] Scraping: paadaam-namukku-paadaam
+   ✅ Saved: പാടാം നമുക്ക് പാടാം ()
+🎵 [360/435] Scraping: 89390
+   ✅ Saved: പ്രളയപയോധി ജലേ (1986)
+🎵 [361/435] Scraping: 10505
+   ✅ Saved: എത്ര പൂക്കാലമിനി - D ()
+🎵 [362/435] Scraping: 89461
+   ✅ Saved: എത്ര പൂക്കാലമിനി - M (1986)
+🎵 [363/435] Scraping: gopalaka-pahimam-d
+   ✅ Saved: ഗോപാലക പാഹിമാം - D (1986)
+🎵 [364/435] Scraping: gopalaka-pahimam-m
+   ✅ Saved: ഗോപാലകപാഹിമാം - M ()
+🎵 [365/435] Scraping: poomugha-vathikkal
+   ✅ Saved: പൂമുഖവാതിൽക്കൽ (1986)
+🎵 [366/435] Scraping: 12286
+   ✅ Saved: വള്ളിത്തിരുമണം ()
+🎵 [367/435] Scraping: 98597
+   ✅ Saved: ശ്രീഗണപതിനി സേവിംപരാരേ (1986)
+🎵 [368/435] Scraping: 12285
+   ✅ Saved: സ്വരരാഗമേ ()
+🎵 [369/435] Scraping: 65728
+   ✅ Saved: ഗോകുലനികുഞ്ജത്തിൽ (1980)
+🎵 [370/435] Scraping: raagasamrajya-devalayathile
+   ✅ Saved: രാഗസാമ്രാജ്യ ദേവാലയത്തിലെ (1980)
+🎵 [371/435] Scraping: vasantha-nidra-vedinju
+   ✅ Saved: വസന്തനിദ്ര വെടിഞ്ഞു (1980)
+🎵 [372/435] Scraping: 64971
+   ✅ Saved: ദേവാംഗനേ (1986)
+🎵 [373/435] Scraping: 19599
+   ✅ Saved: ദേവാംഗനേ ദേവസുന്ദരീ (M) ()
+🎵 [374/435] Scraping: 19597
+   ✅ Saved: പാ‍ടാം ഞാനാ ഗാനം ()
+🎵 [375/435] Scraping: 19598
+   ✅ Saved: വിണ്ണിലെ ഗന്ധർവ ()
+🎵 [376/435] Scraping: 14876
+   ✅ Saved: മന്ദാരപുഷ്പങ്ങൾ ()
+🎵 [377/435] Scraping: 14878
+   ✅ Saved: രാരീരം രാരീരോ ()
+🎵 [378/435] Scraping: 33876
+   ✅ Saved: ചിന്നക്കുട്ടി ചെല്ലക്കുട്ടി (1986)
+🎵 [379/435] Scraping: chinnakkutti-chellakkutti
+   ✅ Saved: ചിന്നക്കുട്ടി ചെല്ലക്കുട്ടി തങ്കക്കട്ടി (f) (1986)
+🎵 [380/435] Scraping: 30903
+   ✅ Saved: വെള്ളാരം കുന്നുമ്മേലേ (1986)
+🎵 [381/435] Scraping: 15866
+   ✅ Saved: ഒരു കടലോളം സ്നേഹം തന്നു (1986)
+🎵 [382/435] Scraping: 15865
+   ✅ Saved: ഒരു മലർത്തോപ്പിലെ മലരുകൾ ()
+🎵 [383/435] Scraping: 8883
+   ✅ Saved: ചെല്ലക്കുരുവീ നീയെന്നും (1986)
+🎵 [384/435] Scraping: 8882
+   ✅ Saved: പൂവായ പൂ ഇന്നു ചൂടി - D (1986)
+🎵 [385/435] Scraping: 15867
+   ✅ Saved: പൂവായ പൂ ഇന്നു ചൂടി -F (1986)
+🎵 [386/435] Scraping: sneham-poothulanju
+   ✅ Saved: സ്നേഹം പൂത്തുലഞ്ഞു (1986)
+🎵 [387/435] Scraping: innalekal-ithuvazhiye-poyee
+   ✅ Saved: ഇന്നലെകൾ ഇതു വഴിയേ പോയി (1986)
+🎵 [388/435] Scraping: 89365
+   ✅ Saved: സലിലം ശ്രുതിസാഗരം (1986)
+🎵 [389/435] Scraping: attakkaran
+   ✅ Saved: ആട്ടക്കാരൻ ചേട്ടച്ചാരുടെ (1986)
+🎵 [390/435] Scraping: 61555
+   ✅ Saved: കടക്കണ്ണ് തൊടുക്കും (1986)
+🎵 [391/435] Scraping: sreekumaranane
+   ✅ Saved: ശ്രീകുമാരനാണേ ശ്രീകുമാരിയാണേ (1986)
+🎵 [392/435] Scraping: 89514
+   ✅ Saved: തിങ്കൾക്കിളീ (1986)
+🎵 [393/435] Scraping: thenoorum-malar-pootha
+   ✅ Saved: തേനൂറും മലർ പൂത്ത ()
+🎵 [394/435] Scraping: doore-mamalayil
+   ✅ Saved: ദൂരേ മാമലയിൽ ()
+🎵 [395/435] Scraping: 66145
+   ✅ Saved: കണ്ണല്ലേ കള്ളന്‍ കണ്മണിക്കു മന്നന്‍ (1986)
+🎵 [396/435] Scraping: 89441
+   ✅ Saved: ഞാൻ അജയ്യൻ (1986)
+🎵 [397/435] Scraping: 89450
+   ✅ Saved: വിളഞ്ഞമുന്തിരി മധുരസചോല ഞാൻ (1986)
+🎵 [398/435] Scraping: 64158
+   ✅ Saved: ഏകാന്തമാം ഈ ഭൂമിയില്‍ (1986)
+🎵 [399/435] Scraping: 7573
+   ✅ Saved: ചെമ്പരത്തിപ്പൂവേ ചൊല്ല് ()
+🎵 [400/435] Scraping: 15642
+   ✅ Saved: പൂങ്കാറ്റേ പോയി ചൊല്ലാമോ ()
+🎵 [401/435] Scraping: 64157
+   ✅ Saved: സ്വര്‍ണ്ണമേടുകളില്‍ രാഗചാരുതയില്‍ (1986)
+🎵 [402/435] Scraping: 89412
+   ✅ Saved: ഉദയകുങ്കുമം പൂശും (1986)
+🎵 [403/435] Scraping: 89421
+   ✅ Saved: ദൈവമേ കാത്തുകൊള്‍കങ്ങ് (1986)
+🎵 [404/435] Scraping: 89414
+   ✅ Saved: മിഴിമുനകൊണ്ടു മയക്കി (1986)
+🎵 [405/435] Scraping: 89413
+   ✅ Saved: ശിവശങ്കര ശര്‍വ്വശരണ്യവിഭോ (1986)
+🎵 [406/435] Scraping: 12822
+   ✅ Saved: കണ്ണിനു പൊൻ കണി (1986)
+🎵 [407/435] Scraping: 9000
+   ✅ Saved: പവിഴമല്ലി പൂത്തുലഞ്ഞ ()
+🎵 [408/435] Scraping: 15646
+   ✅ Saved: കാളിന്ദിതീരമുറങ്ങി ()
+🎵 [409/435] Scraping: chandrakalamouli-thirumizhi
+   ✅ Saved: ചന്ദ്രകലാമൗലി തിരുമിഴി തുറന്നു ()
+🎵 [410/435] Scraping: 15644
+   ✅ Saved: ചന്ദ്രഗിരിത്താഴ്വരയിൽ ()
+🎵 [411/435] Scraping: 15647
+   ✅ Saved: താരകരൂപിണീ സരസ്വതി ()
+🎵 [412/435] Scraping: 15648
+   ✅ Saved: പൂന്തെന്നലേ നീ പറന്നു ()
+🎵 [413/435] Scraping: 14866
+   ✅ Saved: ഒരു കുഞ്ഞുസൂര്യനെ നിറുകയിൽ ()
+🎵 [414/435] Scraping: 9969
+   ✅ Saved: ശ്രീലതികകൾ (1986)
+🎵 [415/435] Scraping: 9968
+   ✅ Saved: സുഖമോ ദേവീ (1986)
+🎵 [416/435] Scraping: 13442
+   ✅ Saved: കഥ കഥ കഥ നായര് ()
+🎵 [417/435] Scraping: 23148
+   ✅ Saved: തെന്നലേ തെന്നലേ താരാട്ടു പാടൂ ()
+🎵 [418/435] Scraping: navavalsaram-yuvavalsaram
+   ✅ Saved: നവവത്സരം യുവവത്സരം (1986)
+🎵 [419/435] Scraping: 13445
+   ✅ Saved: നാദം മധുരം ()
+🎵 [420/435] Scraping: 88614
+   ✅ Saved: പാര്‍വ്വണ ചന്ദ്രികേ നീ കണ്ടുവോ (1986)
+🎵 [421/435] Scraping: 88612
+   ✅ Saved: മദനന്റെ കൊട്ടാരം തേടി (1986)
+🎵 [422/435] Scraping: 88613
+   ✅ Saved: മനസ്സേ നീയൊരലയാഴി (1986)
+🎵 [423/435] Scraping: 36612
+   ✅ Saved: സ്വപ്നത്തിൽ പോലും മറക്കാൻ കഴിയാത്ത (1986)
+🎵 [424/435] Scraping: 90158
+   ✅ Saved: മഞ്ഞിൽ നനയും (1986)
+🎵 [425/435] Scraping: 89145
+   ✅ Saved: അന്തരാത്മാവിന്റെ ഏകാന്ത സുന്ദര (1986)
+🎵 [426/435] Scraping: niramezhum-karalil
+   ✅ Saved: നിറമേഴും കരളിൽ പരന്നിതാ (1986)
+🎵 [427/435] Scraping: 15643
+   ✅ Saved: സ്നേഹം കൊതിച്ചു ()
+🎵 [428/435] Scraping: 89743
+   ✅ Saved: ആകാശവീഥിയിൽ തളർന്നു (1986)
+🎵 [429/435] Scraping: 89744
+   ✅ Saved: ആത്മാവിനീഭൂവിൽ ബന്ധമില്ലാ (1986)
+🎵 [430/435] Scraping: 89742
+   ✅ Saved: ഒരു ജാതി ഒരു മതം ഒരു ദൈവം (1986)
+🎵 [431/435] Scraping: 4010
+   ✅ Saved: കുളിർമതി വദനേ (1986)
+🎵 [432/435] Scraping: 89745
+   ✅ Saved: ദൈവമേ കാത്തുകൊള്‍കങ്ങു (1986)
+🎵 [433/435] Scraping: 89741
+   ✅ Saved: ശിവഗിരിനാഥാ ഗുരുദേവാ (1986)
+🎵 [434/435] Scraping: 22800
+   ✅ Saved: നീ നീ നീയെന്റെ ജീവൻ ()
+🎵 [435/435] Scraping: 9041
+   ✅ Saved: നീയെൻ കിനാവോ ()
+Year complete: success=435, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 13429
