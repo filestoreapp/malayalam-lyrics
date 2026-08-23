@@ -83219,3 +83219,86 @@ Year complete: success=54, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 21261
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1959
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1959
+   Page 1: https://m3db.com/archive/lyrics/year/1959
+   Found 35 songs on this page. Total unique so far: 35
+Total songs to scrape for this year: 35
+🎵 [1/35] Scraping: 66970
+   ✅ Saved: അവനിയില്‍ത്താനോ (1959)
+🎵 [2/35] Scraping: 66980
+   ✅ Saved: ഓം മഹാകാളീ (1959)
+🎵 [3/35] Scraping: 66978
+   ✅ Saved: കണ്ണേ വര്‍ണ്ണമലര്‍ക്കൊടിയേയെന്‍ (1959)
+🎵 [4/35] Scraping: 66979
+   ✅ Saved: കാനനമേ കണ്ണിനാനന്ദമേ (1959)
+🎵 [5/35] Scraping: 66971
+   ✅ Saved: ജീംപോഹോ ജീംപഹാ (1959)
+🎵 [6/35] Scraping: 66972
+   ✅ Saved: ജോഡിയുള്ള കാളേ ജോറായ് (1959)
+🎵 [7/35] Scraping: 66981
+   ✅ Saved: പൈമ്പാലൊഴുകും ചോലതന്നില്‍ (1959)
+🎵 [8/35] Scraping: oru-panineerppoo
+   ✅ Saved: ഒരു പനിനീർപ്പൂ ()
+🎵 [9/35] Scraping: 8373
+   ✅ Saved: ഓടക്കുഴലും കൊണ്ടോടി വരൂ ()
+🎵 [10/35] Scraping: 8369
+   ✅ Saved: കടലിനക്കരെ ()
+🎵 [11/35] Scraping: 8377
+   ✅ Saved: കതിരണിഞ്ഞൂ ()
+🎵 [12/35] Scraping: 66961
+   ✅ Saved: കാറ്റേ വാ കടലേ വാ (D) (1959)
+🎵 [13/35] Scraping: 8371
+   ✅ Saved: കാറ്റേ വാ കടലേ വാ (F) ()
+🎵 [14/35] Scraping: 66959
+   ✅ Saved: ജനനീ ജനനീ ജനനീ (1959)
+🎵 [15/35] Scraping: 66960
+   ✅ Saved: ജന്മാന്തരങ്ങളില്‍ പുഷ്പിച്ച (1959)
+🎵 [16/35] Scraping: 8374
+   ✅ Saved: പെണ്ണിന്റെ ചിരിയും ()
+🎵 [17/35] Scraping: 8368
+   ✅ Saved: വാസന്തരാവിന്റെ വാതില്‍ ()
+🎵 [18/35] Scraping: 14432
+   ✅ Saved: ഇണക്കുരുവി ()
+🎵 [19/35] Scraping: 14440
+   ✅ Saved: ഇന്നു കാണും പൊൻകിനാക്കൾ ()
+🎵 [20/35] Scraping: 14429
+   ✅ Saved: ഒന്നാമൻ കുന്നിലിന്നലെ ()
+🎵 [21/35] Scraping: 14434
+   ✅ Saved: കണ്ണാടിയാറ്റിൽ കൈതപ്പൂങ്കാട്ടിൽ ()
+🎵 [22/35] Scraping: 14431
+   ✅ Saved: കാറണിരാവിലെൻ കസ്തൂരിമാനിനെ ()
+🎵 [23/35] Scraping: 14438
+   ✅ Saved: കുങ്കുമത്തിൻ പൊട്ടു കുത്തി ()
+🎵 [24/35] Scraping: 14433
+   ✅ Saved: തെക്കു തെക്കു തെക്കു ചെന്നൊരു ()
+🎵 [25/35] Scraping: 14439
+   ✅ Saved: മൂവാണ്ടൻ മാവിലെ തൈമുല്ല പൂത്തപ്പോൾ ()
+🎵 [26/35] Scraping: 14430
+   ✅ Saved: വരൂ വരൂ മുന്നിൽ വനമാലി ()
+🎵 [27/35] Scraping: 66963
+   ✅ Saved: ആരാരുവരുമമ്മ പോലെ സ്വന്തം‌ (1959)
+🎵 [28/35] Scraping: 66966
+   ✅ Saved: കാട്ടിലെ പൂവിനു കാമുകൻ (1959)
+🎵 [29/35] Scraping: 17948
+   ✅ Saved: കാലം വല്ലാത്ത കാലമല്ലോ ()
+🎵 [30/35] Scraping: 66967
+   ✅ Saved: നേരം പുല൪ന്നു നേരം പുല൪ന്നു (1959)
+🎵 [31/35] Scraping: 64334
+   ✅ Saved: പൂവനമേ പുതുവനമേ (1959)
+🎵 [32/35] Scraping: malarthorum-mandhahasam
+   ✅ Saved: മലർതോറും മന്ദഹാസം (1959)
+🎵 [33/35] Scraping: 14428
+   ✅ Saved: രാക്കുയിലേ രാക്കുയിലേ ()
+🎵 [34/35] Scraping: 64307
+   ✅ Saved: വളയിട്ട കൊച്ചു കൈകളേ (1959)
+🎵 [35/35] Scraping: 17949
+   ✅ Saved: ശംഭോ രുദ്രമഹാദേവാ ()
+Year complete: success=35, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 21296
