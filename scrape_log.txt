@@ -85041,3 +85041,62 @@ Year complete: success=14, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22081
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1938
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1938
+   Page 1: https://m3db.com/archive/lyrics/year/1938
+   Found 23 songs on this page. Total unique so far: 23
+Total songs to scrape for this year: 23
+🎵 [1/23] Scraping: 37465
+   ✅ Saved: അതിസുഖമീവിധ (1938)
+🎵 [2/23] Scraping: 37462
+   ✅ Saved: ആഘോഷങ്ങളെന്തു (1938)
+🎵 [3/23] Scraping: 37461
+   ✅ Saved: ആടയാഭരണാദികൊണ്ടു (1938)
+🎵 [4/23] Scraping: 37463
+   ✅ Saved: ആഹാ മല്‍സോദിരി (1938)
+🎵 [5/23] Scraping: 37469
+   ✅ Saved: എന്നോടിത്ഥം കഥിക്കാനധിക (1938)
+🎵 [6/23] Scraping: 37471
+   ✅ Saved: കാമിനിമാര്‍ മാനസത്തെ (1938)
+🎵 [7/23] Scraping: 37468
+   ✅ Saved: ചേതോഹരം മദ്യപാനമതേ (1938)
+🎵 [8/23] Scraping: 37464
+   ✅ Saved: ജഗദീശ്വര ജയ ജയ (1938)
+🎵 [9/23] Scraping: 34991
+   ✅ Saved: ജാതകദോഷത്താലേ (1938)
+🎵 [10/23] Scraping: 37477
+   ✅ Saved: ദീനദയാപരനേ എന്നുടെ (1938)
+🎵 [11/23] Scraping: durnnaya-jeevithame
+   ✅ Saved: ദുര്‍ന്നയ ജീവിതമേ ()
+🎵 [12/23] Scraping: 37474
+   ✅ Saved: പരമഗുരുവേ അഖിലപതിയേ (1938)
+🎵 [13/23] Scraping: 37466
+   ✅ Saved: ഭക്തപരായണാ പരമ (1938)
+🎵 [14/23] Scraping: 37460
+   ✅ Saved: ഭാരതത്തിന്‍ പൊന്‍‌വിളക്കാം (1938)
+🎵 [15/23] Scraping: 37473
+   ✅ Saved: മദന വിലോലനേ (1938)
+🎵 [16/23] Scraping: 37472
+   ✅ Saved: മാനിനി മണിയോതും (1938)
+🎵 [17/23] Scraping: maaran-ghorasarangal
+   ✅ Saved: മാരന്‍ ഘോരശരങ്ങള്‍കൊണ്ടുടലിനെ ()
+🎵 [18/23] Scraping: 37467
+   ✅ Saved: രഘുകുല നായകനേ (1938)
+🎵 [19/23] Scraping: lokam-anaswarame
+   ✅ Saved: ലോകമനശ്വരമേ ()
+🎵 [20/23] Scraping: 37476
+   ✅ Saved: ശോക്ക് ശോക്ക് (1938)
+🎵 [21/23] Scraping: sree-vasudevaparane
+   ✅ Saved: ശ്രീ വാസുദേവപരനേ ()
+🎵 [22/23] Scraping: 37475
+   ✅ Saved: സ്നേഹമെ ശ്ലാഘ്യം (1938)
+🎵 [23/23] Scraping: 37470
+   ✅ Saved: ഹാ സഹജ സായൂജ്യമേ (1938)
+Year complete: success=23, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
