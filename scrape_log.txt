@@ -3032,3 +3032,520 @@ Year complete: success=313, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 1477
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 2020
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/2020
+   Page 1: https://m3db.com/archive/lyrics/year/2020
+   Found 252 songs on this page. Total unique so far: 252
+Total songs to scrape for this year: 252
+🎵 [1/252] Scraping: kanal-kinave
+   ✅ Saved: കനൽ കിനാവേ (2020)
+🎵 [2/252] Scraping: kallyana-raavaane
+   ✅ Saved: കല്യാണ രാവാണെ (2020)
+🎵 [3/252] Scraping: thee-veyilil
+   ✅ Saved: തീ വെയിലിൽ (2020)
+🎵 [4/252] Scraping: nishagandhiyaay-nee
+   ✅ Saved: നിശാഗന്ധിയായ് നീ വിടർന്നു (2020)
+🎵 [5/252] Scraping: maarante-pennalle-0
+   ✅ Saved: മാരന്റെ പെണ്ണല്ലേ (2020)
+🎵 [6/252] Scraping: 94804
+   ✅ Saved: മാനിൻ മിഴിയുള്ള (2020)
+🎵 [7/252] Scraping: 94747
+   ✅ Saved: വാനവില്ലോ പന്തലിട്ടേ (2020)
+🎵 [8/252] Scraping: 101840
+   ✅ Saved: * നീ എന്ന നിനൈതാലും (2020)
+🎵 [9/252] Scraping: 101845
+   ✅ Saved: * മയങ്ങി പോകുതെയ് (2020)
+🎵 [10/252] Scraping: 94670
+   ✅ Saved: * നക്കര നക്കര (2020)
+🎵 [11/252] Scraping: anddava-anddava
+   ✅ Saved: ആണ്ടവാ ആണ്ടവാ (2020)
+🎵 [12/252] Scraping: ithu-vaikuddapuramallo
+   ✅ Saved: ഇതു വൈകുണ്ഠപുരമല്ലോ (2020)
+🎵 [13/252] Scraping: omg-daddy
+   ✅ Saved: ഓ എം ജി ഡാഡി (2020)
+🎵 [14/252] Scraping: 96009
+   ✅ Saved: കുട്ടി ബൊമ്മാ കുട്ടി ബൊമ്മാ (2020)
+🎵 [15/252] Scraping: 96007
+   ✅ Saved: സാമജവരഗമന (2020)
+🎵 [16/252] Scraping: 94345
+   ✅ Saved: ഇളം പൂവേ (2020)
+🎵 [17/252] Scraping: 103768
+   ✅ Saved: കനകാഭരീ കമനീയവാണീ (2020)
+🎵 [18/252] Scraping: 104819
+   ✅ Saved: മാനസമൊരു കോവിലായ് മാറിയാൽ (2020)
+🎵 [19/252] Scraping: 94562
+   ✅ Saved: * ആടകചക്കോ ആടാചക്കോ (2020)
+🎵 [20/252] Scraping: 94784
+   ✅ Saved: * മുണ്ടൂർ മാടൻ തീം സോങ്ങ് (2020)
+🎵 [21/252] Scraping: 94897
+   ✅ Saved: അറിയാതറിയതറിയാ (2020)
+🎵 [22/252] Scraping: 94560
+   ✅ Saved: കളക്കാത്ത സന്ദനമേറെ (2020)
+🎵 [23/252] Scraping: thalam-poyi
+   ✅ Saved: താളം പോയ് (2020)
+🎵 [24/252] Scraping: 102276
+   ✅ Saved: പലനാളായ് (2020)
+🎵 [25/252] Scraping: 94039
+   ✅ Saved: * ഏദൻ തോട്ടത്തിൻ (2019)
+🎵 [26/252] Scraping: medamasa
+   ✅ Saved: മേടമാസ (2020)
+🎵 [27/252] Scraping: vadalle-vadalle
+   ✅ Saved: വാടല്ലേ വാടല്ലേ (2020)
+🎵 [28/252] Scraping: 97937
+   ✅ Saved: വെണ്ണിലാവിൽ ചിരി തൂകുന്നൊരു (2020)
+🎵 [29/252] Scraping: 90629
+   ✅ Saved: * എന്തിനാ ഈ വഴി വന്നേ (2019)
+🎵 [30/252] Scraping: 94027
+   ✅ Saved: * നീ എന്നും (2020)
+🎵 [31/252] Scraping: 87889
+   ✅ Saved: * ലാൽ സലാം (2019)
+🎵 [32/252] Scraping: 87598
+   ✅ Saved: ഡക്ക്ന ഡക്ക്ന (2019)
+🎵 [33/252] Scraping: shes-song
+   ✅ Saved: *ഷീ ഇസ് എ സോംഗ് (2020)
+🎵 [34/252] Scraping: 94748
+   ✅ Saved: * ഓകെ ഗേൾ (2020)
+🎵 [35/252] Scraping: 94692
+   ✅ Saved: * കോടക്കാറ്റേ തരുമോ (2020)
+🎵 [36/252] Scraping: 94678
+   ✅ Saved: * കാവുണർന്നു (2020)
+🎵 [37/252] Scraping: 94700
+   ✅ Saved: * പൈക്കൂട്ടങ്ങൾ അകലെ മാഞ്ഞൂ (2020)
+🎵 [38/252] Scraping: 94676
+   ✅ Saved: * മാതളമധു (2020)
+🎵 [39/252] Scraping: 95298
+   ✅ Saved: *നീരാടാൻ (2020)
+🎵 [40/252] Scraping: olakkalu-seelakkalu
+   ✅ Saved: * ഓലക്കാല് ശ്രീലക്കാല് (2020)
+🎵 [41/252] Scraping: 94470
+   ✅ Saved: * കാണുവാൻ കൊതിച്ച താരമേ (2020)
+🎵 [42/252] Scraping: 94210
+   ✅ Saved: * പരക്കട്ടെ വെളിച്ചമെങ്ങും (2020)
+🎵 [43/252] Scraping: 94360
+   ✅ Saved: എല്ലാമിനി നീയേ (2020)
+🎵 [44/252] Scraping: 90430
+   ✅ Saved: തുമ്പപ്പൂ ചോട്ടിൽ (2019)
+🎵 [45/252] Scraping: 98734
+   ✅ Saved: മനസ്സിൻ ഊഞ്ഞാലിൽ (2020)
+🎵 [46/252] Scraping: ithal-viriyatha-maunangal
+   ✅ Saved: ഇതൾ വിരിയാത്ത മൗനങ്ങൾ (2020)
+🎵 [47/252] Scraping: innale-neeyennil-peythille
+   ✅ Saved: ഇന്നലെ നീയെന്നിൽ പെയ്തില്ലേ (2020)
+🎵 [48/252] Scraping: tharam-thedum-mizhikalum
+   ✅ Saved: താരം തേടും മിഴികളും (2020)
+🎵 [49/252] Scraping: niram-thodan-varoo
+   ✅ Saved: നിറം തൊടാൻ വരൂ (2020)
+🎵 [50/252] Scraping: 94569
+   ✅ Saved: * ഈറൻ നിലാവേ (2020)
+🎵 [51/252] Scraping: kili-maine
+   ✅ Saved: കിളിമൈനേ (2020)
+🎵 [52/252] Scraping: kili-maine-thenoottu
+   ✅ Saved: കിളിമൈനേ തേനൂട്ട് (2020)
+🎵 [53/252] Scraping: thannishttakkari
+   ✅ Saved: തന്നിഷ്ടക്കാരി (2020)
+🎵 [54/252] Scraping: 94759
+   ✅ Saved: കടുകുമണിയ്ക്കൊരു കണ്ണുണ്ട്‌ (2020)
+🎵 [55/252] Scraping: 94742
+   ✅ Saved: കണ്ണിൽ വിടരും (2020)
+🎵 [56/252] Scraping: 98076
+   ✅ Saved: ദൂരം തീരും നേരം (2020)
+🎵 [57/252] Scraping: karunyanidhe-kadhakali-padham
+   ✅ Saved: * കരുണാനിധിയേ - കഥകളി പദം (2019)
+🎵 [58/252] Scraping: kaamaroopan
+   ✅ Saved: * കാമരൂപൻ (2020)
+🎵 [59/252] Scraping: ravin-makkana
+   ✅ Saved: രാവിൻ മക്കന നീങ്ങുമ്പോൾ (2019)
+🎵 [60/252] Scraping: 77148
+   ✅ Saved: ആദ്യമായ് നിൻ (2018)
+🎵 [61/252] Scraping: 100020
+   ✅ Saved: കള്ള് കുടിച്ചോണ്ട് പാടണ (2020)
+🎵 [62/252] Scraping: 100022
+   ✅ Saved: കുരുതിക്കളം ചുറ്റി - ടൈറ്റിൽ സോങ്ങ് (2020)
+🎵 [63/252] Scraping: 100018
+   ✅ Saved: മച്ചക്കാരി മച്ചക്കാരി (2020)
+🎵 [64/252] Scraping: 92974
+   ✅ Saved: * കിംഗ് ഫിഷർ ആൻതം - ഹേയ് സ്ട്രേഞ്ചർ (2019)
+🎵 [65/252] Scraping: 94792
+   ✅ Saved: * തൂ വെൺ തൂവൽ (2019)
+🎵 [66/252] Scraping: manjil
+   ✅ Saved: * മഞ്ഞിൽ എന്നിളംകൂട്ടിൽ (2019)
+🎵 [67/252] Scraping: 103716
+   ✅ Saved: *സർവ്വം ഹനിക്കുന്ന (2020)
+🎵 [68/252] Scraping: 92190
+   ✅ Saved: എൻ രാമഴയിൽ (2019)
+🎵 [69/252] Scraping: 100875
+   ✅ Saved: താനേ മൗനം (2020)
+🎵 [70/252] Scraping: 100873
+   ✅ Saved: തെളിഞ്ഞേ വാനാകെ (2020)
+🎵 [71/252] Scraping: 100871
+   ✅ Saved: ദിനമേ ദിനമേ (2020)
+🎵 [72/252] Scraping: 94772
+   ✅ Saved: പാരാകെ പടരാമേ (2020)
+🎵 [73/252] Scraping: 100877
+   ✅ Saved: പാരാകെ പടരാമേ - Extended (2020)
+🎵 [74/252] Scraping: 100876
+   ✅ Saved: യൂ ആൻഡ് മീ (2020)
+🎵 [75/252] Scraping: 93610
+   ✅ Saved: * അന്തിമാനചോപ്പിനുള്ളിൽ (2019)
+🎵 [76/252] Scraping: 94565
+   ✅ Saved: * ഉയിരേ പനിമതി നിലാവേ (2020)
+🎵 [77/252] Scraping: 93632
+   ✅ Saved: * കണ്മണി നിൻ ചിരി (2019)
+🎵 [78/252] Scraping: 97927
+   ✅ Saved: പൂവിൻ ഇതൾ പൊഴിയവേ (2020)
+🎵 [79/252] Scraping: thu-vazhi
+   ✅ Saved: ഇതു വഴി തേടി വന്നു നീ. (2020)
+🎵 [80/252] Scraping: engandokke-poyalum
+   ✅ Saved: എങ്ങാണ്ടൊക്കെ പോയാലും (2020)
+🎵 [81/252] Scraping: narangamuttayi
+   ✅ Saved: നാരങ്ങമുട്ടായി (2020)
+🎵 [82/252] Scraping: punnarapoonkattil-oru
+   ✅ Saved: പുന്നാരപൂങ്കാട്ടില്‍ ഒരു (2020)
+🎵 [83/252] Scraping: 93927
+   ✅ Saved: * അഴകേ (2020)
+🎵 [84/252] Scraping: 93928
+   ✅ Saved: * പുലരിയിൽ (2020)
+🎵 [85/252] Scraping: 85709
+   ✅ Saved: അമ്മപ്പൂവിൻ (2019)
+🎵 [86/252] Scraping: 100576
+   ✅ Saved: മഞ്ഞിൻകണം ഉമ്മവെക്കും (2020)
+🎵 [87/252] Scraping: 86618
+   ✅ Saved: ലഹരി ഈ ലഹരി (2019)
+🎵 [88/252] Scraping: 90554
+   ✅ Saved: ആദ്യത്തെ നോക്കിൽ നീ ചന്തക്കാരി (2019)
+🎵 [89/252] Scraping: 91191
+   ✅ Saved: നാലുകാലിപ്പയ്യല്ല (2019)
+🎵 [90/252] Scraping: 101119
+   ✅ Saved: വായാടിക്കാറ്റ് (2020)
+🎵 [91/252] Scraping: 102368
+   ✅ Saved: * നാട്ടു വെള്ളരിക്ക (2020)
+🎵 [92/252] Scraping: venmeghame
+   ✅ Saved: * വെണ്മേഘമേ അകലെ മായുന്നുവോ (2020)
+🎵 [93/252] Scraping: enthinanente-chenthamare
+   ✅ Saved: എന്തിനാണെന്റെ ചെന്താമരേ (2020)
+🎵 [94/252] Scraping: kathorthu-kathorthu
+   ✅ Saved: കാതോർത്ത് കാതോർത്ത് (2020)
+🎵 [95/252] Scraping: duniyavin-theerathengo
+   ✅ Saved: ദുനിയാവിൻ തീരത്തെങ്ങോ (2020)
+🎵 [96/252] Scraping: nalanchu-kasinu
+   ✅ Saved: നാലഞ്ച് കാശിന് (2020)
+🎵 [97/252] Scraping: 102696
+   ✅ Saved: സായാഹ്ന തീരങ്ങളിൽ (2020)
+🎵 [98/252] Scraping: akkad-bakkad
+   ✅ Saved: * അക്കട് ബക്കട് (2020)
+🎵 [99/252] Scraping: kalla-kannu
+   ✅ Saved: * കള്ളക്കണ്ണ് (2020)
+🎵 [100/252] Scraping: kanmani-nee
+   ✅ Saved: കണ്മണി നീ (2020)
+🎵 [101/252] Scraping: mambazhathottathil
+   ✅ Saved: മാമ്പഴത്തോട്ടത്തിൽ (2020)
+🎵 [102/252] Scraping: vaanam-neele
+   ✅ Saved: വാനം നീളെ (2020)
+🎵 [103/252] Scraping: 100588
+   ✅ Saved: മെല്ലെ കണ്ണാടി ചില്ലോർമ്മയിൽ (2020)
+🎵 [104/252] Scraping: 101748
+   ✅ Saved: വെണ്മുകിലായ് (2020)
+🎵 [105/252] Scraping: 94467
+   ✅ Saved: * ഉഡ് ചലാ (2020)
+🎵 [106/252] Scraping: 94464
+   ✅ Saved: * തീരാ കഥ (2020)
+🎵 [107/252] Scraping: 94461
+   ✅ Saved: * തെയ്‌തക താരം (2020)
+🎵 [108/252] Scraping: 94465
+   ✅ Saved: * ബാംഗ് ബാംഗ് (2020)
+🎵 [109/252] Scraping: 94462
+   ✅ Saved: * മോഹം എന്നൊരുന്തുവണ്ടി (2020)
+🎵 [110/252] Scraping: 94346
+   ✅ Saved: ഉയിരേ (2020)
+🎵 [111/252] Scraping: kanalazhangal
+   ✅ Saved: * കനലാഴങ്ങൾ (2020)
+🎵 [112/252] Scraping: doore-kizhakkoonnu
+   ✅ Saved: ദൂരെ കിഴക്കൂന്ന് (2020)
+🎵 [113/252] Scraping: manathu-minnana
+   ✅ Saved: മാനത്ത് മിന്നണ (2020)
+🎵 [114/252] Scraping: 94037
+   ✅ Saved: * വീഴുമീ ഉളംമഞ്ഞിനാൽ (2020)
+🎵 [115/252] Scraping: 105460
+   ✅ Saved: നൂറു കനവുകൾ* (2020)
+🎵 [116/252] Scraping: 94675
+   ✅ Saved: * എന്നാലും മത്തായിച്ചാ (2020)
+🎵 [117/252] Scraping: 94415
+   ✅ Saved: * രാത് സേ ഭി ഹേ (2019)
+🎵 [118/252] Scraping: 94447
+   ✅ Saved: *നൂലുപോയ നൂറു പട്ടങ്ങൾ (2020)
+🎵 [119/252] Scraping: 94798
+   ✅ Saved: ജാലമേ തിരുവെളിച്ചത്തിൻ (2020)
+🎵 [120/252] Scraping: 94803
+   ✅ Saved: ട്രാൻസ് ശീർഷക ഗാനം (2020)
+🎵 [121/252] Scraping: 94801
+   ✅ Saved: തുള്ളിച്ചാടി (2020)
+🎵 [122/252] Scraping: vaathil-chaari-vanna
+   ✅ Saved: വാതിൽ ചാരി വന്ന തിങ്കളേ (2020)
+🎵 [123/252] Scraping: 94698
+   ✅ Saved: * ഇരുൾമറ നീങ്ങി (2020)
+🎵 [124/252] Scraping: 94694
+   ✅ Saved: * ക ഖ ഗ ഘ ങ (2019)
+🎵 [125/252] Scraping: 94696
+   ✅ Saved: * ദൂരെ ദൂരെ (2020)
+🎵 [126/252] Scraping: 94697
+   ✅ Saved: * വെയിൽ പിറാക്കൾ (2020)
+🎵 [127/252] Scraping: 94202
+   ✅ Saved: * ഇറുളിൽ മാഞ്ഞുവോ (2020)
+🎵 [128/252] Scraping: neeharam-moodumbol
+   ✅ Saved: * നീഹാരം മൂടുമ്പോൾ (2019)
+🎵 [129/252] Scraping: 92188
+   ✅ Saved: ഒറ്റക്കിരുന്നാലെൻ മനസ്സിൽ (2019)
+🎵 [130/252] Scraping: 94035
+   ✅ Saved: * വിടവാങ്ങുകയാണോ (2020)
+🎵 [131/252] Scraping: 85982
+   ✅ Saved: വരിനെൽവരമ്പിൽ (2019)
+🎵 [132/252] Scraping: 94448
+   ✅ Saved: ഈ വഴിയേ (2020)
+🎵 [133/252] Scraping: 91255
+   ✅ Saved: തോരാതെ തോരാതെ (2019)
+🎵 [134/252] Scraping: 100077
+   ✅ Saved: മാമലയിലെ പൂമരം പൂത്ത നാൾ (2019)
+🎵 [135/252] Scraping: pattupettikara
+   ✅ Saved: പാട്ടുപെട്ടിക്കാരാ (2020)
+🎵 [136/252] Scraping: 93774
+   ✅ Saved: * അടിപൊളി ധമാക്ക (2019)
+🎵 [137/252] Scraping: 94207
+   ✅ Saved: * ഈ വെൺ തീരം (2020)
+🎵 [138/252] Scraping: 94208
+   ✅ Saved: * വഴികാട്ടും (2020)
+🎵 [139/252] Scraping: 92616
+   ✅ Saved: കണ്ടിട്ടും കാണാത്ത (2019)
+🎵 [140/252] Scraping: 93453
+   ✅ Saved: കാറ്റുമുണ്ടേട്യേയ് (2019)
+🎵 [141/252] Scraping: 93559
+   ✅ Saved: കാറ്റുമുണ്ടേട്യേയ്... (2019)
+🎵 [142/252] Scraping: 92043
+   ✅ Saved: പൊട്ടി പൊട്ടി (2019)
+🎵 [143/252] Scraping: 91764
+   ✅ Saved: ഹാപ്പി ഹാപ്പി നമ്മൾ ഹാപ്പി (2019)
+🎵 [144/252] Scraping: 100539
+   ✅ Saved: അലയുമീപ്പറവകൾ (2020)
+🎵 [145/252] Scraping: 100538
+   ✅ Saved: ആതിര വാനിലെ (2020)
+🎵 [146/252] Scraping: 100537
+   ✅ Saved: ഏദൻ വനിയിലെ പൂവേ (F) (2020)
+🎵 [147/252] Scraping: 100541
+   ✅ Saved: ഏദൻ വനിയിലെ പൂവേ (M) (2020)
+🎵 [148/252] Scraping: 100540
+   ✅ Saved: മഴ നനയും (F) (2020)
+🎵 [149/252] Scraping: 100536
+   ✅ Saved: മഴ നനയും (M) (2020)
+🎵 [150/252] Scraping: 97460
+   ✅ Saved: * കോടമഞ്ഞിലൂളിയിട്ട് (2020)
+🎵 [151/252] Scraping: 97459
+   ✅ Saved: * നീലമേഘങ്ങൾ തേടും (2020)
+🎵 [152/252] Scraping: 97462
+   ✅ Saved: * പൊന്നുംകുടത്തിൻ പിറന്നാളിനു (2020)
+🎵 [153/252] Scraping: kuliridum-ee-mazhayilum
+   ✅ Saved: കുളിരിടും ഈ മഴയിലും (2020)
+🎵 [154/252] Scraping: 98775
+   ✅ Saved: * സുന്ദരിമാർ മണിബാണ നന്ദിനിയും സഖീ (2020)
+🎵 [155/252] Scraping: enno-marannitta
+   ✅ Saved: എന്നോ മറന്നിട്ട (2020)
+🎵 [156/252] Scraping: 98777
+   ✅ Saved: മറ്റാരുമറിയാതെ (2020)
+🎵 [157/252] Scraping: 94432
+   ✅ Saved: * ആ കുന്നും കേറി ഇറങ്ങി (2020)
+🎵 [158/252] Scraping: minnal-villaal
+   ✅ Saved: മിന്നൽ വില്ലാൽ (2020)
+🎵 [159/252] Scraping: 99463
+   ✅ Saved: തൃപ്പൂണിത്തുറയപ്പാ തൃക്കൊടിയേറ്റായി (2020)
+🎵 [160/252] Scraping: 96721
+   ✅ Saved: * മഴമുകിലേ വരൂ (2020)
+🎵 [161/252] Scraping: 89017
+   ✅ Saved: രാത്രിമഴ മനസ്സിൽ പെയ്യുന്നൂ (2019)
+🎵 [162/252] Scraping: dil-ye-paagal
+   ✅ Saved: * ദിൽ യെ പാഗൽ (2020)
+🎵 [163/252] Scraping: snehithanevide
+   ✅ Saved: * സ്നേഹിതനെവിടെ (2020)
+🎵 [164/252] Scraping: 104936
+   ✅ Saved: ഓമനത്തിങ്കൾക്കിടാവോ (2020)
+🎵 [165/252] Scraping: 104928
+   ✅ Saved: കാറ്റിൻ സാധകമോ (2020)
+🎵 [166/252] Scraping: 103601
+   ✅ Saved: ജനലിലാരോ (2020)
+🎵 [167/252] Scraping: mele-mele
+   ✅ Saved: മേലേമേലേ മേലേ മേലേ (2020)
+🎵 [168/252] Scraping: 89813
+   ✅ Saved: ഓടത്താളത്തിൽ തക തിന്തിന്നന്നാരോ (2019)
+🎵 [169/252] Scraping: 89812
+   ✅ Saved: കരിമിഴിയാലെ കതിരൊളി തൂകും (2019)
+🎵 [170/252] Scraping: 89815
+   ✅ Saved: പത്മനാഭ പാഹി ദ്വിപവാ സാര (2019)
+🎵 [171/252] Scraping: 89816
+   ✅ Saved: പായാരം ചൊല്ലുന്ന (2019)
+🎵 [172/252] Scraping: 89814
+   ✅ Saved: മാനത്തെ തങ്കത്തളിക (2019)
+🎵 [173/252] Scraping: 94198
+   ✅ Saved: * മനമേ മോഹച്ചിറകിൽ (2019)
+🎵 [174/252] Scraping: 94430
+   ✅ Saved: * കലമാനോടിഷ്ടം കൂടാൻ (2020)
+🎵 [175/252] Scraping: 94038
+   ✅ Saved: ഒരു ദിനം (2020)
+🎵 [176/252] Scraping: 93649
+   ✅ Saved: കണ്ടോ കണ്ടോ (2020)
+🎵 [177/252] Scraping: 103723
+   ✅ Saved: *വാ കുരുന്നേ (2020)
+🎵 [178/252] Scraping: 98633
+   ✅ Saved: നാല് തൃക്കരങ്ങളാൽ നാലു കരയിലും (2020)
+🎵 [179/252] Scraping: 98706
+   ✅ Saved: ശ്രീലകവാതിൽ തുറന്നു (2020)
+🎵 [180/252] Scraping: 94789
+   ✅ Saved: * എന്തിനെൻ പ്രണയമേ (2020)
+🎵 [181/252] Scraping: kanakinte-pushtakathil
+   ✅ Saved: കണക്കിന്റെ പുസ്തകത്തിൽ (2020)
+🎵 [182/252] Scraping: kannaram-pothi
+   ✅ Saved: കണ്ണാരം പൊത്തി കളിക്കുന്ന കാലത്ത് (2020)
+🎵 [183/252] Scraping: smaranakal-kadai
+   ✅ Saved: സ്മരണകൾ കാടായ് (2020)
+🎵 [184/252] Scraping: 99723
+   ✅ Saved: ഉണ്ണിമായ (2019)
+🎵 [185/252] Scraping: 102285
+   ✅ Saved: എങ്ങോ നിന്ന് (2020)
+🎵 [186/252] Scraping: 101302
+   ✅ Saved: ഓള് (2020)
+🎵 [187/252] Scraping: 102287
+   ✅ Saved: തോർന്നിടാതെ (2020)
+🎵 [188/252] Scraping: 101013
+   ✅ Saved: പെയ്യും നിലാവുള്ള (2020)
+🎵 [189/252] Scraping: 102286
+   ✅ Saved: വിട ചൊല്ലി (2020)
+🎵 [190/252] Scraping: 103147
+   ✅ Saved: കാൽത്തളയിളകി (2020)
+🎵 [191/252] Scraping: 94570
+   ✅ Saved: * ആകെ മൊത്തം വെപ്രാളം (2020)
+🎵 [192/252] Scraping: 94212
+   ✅ Saved: * തലതെറിച്ചൊരു ആൾക്കൂട്ടം (2020)
+🎵 [193/252] Scraping: 94460
+   ✅ Saved: * വൈഫൈക്ക് സ്പീഡില്ല (2020)
+🎵 [194/252] Scraping: entho-mozhiyuvaanudaakumee
+   ✅ Saved: എന്തോ മൊഴിയുവാനുണ്ടാകുമീ മഴയ്ക്കെന്നോടുമാത്രമായി (2020)
+🎵 [195/252] Scraping: 94199
+   ✅ Saved: * മെല്ലേ ചൊല്ലുകില്ലേ (2020)
+🎵 [196/252] Scraping: 91863
+   ✅ Saved: ആരൊരാൾ തേടിടും (2019)
+🎵 [197/252] Scraping: 99876
+   ✅ Saved: ഒരു പൂമഞ്ചമുണ്ഡ്ര് (2020)
+🎵 [198/252] Scraping: 99877
+   ✅ Saved: കണ്ണിൽ കനവുമായ് (2020)
+🎵 [199/252] Scraping: 99494
+   ✅ Saved: ചുണ്ടിൽ ചുണ്ടിൽ (2020)
+🎵 [200/252] Scraping: doore-nizhalaattam
+   ✅ Saved: ദൂരേ നിഴലാട്ടം (2020)
+🎵 [201/252] Scraping: 93557
+   ✅ Saved: * കലാദേവതേ (2019)
+🎵 [202/252] Scraping: 94264
+   ✅ Saved: * നീയെൻ നെഞ്ചിൽ (2020)
+🎵 [203/252] Scraping: 97254
+   ✅ Saved: * പിരിശത്തിൽ എല്ലാരും (2020)
+🎵 [204/252] Scraping: 97547
+   ✅ Saved: * മദനപ്പൂവാടിയിൽ (2020)
+🎵 [205/252] Scraping: 97221
+   ✅ Saved: *മുല്ലപ്പൂ ചോലയിൽ (2020)
+🎵 [206/252] Scraping: 93958
+   ✅ Saved: കലാ ദേവതേ ഉണരൂ (2019)
+🎵 [207/252] Scraping: 91864
+   ✅ Saved: ചന്ദന പൂമരത്തണലിലിരിക്കണ (2019)
+🎵 [208/252] Scraping: 94733
+   ✅ Saved: * ആദ്യമൊരിളം തലോടലായ് (2020)
+🎵 [209/252] Scraping: 94737
+   ✅ Saved: * ഓ എൻ ഈസാ (2020)
+🎵 [210/252] Scraping: 94732
+   ✅ Saved: * ഓ എൻ നീസ യേശുരാജ (2020)
+🎵 [211/252] Scraping: 94731
+   ✅ Saved: * മതി കണ്ണാ ഉള്ളത് ചൊല്ലാൻ (2020)
+🎵 [212/252] Scraping: muthunne-kannukalil-0
+   ✅ Saved: * മുത്തുന്നേ കണ്ണുകളിൽ (2020)
+🎵 [213/252] Scraping: 94734
+   ✅ Saved: * മുത്തുന്നേ കണ്ണുകളിൽ (2020)
+🎵 [214/252] Scraping: muthunne-kannukalil
+   ✅ Saved: * മുത്തുന്നേ കണ്ണുകളിൽ ചെന്നൈ പൊൻപുലരി (2020)
+🎵 [215/252] Scraping: 94735
+   ✅ Saved: കുട്ടിക്കുറുമ്പാ (2020)
+🎵 [216/252] Scraping: 94266
+   ✅ Saved: നീ വാ എൻ ആറുമുഖാ (2020)
+🎵 [217/252] Scraping: 94373
+   ✅ Saved: മുല്ലപ്പൂവേ നിന്നെ പോലും (2020)
+🎵 [218/252] Scraping: 90330
+   ✅ Saved: * പെരുമഴക്കാലത്തെൻ പൂക്കുടയിൽ (2019)
+🎵 [219/252] Scraping: 90329
+   ✅ Saved: മധുരമിതേതോ (2019)
+🎵 [220/252] Scraping: 94795
+   ✅ Saved: * കല്യാണം നാളെ (2020)
+🎵 [221/252] Scraping: 97545
+   ✅ Saved: * പുലരിയിൽ ഇളവെയിൽ (2020)
+🎵 [222/252] Scraping: 94681
+   ✅ Saved: * സിലോഡിയാവേ (2019)
+🎵 [223/252] Scraping: 94900
+   ✅ Saved: കഥയിനി നീളുന്നേ (2020)
+🎵 [224/252] Scraping: 90834
+   ✅ Saved: തേനെഴുതവേ മഴമുകിൽ (2019)
+🎵 [225/252] Scraping: 96539
+   ✅ Saved: ആടി ഞാൻ കദംബ വനികയിൽ (2020)
+🎵 [226/252] Scraping: 103232
+   ✅ Saved: ഗുരുവിനോടോ വായുവിനോടോ (2020)
+🎵 [227/252] Scraping: 103116
+   ✅ Saved: തുംബുരു നാരദ (2020)
+🎵 [228/252] Scraping: 94048
+   ✅ Saved: പറയാത്ത വാക്കൊരു (2020)
+🎵 [229/252] Scraping: 103141
+   ✅ Saved: മഞ്ജു നർത്തന ശാലയിൽ (2020)
+🎵 [230/252] Scraping: 94363
+   ✅ Saved: * ആരായ് പിറകവേ (2019)
+🎵 [231/252] Scraping: 94374
+   ✅ Saved: * എക്‌താ ബോസ്സ് - പ്രൊമോ ഗാനം (2019)
+🎵 [232/252] Scraping: 94361
+   ✅ Saved: * കണ്ണേ കണ്ണേ (2019)
+🎵 [233/252] Scraping: 94365
+   ✅ Saved: * മാണിക്യ കിളിയേ (2019)
+🎵 [234/252] Scraping: 94577
+   ✅ Saved: * ഷൈലോക്ക് തീം (2020)
+🎵 [235/252] Scraping: 94715
+   ✅ Saved: * ആരാണു എന്താണു നീ (2020)
+🎵 [236/252] Scraping: 86808
+   ✅ Saved: ഇനി വിട പറയാം (2019)
+🎵 [237/252] Scraping: 86806
+   ✅ Saved: കിളിപ്പെണ്ണേ (2019)
+🎵 [238/252] Scraping: pakalukal-medanju-neyyum
+   ✅ Saved: പകലുകൾ മെടഞ്ഞു നെയ്യും (2020)
+🎵 [239/252] Scraping: ya-ilahi
+   ✅ Saved: * യാ ഇലാഹി (2020)
+🎵 [240/252] Scraping: 94204
+   ✅ Saved: * സ്വപ്നഭൂവിലെ (2020)
+🎵 [241/252] Scraping: 88364
+   ✅ Saved: ജീവന്റെ ജീവനായ് (2019)
+🎵 [242/252] Scraping: 93199
+   ✅ Saved: ജീവന്റെ ജീവനായ് നീ അണഞ്ഞൂ (2019)
+🎵 [243/252] Scraping: 93957
+   ✅ Saved: മരുഭൂവിൻ തിരയല്ലേ (2020)
+🎵 [244/252] Scraping: 92471
+   ✅ Saved: മഴചാറും ഇടവഴിയിൽ (2019)
+🎵 [245/252] Scraping: 98660
+   ✅ Saved: അസാൻ ദി ലൈറ്റ് (2020)
+🎵 [246/252] Scraping: 98195
+   ✅ Saved: അൽഹംദുലില്ലാഹ് (2020)
+🎵 [247/252] Scraping: doori-theri
+   ✅ Saved: ദൂരീ തേരീ (2020)
+🎵 [248/252] Scraping: vathikkalu-vellaripravu
+   ✅ Saved: വാതുക്കല് വെള്ളരിപ്രാവ് (2020)
+🎵 [249/252] Scraping: 103600
+   ✅ Saved: മുറ്റത്ത് അന്നാദ്യമായി (2020)
+🎵 [250/252] Scraping: 103595
+   ✅ Saved: വീഴാതേ വഴുതി (2020)
+🎵 [251/252] Scraping: 95036
+   ✅ Saved: സുന്ദരനായവനേ (2020)
+🎵 [252/252] Scraping: 103143
+   ✅ Saved: കാലം പൊൻ പൂവിൻ കാലം (2020)
+Year complete: success=252, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 1729
