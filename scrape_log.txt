@@ -20034,3 +20034,482 @@ Year complete: success=261, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 7721
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 2003
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/2003
+   Page 1: https://m3db.com/archive/lyrics/year/2003
+   Found 233 songs on this page. Total unique so far: 233
+Total songs to scrape for this year: 233
+🎵 [1/233] Scraping: 52225
+   ✅ Saved: അനുരാഗമാനന്ദ സൗഗന്ധികം (2003)
+🎵 [2/233] Scraping: kukuku-kurumbe
+   ✅ Saved: കുക്കുക്കു കുറുമ്പേ ()
+🎵 [3/233] Scraping: pyllikkuyile-kallikkuyile
+   ✅ Saved: പുള്ളിക്കുയിലേ കള്ളിക്കുയിലേ ()
+🎵 [4/233] Scraping: 19758
+   ✅ Saved: മുണ്ടകപ്പാടത്തെ ()
+🎵 [5/233] Scraping: ammakkilikkoodathil
+   ✅ Saved: അമ്മക്കിളിക്കൂടതിൽ ()
+🎵 [6/233] Scraping: 58801
+   ✅ Saved: എന്തിനീ പാട്ടിനു (F) (2003)
+🎵 [7/233] Scraping: 9696
+   ✅ Saved: എന്തിനീ പാട്ടിനു മധുരം (D) ()
+🎵 [8/233] Scraping: 95610
+   ✅ Saved: പൊൻകൂട് കിളിമകളുടെ പുൽകൂട് (2003)
+🎵 [9/233] Scraping: 9695
+   ✅ Saved: വെണ്ണക്കൽ കൊട്ടാര വാതിൽ ()
+🎵 [10/233] Scraping: hrudayageethamaay
+   ✅ Saved: ഹൃദയഗീതമായ് ()
+🎵 [11/233] Scraping: mizhineeru-peyyuvaan-maathram
+   ✅ Saved: മിഴിനീരു പെയൂവാൻ മാത്രം ()
+🎵 [12/233] Scraping: 33904
+   ✅ Saved: ഇവർ ഇവർ ഒരേ സ്വരം (2003)
+🎵 [13/233] Scraping: 7913
+   ✅ Saved: ദൂരേ ഒരു കുരുന്നിളംസൂര്യനായ് (F) ()
+🎵 [14/233] Scraping: 77482
+   ✅ Saved: ദൂരേ ഒരു കുരുന്നിളംസൂര്യനായ് (M) ()
+🎵 [15/233] Scraping: 7912
+   ✅ Saved: വാവാവോ വാവേ ()
+🎵 [16/233] Scraping: 15745
+   ✅ Saved: അഴകേ കണ്മണിയേ ()
+🎵 [17/233] Scraping: karkuzhalee-then-kuruvi
+   ✅ Saved: കാർകുഴലീ തേൻ കുരുവീ ()
+🎵 [18/233] Scraping: poonkuyile-karkuzhali
+   ✅ Saved: പൂങ്കുയിലേ കാർകുഴലീ ()
+🎵 [19/233] Scraping: maarivillil-thooval
+   ✅ Saved: മാരിവിൽ തൂവൽ കൊണ്ടെൻ ()
+🎵 [20/233] Scraping: 15754
+   ✅ Saved: രാക്കുയിൽ പാടീ ()
+🎵 [21/233] Scraping: one-plus-one
+   ✅ Saved: വൺ പ്ലസ് വൺ ()
+🎵 [22/233] Scraping: 36491
+   ✅ Saved: ഇരുളുന്നു കൂടാരം (2003)
+🎵 [23/233] Scraping: 36493
+   ✅ Saved: ഓ ദേവികേ (2003)
+🎵 [24/233] Scraping: 37662
+   ✅ Saved: ഓ ദേവികേ (m) (2003)
+🎵 [25/233] Scraping: 36492
+   ✅ Saved: പുഞ്ചകൾ നടനമാടുന്ന (2003)
+🎵 [26/233] Scraping: onnam-kili-ponnam
+   ✅ Saved: ഒന്നാം കിളി പൊന്നാൺകിളി ()
+🎵 [27/233] Scraping: onnanam-kunninmele
+   ✅ Saved: ഒന്നാനാം കുന്നിന്മേലേ ()
+🎵 [28/233] Scraping: kasavinte-thattamittu
+   ✅ Saved: കസവിന്റെ തട്ടമിട്ട് ()
+🎵 [29/233] Scraping: 101702
+   ✅ Saved: വിളക്കു കൊളുത്തി വരും (2003)
+🎵 [30/233] Scraping: aattinkarayile-neettilirangana
+   ✅ Saved: ആറ്റിങ്കരയിലെ നീറ്റിലിറങ്ങണ ()
+🎵 [31/233] Scraping: entha-thumbi-thullathu
+   ✅ Saved: എന്താ തുമ്പീ തുള്ളാത്തൂ ()
+🎵 [32/233] Scraping: odakkuzhal-vili-kettitt
+   ✅ Saved: ഓടക്കുഴൽ വിളി കേട്ടിന്നൊരോണ നിലാക്കിളി ()
+🎵 [33/233] Scraping: kudamullakkavile
+   ✅ Saved: കുടമുല്ലക്കാവിലെ ()
+🎵 [34/233] Scraping: thulunadan-thumbippenne
+   ✅ Saved: തുളുനാടൻ തുമ്പിപ്പെണ്ണേ ()
+🎵 [35/233] Scraping: pirikkadukkanittarikathu-varunnoru
+   ✅ Saved: പിരിക്കടുക്കനിട്ടരികത്തു വരുന്നൊരു ()
+🎵 [36/233] Scraping: malayala-naadin-kavithe
+   ✅ Saved: മലയാള നാടിൻ കവിതേ ()
+🎵 [37/233] Scraping: 19320
+   ✅ Saved: ശൃംഗാരലഹരീ ()
+🎵 [38/233] Scraping: 59763
+   ✅ Saved: ഡും ഡും (2003)
+🎵 [39/233] Scraping: 59767
+   ✅ Saved: ഡും ഡും ധിമിതാളം (2003)
+🎵 [40/233] Scraping: 59766
+   ✅ Saved: നാഗത്താന്‍ കാവിലമ്മേ (2003)
+🎵 [41/233] Scraping: 59764
+   ✅ Saved: മിണ്ടാപ്പെണ്ണ് (2003)
+🎵 [42/233] Scraping: 59768
+   ✅ Saved: മിണ്ടാപ്പെണ്ണ് (M) (2003)
+🎵 [43/233] Scraping: 59765
+   ✅ Saved: മുത്തു മുത്തു മണിക്കുയിലേ (2003)
+🎵 [44/233] Scraping: 98105
+   ✅ Saved: കോലമയിൽ പെൺകൊടി (2003)
+🎵 [45/233] Scraping: 104255
+   ✅ Saved: തെക്കൻകാറ്റിൽ ചേക്കേറി (2003)
+🎵 [46/233] Scraping: 104254
+   ✅ Saved: മാഷെ എടോ മാഷേ (2003)
+🎵 [47/233] Scraping: vaanambaadi-aare-thedunnu-nee
+   ✅ Saved: വാനമ്പാടി ആരേ തേടുന്നു നീ ()
+🎵 [48/233] Scraping: chiri-chiriyo-nin
+   ✅ Saved: ചിരി ചിരിയോ നിൻ ()
+🎵 [49/233] Scraping: chundathu-chethippoo
+   ✅ Saved: ചുണ്ടത്ത് ചെത്തിപ്പൂ ()
+🎵 [50/233] Scraping: 23676
+   ✅ Saved: പകല്‍പ്പൂവേ പൊഴിയാതേ - D ()
+🎵 [51/233] Scraping: 23679
+   ✅ Saved: ശിലയിൽ നിന്നും ഉണരു നീ ()
+🎵 [52/233] Scraping: swayamvara-chandrike
+   ✅ Saved: സ്വയംവര ചന്ദ്രികേ ()
+🎵 [53/233] Scraping: enthe-innum-vannila
+   ✅ Saved: എന്തേ ഇന്നും വന്നീല ()
+🎵 [54/233] Scraping: 13771
+   ✅ Saved: എന്തേ ഇന്നും വന്നീലാ ()
+🎵 [55/233] Scraping: 13772
+   ✅ Saved: ഒരു പൂമഴയിലേയ്ക്കെന്നപോലെ ()
+🎵 [56/233] Scraping: 65760
+   ✅ Saved: ഗ്രാമഫോൺ (2002)
+🎵 [57/233] Scraping: ninakkente-manassile
+   ✅ Saved: നിനക്കെന്റെ മനസ്സിന്റെ ()
+🎵 [58/233] Scraping: 14626
+   ✅ Saved: പൈക്കറുമ്പിയെ മേയ്ക്കും ()
+🎵 [59/233] Scraping: meri-zindagi
+   ✅ Saved: മേരീ സിന്ദ്ഗീ (2002)
+🎵 [60/233] Scraping: 13769
+   ✅ Saved: വിളിച്ചതെന്തിനു വീണ്ടും ()
+🎵 [61/233] Scraping: 59735
+   ✅ Saved: ഉറങ്ങാതെ രാവുറങ്ങി (D) (2003)
+🎵 [62/233] Scraping: urangathe-ravurangeela
+   ✅ Saved: ഉറങ്ങാതെ രാവുറങ്ങീല ()
+🎵 [63/233] Scraping: 59736
+   ✅ Saved: കണ്ണിൽ കണ്ണിൽ മിന്നും (F) (2003)
+🎵 [64/233] Scraping: kannil-minnum-0
+   ✅ Saved: കണ്ണിൽ മിന്നും ()
+🎵 [65/233] Scraping: 59738
+   ✅ Saved: കൃഷ്ണ ബോലോ (2003)
+🎵 [66/233] Scraping: 14553
+   ✅ Saved: തിരിയെരിയുന്നൊരു സൂര്യൻ ()
+🎵 [67/233] Scraping: palkadalil-pallikollum
+   ✅ Saved: പാൽക്കടലിൽ പള്ളി കൊള്ളും ()
+🎵 [68/233] Scraping: koothu-kummi-chendayedu
+   ✅ Saved: കൂത്തു കുമ്മി ചെണ്ടയെട് ()
+🎵 [69/233] Scraping: thoothukudi-chanthayile
+   ✅ Saved: തൂത്തുക്കുടി ചന്തയിലെ ()
+🎵 [70/233] Scraping: 53690
+   ✅ Saved: ദൂരെ പുഴയുടെ പാട്ടായ് (2003)
+🎵 [71/233] Scraping: parannu-parannu-paarum
+   ✅ Saved: പറന്നു പറന്നു പാറും ()
+🎵 [72/233] Scraping: mannilum-vinnilum-vennilaa
+   ✅ Saved: മണ്ണിലും വിണ്ണിലും വെണ്ണിലാ ()
+🎵 [73/233] Scraping: chandiranaano-maanathu
+   ✅ Saved: ചന്ദിരനാണോ മാനത്ത് ()
+🎵 [74/233] Scraping: sreeragam-hariragam
+   ✅ Saved: ശ്രീരാഗം ഹരിരാഗം (2003)
+🎵 [75/233] Scraping: 103886
+   ✅ Saved: ആയിരം ദൈവങ്ങൾ (2003)
+🎵 [76/233] Scraping: 103884
+   ✅ Saved: ഒഴുകി ഒഴുകി വന്ന (2003)
+🎵 [77/233] Scraping: 58803
+   ✅ Saved: താമരക്കണ്ണാ (2004)
+🎵 [78/233] Scraping: 103890
+   ✅ Saved: തൈർകുടം (M) (2003)
+🎵 [79/233] Scraping: 51121
+   ✅ Saved: തൈർക്കുടം തകർത്തുവോ (2004)
+🎵 [80/233] Scraping: 103891
+   ✅ Saved: പറന്നു പറന്നു (2003)
+🎵 [81/233] Scraping: 103887
+   ✅ Saved: പാതിര നിലാവും (F) (2003)
+🎵 [82/233] Scraping: 103888
+   ✅ Saved: പാതിര നിലാവും (M) (2003)
+🎵 [83/233] Scraping: 103885
+   ✅ Saved: പാതിര നിലാവും (ഡ്യൂയറ്റ് ) (2003)
+🎵 [84/233] Scraping: 103661
+   ✅ Saved: പൂക്കുമ്പിൾ (2003)
+🎵 [85/233] Scraping: azhakan-kunnirangi
+   ✅ Saved: അഴകൻ കുന്നിറങ്ങി ()
+🎵 [86/233] Scraping: 22182
+   ✅ Saved: പ്രകൃതി യൗവനപുഷ്പങ്ങളിൽ ()
+🎵 [87/233] Scraping: 33562
+   ✅ Saved: ആരെയും കൊതിപ്പിക്കും അരയന്നമേ (2003)
+🎵 [88/233] Scraping: 33572
+   ✅ Saved: ഓ സായം സന്ധ്യാ തീരം (2003)
+🎵 [89/233] Scraping: 33565
+   ✅ Saved: കണിമുല്ലകള്‍ പൂത്തതു പോലെ (2003)
+🎵 [90/233] Scraping: 33567
+   ✅ Saved: കണ്ടാല്‍ മിണ്ടാ വായാടി (2013)
+🎵 [91/233] Scraping: 33569
+   ✅ Saved: കണ്ടാല്‍ മിണ്ടാ വായാടി(m) (2003)
+🎵 [92/233] Scraping: 33571
+   ✅ Saved: ഷാബി ബേബി ഷാരോണ്‍ ബേബി (2003)
+🎵 [93/233] Scraping: 18573
+   ✅ Saved: ഈ കണ്ണൻ കാട്ടും ()
+🎵 [94/233] Scraping: 18567
+   ✅ Saved: എനിക്കൊരു പെണ്ണുണ്ട് ()
+🎵 [95/233] Scraping: 18594
+   ✅ Saved: എന്ന തവം ()
+🎵 [96/233] Scraping: 18572
+   ✅ Saved: എവിടേ എൻ അഷ്ടമിത്തിങ്കളെവിടെ ()
+🎵 [97/233] Scraping: neeyoru-puzhayaai-thazhukumbol
+   ✅ Saved: നീയൊരു പുഴയായ് തഴുകുമ്പോൾ ()
+🎵 [98/233] Scraping: poo-vidarum-thaalam
+   ✅ Saved: പൂ വിടരും താളം ()
+🎵 [99/233] Scraping: veyilaliyum-munpe
+   ✅ Saved: വെയിലലിയും മുൻപേ ()
+🎵 [100/233] Scraping: sare-sare-sambare
+   ✅ Saved: സാറേ സാറെ സാമ്പാറെ ()
+🎵 [101/233] Scraping: 104190
+   ✅ Saved: എന്തിനാണെന്തിനാണെന്റെ നാഥാ (2003)
+🎵 [102/233] Scraping: 104188
+   ✅ Saved: എന്തിനാണെന്തിനാണോമലാളെ (2003)
+🎵 [103/233] Scraping: 95588
+   ✅ Saved: കണ്ണനായാല്‍ രാധവേണം (2003)
+🎵 [104/233] Scraping: 104180
+   ✅ Saved: കണ്ണനായാൽ രാധ വേണം (2003)
+🎵 [105/233] Scraping: 104186
+   ✅ Saved: തക്കുടുകുട്ടാ (2003)
+🎵 [106/233] Scraping: 104410
+   ✅ Saved: ദേവ ദേവ ഗോപാല (2003)
+🎵 [107/233] Scraping: 104201
+   ✅ Saved: ബാല ബാല ഗോപാല (2003)
+🎵 [108/233] Scraping: 104200
+   ✅ Saved: മുല്ലപ്പൂവിൻ മൊട്ടേ (2003)
+🎵 [109/233] Scraping: 66568
+   ✅ Saved: അന്തിമാനത്താരോ (2003)
+🎵 [110/233] Scraping: 11498
+   ✅ Saved: ആരൊരാൾ പുലർമഴയിൽ ()
+🎵 [111/233] Scraping: 14565
+   ✅ Saved: ആലിലക്കാവിലെ തെന്നലേ ()
+🎵 [112/233] Scraping: dinkiri-dinkiri-dinkiri
+   ✅ Saved: ഡിങ്കിരി ഡിങ്കിരി ഡിങ്കിരി ഡിങ്കിരി ()
+🎵 [113/233] Scraping: pamba-ganapathi
+   ✅ Saved: പമ്പാഗണപതി ()
+🎵 [114/233] Scraping: 14563
+   ✅ Saved: വെണ്ണക്കല്ലിൽ നിന്നെ കൊത്തി ()
+🎵 [115/233] Scraping: 14486
+   ✅ Saved: ആരു പറഞ്ഞു ആരു പറഞ്ഞു ()
+🎵 [116/233] Scraping: 66526
+   ✅ Saved: ആരുണ്ടിനിയാരുണ്ട് ()
+🎵 [117/233] Scraping: gujaraathi-kaalthala
+   ✅ Saved: ഗുജറാത്തി കാൽത്തള (F) ()
+🎵 [118/233] Scraping: 52221
+   ✅ Saved: ഗുജറാത്തി കാൽത്തള കെട്ടിയ (2003)
+🎵 [119/233] Scraping: 16735
+   ✅ Saved: തേവരത്തെരുവിലിന്ന് ()
+🎵 [120/233] Scraping: 16736
+   ✅ Saved: പൂവല്ലിക്കാവിൽ പൂജാമല്ലിച്ചോട്ടിൽ ()
+🎵 [121/233] Scraping: 99410
+   ✅ Saved: ഉത്തരം മുട്ടാത്ത വീട് (2003)
+🎵 [122/233] Scraping: 15105
+   ✅ Saved: എല്ലാം പൊറുക്കാനൊരാൾ മാത്രം ()
+🎵 [123/233] Scraping: 99409
+   ✅ Saved: ചന്ദനപ്പൊട്ടു തൊട്ടു (2003)
+🎵 [124/233] Scraping: maniyarayarinjilla
+   ✅ Saved: മണിയറയറിഞ്ഞില്ല ()
+🎵 [125/233] Scraping: maunamaakum-palunku-thaalathil
+   ✅ Saved: മൗനമാകും പളുങ്കു താലത്തിൽ ()
+🎵 [126/233] Scraping: 4039
+   ✅ Saved: ഇന്നലെ എന്റെ നെഞ്ചിലെ ()
+🎵 [127/233] Scraping: 59729
+   ✅ Saved: ഇന്നലെ എന്റെ നെഞ്ചിലെ (F) (2003)
+🎵 [128/233] Scraping: karukare-karuthoru-pennanu
+   ✅ Saved: കറുകറെ കറുത്തൊരു പെണ്ണാണ് ()
+🎵 [129/233] Scraping: 59731
+   ✅ Saved: ചിലു ചിലും ചിൽ (D) (2003)
+🎵 [130/233] Scraping: 59733
+   ✅ Saved: ചിലു ചിലും ചിൽ (F) (2003)
+🎵 [131/233] Scraping: 59732
+   ✅ Saved: ചിലു ചിലും ചിൽ (M) (2003)
+🎵 [132/233] Scraping: cholakkiliye
+   ✅ Saved: ചോലക്കിളിയേ ()
+🎵 [133/233] Scraping: 59823
+   ✅ Saved: ഇളം ഖൽബിലേ (F) (2004)
+🎵 [134/233] Scraping: 59822
+   ✅ Saved: ഇളം ഖൽബിലേ (M) (2004)
+🎵 [135/233] Scraping: 59828
+   ✅ Saved: ധടക്ക് ധടക്ക് (2004)
+🎵 [136/233] Scraping: 59826
+   ✅ Saved: പൂനിലാ കുളിരേ വായോ (D) (2004)
+🎵 [137/233] Scraping: 59825
+   ✅ Saved: പൂനിലാ കുളിരേ വായോ (F) (2004)
+🎵 [138/233] Scraping: 59827
+   ✅ Saved: പൊന്നമ്പിളി പൊന്നമ്പിളി (2004)
+🎵 [139/233] Scraping: 59824
+   ✅ Saved: ഹേ കാളേ (2004)
+🎵 [140/233] Scraping: chendakkoru-kolundeda
+   ✅ Saved: ചെണ്ടക്കൊരു കോലുണ്ടെടാ ()
+🎵 [141/233] Scraping: 3877
+   ✅ Saved: തങ്കത്തിങ്കൾ വാനിലൊരുക്കും ()
+🎵 [142/233] Scraping: 7289
+   ✅ Saved: മറക്കുടയാൽ മുഖം മറയ്ക്കും മാനല്ലാ ()
+🎵 [143/233] Scraping: 8710
+   ✅ Saved: മെല്ലെയൊന്നു പാടി ()
+🎵 [144/233] Scraping: melleyonnu-paadi-ninne
+   ✅ Saved: മെല്ലെയൊന്നു പാടി നിന്നെ ()
+🎵 [145/233] Scraping: etho-chaithravarnangal-f
+   ✅ Saved: ഏതോ ചൈത്രവർണ്ണങ്ങൾ - F (2003)
+🎵 [146/233] Scraping: etho-chaithravarnangal-m
+   ✅ Saved: ഏതോ ചൈത്രവർണ്ണങ്ങൾ - M (2003)
+🎵 [147/233] Scraping: kuttichengathi
+   ✅ Saved: കുട്ടിച്ചെങ്ങാതീ (2003)
+🎵 [148/233] Scraping: 4081
+   ✅ Saved: ആലിലത്താലിയുമായ് ()
+🎵 [149/233] Scraping: 68078
+   ✅ Saved: എന്തിനായ് നിൻ ()
+🎵 [150/233] Scraping: 68080
+   ✅ Saved: ഓമനേ.. (M) ()
+🎵 [151/233] Scraping: 68079
+   ✅ Saved: ഓമനേ... (D) ()
+🎵 [152/233] Scraping: 28032
+   ✅ Saved: വാര്‍മഴവില്ലേ ഏഴഴകെല്ലാം (F) (2003)
+🎵 [153/233] Scraping: 14497
+   ✅ Saved: വാർമഴവില്ലേ ഏഴഴകെല്ലാം (M) (2003)
+🎵 [154/233] Scraping: kananakkuyile
+   ✅ Saved: കാനനക്കുയിലേ ()
+🎵 [155/233] Scraping: 62456
+   ✅ Saved: നിന്നെ കണ്ടാൽ നിലാവിൻ മഞ്ഞൾ പോലെ (2003)
+🎵 [156/233] Scraping: 14636
+   ✅ Saved: ഭജരേ ഭജരേ ശ്യാമഹരേ ()
+🎵 [157/233] Scraping: ennulliletho-minnunna-swapnam
+   ✅ Saved: എന്നുള്ളിലേതോ മിന്നുന്ന സ്വപ്നം ()
+🎵 [158/233] Scraping: 8748
+   ✅ Saved: കണ്ണുനീർപ്പുഴയുടെ തീരത്ത് ()
+🎵 [159/233] Scraping: kannuneer-puzhayude-theerathu
+   ✅ Saved: കണ്ണുനീർപ്പുഴയുടെ തീരത്ത് (മെയിൽ വോയിസ് ) ()
+🎵 [160/233] Scraping: kuyile-nin
+   ✅ Saved: കുയിലേ നിൻ ()
+🎵 [161/233] Scraping: kuyile-nin-d
+   ✅ Saved: കുയിലേ നിൻ - D (2003)
+🎵 [162/233] Scraping: nandakishoraa-paadunnu-meera
+   ✅ Saved: നന്ദകിശോരാ പാടുന്നു മീര ()
+🎵 [163/233] Scraping: mangalam-neraam-njan
+   ✅ Saved: മംഗളം നേരാം ഞാന്‍ (2003)
+🎵 [164/233] Scraping: snehatthin-nidhi-thedi
+   ✅ Saved: സ്നേഹത്തിൻ നിധി തേടി ()
+🎵 [165/233] Scraping: 32570
+   ✅ Saved: അന്തിനിലാ ചെമ്പരുന്തേ (2003)
+🎵 [166/233] Scraping: 61204
+   ✅ Saved: കടലിളകി കരയൊടു ചൊല്ലി (റീമിക്സ്) (2003)
+🎵 [167/233] Scraping: 33119
+   ✅ Saved: ചിട്ടിക്കുരുവി കുരുന്നേ കുറുമ്പേ (2003)
+🎵 [168/233] Scraping: 14554
+   ✅ Saved: താമരനൂലിനാൽ മെല്ലെയെൻ ()
+🎵 [169/233] Scraping: 33123
+   ✅ Saved: ധും തനക്കിടി ധും തനക്കിടി ധും (2003)
+🎵 [170/233] Scraping: 33120
+   ✅ Saved: നിനക്കും നിലാവില്‍ കുളിക്കും പുഴയ്ക്കുമീ (2003)
+🎵 [171/233] Scraping: 33122
+   ✅ Saved: നിനവേ എൻ നിനവേ കൊഴിയും (2003)
+🎵 [172/233] Scraping: 33121
+   ✅ Saved: പച്ച പച്ചപ്പളുങ്കേ കൊച്ചുപിച്ചു (2003)
+🎵 [173/233] Scraping: 27331
+   ✅ Saved: കന്നിക്കാവടിയാടും (2003)
+🎵 [174/233] Scraping: 27493
+   ✅ Saved: താഴ്വാരം കുങ്കുമം ചോപ്പിച്ച (2003)
+🎵 [175/233] Scraping: 28189
+   ✅ Saved: ദൂരെയോ മേഘരാഗം (2003)
+🎵 [176/233] Scraping: 27333
+   ✅ Saved: നീലക്കുയിലേ (2003)
+🎵 [177/233] Scraping: 27455
+   ✅ Saved: പുഴ പാടുമീ പാട്ടിൽ (2003)
+🎵 [178/233] Scraping: 27496
+   ✅ Saved: വാടാമല്ലി പൂവും ചൂടി (2003)
+🎵 [179/233] Scraping: 105714
+   ✅ Saved: പൂക്കുലയേന്തി പൂവൊളി ചിന്തി (2003)
+🎵 [180/233] Scraping: amme-amme-vida-tharoo-amme
+   ✅ Saved: അമ്മേ അമ്മേ വിട തരൂ അമ്മേ ()
+🎵 [181/233] Scraping: olikannum-neetti
+   ✅ Saved: ഒളികണ്ണും നീട്ടി ()
+🎵 [182/233] Scraping: 16264
+   ✅ Saved: കണ്ണനെ തേടുന്ന രാധേ ()
+🎵 [183/233] Scraping: pedi-thonni-aadyam-kandappol
+   ✅ Saved: പേടി തോന്നി ആദ്യം കണ്ടപ്പോൾ ()
+🎵 [184/233] Scraping: 69016
+   ✅ Saved: കരിങ്കല്ലില്‍ (2003)
+🎵 [185/233] Scraping: kudamullakkadavil
+   ✅ Saved: കുടമുല്ലക്കടവിൽ ഈ പുഴയരികിൽ ()
+🎵 [186/233] Scraping: pachamaanga
+   ✅ Saved: കുറുക്കുമൊഴി കുറുകണ ()
+🎵 [187/233] Scraping: 15432
+   ✅ Saved: നീ മണിമുകിലാടകൾ ()
+🎵 [188/233] Scraping: 15434
+   ✅ Saved: ഹൃദയസഖീ സ്നേഹമയീ (M) ()
+🎵 [189/233] Scraping: hrudgaya-sakhi
+   ✅ Saved: ഹൃദയസഖീ സ്നേഹമയീ(D) (2003)
+🎵 [190/233] Scraping: 15514
+   ✅ Saved: ഓമലാളേ എന്റെ മനസ്സിൻ (D) ()
+🎵 [191/233] Scraping: 65168
+   ✅ Saved: ഓമലാളേ(M) (2003)
+🎵 [192/233] Scraping: 15510
+   ✅ Saved: ജന്മനക്ഷത്രമേ ()
+🎵 [193/233] Scraping: karivalakkayyalenne
+   ✅ Saved: തരിവളക്കൈയാലെന്നെ ()
+🎵 [194/233] Scraping: 65170
+   ✅ Saved: നീയറിഞ്ഞോ (2003)
+🎵 [195/233] Scraping: 15516
+   ✅ Saved: നീയറിഞ്ഞോ നീലക്കുഴലീ (D) ()
+🎵 [196/233] Scraping: souparnnikaa
+   ✅ Saved: സൗപർണ്ണിക (2003)
+🎵 [197/233] Scraping: 63461
+   ✅ Saved: തൂവെള്ള തൂവുന്നുഷസ്സിൽ ()
+🎵 [198/233] Scraping: maine-pyar-kiya
+   ✅ Saved: *മേനേ പ്യാർ കിയ (2003)
+🎵 [199/233] Scraping: 69602
+   ✅ Saved: കാടിറങ്ങി ഓടി വരുമൊരു ()
+🎵 [200/233] Scraping: 14618
+   ✅ Saved: ചിലമ്പൊലിക്കാറ്റേ ()
+🎵 [201/233] Scraping: james-bond
+   ✅ Saved: ജെയിംസ് ബോണ്ടിൻ ഡിറ്റോ (2003)
+🎵 [202/233] Scraping: 19543
+   ✅ Saved: തീപ്പൊരിപമ്പരം ()
+🎵 [203/233] Scraping: 105719
+   ✅ Saved: ഒരു ചെമ്പകപ്പൊൻ (2003)
+🎵 [204/233] Scraping: 104222
+   ✅ Saved: കണ്ണീർ കടലിൽ* (2003)
+🎵 [205/233] Scraping: 36749
+   ✅ Saved: ഒരു ചെമ്പനീര്‍ പൂവിറുത്തു (2003)
+🎵 [206/233] Scraping: odalenna-vilakkil
+   ✅ Saved: ഓടലെണ്ണ വിളക്കില്‍ (2003)
+🎵 [207/233] Scraping: enganu-nee-ennomale
+   ✅ Saved: എങ്ങാണു നീ എന്നോമലേ (2003)
+🎵 [208/233] Scraping: ormakale-vida-parayoo
+   ✅ Saved: ഓർമ്മകളേ വിട പറയൂ (2003)
+🎵 [209/233] Scraping: kasthurikkuri-thottu-f
+   ✅ Saved: കസ്തൂരിക്കുറി തൊട്ട് - F (2003)
+🎵 [210/233] Scraping: kasthoorikkuri-thottu-m
+   ✅ Saved: കസ്തൂരിക്കുറി തൊട്ട് - M (2003)
+🎵 [211/233] Scraping: kathoram-pranayakadhakal
+   ✅ Saved: കാതോരം പ്രണയകഥകള്‍ (2003)
+🎵 [212/233] Scraping: kingini-poove-kanmani-prave
+   ✅ Saved: കിങ്ങിണിപ്പൂവേ കണ്മണിപ്രാവേ (2003)
+🎵 [213/233] Scraping: 91849
+   ✅ Saved: തൊട്ടുവിളിച്ചാലോ മെല്ലെ (2003)
+🎵 [214/233] Scraping: parannu-vannoru
+   ✅ Saved: പറന്നു വന്നൊരു (2003)
+🎵 [215/233] Scraping: 28051
+   ✅ Saved: ഇഷ്ടമല്ലെടാ എനിക്കിഷ്ടമല്ലെടാ (2003)
+🎵 [216/233] Scraping: 28012
+   ✅ Saved: ഒരു പൂ മാത്രം ചോദിച്ചു (2003)
+🎵 [217/233] Scraping: 28054
+   ✅ Saved: കറുപ്പിനഴക് (2003)
+🎵 [218/233] Scraping: 28014
+   ✅ Saved: മറക്കാം എല്ലാം മറക്കാം (2003)
+🎵 [219/233] Scraping: 28053
+   ✅ Saved: മലർക്കിളിയിണയുടെ തളിരണിക്കൂട്ടിൽ (2003)
+🎵 [220/233] Scraping: 28052
+   ✅ Saved: മായാ സന്ധ്യേ പോയ് വരാം (2003)
+🎵 [221/233] Scraping: orikkalum-pinangathorinakkam
+   ✅ Saved: ഒരിക്കലും പിണങ്ങാത്തൊരിണക്കം ()
+🎵 [222/233] Scraping: 13379
+   ✅ Saved: ഓടിക്കളിക്കുമ്പോൾ ഞാനോടും ()
+🎵 [223/233] Scraping: konna-poothu-koralaram
+   ✅ Saved: കൊന്നപൂത്തു കൊരലാരം കെട്ടീ ()
+🎵 [224/233] Scraping: 13375
+   ✅ Saved: പൊന്നേ പൊരുളേ കേറിയിരിക്ക്‌ ()
+🎵 [225/233] Scraping: varnikkaan-vaakkukalillaa
+   ✅ Saved: വർണ്ണിക്കാൻ വാക്കുകളില്ലാ ()
+🎵 [226/233] Scraping: 96174
+   ✅ Saved: അമ്പാടിപ്പൂവേ നില്ല് (female) (2003)
+🎵 [227/233] Scraping: 96173
+   ✅ Saved: അമ്പാടിപ്പൂവേ നില്ല് (Male) (2003)
+🎵 [228/233] Scraping: 96175
+   ✅ Saved: തള്ള് തള്ള് (2003)
+🎵 [229/233] Scraping: 96171
+   ✅ Saved: തിങ്കൾ നിലാവിൽ (2003)
+🎵 [230/233] Scraping: 96176
+   ✅ Saved: പുലരികൾ ചിറകണിയും (2003)
+🎵 [231/233] Scraping: 96177
+   ✅ Saved: മായാമയൂരി ഏതോ കിനാവിൽ (2003)
+🎵 [232/233] Scraping: 96172
+   ✅ Saved: മുന്തിരി വാവേ (2003)
+🎵 [233/233] Scraping: 104622
+   ✅ Saved: തിരുവാതിര തിരുവരങ്ങിൽ (2003)
+Year complete: success=233, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 7954
