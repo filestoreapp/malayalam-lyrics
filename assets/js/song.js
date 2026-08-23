@@ -1,4 +1,4 @@
-﻿async function loadSong() {
+async function loadSong() {
   const params = new URLSearchParams(window.location.search);
   const id = params.get('id');
   if (!id) {
