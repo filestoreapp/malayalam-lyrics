@@ -10,12 +10,25 @@
   <header>
     <h1>🎵 Malayalam Song Lyrics</h1>
     <div class="search-box">
-      <input type="text" id="searchInput" placeholder="Search movie, song, singer...">
+      <input type="text" id="searchInput" placeholder="Search song, movie, singer...">
+    </div>
+    <div class="filters">
+      <select id="filterType">
+        <option value="all">All Songs</option>
+        <option value="film">Movie</option>
+        <option value="lyricist">Lyricist</option>
+        <option value="musicDirector">Music Director</option>
+        <option value="singers">Singer</option>
+        <option value="year">Year</option>
+      </select>
+      <select id="filterValue">
+        <option value="">Select value...</option>
+      </select>
     </div>
   </header>
   <main>
-    <div id="movieCount"></div>
-    <div id="movieList"></div>
+    <div id="songCount"></div>
+    <div id="songList"></div>
   </main>
   <script src="assets/js/main.js"></script>
 </body>
