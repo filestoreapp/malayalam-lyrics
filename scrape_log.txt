@@ -21501,3 +21501,768 @@ Year complete: success=257, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 8435
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 2000
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/2000
+   Page 1: https://m3db.com/archive/lyrics/year/2000
+   Found 376 songs on this page. Total unique so far: 376
+Total songs to scrape for this year: 376
+🎵 [1/376] Scraping: 19698
+   ✅ Saved: പട്ടി കടിക്കല്ലേ വീട്ടുകാരേ ()
+🎵 [2/376] Scraping: poonthinkalum-thengunnuvo
+   ✅ Saved: പൂന്തിങ്കളും തേങ്ങുന്നുവോ ()
+🎵 [3/376] Scraping: kaakkappoo-kaithappoo
+   ✅ Saved: കാക്കപ്പൂ കൈതപ്പൂ ()
+🎵 [4/376] Scraping: kanathe-melle
+   ✅ Saved: കാണാതെ മെല്ലെ ()
+🎵 [5/376] Scraping: 9873
+   ✅ Saved: ദീനദയാലോ രാമാ ()
+🎵 [6/376] Scraping: 14587
+   ✅ Saved: മനസ്സിൻ മണിച്ചിമിഴിൽ ()
+🎵 [7/376] Scraping: thalolam-padan-vaa
+   ✅ Saved: താലോലം പാടാൻ വാ (2000)
+🎵 [8/376] Scraping: pinakkamo-poomizhiyil
+   ✅ Saved: പിണക്കമോ പൂമിഴിയിലിൽ (2000)
+🎵 [9/376] Scraping: veedaru-masam-f
+   ✅ Saved: വീടാറുമാസം ശ്രീരാമരാജ്യം - F (2000)
+🎵 [10/376] Scraping: veedaru-masam-m
+   ✅ Saved: വീടാറുമാസം ശ്രീരാമരാജ്യം - M (2000)
+🎵 [11/376] Scraping: 77475
+   ✅ Saved: ചില്ലലമാലകൾ (2000)
+🎵 [12/376] Scraping: 77517
+   ✅ Saved: തിരിതാഴും സൂര്യന്‍ (2000)
+🎵 [13/376] Scraping: thirithazhum-sooryan-f
+   ✅ Saved: തിരിതാഴും സൂര്യൻ - F (2000)
+🎵 [14/376] Scraping: thiri-thazhum-sooryan-m
+   ✅ Saved: തിരിതാഴും സൂര്യൻ - M (2000)
+🎵 [15/376] Scraping: nadi-nadi-nadi
+   ✅ Saved: നദി നദി നദി (2000)
+🎵 [16/376] Scraping: 77509
+   ✅ Saved: പൊന്നു വെതച്ചാലും (2000)
+🎵 [17/376] Scraping: ponnu-vethachalum-d
+   ✅ Saved: പൊന്നു വെതച്ചാലും - D (2000)
+🎵 [18/376] Scraping: ponnu-vethachalum-f
+   ✅ Saved: പൊന്നു വെതച്ചാലും - F (2000)
+🎵 [19/376] Scraping: maanathambili
+   ✅ Saved: മാനത്തമ്പിളി (2000)
+🎵 [20/376] Scraping: 35404
+   ✅ Saved: ഉണരുഹൃദയവന മധുമല്ലികേ സുധാമയി (2000)
+🎵 [21/376] Scraping: 33153
+   ✅ Saved: ഒരു ചന്തമുള്ളപ്പൈങ്കിളിയെന്‍ (2000)
+🎵 [22/376] Scraping: 33158
+   ✅ Saved: കണ്മണി രാധേ വരൂ (2000)
+🎵 [23/376] Scraping: ganaaumangal-kortheduthu
+   ✅ Saved: ഗാനസുമങ്ങൾ കോർത്തെടുത്തു (2000)
+🎵 [24/376] Scraping: 33149
+   ✅ Saved: ചെല്ലക്കാറ്റേ മുല്ലത്തയ്യിന് (2000)
+🎵 [25/376] Scraping: 33150
+   ✅ Saved: പാതിരാവും പൂനിലാവും (2000)
+🎵 [26/376] Scraping: 33148
+   ✅ Saved: ബ്രൂഹി കൃഷ്ണാ ഘനശ്യാമാ (2000)
+🎵 [27/376] Scraping: sivaranjini-f
+   ✅ Saved: ശിവരഞ്ജിനി - F (2000)
+🎵 [28/376] Scraping: sivaranjini-m
+   ✅ Saved: ശിവരഞ്ജിനി - M (2000)
+🎵 [29/376] Scraping: 33151
+   ✅ Saved: ശിവരഞ്ജിനീ ഓ പ്രിയസഖീ (2000)
+🎵 [30/376] Scraping: 33152
+   ✅ Saved: ശൃംഗാര കൃഷ്ണാ വരൂ (2000)
+🎵 [31/376] Scraping: swargathil-ninnoru
+   ✅ Saved: സ്വർഗ്ഗത്തിൽ നിന്നൊരു (2000)
+🎵 [32/376] Scraping: kaanakathai-kaaliyamman
+   ✅ Saved: കാനകത്തൈ കാളിയമ്മന്‍ (2000)
+🎵 [33/376] Scraping: manjum-thazhvaravum-f
+   ✅ Saved: മഞ്ഞും താഴ്വാരവും - F (2000)
+🎵 [34/376] Scraping: manjum-thazhvaravum-m
+   ✅ Saved: മഞ്ഞും താഴ്വാരവും - M (2000)
+🎵 [35/376] Scraping: markazhipenne-nin
+   ✅ Saved: മാർകഴിപ്പെണ്ണേ നിൻ (2000)
+🎵 [36/376] Scraping: kalakalam-paadum-kili
+   ✅ Saved: കളകളം പാടും കിളി (2000)
+🎵 [37/376] Scraping: thaliridum-poonchirakumaay-f
+   ✅ Saved: തളിരിടും പൂഞ്ചിറകുമായ് - F (2000)
+🎵 [38/376] Scraping: thaliridum-poonchirakumaay-m
+   ✅ Saved: തളിരിടും പൂഞ്ചിറകുമായ് - M (2000)
+🎵 [39/376] Scraping: nunachippenne-vaa
+   ✅ Saved: നുണച്ചിപ്പെണ്ണേ വാ (2000)
+🎵 [40/376] Scraping: pakalppakshi-pavanurukkan-m
+   ✅ Saved: പകൽപക്ഷി പവനുരുക്കാൻ - M (2000)
+🎵 [41/376] Scraping: 91180
+   ✅ Saved: പകൽപ്പക്ഷി പവനുരുക്കാന്‍ വരും (1994)
+🎵 [42/376] Scraping: 91181
+   ✅ Saved: മിഴി നനഞ്ഞ മഴ നിലാവു (1994)
+🎵 [43/376] Scraping: 77555
+   ✅ Saved: പൊൻകിനാക്കൾ (2000)
+🎵 [44/376] Scraping: iniyum-varaathoren
+   ✅ Saved: ഇനിയും വരാത്തൊരെൻ (2000)
+🎵 [45/376] Scraping: 26349
+   ✅ Saved: കടങ്കഥപ്പക്ഷികൾ (2000)
+🎵 [46/376] Scraping: 26353
+   ✅ Saved: പള്ളിയുണർത്തുവാൻ (2000)
+🎵 [47/376] Scraping: 26355
+   ✅ Saved: പാൽച്ചിരിയാൽ നീ (2000)
+🎵 [48/376] Scraping: 26347
+   ✅ Saved: മാസം തൈമാസമായ് (2000)
+🎵 [49/376] Scraping: madana-panchakshari
+   ✅ Saved: മദന പഞ്ചാക്ഷരി ()
+🎵 [50/376] Scraping: 65013
+   ✅ Saved: നിറമനസ്സോടെ (2000)
+🎵 [51/376] Scraping: 15453
+   ✅ Saved: ഇഷ്ടമാണിഷ്ടമാണെനിക്കു (2000)
+🎵 [52/376] Scraping: 87450
+   ✅ Saved: ഇഷ്ടമാണിഷ്ടമാണെനിക്കു നിൻ മുഖം (2000)
+🎵 [53/376] Scraping: 87451
+   ✅ Saved: എങ്ങാണോ സ്നേഹാരാമം (2000)
+🎵 [54/376] Scraping: 27829
+   ✅ Saved: ഒന്നുദിച്ചാല്‍ അന്തിയുണ്ടേ (2000)
+🎵 [55/376] Scraping: 87447
+   ✅ Saved: ഒന്നുദിച്ചാൽ അന്തിയുണ്ടേ.. (പാത്തോസ്) (2000)
+🎵 [56/376] Scraping: 87444
+   ✅ Saved: ചിന്നി ചിന്നിപ്പെയ്യും (2000)
+🎵 [57/376] Scraping: 87449
+   ✅ Saved: ശരദിന്ദു നാളം താഴ്‌ത്തുന്നു രാത്രി (2000)
+🎵 [58/376] Scraping: sarabindhu-nalam
+   ✅ Saved: ശരദിന്ദുനാളം താഴ്‌ത്തുന്നു (2000)
+🎵 [59/376] Scraping: 87445
+   ✅ Saved: സന്ധ്യാരാഗമാം (2000)
+🎵 [60/376] Scraping: 87448
+   ✅ Saved: സന്ധ്യാരാഗമാം തിലകം ചാർത്തണം (2000)
+🎵 [61/376] Scraping: achan-kuzhithondi-they
+   ✅ Saved: അച്ഛൻ കുഴിതോണ്ടി തെയ്യ് (2000)
+🎵 [62/376] Scraping: aaraariraariraaro
+   ✅ Saved: ആരാരിരാരിരാരോ ആരാരിരാരിരാരോ (2000)
+🎵 [63/376] Scraping: aariyeriraariraaro-theyyam-thaara
+   ✅ Saved: ആരിയെരിരാരിരാരോ തെയ്യം താരാ (2000)
+🎵 [64/376] Scraping: kannodum-kaalayodum
+   ✅ Saved: കന്നോടും കാളയോടും (2000)
+🎵 [65/376] Scraping: mannu-thediya-mazha
+   ✅ Saved: മണ്ണു തേട്യ മഴ (2000)
+🎵 [66/376] Scraping: ini-maanathum-nakshathrapookkaalam-f
+   ✅ Saved: ഇനി മാനത്തും നക്ഷത്രപൂക്കാലം - F (2000)
+🎵 [67/376] Scraping: ini-maanathum-nakshathrapookkaalam-m
+   ✅ Saved: ഇനി മാനത്തും നക്ഷത്രപൂക്കാലം - M (1999)
+🎵 [68/376] Scraping: manjil-pookkum
+   ✅ Saved: മഞ്ഞിൽ പൂക്കും (1999)
+🎵 [69/376] Scraping: yamangal-mellechollum
+   ✅ Saved: യാമങ്ങൾ മെല്ലെച്ചൊല്ലും (2000)
+🎵 [70/376] Scraping: 58756
+   ✅ Saved: മാംസവും മാംസവും പുഷ്പ്പിച്ചു (2000)
+🎵 [71/376] Scraping: vinnil-viriyum
+   ✅ Saved: വിണ്ണിൽ വിരിയും (2000)
+🎵 [72/376] Scraping: 58758
+   ✅ Saved: വിണ്ണിൽ വിരിയും (M) (2000)
+🎵 [73/376] Scraping: kaatte-nee-veesharuthippol
+   ✅ Saved: കാറ്റേ നീ വീശരുതിപ്പോൾ (2001)
+🎵 [74/376] Scraping: poomakal-vaazhunna-kovilil
+   ✅ Saved: പൂമകൾ വാഴുന്ന കോവിലിൽ ()
+🎵 [75/376] Scraping: kodamanjin-d
+   ✅ Saved: കോടമഞ്ഞിൻ താഴ്വരയിൽ - D ()
+🎵 [76/376] Scraping: kodamanjin-f
+   ✅ Saved: കോടമഞ്ഞിൻ താഴ്വരയിൽ - F (2000)
+🎵 [77/376] Scraping: kodamanjin-m
+   ✅ Saved: കോടമഞ്ഞിൻ താഴ്വരയിൽ - M (2000)
+🎵 [78/376] Scraping: ghanasyama-vrindaranyam
+   ✅ Saved: ഘനശ്യാമ വൃന്ദാരണ്യം ()
+🎵 [79/376] Scraping: chella-kaatte-chollu
+   ✅ Saved: ചെല്ലക്കാറ്റെ ചൊല്ല് ()
+🎵 [80/376] Scraping: palappoomazha
+   ✅ Saved: പാലപ്പൂമഴ (2000)
+🎵 [81/376] Scraping: sivakara-damaruka
+   ✅ Saved: ശിവകര ഡമരുക ()
+🎵 [82/376] Scraping: 38036
+   ✅ Saved: സുമസായകാ വിധുര (2000)
+🎵 [83/376] Scraping: 87665
+   ✅ Saved: അമ്പോ അമ്പമ്പോ ഇത് സൗഭാഗ്യക്കാലം (2000)
+🎵 [84/376] Scraping: 87664
+   ✅ Saved: കളകളം പാടുമരുവികളിൽ (2000)
+🎵 [85/376] Scraping: 87605
+   ✅ Saved: നോവുഭാരം ചുമലിൽ താങ്ങാൻ (2000)
+🎵 [86/376] Scraping: azhake-nin-malar-mizhikalil
+   ✅ Saved: അഴകേ നിൻ മലർമിഴികളിൽ (2000)
+🎵 [87/376] Scraping: kathiradum-padathe
+   ✅ Saved: കതിരാടും പാടത്തെ (2000)
+🎵 [88/376] Scraping: 103097
+   ✅ Saved: ആലോലം ചെല്ലക്കാറ്റേ (2000)
+🎵 [89/376] Scraping: 103161
+   ✅ Saved: നിറപറ (2000)
+🎵 [90/376] Scraping: 103096
+   ✅ Saved: പൂന്തിങ്കളെ മൂവന്തിയായി (F) (2000)
+🎵 [91/376] Scraping: 103095
+   ✅ Saved: പൂന്തിങ്കളെ മൂവന്തിയായി (M) (2000)
+🎵 [92/376] Scraping: 103162
+   ✅ Saved: മുറ്റത്തെ മാവിൻ (2000)
+🎵 [93/376] Scraping: 103154
+   ✅ Saved: രഘുപതി രാഘവ (2000)
+🎵 [94/376] Scraping: 104212
+   ✅ Saved: കൂരൻ കോഴി* (2000)
+🎵 [95/376] Scraping: 17377
+   ✅ Saved: ആകാശം മാറും ഭൂതലവും മാറും (2000)
+🎵 [96/376] Scraping: 12316
+   ✅ Saved: ആരും കൊതിക്കും (2000)
+🎵 [97/376] Scraping: 12314
+   ✅ Saved: ഇസ്രായേലിൻ നാഥനായി (2000)
+🎵 [98/376] Scraping: 12312
+   ✅ Saved: കുഞ്ഞിളം ഉമ്മ തരാൻ (2000)
+🎵 [99/376] Scraping: 17384
+   ✅ Saved: കുഞ്ഞിളം ഉമ്മ തരാൻ നാഥൻ കൂടെ വന്നൂ (2000)
+🎵 [100/376] Scraping: 17387
+   ✅ Saved: ജറുസലേം നായകാ ഗദ്ഗദം കേൾക്കുമോ (2000)
+🎵 [101/376] Scraping: 17381
+   ✅ Saved: മോഹത്തിന്റെ തേരിലേറി പോകരുതേ (2000)
+🎵 [102/376] Scraping: 17386
+   ✅ Saved: വഴിയരികിൽ പഥികനായ് കാത്തുനിൽക്കും നാഥൻ (2000)
+🎵 [103/376] Scraping: 17385
+   ✅ Saved: വാനമ്പാടീ പാടുമ്പോലെന്നുള്ളം (2000)
+🎵 [104/376] Scraping: azhake-nee-paadum
+   ✅ Saved: അഴകേ നീ പാടും (2000)
+🎵 [105/376] Scraping: aakashadeepame
+   ✅ Saved: ആകാശദീപമേ (2000)
+🎵 [106/376] Scraping: 14462
+   ✅ Saved: എന്തു ഭംഗി നിന്നെ കാണാൻ ()
+🎵 [107/376] Scraping: 3465
+   ✅ Saved: കണ്ണീർമഴയത്ത് ()
+🎵 [108/376] Scraping: chemmanam-poothe
+   ✅ Saved: ചെമ്മാനം പൂത്തേ പുതു സിന്ദൂരം തൊട്ടേ ()
+🎵 [109/376] Scraping: 95609
+   ✅ Saved: ധ്വനിതരംഗതരളം (2000)
+🎵 [110/376] Scraping: dwanitharangatharalam-f
+   ✅ Saved: ധ്വനിതരംഗതരളം - F (2000)
+🎵 [111/376] Scraping: dwanitharangatharalam-m
+   ✅ Saved: ധ്വനിതരംഗതരളം - M (2000)
+🎵 [112/376] Scraping: pon-kasavu-d
+   ✅ Saved: പൊൻ കസവു ഞൊറിയും - D ()
+🎵 [113/376] Scraping: pon-kasavu-njoriyum-f
+   ✅ Saved: പൊൻ കസവു ഞൊറിയും - F (2000)
+🎵 [114/376] Scraping: 19718
+   ✅ Saved: അണിയമ്പൂ മുറ്റത്ത് ()
+🎵 [115/376] Scraping: 19713
+   ✅ Saved: ചിത്തിരപന്തലിട്ട് ()
+🎵 [116/376] Scraping: 19712
+   ✅ Saved: ഡാർലിങ്ങ് ഡാർലിങ്ങ് നീയെനിക്കൊരു ലവിംഗ് സ്റ്റാർ ()
+🎵 [117/376] Scraping: 65758
+   ✅ Saved: ഡാർലിങ്ങ് ഡാർലിങ്ങ്(2) (2000)
+🎵 [118/376] Scraping: 19711
+   ✅ Saved: പ്രണയസൗഗന്ധികങ്ങൾ (F) ()
+🎵 [119/376] Scraping: pranayasaougandhikangal-d
+   ✅ Saved: പ്രണയസൗഗന്ധികങ്ങൾ - D (2000)
+🎵 [120/376] Scraping: pranaya-sougandikangal-m
+   ✅ Saved: പ്രണയസൗഗന്ധികങ്ങൾ - M (2000)
+🎵 [121/376] Scraping: 19710
+   ✅ Saved: മുത്തും പവിഴവും മൊഴികളിൽ പൊഴിയുമോ ()
+🎵 [122/376] Scraping: kannil-kaasithumbakal
+   ✅ Saved: കണ്ണിൽ കാശിത്തുമ്പകൾ ()
+🎵 [123/376] Scraping: pakkala-padan-vaa
+   ✅ Saved: പക്കാല പാടാൻ വാ (2000)
+🎵 [124/376] Scraping: manimuttathaavanipanthal
+   ✅ Saved: മണിമുറ്റത്താവണിപ്പന്തൽ ()
+🎵 [125/376] Scraping: raathriyil-manju-pole
+   ✅ Saved: രാത്രിയിൽ മഞ്ഞു പോലെ ()
+🎵 [126/376] Scraping: vaarthinkal-thellalle
+   ✅ Saved: വാർത്തിങ്കൾത്തെല്ലല്ലേ ()
+🎵 [127/376] Scraping: varthinkalthellalle-f
+   ✅ Saved: വാർത്തിങ്കൾത്തെല്ലല്ലേ - F (2000)
+🎵 [128/376] Scraping: engu-poy-nee
+   ✅ Saved: എങ്ങു പോയ് നീ എങ്ങു പോയ് നീ ()
+🎵 [129/376] Scraping: 16099
+   ✅ Saved: ഒരു സിംഹമലയും കാട്ടിൽ ()
+🎵 [130/376] Scraping: 16102
+   ✅ Saved: കടമിഴിയിൽ കമലദളം ()
+🎵 [131/376] Scraping: 27311
+   ✅ Saved: കടമിഴിയിൽ കമലദളം[V2] ()
+🎵 [132/376] Scraping: kathirunnoru-chakkara-kudam
+   ✅ Saved: കാത്തിരുന്നൊരു ചക്കരക്കുടം ()
+🎵 [133/376] Scraping: 8498
+   ✅ Saved: പച്ചപ്പവിഴ വർണ്ണക്കുട ()
+🎵 [134/376] Scraping: 103834
+   ✅ Saved: ആർത്തു വിളിക്കുന്ന് പുള്ളുവര് (2000)
+🎵 [135/376] Scraping: oru-naalupolarnnittore-nattuchakku
+   ✅ Saved: ഒരു നാളുപൊലർന്നിട്ടൊരെ നട്ടുച്ചയ്ക്ക് (2000)
+🎵 [136/376] Scraping: 103835
+   ✅ Saved: നിറയും പറ വെച്ച് ദീപം വെച്ച് (2000)
+🎵 [137/376] Scraping: paayamedanjum-muram-madanjum
+   ✅ Saved: പായമടഞ്ഞും മുറം മടഞ്ഞും (2000)
+🎵 [138/376] Scraping: 103836
+   ✅ Saved: മകരം പിറന്നാരെ മാവു പൂത്തു (2000)
+🎵 [139/376] Scraping: 103837
+   ✅ Saved: മകരം പിറന്നാരെ മാവു പൂത്തു (2000)
+🎵 [140/376] Scraping: alliambal-poove-f
+   ✅ Saved: അല്ലിയാമ്പൽ പൂവേ - F (2000)
+🎵 [141/376] Scraping: alliambal-poove-m
+   ✅ Saved: അല്ലിയാമ്പൽ പൂവേ - M ()
+🎵 [142/376] Scraping: thaliyoor-bhagavathikk
+   ✅ Saved: തളിയൂർ ഭഗവതിയ്ക്ക് (2000)
+🎵 [143/376] Scraping: dada-sahib-varunne
+   ✅ Saved: ദാദാ സാഹിബ് വരുന്നേ ()
+🎵 [144/376] Scraping: yaamam-punsamagama-f
+   ✅ Saved: യാമം പുനസ്സമാഗമയാമം - F (2000)
+🎵 [145/376] Scraping: 19610
+   ✅ Saved: യാമം പുനസ്സമാഗമയാമം - M ()
+🎵 [146/376] Scraping: anthimayangumbam
+   ✅ Saved: അന്തിമയങ്ങുമ്പം (2000)
+🎵 [147/376] Scraping: aavanimasa-nilavo
+   ✅ Saved: ആവണിമാസ നിലാവോ (2000)
+🎵 [148/376] Scraping: eeran-kinaakkalum
+   ✅ Saved: ഈറൻകിനാക്കളും (2000)
+🎵 [149/376] Scraping: sagaropamam-sagaram-f
+   ✅ Saved: സാഗരോപമം സാഗരം - F (2000)
+🎵 [150/376] Scraping: sagaropamam-sagaram-m
+   ✅ Saved: സാഗരോപമം സാഗരം - M (2000)
+🎵 [151/376] Scraping: surabhila-sukhakara-yaamam
+   ✅ Saved: സുരഭിലസുഖകര യാമം (2000)
+🎵 [152/376] Scraping: illilam-kunninmel
+   ✅ Saved: ഇല്ലിലം കുന്നിന്മേൽ (2000)
+🎵 [153/376] Scraping: 86961
+   ✅ Saved: ഒരു കോടി ചന്ദ്രനുദിയ്ക്കും (2000)
+🎵 [154/376] Scraping: ullasappoonkattil
+   ✅ Saved: ഉല്ലാസപ്പൂങ്കാറ്റിൽ (2000)
+🎵 [155/376] Scraping: en-jeeane-engaanu-nee-f
+   ✅ Saved: എൻ ജീവനേ എങ്ങാണു നീ - F (2000)
+🎵 [156/376] Scraping: en-jeeane-engaanu-nee-m
+   ✅ Saved: എൻ ജീവനേ എങ്ങാണു നീ - M ()
+🎵 [157/376] Scraping: 10173
+   ✅ Saved: കരളേ നിൻ കൈപിടിച്ചാൽ ()
+🎵 [158/376] Scraping: 8531
+   ✅ Saved: പൂവേ പൂവേ പാലപ്പൂവേ ()
+🎵 [159/376] Scraping: mathaappoothiri-penkutti
+   ✅ Saved: മത്താപ്പൂത്തിരി പെൺകുട്ടീ ()
+🎵 [160/376] Scraping: 19699
+   ✅ Saved: ഏദൻപൂവേ ()
+🎵 [161/376] Scraping: 19708
+   ✅ Saved: കളിയാട്ടം തുള്ളല്ലേ ()
+🎵 [162/376] Scraping: thalikku-ponnu-peelikku
+   ✅ Saved: താലിക്കു പൊന്ന് പീലിക്കു കണ്ണ് ()
+🎵 [163/376] Scraping: nilathumbee-varoo
+   ✅ Saved: നിലാത്തുമ്പീ വരൂ ()
+🎵 [164/376] Scraping: 104403
+   ✅ Saved: ബൂഢേ ഭി തേരെ (2000)
+🎵 [165/376] Scraping: muthumazhatherottam
+   ✅ Saved: മുത്തുമഴത്തേരോട്ടം... ()
+🎵 [166/376] Scraping: 67159
+   ✅ Saved: അമ്മേ നിളേ (2000)
+🎵 [167/376] Scraping: 14609
+   ✅ Saved: അമ്മേ നിളേ നിനക്കെന്തു പറ്റി ()
+🎵 [168/376] Scraping: 14610
+   ✅ Saved: അരണിയിൽ നിന്നും ജ്വാല കണക്കെ ()
+🎵 [169/376] Scraping: 14614
+   ✅ Saved: ആരോടും ഒന്നും മിണ്ടാതെ (M) ()
+🎵 [170/376] Scraping: 67156
+   ✅ Saved: ആരോടും ഒന്നും മിണ്ടാതെ(D) (2000)
+🎵 [171/376] Scraping: dhyanam-dheyam-narasimham
+   ✅ Saved: ധ്യാനം ധേയം നരസിംഹം (2000)
+🎵 [172/376] Scraping: 14611
+   ✅ Saved: പഴനിമലമുരുകനു ()
+🎵 [173/376] Scraping: manjin-mutheduthu
+   ✅ Saved: മഞ്ഞിൻ മുത്തെടുത്തു - D (2000)
+🎵 [174/376] Scraping: 67161
+   ✅ Saved: മഞ്ഞിൻ മുത്തെടുത്ത് (F) (2000)
+🎵 [175/376] Scraping: 15448
+   ✅ Saved: ആലോലം പൊന്നൂഞ്ഞാലാടും ()
+🎵 [176/376] Scraping: madhuramee-samgamam
+   ✅ Saved: മധുരമീ സംഗമം 1 (2000)
+🎵 [177/376] Scraping: madhuramee-samgamam-0
+   ✅ Saved: മധുരമീ സംഗമം 2 (2000)
+🎵 [178/376] Scraping: 19724
+   ✅ Saved: മയിലാടും കുന്നുമ്മേൽ ()
+🎵 [179/376] Scraping: minnum-ponnurukki
+   ✅ Saved: മിന്നും പൊന്നുരുക്കി (2000)
+🎵 [180/376] Scraping: 63542
+   ✅ Saved: ഏതോ സ്നേഹലാളനം ()
+🎵 [181/376] Scraping: 77638
+   ✅ Saved: മയിലാടും കുന്നിൽ (2000)
+🎵 [182/376] Scraping: kadanavum-kanneerum
+   ✅ Saved: കദനവും കണ്ണീരുമായ് (2000)
+🎵 [183/376] Scraping: chik-chik-kiliye
+   ✅ Saved: ചിക് ചിക് കിളിയെ (2000)
+🎵 [184/376] Scraping: nizhal-pakshikal
+   ✅ Saved: നിഴല്‍പ്പക്ഷികള്‍ (2000)
+🎵 [185/376] Scraping: poo-poo-pole
+   ✅ Saved: പൂ പൂ പോലെ (2000)
+🎵 [186/376] Scraping: whisper-night
+   ✅ Saved: ഇൻ ദി വിസ്പർ ഓഫ് ദി നൈറ്റ് (2000)
+🎵 [187/376] Scraping: 63454
+   ✅ Saved: കണ്ണാടിപ്പൂക്കൾ ()
+🎵 [188/376] Scraping: kanakamunthirikal-f
+   ✅ Saved: കനകമുന്തിരികൾ - F (2000)
+🎵 [189/376] Scraping: kanakamunthirikal-m
+   ✅ Saved: കനകമുന്തിരികൾ - M ()
+🎵 [190/376] Scraping: paadunnu-vishnupakshikal
+   ✅ Saved: പാടുന്നു വിഷുപ്പക്ഷികൾ ()
+🎵 [191/376] Scraping: 19725
+   ✅ Saved: സ്വന്തം ചിറകിന്റെയുള്ളിൽ ()
+🎵 [192/376] Scraping: akashadeepangale
+   ✅ Saved: ആകാശദീപങ്ങളേ (2000)
+🎵 [193/376] Scraping: padunnu-njangal
+   ✅ Saved: പാടുന്നു ഞങ്ങൾ പാടുന്നു (2000)
+🎵 [194/376] Scraping: mayilppeelikkoottil-m
+   ✅ Saved: മയിൽപ്പീലിക്കൂട്ടിൽ - M (2000)
+🎵 [195/376] Scraping: mayilppeelikkoottil-f
+   ✅ Saved: മയിൽപ്പീലിക്കൂട്ടിൽ - F (2000)
+🎵 [196/376] Scraping: mammookka
+   ✅ Saved: മമ്മൂക്കാ മമ്മൂക്കാ ()
+🎵 [197/376] Scraping: doore-pooppambaram
+   ✅ Saved: ദൂരെ പൂപ്പമ്പരം (2000)
+🎵 [198/376] Scraping: doore-poppamparam
+   ✅ Saved: ദൂരേ പൂപ്പമ്പരം (2000)
+🎵 [199/376] Scraping: navarasa-sarasa-nadanam
+   ✅ Saved: നവരസ സാരസനടനം (2000)
+🎵 [200/376] Scraping: 77662
+   ✅ Saved: പൂ പൂത്തു മിന്നിത്തെന്നും (2000)
+🎵 [201/376] Scraping: lillippovin-navil
+   ✅ Saved: ലില്ലിപ്പൂവിന്‍ നാവില്‍ (2000)
+🎵 [202/376] Scraping: lillippoovin-naavil-m
+   ✅ Saved: ലില്ലിപ്പൂവിന്‍ നാവില്‍ - M (2000)
+🎵 [203/376] Scraping: ee-poovin
+   ✅ Saved: *ഈ പൂവിൻ (2000)
+🎵 [204/376] Scraping: katturumbinu-kalyanam-d
+   ✅ Saved: കട്ടുറുമ്പിനു കല്യാണം - D ()
+🎵 [205/376] Scraping: katturumbinu-kalyanam-m
+   ✅ Saved: കട്ടുറുമ്പിനു കല്യാണം - M (2000)
+🎵 [206/376] Scraping: 64243
+   ✅ Saved: കന്നിമണി (M) (2000)
+🎵 [207/376] Scraping: 7228
+   ✅ Saved: കുന്നിമണി കണ്ണഴകിൽ (D) ()
+🎵 [208/376] Scraping: 7232
+   ✅ Saved: നീലനിലാവിൻ തിരുമകളേ ()
+🎵 [209/376] Scraping: 7230
+   ✅ Saved: മിന്നാമിന്നീ ഇത്തിരിപ്പൊന്നേ ()
+🎵 [210/376] Scraping: 8680
+   ✅ Saved: സ്നേഹസ്വരൂപനാം നാഥാ ()
+🎵 [211/376] Scraping: ennumennum
+   ✅ Saved: *എന്നുമെന്നും (2000)
+🎵 [212/376] Scraping: kinavinte-koottil-vannu
+   ✅ Saved: *കിനാവിന്റെ കൂട്ടിൽ വന്ന് (2000)
+🎵 [213/376] Scraping: kadha-paranjurangiya-f
+   ✅ Saved: കഥ പറഞ്ഞുറങ്ങിയ - F (2000)
+🎵 [214/376] Scraping: 10275
+   ✅ Saved: കഥ പറഞ്ഞുറങ്ങിയ - M ()
+🎵 [215/376] Scraping: 51083
+   ✅ Saved: ദ്വാദശിയില്‍ മണിദീപിക (2000)
+🎵 [216/376] Scraping: 81796
+   ✅ Saved: പ്രഭാതത്തിലെ നിഴലുപോലെ (2000)
+🎵 [217/376] Scraping: 81795
+   ✅ Saved: മുന്തിരി ചേലുള്ള പെണ്ണേ (2000)
+🎵 [218/376] Scraping: sruthiyamma-layamachan
+   ✅ Saved: ശ്രുതിയമ്മ ലയമച്ഛൻ (2000)
+🎵 [219/376] Scraping: 10274
+   ✅ Saved: ശ്രുതിയമ്മ ലയമച്ഛൻ ()
+🎵 [220/376] Scraping: oru-nooru-janmam
+   ✅ Saved: ഒരു നൂറു ജന്മം ()
+🎵 [221/376] Scraping: oru-nooru-janmam-f
+   ✅ Saved: ഒരു നൂറു ജന്മം - F (2000)
+🎵 [222/376] Scraping: 10278
+   ✅ Saved: നടരാജപദധൂളി ചൂടി ()
+🎵 [223/376] Scraping: oranayikkykayayirunnu-naam-m
+   ✅ Saved: പ്രണയിക്കുകയായിരുന്നു നാം - M (2000)
+🎵 [224/376] Scraping: pranayikkukayaayirunnuu-naam
+   ✅ Saved: പ്രണയിക്കുകയായിരുന്നൂ നാം ()
+🎵 [225/376] Scraping: paurnamippoonthinkale
+   ✅ Saved: പൗർണ്ണമിപ്പൂന്തിങ്കളേ ()
+🎵 [226/376] Scraping: mazha-mazha-mazha-mazha
+   ✅ Saved: മഴ മഴ മഴ മഴ ()
+🎵 [227/376] Scraping: maayanayanangalil
+   ✅ Saved: മായാനയനങ്ങളിൽ ()
+🎵 [228/376] Scraping: 7293
+   ✅ Saved: ആരാദ്യം പറയും ()
+🎵 [229/376] Scraping: 10294
+   ✅ Saved: ആഷാഢം പാടുമ്പോൾ ()
+🎵 [230/376] Scraping: 10290
+   ✅ Saved: ഇത്രമേൽ മണമുള്ള ()
+🎵 [231/376] Scraping: 10291
+   ✅ Saved: ഗേയം ഹരിനാമധേയം ()
+🎵 [232/376] Scraping: parukkulle-nalla-naadu
+   ✅ Saved: പാരുക്കുള്ളേ നല്ല നാട് (2000)
+🎵 [233/376] Scraping: 10293
+   ✅ Saved: മഞ്ഞിന്റെ മറയിട്ട ()
+🎵 [234/376] Scraping: vaarmukile-vaanil-nee
+   ✅ Saved: വാര്‍മുകിലെ വാനില്‍ നീ ()
+🎵 [235/376] Scraping: 10292
+   ✅ Saved: ഹിമശൈലസൗന്ദര്യമായ് ()
+🎵 [236/376] Scraping: himasailasoundaryamaai-m
+   ✅ Saved: ഹിമശൈലസൗന്ദര്യമായ് - M (2000)
+🎵 [237/376] Scraping: 100500
+   ✅ Saved: കയറിട്ട പയ്യിനു (2000)
+🎵 [238/376] Scraping: ponkinakkal-d
+   ✅ Saved: പൊൻകിനാക്കൾ - D (2000)
+🎵 [239/376] Scraping: ponkinakkal-f
+   ✅ Saved: പൊൻകിനാക്കൾ - F (2000)
+🎵 [240/376] Scraping: 80276
+   ✅ Saved: ഓ മുംബൈ (2000)
+🎵 [241/376] Scraping: 80279
+   ✅ Saved: കൂ കൂ കൂ കൂ തീവണ്ടി (2000)
+🎵 [242/376] Scraping: 80275
+   ✅ Saved: കൃഷ്ണ കൃഷ്ണ (2000)
+🎵 [243/376] Scraping: 14645
+   ✅ Saved: പറയാൻ ഞാൻ മറന്നു (2000)
+🎵 [244/376] Scraping: 80274
+   ✅ Saved: മഹാ ഗണപതിം (2000)
+🎵 [245/376] Scraping: sravan-gange
+   ✅ Saved: ശ്രാവൺ ഗംഗേ (2000)
+🎵 [246/376] Scraping: kunukku-penmaniye
+   ✅ Saved: കുണുക്കുപെണ്മണിയെ (2000)
+🎵 [247/376] Scraping: 19723
+   ✅ Saved: നിഴലാടും ദീപമേ ()
+🎵 [248/376] Scraping: nizhalaadum-deepame
+   ✅ Saved: നിഴലാടും ദീപമേ ()
+🎵 [249/376] Scraping: 101492
+   ✅ Saved: മുത്താരം മുത്തുണ്ടേ (2000)
+🎵 [250/376] Scraping: 4041
+   ✅ Saved: രാരവേണു ഗോപബാല ()
+🎵 [251/376] Scraping: virahni-radhe-vidhumukhi
+   ✅ Saved: വിരഹിണി രാധേ വിധുമുഖി ()
+🎵 [252/376] Scraping: 87738
+   ✅ Saved: മന്ദാരപ്പൂവിൻ ചുണ്ടിൽ (2000)
+🎵 [253/376] Scraping: rasagula
+   ✅ Saved: രസഗുള (2000)
+🎵 [254/376] Scraping: kanappoonkuyil-d
+   ✅ Saved: കാണാപ്പൂങ്കുയിൽ - D (2000)
+🎵 [255/376] Scraping: kanappoonkuyil-m
+   ✅ Saved: കാണാപ്പൂങ്കുയിൽ - M (2000)
+🎵 [256/376] Scraping: theyyam-kaattil
+   ✅ Saved: തെയ്യംകാറ്റിൽ (2000)
+🎵 [257/376] Scraping: poochaikkaro-mani-kettunnallo
+   ✅ Saved: പൂച്ചയ്ക്കാരോ മണികെട്ടുന്നല്ലോ (2000)
+🎵 [258/376] Scraping: mutholakkottaram
+   ✅ Saved: മുത്തോലക്കൊട്ടാരം (2000)
+🎵 [259/376] Scraping: 67712
+   ✅ Saved: അരുമയായ് (2000)
+🎵 [260/376] Scraping: 67753
+   ✅ Saved: ഉയിരേ വാ (2000)
+🎵 [261/376] Scraping: 67713
+   ✅ Saved: കോളേജ് ഉള്ളതോ (2000)
+🎵 [262/376] Scraping: 67714
+   ✅ Saved: ഡോണ്ട് ട്രൈ (2000)
+🎵 [263/376] Scraping: 67740
+   ✅ Saved: നമ്പല്ലേ നമ്പല്ലേ (2000)
+🎵 [264/376] Scraping: 67741
+   ✅ Saved: നോ പ്രോബ്ലം (2000)
+🎵 [265/376] Scraping: 67749
+   ✅ Saved: പ്രേമം തേടി (2000)
+🎵 [266/376] Scraping: 67716
+   ✅ Saved: മോണോലിസ (2000)
+🎵 [267/376] Scraping: 67739
+   ✅ Saved: മോനിഷ (2000)
+🎵 [268/376] Scraping: 67751
+   ✅ Saved: രാകിലേ രാകിലേ (2000)
+🎵 [269/376] Scraping: 67715
+   ✅ Saved: ഹലോ ഹലോ (2000)
+🎵 [270/376] Scraping: anthinila-maanath
+   ✅ Saved: അന്തിനിലാ മാനത്ത് (2000)
+🎵 [271/376] Scraping: omanathinkalthelle
+   ✅ Saved: ഓമനത്തിങ്കൾത്തെല്ലേ (2000)
+🎵 [272/376] Scraping: kanniludakkiya-kanthari
+   ✅ Saved: കണ്ണിലുടക്കിയ കാന്താരിപ്പെണ്ണ് (2000)
+🎵 [273/376] Scraping: dhum-dhum-dhum-dhum-dooreyetho
+   ✅ Saved: ധും ധും ധും ധും ദൂരെയേതോ (2000)
+🎵 [274/376] Scraping: palappoovin-lolakkunde
+   ✅ Saved: പാലപ്പൂവിൻ ലോലാക്കുണ്ടേ (2000)
+🎵 [275/376] Scraping: mazha-peithu-thornna
+   ✅ Saved: മഴപെയ്തു തോർന്ന നിലാവിൽ (2000)
+🎵 [276/376] Scraping: rappadippakshi-ithile
+   ✅ Saved: രാപ്പാടിപ്പക്ഷീ ഇതിലേ (2000)
+🎵 [277/376] Scraping: sarike-ninne-kanan
+   ✅ Saved: ശാരികേ നിന്നെ കാണാൻ (2000)
+🎵 [278/376] Scraping: ohoho-rithupallaviyil
+   ✅ Saved: ഓഹോഹോ ഋതുപല്ലവിയിൽ (2000)
+🎵 [279/376] Scraping: aradhana-vidyaradhana
+   ✅ Saved: ആരാധന വിദ്യാരാധന (2000)
+🎵 [280/376] Scraping: iniyenthu-nalkanam
+   ✅ Saved: ഇനിയെന്തു നൽകണം ()
+🎵 [281/376] Scraping: keli-nilavoru-palazhee
+   ✅ Saved: കേളിനിലാവൊരു പാലാഴീ (2000)
+🎵 [282/376] Scraping: keli-nilavoru-palazhee-0
+   ✅ Saved: കേളിനിലാവൊരു പാലാഴീ (2000)
+🎵 [283/376] Scraping: vaalittezhuthiya-pathos
+   ✅ Saved: വാലിട്ടെഴുതിയ - pathos (2000)
+🎵 [284/376] Scraping: vaalittezhuthiya-karthikaravinte
+   ✅ Saved: വാലിട്ടെഴുതിയ കാർത്തികരാവിന്റെ ()
+🎵 [285/376] Scraping: 65083
+   ✅ Saved: അറുപതുതിരിയിട്ട(F) (2000)
+🎵 [286/376] Scraping: 65081
+   ✅ Saved: കണ്ണിലമ്പും (2000)
+🎵 [287/376] Scraping: 65082
+   ✅ Saved: അറുപതുതിരിയിട്ട(M) (2000)
+🎵 [288/376] Scraping: 14603
+   ✅ Saved: നിറനാഴി പൊന്നിൽ (2000)
+🎵 [289/376] Scraping: nettimele-pottittalum
+   ✅ Saved: നെറ്റിമേലേ(D) (2000)
+🎵 [290/376] Scraping: nettimele-0
+   ✅ Saved: നെറ്റിമേലേ(F) (2000)
+🎵 [291/376] Scraping: nettimele
+   ✅ Saved: നെറ്റിമേലേ(M) (2000)
+🎵 [292/376] Scraping: 14654
+   ✅ Saved: ശിവമല്ലിപ്പൂ പൊഴിക്കും ()
+🎵 [293/376] Scraping: 95547
+   ✅ Saved: സ്മരാമി വൈഷ്ണവ (2000)
+🎵 [294/376] Scraping: 64048
+   ✅ Saved: എണ്ണിയാല്‍ തീരാത്തൊരിഷ്ടങ്ങളായ് [F] (2000)
+🎵 [295/376] Scraping: 64047
+   ✅ Saved: എണ്ണിയാല്‍ തീരാത്തൊരിഷ്ടങ്ങളായ് [M] (2000)
+🎵 [296/376] Scraping: 64044
+   ✅ Saved: കാട്ടുവള്ളിയൂഞ്ഞാലാടാം (2000)
+🎵 [297/376] Scraping: 64037
+   ✅ Saved: കാട്ടുവള്ളിയൂഞ്ഞാലാടാം [M] (2000)
+🎵 [298/376] Scraping: 64028
+   ✅ Saved: തോളില്‍ മാറാപ്പ് (2000)
+🎵 [299/376] Scraping: 64033
+   ✅ Saved: പാടാനറിയില്ല [F] (2000)
+🎵 [300/376] Scraping: 64030
+   ✅ Saved: പാടാനറിയില്ല [M] (2000)
+🎵 [301/376] Scraping: 64029
+   ✅ Saved: പൊന്നുംകുടത്തിനു (2000)
+🎵 [302/376] Scraping: 33739
+   ✅ Saved: ഇന്ദ്രനീലം ചൂടി (m) (2000)
+🎵 [303/376] Scraping: 33734
+   ✅ Saved: ഇന്ദ്രനീലം ചൂടി അഗ്രഹാരം തേടി (2000)
+🎵 [304/376] Scraping: 33735
+   ✅ Saved: എന്റെ പേര് വിളിക്കയാണോ (2000)
+🎵 [305/376] Scraping: 13001
+   ✅ Saved: പട്ടു ചുറ്റി പൊട്ടും തൊട്ട് - F ()
+🎵 [306/376] Scraping: pattu-chutti-m
+   ✅ Saved: പട്ടു ചുറ്റി പൊട്ടും തൊട്ട് - M (2000)
+🎵 [307/376] Scraping: 33738
+   ✅ Saved: മൂന്നാം തൃക്കണ്ണില്‍ (2000)
+🎵 [308/376] Scraping: 33737
+   ✅ Saved: ഹംസധ്വനിരസവാഹിനി - D (2000)
+🎵 [309/376] Scraping: hamsadhwanirasavahini-m
+   ✅ Saved: ഹംസധ്വനിരസവാഹിനി - M (2000)
+🎵 [310/376] Scraping: amma-yasodha-f
+   ✅ Saved: അമ്മ യശോദ - F (2000)
+🎵 [311/376] Scraping: amma-yasodha-m
+   ✅ Saved: അമ്മ യശോദ - M (2000)
+🎵 [312/376] Scraping: 4060
+   ✅ Saved: ആറ്റു നോറ്റുണ്ടായൊരുണ്ണി - M ()
+🎵 [313/376] Scraping: aattunottundayorunni-f
+   ✅ Saved: ആറ്റുനോറ്റുണ്ടായൊരുണ്ണി - F (2000)
+🎵 [314/376] Scraping: kanna-odi-vaa
+   ✅ Saved: കണ്ണാ ഓടി വാ ()
+🎵 [315/376] Scraping: chuttum-kulamundu
+   ✅ Saved: ചുറ്റും കുളമുണ്ട് (2000)
+🎵 [316/376] Scraping: 95611
+   ✅ Saved: പാണ്ഡവമാതാവേ അമ്മേ (2000)
+🎵 [317/376] Scraping: shanthagambheeranaam
+   ✅ Saved: ശാന്തഗംഭീരനാം (2000)
+🎵 [318/376] Scraping: 64860
+   ✅ Saved: ആദ്യാനുരാഗം (2000)
+🎵 [319/376] Scraping: onnu-thottene
+   ✅ Saved: ഒന്നു തൊട്ടേനേ ()
+🎵 [320/376] Scraping: 64724
+   ✅ Saved: ഒന്നു തൊട്ടേനേ(M) (2000)
+🎵 [321/376] Scraping: 64853
+   ✅ Saved: ഓ ലിറ്റിൽ ബേബി (2000)
+🎵 [322/376] Scraping: 64859
+   ✅ Saved: ചോലമലങ്കാറ്റടിക്കണ് (2000)
+🎵 [323/376] Scraping: 64856
+   ✅ Saved: നീയെൻ ജീവനിൽ (2000)
+🎵 [324/376] Scraping: 64858
+   ✅ Saved: മേഘരാഗത്തിൽ(F) (2000)
+🎵 [325/376] Scraping: megharaagathil
+   ✅ Saved: മേഘരാഗത്തിൽ(M) (2000)
+🎵 [326/376] Scraping: 30744
+   ✅ Saved: അങ്ങകലെ എരിതീക്കടലിന്നക്കരെ (2000)
+🎵 [327/376] Scraping: 102504
+   ✅ Saved: അവ്വാ ഹവ്വാ (2000)
+🎵 [328/376] Scraping: 28774
+   ✅ Saved: ഇളമാൻ കണ്ണിലൂടെ (2000)
+🎵 [329/376] Scraping: 102495
+   ✅ Saved: ഈശ്വർ സത്യ് ഹേ (2000)
+🎵 [330/376] Scraping: chandrahridayam-thane-urukum
+   ✅ Saved: ചന്ദ്രഹൃദയം താനെ ഉരുകും (2000)
+🎵 [331/376] Scraping: 7575
+   ✅ Saved: സൂര്യനായ് തഴുകി ()
+🎵 [332/376] Scraping: sooryanay-thazhuki-f
+   ✅ Saved: സൂര്യനായ് തഴുകി - F (2000)
+🎵 [333/376] Scraping: 59674
+   ✅ Saved: അമ്പിളിപ്പൂപ്പെണ്ണിനും (2001)
+🎵 [334/376] Scraping: 59670
+   ✅ Saved: കല്യാണപ്പട്ടും ചുറ്റി (2001)
+🎵 [335/376] Scraping: 59671
+   ✅ Saved: ധക് ധക് ദില്‍ (2001)
+🎵 [336/376] Scraping: 59673
+   ✅ Saved: പൂവേ പൊൻ പൂവേ (F) (2001)
+🎵 [337/376] Scraping: 59672
+   ✅ Saved: പൂവേ പൊൻ പൂവേ (M) (2001)
+🎵 [338/376] Scraping: 59675
+   ✅ Saved: സിലുസിലു (2001)
+🎵 [339/376] Scraping: 63390
+   ✅ Saved: കിളിമരച്ചില്ലകളിൽ (2000)
+🎵 [340/376] Scraping: rathri-mulla-pole
+   ✅ Saved: രാത്രിമുല്ല പോലെ (2000)
+🎵 [341/376] Scraping: anaadhi-m
+   ✅ Saved: അനാദിയാം എൻ സ്നേഹം (M) ()
+🎵 [342/376] Scraping: anadiyamen-sneham-f
+   ✅ Saved: അനാദിയാമെൻ സ്നേഹം - F (2000)
+🎵 [343/376] Scraping: 33339
+   ✅ Saved: അലസ്സാ കൊലസ്സാ പെണ്ണ് - D (2000)
+🎵 [344/376] Scraping: alassa-kolussa-pennu-m
+   ✅ Saved: അലസ്സാ കൊലസ്സാ പെണ്ണ് - M (2000)
+🎵 [345/376] Scraping: 33336
+   ✅ Saved: ഒലിവ് തളിരിട്ടോ ഓര്‍മ്മകള്‍ പൂവിട്ടോ (2000)
+🎵 [346/376] Scraping: 33338
+   ✅ Saved: ചെല്ലം ചെല്ലം മഞ്ചാടി (2000)
+🎵 [347/376] Scraping: 33337
+   ✅ Saved: പ്രണയകവിതകൾ ലഹരി (2000)
+🎵 [348/376] Scraping: 33346
+   ✅ Saved: മുത്തുവിളക്കിലൊരമ്പിളി വെട്ടം (2000)
+🎵 [349/376] Scraping: aarumarum
+   ✅ Saved: *ആരുമാരും (2000)
+🎵 [350/376] Scraping: kaalame-kaikkolluka
+   ✅ Saved: കാലമേ കൈക്കൊള്ളുക നീ (2000)
+🎵 [351/376] Scraping: anthikaayunna-nin-kavilthadam
+   ✅ Saved: അന്തികായുന്ന നിൻ കവിൾത്തടം (2000)
+🎵 [352/376] Scraping: 58775
+   ✅ Saved: ഒരു പ്രേമഗാനം (D) (2000)
+🎵 [353/376] Scraping: oru-premaganam-nee-m
+   ✅ Saved: ഒരു പ്രേമഗാനം - M (2000)
+🎵 [354/376] Scraping: 98240
+   ✅ Saved: ദ്രോണപുഷ്പഹാരമണിഞ്ഞു (2000)
+🎵 [355/376] Scraping: 98241
+   ✅ Saved: പാടാനറിയില്ല എങ്കിലും (2000)
+🎵 [356/376] Scraping: 58776
+   ✅ Saved: പോകാതെ പോകാതെ (2000)
+🎵 [357/376] Scraping: himabinduvaay-pirannu
+   ✅ Saved: ഹിമബിന്ദുവായ് പിറന്നു (2000)
+🎵 [358/376] Scraping: 51216
+   ✅ Saved: അക്കരവീട്ടിൽ അന്തോണിച്ചന് (1999)
+🎵 [359/376] Scraping: 51211
+   ✅ Saved: ആരുനീയെന്‍ ഹൃദയകവാടം (1999)
+🎵 [360/376] Scraping: 51215
+   ✅ Saved: ഓടാൻ പോണവൾ (1999)
+🎵 [361/376] Scraping: 27874
+   ✅ Saved: ഓര്‍മ്മയില്‍ എന്നോര്‍മ്മയില്‍ (D) (1999)
+🎵 [362/376] Scraping: 51212
+   ✅ Saved: ഓര്‍മ്മയില്‍ എന്നോര്‍മ്മയില്‍ (f) (1999)
+🎵 [363/376] Scraping: 51214
+   ✅ Saved: ഓര്‍മ്മയില്‍ എന്നോര്‍മ്മയില്‍ (m) (1999)
+🎵 [364/376] Scraping: 27872
+   ✅ Saved: കറുകപ്പുല്‍ മേട്ടിലെ (1999)
+🎵 [365/376] Scraping: 27873
+   ✅ Saved: മാന്തളിരിന്‍ പന്തലുണ്ടല്ലോ (D) (1999)
+🎵 [366/376] Scraping: 51213
+   ✅ Saved: മാന്തളിരിന്‍ പന്തലുണ്ടല്ലോ (m) (1999)
+🎵 [367/376] Scraping: 51210
+   ✅ Saved: മാലേയം മാറിലെഴും (1999)
+🎵 [368/376] Scraping: virahinee-iniyumen
+   ✅ Saved: വിരഹിണീ ഇനിയുമെൻ (2000)
+🎵 [369/376] Scraping: aananda-hemantha
+   ✅ Saved: ആനന്ദ ഹേമന്ത (f) (2000)
+🎵 [370/376] Scraping: 33359
+   ✅ Saved: ആനന്ദ ഹേമന്ത സന്ധ്യേ (2000)
+🎵 [371/376] Scraping: 33361
+   ✅ Saved: കന്നിനിലാ കൈവളയും (2000)
+🎵 [372/376] Scraping: 31676
+   ✅ Saved: കവിളിലോരോമന (2000)
+🎵 [373/376] Scraping: thannanam-paadi-f
+   ✅ Saved: തന്നനം പാടിവരാമോ - F (2000)
+🎵 [374/376] Scraping: 31674
+   ✅ Saved: തന്നനം പാടിവരാമോ - M (2000)
+🎵 [375/376] Scraping: 33357
+   ✅ Saved: മഞ്ഞിൽ മേയണം (2000)
+🎵 [376/376] Scraping: hey-sringari
+   ✅ Saved: ഹേയ് ശൃംഗാരി (2000)
+Year complete: success=376, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 8811
