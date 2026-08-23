@@ -83387,3 +83387,200 @@ Year complete: success=36, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 21332
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1957
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1957
+   Page 1: https://m3db.com/archive/lyrics/year/1957
+   Found 92 songs on this page. Total unique so far: 92
+Total songs to scrape for this year: 92
+🎵 [1/92] Scraping: 66850
+   ✅ Saved: ആ മലര്‍ക്കാവില്‍ (1957)
+🎵 [2/92] Scraping: 66851
+   ✅ Saved: ആശതന്‍ പൂങ്കാവില്‍ നീളേ (1957)
+🎵 [3/92] Scraping: 66852
+   ✅ Saved: കണ്ണിന്‍ കരളുമായിത്തന്നേ (1957)
+🎵 [4/92] Scraping: 66853
+   ✅ Saved: കരളിലിതെന്തേ കരകവിയുന്ന (1957)
+🎵 [5/92] Scraping: 17899
+   ✅ Saved: കാറ്റേ നീ വീശരുതിപ്പോള്‍ (1957)
+🎵 [6/92] Scraping: 66854
+   ✅ Saved: കേട്ടില്ലേ നിങ്ങള്‍ വിശേഷം (1957)
+🎵 [7/92] Scraping: 66855
+   ✅ Saved: ഞാനൊരു മുല്ലനട്ടു മൂവന്തിക്കാവില്‍ (1957)
+🎵 [8/92] Scraping: 66856
+   ✅ Saved: താരേ വാ തങ്കത്താരേ വാ (1957)
+🎵 [9/92] Scraping: 17900
+   ✅ Saved: പൂഞ്ചേല ചുറ്റിയില്ലാ ഞാൻ ()
+🎵 [10/92] Scraping: 14448
+   ✅ Saved: പൂമല വിട്ടോടിയിറങ്ങിയ ()
+🎵 [11/92] Scraping: poomala-vidarathe
+   ✅ Saved: പൂമാല വിടരാതെ (1957)
+🎵 [12/92] Scraping: 17898
+   ✅ Saved: വെള്ളാമ്പൽ പൊയ്കയിൽ ()
+🎵 [13/92] Scraping: 17909
+   ✅ Saved: അന്ധരെയന്ധൻ നയിക്കും ()
+🎵 [14/92] Scraping: 17907
+   ✅ Saved: ആടിയും കളിയാടിയും ()
+🎵 [15/92] Scraping: 17908
+   ✅ Saved: ആരോടുമൊരു പാപം ()
+🎵 [16/92] Scraping: 66875
+   ✅ Saved: ആർക്കു വേണം ലൂക്കാലി (1957)
+🎵 [17/92] Scraping: 17910
+   ✅ Saved: ഒന്നാണു നാമെല്ലാം ()
+🎵 [18/92] Scraping: 17904
+   ✅ Saved: കേരളമാ ഞങ്ങളുടേ ()
+🎵 [19/92] Scraping: njanariyaathen-maanasamathiloru
+   ✅ Saved: ഞാനറിയാതെൻ മാനസമതിലൊരു ()
+🎵 [20/92] Scraping: 12899
+   ✅ Saved: നമസ്തേ കൈരളീ ()
+🎵 [21/92] Scraping: 17911
+   ✅ Saved: പിച്ച തെണ്ടിപ്പോണവരാണേ ()
+🎵 [22/92] Scraping: vellinilaavathu
+   ✅ Saved: വെള്ളിനിലാവത്തു തുള്ളിക്കളിക്കുന്ന ()
+🎵 [23/92] Scraping: 8446
+   ✅ Saved: സംഗീതമീ ജീവിതം ()
+🎵 [24/92] Scraping: 17912
+   ✅ Saved: സന്തോഷം വേണോ ()
+🎵 [25/92] Scraping: 12611
+   ✅ Saved: ആനന്ദക്കണിയേ ()
+🎵 [26/92] Scraping: 66861
+   ✅ Saved: കഭി ഖാമോഷ് രഹ്ത്തെ ഹേ (1957)
+🎵 [27/92] Scraping: 12617
+   ✅ Saved: കള്ളനൊരുത്തൻ വന്നല്ലോ ()
+🎵 [28/92] Scraping: 12615
+   ✅ Saved: ചപലം ചപലം ()
+🎵 [29/92] Scraping: 12613
+   ✅ Saved: പോകല്ലേ പോകല്ലേ ()
+🎵 [30/92] Scraping: marana-bhi-mohabbat
+   ✅ Saved: മരണാ ഭി മൊഹബത്ത് (1957)
+🎵 [31/92] Scraping: 66864
+   ✅ Saved: മലര്‍തോറും മന്ദഹാസം (1957)
+🎵 [32/92] Scraping: 12616
+   ✅ Saved: മായാമോഹം മാറാതെ നീ ()
+🎵 [33/92] Scraping: 12614
+   ✅ Saved: വന്നല്ലോ വസന്തകാലം ()
+🎵 [34/92] Scraping: vayaranu-nammalkku-dosham
+   ✅ Saved: വയറാണു നമ്മൾക്ക് ദോഷം (1957)
+🎵 [35/92] Scraping: 66841
+   ✅ Saved: പച്ച മരതകപ്പന്തല്‍ തീര്‍ത്തു (1957)
+🎵 [36/92] Scraping: 66816
+   ✅ Saved: അമ്മാവന്‍ മകളെന്നു ചൊന്നവന്‍ (1957)
+🎵 [37/92] Scraping: 66819
+   ✅ Saved: എങ്ങിനെയെന്നോ (1957)
+🎵 [38/92] Scraping: 66820
+   ✅ Saved: എന്നുമെന്നും എന്മന (1957)
+🎵 [39/92] Scraping: 66836
+   ✅ Saved: കട്ടിലുണ്ട് മെത്തയുണ്ട് (1957)
+🎵 [40/92] Scraping: 66834
+   ✅ Saved: കണ്ണിമ കണ്ണെക്കാക്കും (1957)
+🎵 [41/92] Scraping: 66833
+   ✅ Saved: കമനീയശീലേ (1957)
+🎵 [42/92] Scraping: 66835
+   ✅ Saved: കരളുകള്‍ കൈമാറും (1957)
+🎵 [43/92] Scraping: 66827
+   ✅ Saved: കാമക്രോധലീലകള്‍ മൂലം (1957)
+🎵 [44/92] Scraping: 66829
+   ✅ Saved: കാര്‍മുകില്‍ വര്‍ണ്ണാ (1957)
+🎵 [45/92] Scraping: 66830
+   ✅ Saved: കാവിമുക്കിയ മുണ്ടു ചുറ്റിയ (1957)
+🎵 [46/92] Scraping: 66823
+   ✅ Saved: ഗാന്ധാരരാജരാജന്‍ (1957)
+🎵 [47/92] Scraping: 66818
+   ✅ Saved: ചന്ദ്രമുഖി ഞാന്‍ (1957)
+🎵 [48/92] Scraping: 66817
+   ✅ Saved: ചന്ദ്രമുഖിയെ കണ്ടതു (1957)
+🎵 [49/92] Scraping: 66826
+   ✅ Saved: ജയജയ സുരനായകാ (1957)
+🎵 [50/92] Scraping: 66839
+   ✅ Saved: നിലാ നീളവേ വാ വാ (1957)
+🎵 [51/92] Scraping: 66842
+   ✅ Saved: പഞ്ചസുമശരസമസുമുഖന്‍ (1957)
+🎵 [52/92] Scraping: 66840
+   ✅ Saved: പാടാനുമറിവില്ല പറയാനുമറിവില്ലാ (1957)
+🎵 [53/92] Scraping: 66843
+   ✅ Saved: പൊട്ടിത്തകര്‍ന്നു മല്‍പ്രേമവീണ (1957)
+🎵 [54/92] Scraping: 66844
+   ✅ Saved: പ്രേമമനോഹര നീരജനേത്രഹരേ (1957)
+🎵 [55/92] Scraping: 66838
+   ✅ Saved: മുപ്പരരില്‍ മുക്കണ്ണനിട്ടു (1957)
+🎵 [56/92] Scraping: 66837
+   ✅ Saved: ലോകസങ്കുലമേ മനമേ (1957)
+🎵 [57/92] Scraping: 66845
+   ✅ Saved: ശ്രീപത്മനാഭാ ശ്രീമാതിൻകാന്താ (1957)
+🎵 [58/92] Scraping: 66846
+   ✅ Saved: സുകുമാരനേ ഭവാന്‍ (1957)
+🎵 [59/92] Scraping: 66847
+   ✅ Saved: സുരറാണി നീ സുകൃത രമണി (1957)
+🎵 [60/92] Scraping: 66859
+   ✅ Saved: മംഗലം വിളയുന്ന മലനാടേ (1957)
+🎵 [61/92] Scraping: 17933
+   ✅ Saved: ആരു നീ അഗതിയോ ()
+🎵 [62/92] Scraping: 37259
+   ✅ Saved: കല്യാണരാവേ (ബിറ്റ്) (1957)
+🎵 [63/92] Scraping: 37258
+   ✅ Saved: കാലിതൻ തൊഴുത്തിൽ (1957)
+🎵 [64/92] Scraping: 12970
+   ✅ Saved: ഞാൻ നട്ട തൂമുല്ല ()
+🎵 [65/92] Scraping: 21143
+   ✅ Saved: തന്തോയത്തേനുണ്ടു കണ്ണിറുക്കും ()
+🎵 [66/92] Scraping: tham-tho
+   ✅ Saved: താം തോ തെ (1957)
+🎵 [67/92] Scraping: 17934
+   ✅ Saved: നാടു ചുറ്റി ഓടി വരും കളിവണ്ടി ()
+🎵 [68/92] Scraping: 37260
+   ✅ Saved: നായകാ പോരൂ പൂജാ (1957)
+🎵 [69/92] Scraping: 37261
+   ✅ Saved: പാടടി പാടടി പഞ്ഞം തീരാന്‍ (1957)
+🎵 [70/92] Scraping: 37262
+   ✅ Saved: പൂമണിക്കോവിലിൽ (1957)
+🎵 [71/92] Scraping: poomulla
+   ✅ Saved: പൂമുല്ല (1957)
+🎵 [72/92] Scraping: 37245
+   ✅ Saved: മധുമാസമായല്ലോ മലര്‍വാടിയില്‍ (1957)
+🎵 [73/92] Scraping: 37264
+   ✅ Saved: വെള്ളാമ്പല്‍ പൂത്തു (1957)
+🎵 [74/92] Scraping: 37263
+   ✅ Saved: സ്നേഹമേ കറയറ്റ നിന്‍ കൈ (1957)
+🎵 [75/92] Scraping: 14445
+   ✅ Saved: ആരു ചൊല്ലീടും ()
+🎵 [76/92] Scraping: 14446
+   ✅ Saved: ഇത്ര നാളിത്രനാളീ വസന്തം ()
+🎵 [77/92] Scraping: 14444
+   ✅ Saved: എന്തിനു കവിളിൽ ബാഷ്പധാര ()
+🎵 [78/92] Scraping: oru-vatti-poo-tharanam
+   ✅ Saved: ഒരു വട്ടി പൂ തരണം ()
+🎵 [79/92] Scraping: 17929
+   ✅ Saved: കൊല്ലത്തു നിന്നൊരു പെണ്ണ് ()
+🎵 [80/92] Scraping: 17930
+   ✅ Saved: തത്തമ്മേ തത്തമ്മേ ()
+🎵 [81/92] Scraping: 66848
+   ✅ Saved: തപസ്സു ചെയ്തു തപസ്സു ചെയ്തു (1957)
+🎵 [82/92] Scraping: 17931
+   ✅ Saved: നീയെന്തറിയുന്നു നീലത്താരമേ ()
+🎵 [83/92] Scraping: 17932
+   ✅ Saved: പണ്ടു പെരുന്തച്ചനുണ്ടാക്കി ()
+🎵 [84/92] Scraping: 14425
+   ✅ Saved: വാലിട്ടു കണ്ണെഴുതേണം ()
+🎵 [85/92] Scraping: 64262
+   ✅ Saved: ഇരുൾ മൂടുകയോ (1957)
+🎵 [86/92] Scraping: 66878
+   ✅ Saved: ഈ ലോകമേ എന്റെ വീടാണ് (1957)
+🎵 [87/92] Scraping: 66879
+   ✅ Saved: കണ്ണും എന്‍ കണ്ണുമായ് (1957)
+🎵 [88/92] Scraping: 66881
+   ✅ Saved: നാണമെന്തു കണ്മണീ (1957)
+🎵 [89/92] Scraping: 66883
+   ✅ Saved: പച്ചവര്‍ണ്ണപ്പൈങ്കിളിയേ (1957)
+🎵 [90/92] Scraping: 66882
+   ✅ Saved: പെണ്ണിന്റെ പിന്നില്‍ നടന്ന (1957)
+🎵 [91/92] Scraping: 66880
+   ✅ Saved: മിന്നുന്നതെല്ലാം പൊന്നല്ല (1957)
+🎵 [92/92] Scraping: 66884
+   ✅ Saved: വന്നാലും മോഹനനേ (1957)
+Year complete: success=92, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 21424
