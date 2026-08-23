@@ -22266,3 +22266,684 @@ Year complete: success=376, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 8811
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1999
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1999
+   Page 1: https://m3db.com/archive/lyrics/year/1999
+   Found 334 songs on this page. Total unique so far: 334
+Total songs to scrape for this year: 334
+🎵 [1/334] Scraping: aathole-eethole
+   ✅ Saved: ആത്തോലേ ഈത്തോലേ (1999)
+🎵 [2/334] Scraping: kannanthali-muttathe
+   ✅ Saved: കണ്ണാന്തളി മുറ്റത്തെ പൂത്തുമ്പി കുഞ്ഞാത്തോലെ ()
+🎵 [3/334] Scraping: gange-mahamangale
+   ✅ Saved: ഗംഗേ മഹാമംഗളേ ()
+🎵 [4/334] Scraping: jwaalaamukhamaay-padarnnuyarnna
+   ✅ Saved: ജ്വാലാമുഖമായ് പടന്നുയർന്ന ()
+🎵 [5/334] Scraping: 24723
+   ✅ Saved: നിന്ദതി ചന്ദനം (സാ വിരഹേ തവ) (1999)
+🎵 [6/334] Scraping: pankajavairiye-chinthichu
+   ✅ Saved: പങ്കജവൈരിയെ ചിന്തിച്ചു ()
+🎵 [7/334] Scraping: mangala-aathira-nalpuranam
+   ✅ Saved: മംഗല ആതിര നൽപ്പുരാണം (1999)
+🎵 [8/334] Scraping: vaarthinkaludikkatha-m
+   ✅ Saved: വാർതിങ്കളുദിക്കാത്ത - M (1999)
+🎵 [9/334] Scraping: varthinkaludikkatha
+   ✅ Saved: വാർതിങ്കളുദിക്കാത്ത വാസന്ത ()
+🎵 [10/334] Scraping: 34601
+   ✅ Saved: കദനമറിയും കരുണാമയനേ (1999)
+🎵 [11/334] Scraping: 34582
+   ✅ Saved: പുലര്‍വെയിലും പകല്‍മുകിലും (1999)
+🎵 [12/334] Scraping: 34583
+   ✅ Saved: പ്രസീദ ദേവി പ്രഭാമയീ (1999)
+🎵 [13/334] Scraping: 34584
+   ✅ Saved: രാവില്‍ മേവല്‍പ്പക്ഷി (1999)
+🎵 [14/334] Scraping: ullathil-nin
+   ✅ Saved: *ഉള്ളത്തിൽ നിൻ നാമമന്ത്രം (1999)
+🎵 [15/334] Scraping: sabdam-illatha-shandatha
+   ✅ Saved: *ശബ്ദം ഇല്ലാത്ത ശാന്തത (1999)
+🎵 [16/334] Scraping: swayam-alinju
+   ✅ Saved: *സ്വയമലിഞ്ഞു പാടാൻ (1999)
+🎵 [17/334] Scraping: 106110
+   ✅ Saved: ഒരു മഞ്ഞുതുള്ളിയിൽ (1999)
+🎵 [18/334] Scraping: kai-niraye-snehavumai
+   ✅ Saved: കൈ നിറയെ സ്നേഹവുമായ് ()
+🎵 [19/334] Scraping: kovalanum-kannakiyum
+   ✅ Saved: കോവലനും കണ്ണകിയും ()
+🎵 [20/334] Scraping: puthumazhayaay-vannoo-nee
+   ✅ Saved: പുതുമഴയായ് വന്നൂ നീ ()
+🎵 [21/334] Scraping: puthumazhayaay-vannoo-nee-female-version
+   ✅ Saved: പുതുമഴയായ് വന്നൂ നീ ( ഫീമെയിൽ വേർഷൻ ) ()
+🎵 [22/334] Scraping: 106112
+   ✅ Saved: മണിമഞ്ചലേറിയെൻ (1999)
+🎵 [23/334] Scraping: 15489
+   ✅ Saved: വൈകാശിത്തിങ്കളിറങ്ങും ()
+🎵 [24/334] Scraping: 106111
+   ✅ Saved: വൈകാശിത്തിങ്കളിറങ്ങും - D (1999)
+🎵 [25/334] Scraping: anuraaga-poomanam
+   ✅ Saved: അനുരാഗപ്പൂമണം ()
+🎵 [26/334] Scraping: adyamai-kanda-naal
+   ✅ Saved: ആദ്യമായ് കണ്ട നാളോർമ്മയുണ്ടോ ()
+🎵 [27/334] Scraping: alilathoniyumaai
+   ✅ Saved: ആലിലത്തോണിയുമായ് ()
+🎵 [28/334] Scraping: ini-arkkum-arodum
+   ✅ Saved: ഇനിയാർക്കുമാരോടും ഇത്ര മേൽ ()
+🎵 [29/334] Scraping: urangaan-nee-enikk-arikil-venam
+   ✅ Saved: ഉറങ്ങാൻ നീയെനിക്കരികിൽ വേണം ()
+🎵 [30/334] Scraping: etho-swakaryam-parayan
+   ✅ Saved: ഏതോ സ്വകാര്യം പറയാൻ കൊതിച്ച പോൽ ()
+🎵 [31/334] Scraping: nammude-anuraagam-priyaraagamaayoru
+   ✅ Saved: നമ്മുടെ അനുരാഗം പ്രിയരാഗമായൊരു ()
+🎵 [32/334] Scraping: peythozhiyaathe-vishaadam-manassil
+   ✅ Saved: പെയ്തൊഴിയാത വിഷാദം മനസ്സിൽ ()
+🎵 [33/334] Scraping: 103331
+   ✅ Saved: അങ്ങ് വടക്ക് (1999)
+🎵 [34/334] Scraping: 103330
+   ✅ Saved: ആയില്യം നാളിൽ (1999)
+🎵 [35/334] Scraping: 103333
+   ✅ Saved: ഓ അനുപമ നീ (1999)
+🎵 [36/334] Scraping: 9886
+   ✅ Saved: ഓ അനുപമ നീ ()
+🎵 [37/334] Scraping: 91812
+   ✅ Saved: മമ മാനസശില്പ നിവാസിനി (1999)
+🎵 [38/334] Scraping: 103334
+   ✅ Saved: ഹേ വസുദേ (1999)
+🎵 [39/334] Scraping: anuragappuzhavakkil
+   ✅ Saved: അനുരാഗപ്പുഴവക്കിൽ ()
+🎵 [40/334] Scraping: 106402
+   ✅ Saved: ചൊല്ലീടാം സുല്ലു സുന്ദരി (1999)
+🎵 [41/334] Scraping: thulumbum-kannukalil
+   ✅ Saved: തുളുമ്പും കണ്ണുകൾ ()
+🎵 [42/334] Scraping: 106403
+   ✅ Saved: നിലാവോ നീൾമിഴിത്താമരയിൽ (1999)
+🎵 [43/334] Scraping: veyilinte-oru-thooval-0
+   ✅ Saved: വെയിലിന്റെ ഒരു തൂവൽ ()
+🎵 [44/334] Scraping: 106399
+   ✅ Saved: വെള്ളാരംകുന്നത്ത് - F (1999)
+🎵 [45/334] Scraping: 106398
+   ✅ Saved: വെള്ളാരംകുന്നത്ത് - M (1999)
+🎵 [46/334] Scraping: 106423
+   ✅ Saved: തൂവെൺപ്രാവുകൾ (1999)
+🎵 [47/334] Scraping: 58772
+   ✅ Saved: പൂവുടല്‍ പുല്‍കും താരുണ്യം (1999)
+🎵 [48/334] Scraping: 106383
+   ✅ Saved: അമ്മേ മംഗളദേവി (1999)
+🎵 [49/334] Scraping: 106379
+   ✅ Saved: ഒരു ദീപം കാണാൻ (1999)
+🎵 [50/334] Scraping: 88829
+   ✅ Saved: ഒരു മുത്തും തേടി ദൂരെപ്പോയി (1999)
+🎵 [51/334] Scraping: 106380
+   ✅ Saved: കണികാണും കാലം (1999)
+🎵 [52/334] Scraping: 106352
+   ✅ Saved: ദാഹവീഞ്ഞിൻ - D (1999)
+🎵 [53/334] Scraping: 106382
+   ✅ Saved: ദാഹവീഞ്ഞിൻ - F (1999)
+🎵 [54/334] Scraping: 106381
+   ✅ Saved: ദാഹവീഞ്ഞിൻ - M (1999)
+🎵 [55/334] Scraping: 20151
+   ✅ Saved: നന്ദലാല ഹേ നന്ദലാല (1999)
+🎵 [56/334] Scraping: anubhoothi-pookkum-d
+   ✅ Saved: അനുഭൂതി പൂക്കും - D (1999)
+🎵 [57/334] Scraping: anubhoothi-pookkum-f
+   ✅ Saved: അനുഭൂതി പൂക്കും - F (1999)
+🎵 [58/334] Scraping: arumayaam-pournami
+   ✅ Saved: അരുമയാം പൗർണ്ണമി (1999)
+🎵 [59/334] Scraping: ormayil-kaanunnathee-mukham-f
+   ✅ Saved: ഓർമ്മയിൽ കാണുന്നതീ മുഖം - F (1999)
+🎵 [60/334] Scraping: ormayil-kanunnathee-mukham-m
+   ✅ Saved: ഓർമ്മയിൽ കാണുന്നതീ മുഖം - M (1999)
+🎵 [61/334] Scraping: kanalu-peyyum
+   ✅ Saved: കനലുപെയ്യും വാനം (1999)
+🎵 [62/334] Scraping: pancharakkeniyilu
+   ✅ Saved: പഞ്ചാരക്കെണിയില് (1999)
+🎵 [63/334] Scraping: poomanam-poothu-niranju
+   ✅ Saved: പൂമാനം പൂത്തുനിറഞ്ഞു (1999)
+🎵 [64/334] Scraping: 33792
+   ✅ Saved: ആനന്ദ നന്ദനേ സന്ദേഹം (1999)
+🎵 [65/334] Scraping: 33794
+   ✅ Saved: ഇനിയെന്തു പാടേണ്ടു ഞാന്‍ (f) (1999)
+🎵 [66/334] Scraping: 9998
+   ✅ Saved: ഇനിയെന്തു പാടേണ്ടു ഞാൻ ()
+🎵 [67/334] Scraping: 33795
+   ✅ Saved: കനകസഭാതലം മമഹൃദയം (1999)
+🎵 [68/334] Scraping: 33793
+   ✅ Saved: ഗായതി ഗായതി വനമാലി (1999)
+🎵 [69/334] Scraping: 7904
+   ✅ Saved: ചിറ്റോളം തുളുമ്പുന്ന ()
+🎵 [70/334] Scraping: 33791
+   ✅ Saved: മാണിക്യവീണാ മാനസരാഗം (1999)
+🎵 [71/334] Scraping: 58762
+   ✅ Saved: ചന്ദ്രമുഖിനദിതൻ കരയിൽ (1999)
+🎵 [72/334] Scraping: theercha-illaajanam
+   ✅ Saved: തീർച്ച ഇല്ലാജനം (1999)
+🎵 [73/334] Scraping: 68258
+   ✅ Saved: ദിൽ ആഗെ ആഗെ (1999)
+🎵 [74/334] Scraping: nadoodi-poothinkal
+   ✅ Saved: നാടോടിപ്പൂന്തിങ്കൾ മുടിയിൽച്ചൂടി ()
+🎵 [75/334] Scraping: 68253
+   ✅ Saved: വെണ്ണിലാക്കൊമ്പിലെ (1999)
+🎵 [76/334] Scraping: 14560
+   ✅ Saved: വെണ്ണിലാക്കൊമ്പിലെ രാപ്പാടീ ()
+🎵 [77/334] Scraping: rishikalude-peril
+   ✅ Saved: *ഋഷികളുടെ പേരിൽ (1999)
+🎵 [78/334] Scraping: 106424
+   ✅ Saved: ഏഴു നിറങ്ങളിൽ (1999)
+🎵 [79/334] Scraping: 106425
+   ✅ Saved: കോലക്കുഴലിന്റെ നാദം (1999)
+🎵 [80/334] Scraping: 66613
+   ✅ Saved: ചന്ദ്രികാഞ്ചിതരാവുകള്‍ (1999)
+🎵 [81/334] Scraping: chandrikanjitha-ravukal-m
+   ✅ Saved: ചന്ദ്രികാഞ്ചിതരാവുകള്‍ - M (1999)
+🎵 [82/334] Scraping: bharatha-kadhayithu
+   ✅ Saved: ഭാരതകഥയിതു (1999)
+🎵 [83/334] Scraping: enne-maranno-f
+   ✅ Saved: *എന്നെ മറന്നോ - F (1999)
+🎵 [84/334] Scraping: enne-maranno-ponne
+   ✅ Saved: എന്നെ മറന്നോ (1999)
+🎵 [85/334] Scraping: thekku-thekku-thekkeppaadam
+   ✅ Saved: തെക്ക് തെക്ക് തെക്കേപ്പാടം ()
+🎵 [86/334] Scraping: thekkan-kaatte
+   ✅ Saved: തെക്കൻ കാറ്റേ ()
+🎵 [87/334] Scraping: 4149
+   ✅ Saved: മിന്നും നിലാതിങ്കളായ് ()
+🎵 [88/334] Scraping: 4150
+   ✅ Saved: മേലേ വിണ്ണിൻ മുറ്റത്താരേ ()
+🎵 [89/334] Scraping: melevinnin-muttathare-m
+   ✅ Saved: മേലേവിണ്ണിൻ മുറ്റത്താരേ - M (1999)
+🎵 [90/334] Scraping: malakondoru-poochend
+   ✅ Saved: മലകൊണ്ടൊരു പൂചെണ്ട് (1999)
+🎵 [91/334] Scraping: kadambanattu-kaalavela
+   ✅ Saved: കടമ്പനാട്ടു കാളവേല (1999)
+🎵 [92/334] Scraping: 14605
+   ✅ Saved: കൊക്കിക്കുറുകിയും ()
+🎵 [93/334] Scraping: 101687
+   ✅ Saved: നിലാ പൈതലേ (1999)
+🎵 [94/334] Scraping: nilappaithale-f
+   ✅ Saved: നിലാപ്പെതലേ - F (1999)
+🎵 [95/334] Scraping: 53629
+   ✅ Saved: ഹേയ് ഹേയ് ചുമ്മാ (D) (1999)
+🎵 [96/334] Scraping: 53630
+   ✅ Saved: ഹേയ് ഹേയ് ചുമ്മാ (F) (1999)
+🎵 [97/334] Scraping: 15493
+   ✅ Saved: കൈതപ്പൂവിൻ - D ()
+🎵 [98/334] Scraping: kaithappoovin-f
+   ✅ Saved: കൈതപ്പൂവിൻ - F (1999)
+🎵 [99/334] Scraping: chembazhukka-chembazhukka
+   ✅ Saved: ചെമ്പഴുക്കാ ചെമ്പഴുക്കാ ()
+🎵 [100/334] Scraping: thaitharo-thaka-thaitharo
+   ✅ Saved: തെയ്താരോ തക തെയ്താരോ (1999)
+🎵 [101/334] Scraping: poochaikkoru-poothali
+   ✅ Saved: പൂച്ചയ്ക്കൊരു പൂത്താലി (1999)
+🎵 [102/334] Scraping: meenakkodi-kaatte
+   ✅ Saved: മീനക്കോടി കാറ്റേ (1999)
+🎵 [103/334] Scraping: 4106
+   ✅ Saved: ഹരിചന്ദന മലരിലെ ()
+🎵 [104/334] Scraping: 105631
+   ✅ Saved: ഓ മാനത്ത് (1999)
+🎵 [105/334] Scraping: 105630
+   ✅ Saved: കാക്കോത്തിക്കുന്നല്ലയോ (1999)
+🎵 [106/334] Scraping: 12143
+   ✅ Saved: ഇനിയെന്നു കാണും ഞാൻ ()
+🎵 [107/334] Scraping: ethu-kaalarathri
+   ✅ Saved: ഏതു കാളരാത്രികൾക്കും (1999)
+🎵 [108/334] Scraping: parayan-maranna
+   ✅ Saved: പറയാൻ മറന്ന (1999)
+🎵 [109/334] Scraping: parayan-maranna-f
+   ✅ Saved: പറയാൻ മറന്ന - F (1999)
+🎵 [110/334] Scraping: 33163
+   ✅ Saved: ആകാശക്കോട്ടയിലെ സ്വര്‍ഗ്ഗവാതില്‍ (1999)
+🎵 [111/334] Scraping: 33180
+   ✅ Saved: ഉണരൂ ഒരു കുമ്പിള്‍ പൊന്നും (1990)
+🎵 [112/334] Scraping: unaroo-oru-kumbil
+   ✅ Saved: ഉണരൂ ഒരു കുമ്പിൾ പൊന്നും (1999)
+🎵 [113/334] Scraping: 33161
+   ✅ Saved: ചന്ദാമാമാ ചന്ദ്രകാന്ത കല്പടവില്‍ (1999)
+🎵 [114/334] Scraping: chiriyoonjal-kompil-f
+   ✅ Saved: ചിരിയൂഞ്ഞാല്‍ക്കൊമ്പില്‍ - F (1999)
+🎵 [115/334] Scraping: 33169
+   ✅ Saved: ചിരിയൂഞ്ഞാല്‍ക്കൊമ്പില്‍ - M (1999)
+🎵 [116/334] Scraping: 33179
+   ✅ Saved: റോജാപ്പൂ കവിളത്ത് (1999)
+🎵 [117/334] Scraping: theyy-oru-thena-vayal
+   ✅ Saved: തെയ്യ് ഒരു തെന വയൽ(D) (1999)
+🎵 [118/334] Scraping: ambadippayyukal
+   ✅ Saved: അമ്പാടിപ്പയ്യുകൾ (1999)
+🎵 [119/334] Scraping: ambaadi-payyukal-humming
+   ✅ Saved: അമ്പാടിപ്പയ്യുകൾ ഹമ്മിംഗ് ()
+🎵 [120/334] Scraping: ambaadi-payyukal-f
+   ✅ Saved: അമ്പാടിപ്പൈയ്യുകൾ മേയും (F) ()
+🎵 [121/334] Scraping: 11730
+   ✅ Saved: ഒരു കുഞ്ഞുപൂവിന്റെ ()
+🎵 [122/334] Scraping: 63797
+   ✅ Saved: ചന്ദ്രനുദിക്കുന്ന ദിക്കിൽ തീം ()
+🎵 [123/334] Scraping: 65853
+   ✅ Saved: തെയ്യ് ഒരു തെന വയൽ (1999)
+🎵 [124/334] Scraping: 15497
+   ✅ Saved: മഞ്ഞു പെയ്യണു മരം കുളിരണു ()
+🎵 [125/334] Scraping: 65852
+   ✅ Saved: മായാദേവകിയ്ക്ക് (1999)
+🎵 [126/334] Scraping: 91898
+   ✅ Saved: ചില്ലമേലേ ചിലയ്ക്കും ചില്ലുമൈനേ (1999)
+🎵 [127/334] Scraping: 91865
+   ✅ Saved: കുഞ്ഞുമാൻ പേടയോ (1999)
+🎵 [128/334] Scraping: 91928
+   ✅ Saved: നിലാചന്ദനം നെറുകയിൽ (1999)
+🎵 [129/334] Scraping: 91929
+   ✅ Saved: നിലാചന്ദനം നെറുകയിൽ (1999)
+🎵 [130/334] Scraping: kezhakkudikkana
+   ✅ Saved: *കെഴക്കുദിക്കണ (1999)
+🎵 [131/334] Scraping: poovaname-nee-vaa
+   ✅ Saved: പൂവാനമേ നീ വാ (1999)
+🎵 [132/334] Scraping: malarkkili-thalirkkili
+   ✅ Saved: മലർക്കിളീ തളിർക്കിളീ (1999)
+🎵 [133/334] Scraping: 105632
+   ✅ Saved: കരളിലെഴും കനവുകൾ (1999)
+🎵 [134/334] Scraping: 105633
+   ✅ Saved: പുതു പുത്തം (1999)
+🎵 [135/334] Scraping: athyunnathangalil-hosana
+   ✅ Saved: അത്യുന്നതങ്ങളിൽ ഹോശാന (1999)
+🎵 [136/334] Scraping: kunjikkunjomana-f
+   ✅ Saved: കുഞ്ഞിക്കുഞ്ഞോമന - F (1999)
+🎵 [137/334] Scraping: kunjikkunjomana-m
+   ✅ Saved: കുഞ്ഞിക്കുഞ്ഞോമന - M (1999)
+🎵 [138/334] Scraping: nazrethil-uyarnnoru
+   ✅ Saved: നസ്രത്തിൽ ഉയർന്നൊരു (1999)
+🎵 [139/334] Scraping: niraamaya-nee-varavaay
+   ✅ Saved: നിരാമയാ നീ വരവായ് (1999)
+🎵 [140/334] Scraping: bhoomukham-kaanum
+   ✅ Saved: ഭൂമുഖം കാണും (1999)
+🎵 [141/334] Scraping: manjadi-manikkutta
+   ✅ Saved: മഞ്ചാടി മണിക്കുട്ടാ (1999)
+🎵 [142/334] Scraping: venal-kariyilakalil
+   ✅ Saved: വേനൽ കരിയിലകളിൽ (1999)
+🎵 [143/334] Scraping: 105648
+   ✅ Saved: ചക്കിന് വെച്ചത് (1999)
+🎵 [144/334] Scraping: 105647
+   ✅ Saved: മിഴിയോരം ഒരു മോഹം (1999)
+🎵 [145/334] Scraping: 105649
+   ✅ Saved: മൂവന്തിച്ചാന്തണിഞ്ഞു (1999)
+🎵 [146/334] Scraping: enthininnum-neeyen
+   ✅ Saved: എന്തിനിന്നും നീയെൻ (1999)
+🎵 [147/334] Scraping: o-sarike-jeevanayi
+   ✅ Saved: ഓ ശാരികേ ജീവനായി (1999)
+🎵 [148/334] Scraping: chenkal-cheriya
+   ✅ Saved: ചെങ്കൽചേറിയ (1999)
+🎵 [149/334] Scraping: minnaminni-ponnum-muthe
+   ✅ Saved: മിന്നാമിന്നി പൊന്നും മുത്തേ (1999)
+🎵 [150/334] Scraping: surubaru-saaye
+   ✅ Saved: സുരുബരു സായേ (1999)
+🎵 [151/334] Scraping: swarnnamedayullore
+   ✅ Saved: സ്വർണ്ണമേടയുള്ളോരേ (1999)
+🎵 [152/334] Scraping: 105619
+   ✅ Saved: ആലപ്പുഴ വാഴും (1999)
+🎵 [153/334] Scraping: 105628
+   ✅ Saved: കടുവായെ കിടുവ പിടിക്കുന്നോ (1999)
+🎵 [154/334] Scraping: 96396
+   ✅ Saved: കള്ളന്‍ ചക്കേട്ടു - D (1999)
+🎵 [155/334] Scraping: 105620
+   ✅ Saved: കള്ളന്‍ ചക്കേട്ടു - M (1999)
+🎵 [156/334] Scraping: 105627
+   ✅ Saved: തെയ്യ് തെയ്യ് ചൊല്ലി (1999)
+🎵 [157/334] Scraping: saivasankethame-vaishnavaachaarame
+   ✅ Saved: ശൈവസങ്കേതമേ വൈഷ്ണവാചാരമേ ()
+🎵 [158/334] Scraping: 105629
+   ✅ Saved: ശോകമൂകമായ് - F (1999)
+🎵 [159/334] Scraping: 10144
+   ✅ Saved: ശോകമൂകമായ് - M ()
+🎵 [160/334] Scraping: achikondan
+   ✅ Saved: അച്ചികോന്തൻ (1999)
+🎵 [161/334] Scraping: kanatha-swapnam
+   ✅ Saved: കാണാത്ത സ്വപ്നം (1999)
+🎵 [162/334] Scraping: pathupara-ponnu
+   ✅ Saved: പത്തുപറ പൊന്ന് (1999)
+🎵 [163/334] Scraping: midukkathi-kurumbi
+   ✅ Saved: മിടുക്കത്തി കുറുമ്പി (1999)
+🎵 [164/334] Scraping: 8526
+   ✅ Saved: എന്റെ ഉള്ളുടുക്കും കൊട്ടി ()
+🎵 [165/334] Scraping: kalavani-neeyadyam
+   ✅ Saved: കളവാണീ നീയാദ്യം ()
+🎵 [166/334] Scraping: 58766
+   ✅ Saved: നിന്റെ കണ്ണിൽ (F) (1999)
+🎵 [167/334] Scraping: ninte-kannil-virunnu-vannu
+   ✅ Saved: നിന്റെ കണ്ണിൽ വിരുന്നു വന്നൂ ()
+🎵 [168/334] Scraping: malarukal-thorum
+   ✅ Saved: മലരുകൾ തോറും (1999)
+🎵 [169/334] Scraping: sindoora-sandhye-parayoo
+   ✅ Saved: സിന്ദൂര സന്ധ്യേ പറയൂ ()
+🎵 [170/334] Scraping: sindoora-sandhye-parayoo-m
+   ✅ Saved: സിന്ദൂരസന്ധ്യേ പറയൂ - M (1999)
+🎵 [171/334] Scraping: snehathin-poo-nulli
+   ✅ Saved: സ്നേഹത്തിൻ പൂ നുള്ളി ()
+🎵 [172/334] Scraping: 106244
+   ✅ Saved: ചലൽചഞ്ചല ചിലമ്പൊലിയോ (1999)
+🎵 [173/334] Scraping: 106239
+   ✅ Saved: ദിവാസ്വപ്നം പൊലിഞ്ഞു (1999)
+🎵 [174/334] Scraping: 106242
+   ✅ Saved: ദിൽ-എ-നാദാൻ (1999)
+🎵 [175/334] Scraping: devi-hridayaragam
+   ✅ Saved: ദേവീ ഹൃദയരാഗം ()
+🎵 [176/334] Scraping: 63403
+   ✅ Saved: നമസ്തേസ്‌തു മഹാമായേ (1999)
+🎵 [177/334] Scraping: 106245
+   ✅ Saved: പാരാളും മാളോരേ (1999)
+🎵 [178/334] Scraping: 106240
+   ✅ Saved: പൊൻവസന്തമാഗമം (1999)
+🎵 [179/334] Scraping: 106238
+   ✅ Saved: യമുനാ നദിയൊഴുകും (1999)
+🎵 [180/334] Scraping: sudhamanthram-nivedhitham
+   ✅ Saved: സുധാമന്ത്രം നിവേദിതം (1999)
+🎵 [181/334] Scraping: oru-chik-chik-chirakil
+   ✅ Saved: ഒരു ചിക് ചിക് ചിറകിൽ ()
+🎵 [182/334] Scraping: praayam-nammil-moham-nalki
+   ✅ Saved: പ്രായം നമ്മിൽ മോഹം നൽകീ ()
+🎵 [183/334] Scraping: minnithennum-nakshathrangal
+   ✅ Saved: മിന്നിത്തെന്നും നക്ഷത്രങ്ങൾ ()
+🎵 [184/334] Scraping: mizhiyariyaathe-vannu-nee
+   ✅ Saved: മിഴിയറിയാതെ വന്നു നീ ()
+🎵 [185/334] Scraping: mizhiyariyathe-vannu-nee-f
+   ✅ Saved: മിഴിയറിയാതെ വന്നു നീ - F (1999)
+🎵 [186/334] Scraping: 15475
+   ✅ Saved: യാത്രയായ് സൂര്യാങ്കുരം ()
+🎵 [187/334] Scraping: thoovanathumbikal
+   ✅ Saved: *തൂവാനത്തുമ്പികൾ (1999)
+🎵 [188/334] Scraping: 98005
+   ✅ Saved: ആരോട് ഞാനെന്റെ കഥ പറയും (1999)
+🎵 [189/334] Scraping: 98007
+   ✅ Saved: ഉണരും വരെ (1999)
+🎵 [190/334] Scraping: evideyen-dukham
+   ✅ Saved: എവിടെയെന്‍ ദുഃഖം (1999)
+🎵 [191/334] Scraping: 98009
+   ✅ Saved: എവിടെയെൻ ദുഃഖം (M) (1999)
+🎵 [192/334] Scraping: 98011
+   ✅ Saved: കാരികിക്കിരി (1999)
+🎵 [193/334] Scraping: 98010
+   ✅ Saved: കൈത്താളം കേട്ടില്ലേ (M) (1999)
+🎵 [194/334] Scraping: 98008
+   ✅ Saved: കൈത്താളം കേട്ടില്ലേ - D (1999)
+🎵 [195/334] Scraping: 98006
+   ✅ Saved: നീലകമലദളം അഴകിന്നലകളിൽ (1999)
+🎵 [196/334] Scraping: 95625
+   ✅ Saved: നീലകമലദളം അഴകിന്നലകളിൽ (1999)
+🎵 [197/334] Scraping: 65171
+   ✅ Saved: ഏഴാം കൂലിയിവൻ (1999)
+🎵 [198/334] Scraping: 19607
+   ✅ Saved: പൂച്ച പൂച്ച പൂച്ചപ്പെണ്ണേ ()
+🎵 [199/334] Scraping: poovukal-peyyum-m
+   ✅ Saved: പൂവുകൾ പെയ്യും (M) ()
+🎵 [200/334] Scraping: 65172
+   ✅ Saved: പൂവുകൾ പെയ്യും(D) (1999)
+🎵 [201/334] Scraping: 13780
+   ✅ Saved: ശംഖും വെൺചാമരവും ()
+🎵 [202/334] Scraping: swarnapathrathal-moodi-m
+   ✅ Saved: സ്വർണ്ണപാത്രത്താൽ - M (1999)
+🎵 [203/334] Scraping: swarnapathrathal-moodi-f
+   ✅ Saved: സ്വർണ്ണപാത്രത്താൽ മൂടി - F (1999)
+🎵 [204/334] Scraping: 105847
+   ✅ Saved: ഏലപ്പുലയന്റെ മോള് - M (1999)
+🎵 [205/334] Scraping: 10200
+   ✅ Saved: പുലരിനിലാവ് കളഭമുഴിഞ്ഞു ()
+🎵 [206/334] Scraping: 37110
+   ✅ Saved: പൊലിയോ പൊലി പൂക്കില (1999)
+🎵 [207/334] Scraping: 10201
+   ✅ Saved: വാർതിങ്കളാൽ മാറിൽ ()
+🎵 [208/334] Scraping: 14666
+   ✅ Saved: വാർത്തിങ്കളാൽ മാറിൽ ()
+🎵 [209/334] Scraping: 96662
+   ✅ Saved: സിന്ദൂരാരുണ വിഗ്രഹാം (1999)
+🎵 [210/334] Scraping: aalolam-chanjakkam
+   ✅ Saved: ആലോലം ചാഞ്ചക്കം (1999)
+🎵 [211/334] Scraping: chandrodayam-neeyalle
+   ✅ Saved: ചന്ദ്രോദയം നീയല്ലേ (1999)
+🎵 [212/334] Scraping: poomeniyil-punaru
+   ✅ Saved: പൂമേനിയിൽ പുണര് (1999)
+🎵 [213/334] Scraping: adwaithamrutha-manthram
+   ✅ Saved: അദ്വൈതാമൃത മന്ത്രം (1999)
+🎵 [214/334] Scraping: innale-peitha-mazhathullikal-f
+   ✅ Saved: ഇന്നലെ പെയ്ത മഴത്തുള്ളികൾ - F (1999)
+🎵 [215/334] Scraping: innale-peitha-mazhathullikal-m
+   ✅ Saved: ഇന്നലെ പെയ്ത മഴത്തുള്ളികൾ - M (1999)
+🎵 [216/334] Scraping: pavizhamunthiri-thalirthu
+   ✅ Saved: പവിഴമുന്തിരി തളിർത്തു (1999)
+🎵 [217/334] Scraping: manassin-thalirmarathin
+   ✅ Saved: മനസ്സിൻ തളിർമരത്തിൻ (1999)
+🎵 [218/334] Scraping: 105854
+   ✅ Saved: കാട് ഭരിക്കും (2000)
+🎵 [219/334] Scraping: 105851
+   ✅ Saved: കുങ്കുമസന്ധ്യതൻ ചിതയിൽ (2000)
+🎵 [220/334] Scraping: 105850
+   ✅ Saved: തിങ്കളാഴ്ച നോമ്പുകൾ (2000)
+🎵 [221/334] Scraping: 105848
+   ✅ Saved: നെറ്റിയിലന്നു ഞാൻ (2000)
+🎵 [222/334] Scraping: 58761
+   ✅ Saved: പാല്‍ക്കുടങ്ങള്‍ (1999)
+🎵 [223/334] Scraping: 104187
+   ✅ Saved: പൊന്നിട്ട പെട്ടകം (F) ()
+🎵 [224/334] Scraping: 8678
+   ✅ Saved: പൊന്നിട്ട പെട്ടകം (M) ()
+🎵 [225/334] Scraping: maanathoru-pon-thaarakam
+   ✅ Saved: മാനത്തൊരു പൊൻ താരകം ()
+🎵 [226/334] Scraping: 105609
+   ✅ Saved: ആടിക്കാറ്റേ വീശല്ലേ (1999)
+🎵 [227/334] Scraping: 69269
+   ✅ Saved: ഈറന്‍ കിനാക്കളും (1999)
+🎵 [228/334] Scraping: 105606
+   ✅ Saved: പുതുമഴ നനയും (1999)
+🎵 [229/334] Scraping: aayiram-varnamaai
+   ✅ Saved: ആയിരം വർണ്ണമായ് ()
+🎵 [230/334] Scraping: kaathil-vellichittu-chaarthum
+   ✅ Saved: കാതിൽ വെള്ളിചിറ്റു ചാർത്തും ()
+🎵 [231/334] Scraping: devaragame-mele
+   ✅ Saved: ദേവരാഗമേ മേലേ മേഘത്തേരിൽ ()
+🎵 [232/334] Scraping: panineeru-peyyum-d
+   ✅ Saved: പനിനീരു പെയ്യും - D (1999)
+🎵 [233/334] Scraping: panineeru-peyyum-bit
+   ✅ Saved: പനിനീരു പെയ്യും - ബിറ്റ് (1999)
+🎵 [234/334] Scraping: panineeru-peyyum-song-composing
+   ✅ Saved: പനിനീരു പെയ്യും - സോംഗ് കമ്പോസിംഗ് (1999)
+🎵 [235/334] Scraping: panineeru-peyyum-nilaavil
+   ✅ Saved: പനിനീരു പെയ്യും നിലാവിൽ ()
+🎵 [236/334] Scraping: 15069
+   ✅ Saved: മതി മൗനം വീണേ - F ()
+🎵 [237/334] Scraping: mathi-mounam-veene-m
+   ✅ Saved: മതി മൗനം വീണേ - M (1999)
+🎵 [238/334] Scraping: maanthalirin-pattu-chuttiya
+   ✅ Saved: മാന്തളിരിൻ പട്ടു ചുറ്റിയ ()
+🎵 [239/334] Scraping: maanthalirin-pattu-f
+   ✅ Saved: മാന്തളിരിൻ പട്ടു ചുറ്റിയ - F (1999)
+🎵 [240/334] Scraping: 101618
+   ✅ Saved: കടൽ കാറ്റിൻ നെഞ്ചിൽ (1999)
+🎵 [241/334] Scraping: 101601
+   ✅ Saved: കടൽ കാറ്റിൻ നെഞ്ചിൽ (F) (1999)
+🎵 [242/334] Scraping: 101602
+   ✅ Saved: കടൽ കാറ്റിൻ നെഞ്ചിൽ (M) (1999)
+🎵 [243/334] Scraping: thankakkinaponkal
+   ✅ Saved: തങ്കക്കിനാപൊങ്കൽ ()
+🎵 [244/334] Scraping: panchamithinkal
+   ✅ Saved: പഞ്ചമിതിങ്കൾ (1999)
+🎵 [245/334] Scraping: 101622
+   ✅ Saved: പുന്നാരപ്പൂവിലും (M) (1999)
+🎵 [246/334] Scraping: 101600
+   ✅ Saved: പുന്നാരപ്പൂവിലും(F) (1999)
+🎵 [247/334] Scraping: 4066
+   ✅ Saved: പുലരിക്കിണ്ണം പൊന്നിൽ ()
+🎵 [248/334] Scraping: shivamallipoove
+   ✅ Saved: ശിവമല്ലിപ്പൂവേ (1999)
+🎵 [249/334] Scraping: 105994
+   ✅ Saved: കണ്ണിൽ ചുണ്ടിൽ (1999)
+🎵 [250/334] Scraping: kilivathilil-kathorthu-d
+   ✅ Saved: കിളിവാതിലിൽ കാതോർത്തു - D (1999)
+🎵 [251/334] Scraping: 7298
+   ✅ Saved: കിളിവാതിലിൽ കാതോർത്തു - F ()
+🎵 [252/334] Scraping: kilivathilil-kathorthu-m
+   ✅ Saved: കിളിവാതിലിൽ കാതോർത്തു - M (1999)
+🎵 [253/334] Scraping: 15483
+   ✅ Saved: പുള്ളിമാൻ കിടാവേ - D1 ()
+🎵 [254/334] Scraping: pulliman-kidaave-d2
+   ✅ Saved: പുള്ളിമാൻ കിടാവേ - D2 (1999)
+🎵 [255/334] Scraping: 15485
+   ✅ Saved: പൊന്നോലത്തുമ്പിൽ പൂവാലിത്തുമ്പീ ()
+🎵 [256/334] Scraping: raavin-nilaakkaayal
+   ✅ Saved: രാവിൻ നിലാക്കായൽ ()
+🎵 [257/334] Scraping: raavin-nilakkayal-m
+   ✅ Saved: രാവിൻ നിലാക്കായൽ - M (1999)
+🎵 [258/334] Scraping: 35780
+   ✅ Saved: ശിവദം ശിവനാമം - D1 (1999)
+🎵 [259/334] Scraping: sivadam-sivanaamam-d2
+   ✅ Saved: ശിവദം ശിവനാമം - D2 (1999)
+🎵 [260/334] Scraping: kaalvari-choodiya
+   ✅ Saved: കാൽവരി ചൂടിയ (1999)
+🎵 [261/334] Scraping: kuthirayumaay-para-parakkum
+   ✅ Saved: കുതിരയുമായ് പറ പറക്കും (1999)
+🎵 [262/334] Scraping: ragachandran-premamode
+   ✅ Saved: രാഗചന്ദ്രൻ പ്രേമമോടെ (1999)
+🎵 [263/334] Scraping: vasanthasooryan
+   ✅ Saved: വസന്തസൂര്യൻ (1999)
+🎵 [264/334] Scraping: aaro-paranju
+   ✅ Saved: ആരോ പറഞ്ഞു ()
+🎵 [265/334] Scraping: njanoru-pattu-padam
+   ✅ Saved: ഞാനൊരു പാട്ടു പാടാം ()
+🎵 [266/334] Scraping: thumbayum-thulasiyum
+   ✅ Saved: തുമ്പയും തുളസിയും ()
+🎵 [267/334] Scraping: 106327
+   ✅ Saved: തുമ്പയും തുളസിയും - M (1999)
+🎵 [268/334] Scraping: 53052
+   ✅ Saved: മഞ്ഞുകാലം നോല്‍ക്കും (1999)
+🎵 [269/334] Scraping: 106328
+   ✅ Saved: മഞ്ഞുകാലം നോൽക്കും - M (1999)
+🎵 [270/334] Scraping: 53277
+   ✅ Saved: മാർഗഴിയേ മല്ലികയേ ()
+🎵 [271/334] Scraping: vilakku-veykkum
+   ✅ Saved: വിളക്കു വെയ്ക്കും ()
+🎵 [272/334] Scraping: 97326
+   ✅ Saved: ടും ടും പട്ടാളം (1999)
+🎵 [273/334] Scraping: 105646
+   ✅ Saved: മാടപ്രാവേ (1999)
+🎵 [274/334] Scraping: 58760
+   ✅ Saved: ശിവ പെരുമാൾ (1999)
+🎵 [275/334] Scraping: nerukayil-alasam
+   ✅ Saved: നെറുകയിൽ അലസം (1999)
+🎵 [276/334] Scraping: 100833
+   ✅ Saved: എങ്ങുന്ന് വന്ന കിളിക്കിടാവ് (1994)
+🎵 [277/334] Scraping: 51028
+   ✅ Saved: അർജ്ജുന വല്ലഭ (1999)
+🎵 [278/334] Scraping: 51042
+   ✅ Saved: ഇനിമേലിൽ ജനിക്കുന്ന (1990)
+🎵 [279/334] Scraping: 51037
+   ✅ Saved: ഏണാങ്കൻ ഇളങ്കാറ്റും (1999)
+🎵 [280/334] Scraping: 51034
+   ✅ Saved: കണ്ടു ഞാൻ തോഴി (1999)
+🎵 [281/334] Scraping: 51047
+   ✅ Saved: കല്ലിനോട് തുല്യ (1990)
+🎵 [282/334] Scraping: 51033
+   ✅ Saved: കാമിനീ മമ (1999)
+🎵 [283/334] Scraping: 51044
+   ✅ Saved: കാര്യമവനോടുശൌര്യം (1990)
+🎵 [284/334] Scraping: 51050
+   ✅ Saved: താൾ മന്ത്ര (1990)
+🎵 [285/334] Scraping: 51038
+   ✅ Saved: പുഷ്ക്കര വിലോചന (1999)
+🎵 [286/334] Scraping: 51040
+   ✅ Saved: ഭവദീയ നിയോഗം (1990)
+🎵 [287/334] Scraping: 51035
+   ✅ Saved: മിണ്ടീടാഞ്ഞതെന്തേ (1990)
+🎵 [288/334] Scraping: 51048
+   ✅ Saved: മേദുരഭക്തിയുള്ള (1990)
+🎵 [289/334] Scraping: 51036
+   ✅ Saved: സുകുമാരാ നന്ദകുമാരാ (1999)
+🎵 [290/334] Scraping: 51049
+   ✅ Saved: സോദരാ ബാലിൻ (1990)
+🎵 [291/334] Scraping: 51051
+   ✅ Saved: സ്മൈൽ (1990)
+🎵 [292/334] Scraping: 52381
+   ✅ Saved: അഴകേ അന്നൊരാവണിയില്‍ (1999)
+🎵 [293/334] Scraping: azhake-annoravaniyil-m
+   ✅ Saved: അഴകേ അന്നൊരാവണിയില്‍ - M (1999)
+🎵 [294/334] Scraping: 52385
+   ✅ Saved: പൊന്നാനപ്പുറമേറണ (1999)
+🎵 [295/334] Scraping: 52384
+   ✅ Saved: മതിമുഖി മാലതി (1999)
+🎵 [296/334] Scraping: 52382
+   ✅ Saved: സന്ധ്യയും ഈ ചന്ദ്രികയും (1999)
+🎵 [297/334] Scraping: 52383
+   ✅ Saved: സന്ധ്യയും ഈ ചന്ദ്രികയും (M) (1999)
+🎵 [298/334] Scraping: aalila-kanna-ninte-f
+   ✅ Saved: ആലിലക്കണ്ണാ നിന്റെ - F (1999)
+🎵 [299/334] Scraping: 8899
+   ✅ Saved: ആലിലക്കണ്ണാ നിൻ ()
+🎵 [300/334] Scraping: 8901
+   ✅ Saved: കണ്ണുനീരിനും ചിരിക്കാനറിയാം ()
+🎵 [301/334] Scraping: kattile
+   ✅ Saved: കാട്ടിലെ മാനിന്റെ തോലുകൊണ്ടുണ്ടാക്കി ()
+🎵 [302/334] Scraping: 15461
+   ✅ Saved: ചാന്തുപൊട്ടും ചങ്കേലസ്സും ()
+🎵 [303/334] Scraping: 8902
+   ✅ Saved: തേങ്ങാപ്പൂളും കൊക്കിലൊതുക്കി ()
+🎵 [304/334] Scraping: 68250
+   ✅ Saved: തേനാണ് നിൻ ()
+🎵 [305/334] Scraping: thenanu-nin-swaram-f
+   ✅ Saved: തേനാണ് നിൻ സ്വരം - F (1999)
+🎵 [306/334] Scraping: 8903
+   ✅ Saved: പ്രകൃതീശ്വരീ നിന്റെ ആരാധകൻ ()
+🎵 [307/334] Scraping: 33117
+   ✅ Saved: ഒത്തു പിടിച്ചവർ കപ്പൽ കേറി (1999)
+🎵 [308/334] Scraping: 30325
+   ✅ Saved: കണ്ണെത്താമല മാമല (1999)
+🎵 [309/334] Scraping: 30356
+   ✅ Saved: പിൻനിലാവിൻ പൂ വിടർന്നു - D (1999)
+🎵 [310/334] Scraping: 103056
+   ✅ Saved: പിൻനിലാവിൻ പൂ വിടർന്നു - F (1999)
+🎵 [311/334] Scraping: 33116
+   ✅ Saved: മൗനം എന്റെ മായാമോഹത്തിൻ (1998)
+🎵 [312/334] Scraping: 33118
+   ✅ Saved: വാക്കുകൾ വേണ്ടാ വർണങ്ങൾ വേണ്ടാ (1999)
+🎵 [313/334] Scraping: viswam-kaakkunna-nadhaa
+   ✅ Saved: വിശ്വം കാക്കുന്ന നാഥാ ()
+🎵 [314/334] Scraping: nirangal-nirangal
+   ✅ Saved: നിറങ്ങൾ നിറങ്ങൾ (1999)
+🎵 [315/334] Scraping: varnachirakukal-veesi
+   ✅ Saved: വർണ്ണച്ചിറകുകൾ വീശി (1999)
+🎵 [316/334] Scraping: 92930
+   ✅ Saved: ശ്യാമമേഘം പീലിപാകും (1999)
+🎵 [317/334] Scraping: 103951
+   ✅ Saved: കണ്ണുനീർ തെന്നലെ (1999)
+🎵 [318/334] Scraping: 38035
+   ✅ Saved: കാക്കേ കാക്കേ കാക്കത്തമ്പ്രാട്ടീ (1999)
+🎵 [319/334] Scraping: 103952
+   ✅ Saved: കാക്കേ കാക്കേ കാക്കത്തമ്പ്രാട്ടീ - M (1999)
+🎵 [320/334] Scraping: 98301
+   ✅ Saved: പൊന്നോലപ്പന്തലിൽ (1999)
+🎵 [321/334] Scraping: 103953
+   ✅ Saved: മാരിവില്ലുടുപ്പണിഞ്ഞു (1999)
+🎵 [322/334] Scraping: 87360
+   ✅ Saved: ഇന്ദുമതി പൂവിരിഞ്ഞത് (1999)
+🎵 [323/334] Scraping: 87361
+   ✅ Saved: ഈ ശ്യാമസന്ധ്യയിൽ മായുമോ വാസരം (1999)
+🎵 [324/334] Scraping: 87362
+   ✅ Saved: കല്യാണക്കുയിലു വിളിക്കും (1999)
+🎵 [325/334] Scraping: 87359
+   ✅ Saved: കൂടൊഴിഞ്ഞു കുടിയേറി വരുന്നൂ (1999)
+🎵 [326/334] Scraping: 87363
+   ✅ Saved: തേങ്ങി മൗനം തേങ്ങീ (1999)
+🎵 [327/334] Scraping: doora-tharakangal
+   ✅ Saved: ദൂരതാരകങ്ങൾ (1999)
+🎵 [328/334] Scraping: 87358
+   ✅ Saved: പണ്ടെന്നോ കേട്ടതാണേ (1999)
+🎵 [329/334] Scraping: 105823
+   ✅ Saved: രക്തവർണ്ണക്കൊടി പൊങ്ങി (1999)
+🎵 [330/334] Scraping: 68226
+   ✅ Saved: ചെങ്കുറുഞ്ഞി പൂ (D) (1999)
+🎵 [331/334] Scraping: 68225
+   ✅ Saved: ചെങ്കുറുഞ്ഞിപ്പെണ്ണേ (F) (1999)
+🎵 [332/334] Scraping: 68217
+   ✅ Saved: മൂവർണ്ണക്കൊടി (1999)
+🎵 [333/334] Scraping: 68227
+   ✅ Saved: രാപ്പാടികൾ (1999)
+🎵 [334/334] Scraping: 68216
+   ✅ Saved: വെള്ളിക്കിണ്ണം (1999)
+Year complete: success=334, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 9145
