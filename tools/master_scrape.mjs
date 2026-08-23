@@ -1,4 +1,4 @@
-﻿import { writeFileSync, mkdirSync, readFileSync, existsSync, appendFileSync } from 'fs';
+import { writeFileSync, mkdirSync, readFileSync, existsSync, appendFileSync } from 'fs';
 import { load } from 'cheerio';
 
 const BASE_URL = 'https://m3db.com';
@@ -7,6 +7,10 @@ const DELAY_BETWEEN_SONGS = 2000; // 2 seconds
 const DELAY_BETWEEN_YEARS = 5000; // 5 seconds
 const MAX_RETRIES = 3;
 const LOG_FILE = 'scrape_log.txt';
+
+// Read years from command-line arguments (after node and script path)
+const requestedYears = process.argv.slice(2);
+const onlySpecificYears = requestedYears.length > 0;
 
 async function fetchPage(url) {
   let lastError;
@@ -52,6 +56,33 @@ function extractText($, selector) {
   return $(selector).text().trim().replace(/\s+/g, ' ');
 }
 
+// New function to preserve line breaks
+function extractLyricsWithLineBreaks($, selector) {
+  const html = $(selector).html() || '';
+  if (!html) return '';
+
+  // Replace <br> and <br/> with newline
+  let text = html.replace(/<br\s*\/?>/gi, '\n');
+
+  // Replace closing </p> with newline
+  text = text.replace(/<\/p>/gi, '\n');
+
+  // Remove all remaining HTML tags
+  text = text.replace(/<[^>]+>/g, '');
+
+  // Decode common HTML entities
+  text = text.replace(/&nbsp;/gi, ' ');
+  text = text.replace(/&amp;/gi, '&');
+  text = text.replace(/&lt;/gi, '<');
+  text = text.replace(/&gt;/gi, '>');
+
+  // Remove zero-width joiner if present (as seen in some lyrics)
+  text = text.replace(/\u200d/g, '');
+
+  // Trim but keep newlines
+  return text.trim();
+}
+
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
@@ -67,7 +98,9 @@ async function scrapeSong(songUrl) {
 
   const id = songUrl.split('/').pop();
   const songName = extractText($, 'h1');
-  const lyrics = extractText($, '.field-name-body .field-item');
+  // Use #protectedText as primary selector, fallback to .field-name-body .field-item
+  const lyrics = extractLyricsWithLineBreaks($, '#protectedText') ||
+                 extractLyricsWithLineBreaks($, '.field-name-body .field-item');
   const music = extractList($, '.field-name-field-music');
   const lyricist = extractList($, '.field-name-field-lyricist');
   const singers = extractList($, '.field-name-field-singer');
@@ -167,7 +200,7 @@ async function main() {
   const yearListHtml = await fetchPage(YEAR_LIST_URL);
   const $ = load(yearListHtml);
 
-  const yearUrls = [];
+  let yearUrls = [];
   $('a').each((i, el) => {
     const href = $(el).attr('href') || '';
     if (href.includes('/archive/lyrics/year/')) {
@@ -176,11 +209,18 @@ async function main() {
     }
   });
 
-  const uniqueYears = [...new Set(yearUrls)];
-  logMessage(`Found ${uniqueYears.length} year archives.`);
+  let uniqueYears = [...new Set(yearUrls)];
 
-  // Optional: process only a subset for testing
-  // uniqueYears = uniqueYears.slice(0, 3);
+  if (onlySpecificYears) {
+    // Filter to only requested years
+    uniqueYears = uniqueYears.filter(url => {
+      const yearPart = url.split('/').pop();
+      return requestedYears.includes(yearPart);
+    });
+    logMessage(`Filtered to years: ${requestedYears.join(', ')}`);
+  }
+
+  logMessage(`Found ${uniqueYears.length} year archives to process.`);
 
   for (let i = 0; i < uniqueYears.length; i++) {
     const yearUrl = uniqueYears[i];
