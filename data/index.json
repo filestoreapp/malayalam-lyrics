@@ -198196,5 +198196,95 @@
     "musicDirector": "ബി എ ചിദംബരനാഥ്",
     "singers": "",
     "year": "1950"
+  },
+  "alolamala": {
+    "id": "alolamala",
+    "songName": "ആലോലാമല",
+    "film": "വെള്ളിനക്ഷത്രം",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "ഉദയ സ്റ്റുഡിയോ ഓർക്കെസ്ട്ര",
+    "singers": "ഗായക പീതാംബരം",
+    "year": ""
+  },
+  "ashaaheenam": {
+    "id": "ashaaheenam",
+    "songName": "ആശാഹീനം",
+    "film": "വെള്ളിനക്ഷത്രം",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "ബി എ ചിദംബരനാഥ്",
+    "singers": "ഗായക പീതാംബരം",
+    "year": ""
+  },
+  "ahaa-mohaname": {
+    "id": "ahaa-mohaname",
+    "songName": "ആഹാ മോഹനമേ",
+    "film": "വെള്ളിനക്ഷത്രം",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "ബി എ ചിദംബരനാഥ്",
+    "singers": "",
+    "year": ""
+  },
+  "evam-niravadhi": {
+    "id": "evam-niravadhi",
+    "songName": "എവം നിരവധി",
+    "film": "വെള്ളിനക്ഷത്രം",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "ബി എ ചിദംബരനാഥ്",
+    "singers": "ചെറായി അംബുജം",
+    "year": ""
+  },
+  "jeevitha-vaadi": {
+    "id": "jeevitha-vaadi",
+    "songName": "ജീവിതവാടി",
+    "film": "വെള്ളിനക്ഷത്രം",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "",
+    "singers": "ബി എ ചിദംബരനാഥ്, ഗായക പീതാംബരം",
+    "year": ""
+  },
+  "thrikkodi-thrikkodi": {
+    "id": "thrikkodi-thrikkodi",
+    "songName": "തൃക്കൊടി തൃക്കൊടി",
+    "film": "വെള്ളിനക്ഷത്രം",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "ബി എ ചിദംബരനാഥ്",
+    "singers": "ചെറായി അംബുജം",
+    "year": ""
+  },
+  "porinaayiranguvin": {
+    "id": "porinaayiranguvin",
+    "songName": "പോരിനായിറങ്ങുവിൻ",
+    "film": "വെള്ളിനക്ഷത്രം",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "ബി എ ചിദംബരനാഥ്",
+    "singers": "",
+    "year": ""
+  },
+  "premamanoharame": {
+    "id": "premamanoharame",
+    "songName": "പ്രേമമനോഹരമേ",
+    "film": "വെള്ളിനക്ഷത്രം",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "വി ദക്ഷിണാമൂർത്തി",
+    "singers": "ഗായക പീതാംബരം, ചെറായി അംബുജം",
+    "year": ""
+  },
+  "ragaramyame": {
+    "id": "ragaramyame",
+    "songName": "രാഗരമ്യമേ",
+    "film": "വെള്ളിനക്ഷത്രം",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "ബി എ ചിദംബരനാഥ്",
+    "singers": "സാവിത്രി ആലപ്പുഴ",
+    "year": "1949"
+  },
+  "sokavikalame": {
+    "id": "sokavikalame",
+    "songName": "ശോകവികലമേ",
+    "film": "വെള്ളിനക്ഷത്രം",
+    "lyricist": "അഭയദേവ്",
+    "musicDirector": "പരമുദാസ്, ബി എ ചിദംബരനാഥ്",
+    "singers": "",
+    "year": "1949"
   }
 }
