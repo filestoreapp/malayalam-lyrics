@@ -83717,3 +83717,156 @@ Year complete: success=60, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 21484
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1955
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1955
+   Page 1: https://m3db.com/archive/lyrics/year/1955
+   Found 70 songs on this page. Total unique so far: 70
+Total songs to scrape for this year: 70
+🎵 [1/70] Scraping: 66650
+   ✅ Saved: കാണും കണ്ണിനു പുണ്യം (1955)
+🎵 [2/70] Scraping: 66649
+   ✅ Saved: കാനനം വീണ്ടും തളിര്‍ത്തു (1955)
+🎵 [3/70] Scraping: 66707
+   ✅ Saved: അമ്മയുമച്ഛനും പോയേപ്പിന്നെ (1955)
+🎵 [4/70] Scraping: 66662
+   ✅ Saved: ആടുക ലവ് ഗേം നേടുക ലവ് ഗേം (1955)
+🎵 [5/70] Scraping: 66663
+   ✅ Saved: ആനന്ദനന്ദകുമാരാ (1955)
+🎵 [6/70] Scraping: 66713
+   ✅ Saved: കൊച്ചുകുട്ടത്തീ കൊച്ചനിയത്തീ (1955)
+🎵 [7/70] Scraping: 66711
+   ✅ Saved: ദുഃസ്സഹവാക്കുകള്‍ (1955)
+🎵 [8/70] Scraping: 66714
+   ✅ Saved: പാടെടി പാടെടി പെണ്ണേ (1955)
+🎵 [9/70] Scraping: 66715
+   ✅ Saved: പാഹിസകലജനനി (1955)
+🎵 [10/70] Scraping: 66716
+   ✅ Saved: പൂമരക്കൊമ്പത്തു (1955)
+🎵 [11/70] Scraping: 66709
+   ✅ Saved: ബഹുബഹു സുഖമാം (1955)
+🎵 [12/70] Scraping: 66717
+   ✅ Saved: സത്യമോ നീ കേള്‍പ്പതെല്ലാം (1955)
+🎵 [13/70] Scraping: 8297
+   ✅ Saved: അമ്പിളി മുത്തച്ഛൻ ()
+🎵 [14/70] Scraping: aa-malarpoykayil
+   ✅ Saved: ആ മലർപ്പൊയ്കയിൽ (1955)
+🎵 [15/70] Scraping: 9748
+   ✅ Saved: ആ മലർപ്പൊയ്കയിൽ ()
+🎵 [16/70] Scraping: 8299
+   ✅ Saved: ഏലയിലേ പുഞ്ചവയലേലയിലെ ()
+🎵 [17/70] Scraping: oho-thathinantha
+   ✅ Saved: ഓഹോ... താതിനന്താ (1955)
+🎵 [18/70] Scraping: 66647
+   ✅ Saved: പൈങ്കിളിയേ വാ വാ (1955)
+🎵 [19/70] Scraping: 8300
+   ✅ Saved: പോവണോ പോവണോ ()
+🎵 [20/70] Scraping: marayathe-vilasavu
+   ✅ Saved: മറയാതെ വിലസാവൂ (1955)
+🎵 [21/70] Scraping: maanathoonnoru
+   ✅ Saved: മാനത്തൂന്നൊരു ()
+🎵 [22/70] Scraping: 38771
+   ✅ Saved: അഭിമാനം വെടിയാതെ (1955)
+🎵 [23/70] Scraping: ennini-njan-nedum
+   ✅ Saved: എന്നിനി ഞാൻ നേടും ()
+🎵 [24/70] Scraping: kunkumacharumaninju
+   ✅ Saved: കുങ്കുമച്ചാറുമണിഞ്ഞു ()
+🎵 [25/70] Scraping: 12575
+   ✅ Saved: ചോരയില്ലല്ലോ കണ്ണിൽ ()
+🎵 [26/70] Scraping: 12576
+   ✅ Saved: നാളത്തെ ലോകത്തിൽ ()
+🎵 [27/70] Scraping: panathin-neethiyil
+   ✅ Saved: പണത്തിൻ നീതിയിൽ ()
+🎵 [28/70] Scraping: 38770
+   ✅ Saved: പലനാളിൽ (1955)
+🎵 [29/70] Scraping: paavanamaamidamaami
+   ✅ Saved: പാവനമാമിടമാമീ ()
+🎵 [30/70] Scraping: 66721
+   ✅ Saved: അയ്യോ മര്യാദരാമാ (1955)
+🎵 [31/70] Scraping: 66722
+   ✅ Saved: പാടു പാടു ഭാസുരമായ് (1955)
+🎵 [32/70] Scraping: udayagiri-chuvannu
+   ✅ Saved: ഉദയഗിരി ചുവന്നു (1955)
+🎵 [33/70] Scraping: enthinu-kanneerennum
+   ✅ Saved: എന്തിനു കണ്ണീരെന്നും (1955)
+🎵 [34/70] Scraping: 66718
+   ✅ Saved: ഓമനത്തിങ്കള്‍ക്കിടാവോ (1955)
+🎵 [35/70] Scraping: kallilum-mullilum
+   ✅ Saved: കല്ലിലും മുള്ളിലും (1955)
+🎵 [36/70] Scraping: chirichukonde
+   ✅ Saved: ചിരിച്ചുകൊണ്ടേ (1955)
+🎵 [37/70] Scraping: 66720
+   ✅ Saved: തെക്കന്‍ കാറ്റേ (F) (1955)
+🎵 [38/70] Scraping: thellakalathu
+   ✅ Saved: തെല്ലകലത്തു (1955)
+🎵 [39/70] Scraping: 81617
+   ✅ Saved: ദേവീ സർവ്വേശ്വരി (1955)
+🎵 [40/70] Scraping: 66719
+   ✅ Saved: നരനായിങ്ങനെ ജനിച്ചു ഭൂമിയില്‍ (1955)
+🎵 [41/70] Scraping: pazhaya-yugangngal
+   ✅ Saved: പഴയ യുഗങ്ങൾ (1955)
+🎵 [42/70] Scraping: 17783
+   ✅ Saved: മാവേലി നാടു വാണീടും കാലം ()
+🎵 [43/70] Scraping: 66655
+   ✅ Saved: ഓളങ്ങളിലോടട്ടെ ഓടം കളിയാടട്ടെ (1955)
+🎵 [44/70] Scraping: 66652
+   ✅ Saved: കളിയല്ലേയീക്കല്യാണ ഭാവനാ (1955)
+🎵 [45/70] Scraping: kanum-kanninu
+   ✅ Saved: കാണും കണ്ണിന് (1955)
+🎵 [46/70] Scraping: kanam-veendum-thalirthu
+   ✅ Saved: കാനനം വീണ്ടും തളിർത്തു (1955)
+🎵 [47/70] Scraping: 66648
+   ✅ Saved: കാലമെല്ലാം ഉല്ലാസം (1955)
+🎵 [48/70] Scraping: 66651
+   ✅ Saved: കൈമുതല്‍ വെടിയാതെ (1955)
+🎵 [49/70] Scraping: theyila-thottam
+   ✅ Saved: തേയിലത്തോട്ടം (1955)
+🎵 [50/70] Scraping: 66654
+   ✅ Saved: നില്ലു നില്ലു ചൊല്ലുചൊല്ലു (1955)
+🎵 [51/70] Scraping: 66653
+   ✅ Saved: മലനാട്ടിന്‍ മക്കള്‍തന്‍ നേട്ടം (1955)
+🎵 [52/70] Scraping: 66656
+   ✅ Saved: വരുവിന്‍ വരുവിന്‍ (1955)
+🎵 [53/70] Scraping: 66723
+   ✅ Saved: ആ രോഹിതാശ്വൻ പിറന്ന (1955)
+🎵 [54/70] Scraping: 7598
+   ✅ Saved: ആത്മവിദ്യാലയമേ (1955)
+🎵 [55/70] Scraping: adimannil
+   ✅ Saved: ആദിമണ്ണിൽ (1955)
+🎵 [56/70] Scraping: 38778
+   ✅ Saved: ആരു വാങ്ങും (1955)
+🎵 [57/70] Scraping: 17884
+   ✅ Saved: ആരുണ്ടു ചൊല്ലാൻ (1955)
+🎵 [58/70] Scraping: 38772
+   ✅ Saved: ആരെല്ലാം പോരുന്നു (1955)
+🎵 [59/70] Scraping: 38783
+   ✅ Saved: കരുണാസാഗരാ (1955)
+🎵 [60/70] Scraping: 38779
+   ✅ Saved: കഴല്‍നൊന്തു കണ്മണി (1955)
+🎵 [61/70] Scraping: 38781
+   ✅ Saved: കാട്ടുമുല്ലേ നാണം (1955)
+🎵 [62/70] Scraping: 38776
+   ✅ Saved: താനത്തന്നാനത്ത (1955)
+🎵 [63/70] Scraping: 38784
+   ✅ Saved: താനായി സര്‍വ്വം (1955)
+🎵 [64/70] Scraping: 38782
+   ✅ Saved: ദേവാധി രാജാ വെല്‍ക (1955)
+🎵 [65/70] Scraping: 38780
+   ✅ Saved: പൊന്നിന്‍ പൂമേട (1955)
+🎵 [66/70] Scraping: 17883
+   ✅ Saved: മഹല്‍ത്യാഗമേ മഹിതമേ (1955)
+🎵 [67/70] Scraping: maya-madhava-gopala
+   ✅ Saved: മായാ മാധവ ഗോപാലാ (1955)
+🎵 [68/70] Scraping: 38785
+   ✅ Saved: വാ വാ മകനേ (1955)
+🎵 [69/70] Scraping: 38777
+   ✅ Saved: ശ്രീദേവി പാരില്‍ (1955)
+🎵 [70/70] Scraping: 38773
+   ✅ Saved: സത്യമേ വിജയതാരം (1955)
+Year complete: success=70, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 21554
