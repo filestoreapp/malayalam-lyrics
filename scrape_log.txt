@@ -2393,3 +2393,642 @@ Year complete: success=512, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 1164
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 2021
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/2021
+   Page 1: https://m3db.com/archive/lyrics/year/2021
+   Found 313 songs on this page. Total unique so far: 313
+Total songs to scrape for this year: 313
+🎵 [1/313] Scraping: itha-vazhi-maariyodunnu
+   ✅ Saved: ഇതാ വഴി മാറിയോടുന്നു (2021)
+🎵 [2/313] Scraping: onnunarnnu-vannu-sooryan
+   ✅ Saved: ഒന്നുണർന്നു വന്നു സൂര്യൻ (2021)
+🎵 [3/313] Scraping: mukilu-thodaanay
+   ✅ Saved: മുകിലു തൊടാനായ് (2021)
+🎵 [4/313] Scraping: raa-thinkalin
+   ✅ Saved: രാ തിങ്കളിൻ (2021)
+🎵 [5/313] Scraping: aranitharanu
+   ✅ Saved: ആരാണിതാരാണ് (2020)
+🎵 [6/313] Scraping: sa-ma-ga-re-sa
+   ✅ Saved: സ മാ ഗ രി സ (2020)
+🎵 [7/313] Scraping: onnu-randu-moonnu-naalu
+   ✅ Saved: ഒന്ന് രണ്ട് മൂന്ന് നാല് (2021)
+🎵 [8/313] Scraping: olullere-olullere
+   ✅ Saved: ഓളുള്ളേരെ ഓളുള്ളേരെ (2021)
+🎵 [9/313] Scraping: dannana-dannana
+   ✅ Saved: ഡണ്ണണ്ണ ഡണ്ണാണ (2021)
+🎵 [10/313] Scraping: ee-nadhi
+   ✅ Saved: ഈ നദി (2021)
+🎵 [11/313] Scraping: kamini-roopini
+   ✅ Saved: കാമിനി രൂപിണി (2019)
+🎵 [12/313] Scraping: neeye-0
+   ✅ Saved: നീയേ (2021)
+🎵 [13/313] Scraping: bow-bow-song
+   ✅ Saved: ബൗ ബൗ ഗാനം (2019)
+🎵 [14/313] Scraping: mayangumee-mounam
+   ✅ Saved: മയങ്ങുമീ മൗനം (2021)
+🎵 [15/313] Scraping: koodilla-koottil
+   ✅ Saved: കൂടില്ലാ കൂട്ടിൽ (2021)
+🎵 [16/313] Scraping: malayoram-veyil-kayum
+   ✅ Saved: * മലയോരം വെയിൽ കായും (2021)
+🎵 [17/313] Scraping: mazha-vanne-vanne
+   ✅ Saved: മഴ വന്നേ വന്നേ (2021)
+🎵 [18/313] Scraping: shokardrame
+   ✅ Saved: ശോകാർദ്രമേ.. (2021)
+🎵 [19/313] Scraping: kadha-paadu-kaalame-nee
+   ✅ Saved: കഥ പാട് കാലമേ നീ (2021)
+🎵 [20/313] Scraping: nettiyil-chandanakuriyittu
+   ✅ Saved: നെറ്റിയിൽ ചന്ദനക്കുറിയിട്ട് (2021)
+🎵 [21/313] Scraping: 100629
+   ✅ Saved: കണ്മണി നീയുറങ്ങ് (2020)
+🎵 [22/313] Scraping: 100628
+   ✅ Saved: നിശകളിലിവളൊരു കനവ് (2020)
+🎵 [23/313] Scraping: 101549
+   ✅ Saved: മിഴിനനവൊരുനാൾ (2020)
+🎵 [24/313] Scraping: ethranal-ethranal
+   ✅ Saved: എത്രനാൾ എത്രനാൾ (2021)
+🎵 [25/313] Scraping: kinavinte-manam
+   ✅ Saved: കിനവിന്റെ മാനം (2021)
+🎵 [26/313] Scraping: chukku-chunnaambu-chathachu
+   ✅ Saved: ചുക്കു ചുണ്ണാമ്പു ചതച്ച് (2021)
+🎵 [27/313] Scraping: kadamkadhayai
+   ✅ Saved: * കടംകഥയായ് (2019)
+🎵 [28/313] Scraping: 90531
+   ✅ Saved: * വലിപ്പാട്ട് - ആഹാ തീം (2019)
+🎵 [29/313] Scraping: ee-manam-thodum
+   ✅ Saved: ഈ മനം തൊടും (2021)
+🎵 [30/313] Scraping: eerezhulakilum
+   ✅ Saved: ഈരേഴുലകിലും (2021)
+🎵 [31/313] Scraping: kambam-kottikkeri
+   ✅ Saved: കമ്പം കൊട്ടികേറി (2021)
+🎵 [32/313] Scraping: thandodinja-thamarayil
+   ✅ Saved: തണ്ടൊടിഞ്ഞ താമരയിൽ (2019)
+🎵 [33/313] Scraping: kinarilu
+   ✅ Saved: * കിണറിലു വീണ (2021)
+🎵 [34/313] Scraping: chiramabhayamee-bhavanam
+   ✅ Saved: ചിരമഭയമീ ഭവനം (2021)
+🎵 [35/313] Scraping: doore-mari
+   ✅ Saved: ദൂരെ മാറി (2021)
+🎵 [36/313] Scraping: innu-muthal
+   ✅ Saved: * ഇന്നു മുതൽ (2021)
+🎵 [37/313] Scraping: mayakkannan
+   ✅ Saved: * മായക്കണ്ണൻ (2021)
+🎵 [38/313] Scraping: mausam-jesi
+   ✅ Saved: മോസം ജെസീ (2021)
+🎵 [39/313] Scraping: madanamoha-vipanchika
+   ✅ Saved: മദനമോഹ വിപഞ്ചിക (2021)
+🎵 [40/313] Scraping: kallu-pattu
+   ✅ Saved: * കള്ള് പാട്ട് (2021)
+🎵 [41/313] Scraping: kaalamereyaay
+   ✅ Saved: * കാലമേറെയായ് (2021)
+🎵 [42/313] Scraping: alasyathil-ninnumunarunna
+   ✅ Saved: ആലസ്യത്തിൽ നിന്നുമുണരുന്ന (2021)
+🎵 [43/313] Scraping: nonthu-vilikkukil
+   ✅ Saved: നൊന്തു വിളിക്കുകിൽ (2021)
+🎵 [44/313] Scraping: abhivadhyam-abhivadhyam
+   ✅ Saved: അഭിവാദ്യം അഭിവാദ്യം (2021)
+🎵 [45/313] Scraping: ila-peithu-moodumee
+   ✅ Saved: ഇല പെയ്തു മൂടുമീ (2021)
+🎵 [46/313] Scraping: thanne-thanne
+   ✅ Saved: തന്നെ തന്നെ ഞാനിരിക്കേ (2021)
+🎵 [47/313] Scraping: pinnenthe-enthe-mulle
+   ✅ Saved: പിന്നെന്തേ എന്തേ മുല്ലേ (2021)
+🎵 [48/313] Scraping: manathin-avakasi
+   ✅ Saved: മാനത്തിൻ അവകാശി (2021)
+🎵 [49/313] Scraping: 105498
+   ✅ Saved: കനവുകൾ കരിനിഴൽ പോലെ (2021)
+🎵 [50/313] Scraping: 105508
+   ✅ Saved: നീലവാനം നിലാവിൽത്തെളിഞ്ഞ വാനം (2021)
+🎵 [51/313] Scraping: va-va-va-keri-vada
+   ✅ Saved: വാ വാ വാ കേറി വാടാ (2021)
+🎵 [52/313] Scraping: ozhi-macha
+   ✅ Saved: * ഒഴി മച്ചാ (2021)
+🎵 [53/313] Scraping: pularikal-sandhyakal
+   ✅ Saved: പുലരികൾ സന്ധ്യകൾ (2021)
+🎵 [54/313] Scraping: kaatonnu-kaathil-cholli
+   ✅ Saved: കാറ്റൊന്ന് കാതി ചൊല്ലി (2021)
+🎵 [55/313] Scraping: kutaalam-kulirundu
+   ✅ Saved: കുറ്റാലം കുളിരുണ്ട് (2021)
+🎵 [56/313] Scraping: palakuri-parayuvan
+   ✅ Saved: പലകുറി പറയുവാൻ (2021)
+🎵 [57/313] Scraping: aana-poloru-vandi
+   ✅ Saved: ആന പോലൊരു വണ്ടി (2021)
+🎵 [58/313] Scraping: thanka-sooryan
+   ✅ Saved: തങ്കസൂര്യൻ (2021)
+🎵 [59/313] Scraping: iruvazhiye
+   ✅ Saved: ഇരുവഴിയേ (2021)
+🎵 [60/313] Scraping: naade-nattare
+   ✅ Saved: നാടേ നാട്ടാരേ (2021)
+🎵 [61/313] Scraping: chollamo
+   ✅ Saved: * ചൊല്ലാമോ (2021)
+🎵 [62/313] Scraping: enthanee-mounam
+   ✅ Saved: എന്താണീ മൌനം (2021)
+🎵 [63/313] Scraping: ole-kanda-naal
+   ✅ Saved: ഓളെ കണ്ട നാൾ (2020)
+🎵 [64/313] Scraping: ilam-veyilil
+   ✅ Saved: * ഇളം വെയിലിൽ (2021)
+🎵 [65/313] Scraping: mizhiyoramariyaathe
+   ✅ Saved: * മിഴിയോരമറിയാതേതോ (2021)
+🎵 [66/313] Scraping: ardramee-nenchile
+   ✅ Saved: ആർദ്രമീ നെഞ്ചിലെ (2021)
+🎵 [67/313] Scraping: ee-kanakam-kahalam
+   ✅ Saved: ഈ കനകം കാഹളം (2021)
+🎵 [68/313] Scraping: vanyam-kala-title-song
+   ✅ Saved: * വന്യം (കള ടൈറ്റിൽ സോംഗ്) (2021)
+🎵 [69/313] Scraping: ill-be-home
+   ✅ Saved: *ഐൽ ബി ഹോം (2021)
+🎵 [70/313] Scraping: kalabhairavashtakam
+   ✅ Saved: *കാലഭൈരവാഷ്ടകം (2021)
+🎵 [71/313] Scraping: kaniye-kaniye
+   ✅ Saved: കനിയേ ... കനിയേ ... (2021)
+🎵 [72/313] Scraping: paalnilavin-poykayil
+   ✅ Saved: പാൽനിലാവിൻ പൊയ്കയിൽ (F) (2021)
+🎵 [73/313] Scraping: paalnilavin-poykayil-0
+   ✅ Saved: പാൽനിലാവിൻ പൊയ്കയിൽ (M) (2021)
+🎵 [74/313] Scraping: tharam-thane
+   ✅ Saved: താരം താനേ (2021)
+🎵 [75/313] Scraping: ennomal-nidhiyalle
+   ✅ Saved: എന്നോമൽ നിധിയല്ലേ (2021)
+🎵 [76/313] Scraping: kaarmegham-moodunnu
+   ✅ Saved: കാർമേഘം മൂടുന്നു (2021)
+🎵 [77/313] Scraping: karmegaham-moodunnu
+   ✅ Saved: കാർമേഘം മൂടുന്നു (2021)
+🎵 [78/313] Scraping: thane-peythu
+   ✅ Saved: താനേ പെയ്തു (2021)
+🎵 [79/313] Scraping: pen-poove
+   ✅ Saved: പെൺ പൂവേ (2020)
+🎵 [80/313] Scraping: farewell-song
+   ✅ Saved: ഫെയർവെൽ സോങ് - ഇടനാഴിയിലോടിക്കയറണ (2020)
+🎵 [81/313] Scraping: manassu-nannakatte
+   ✅ Saved: മനസ്സ് നന്നാകട്ടെ (2020)
+🎵 [82/313] Scraping: mizhikonil
+   ✅ Saved: മിഴികോണിൽ (2021)
+🎵 [83/313] Scraping: padappurappadu
+   ✅ Saved: പടപ്പുറപ്പാട് (2021)
+🎵 [84/313] Scraping: mankoodil-ennormappakshi
+   ✅ Saved: മൺകൂടിൽ എന്നോർമ്മപ്പക്ഷി തേടുന്നൊരാകാശം (2021)
+🎵 [85/313] Scraping: vigathamayugam-kuruthi-theme
+   ✅ Saved: വിഗതമായുഗം (കുരുതി തീം) (2021)
+🎵 [86/313] Scraping: dingiri-dingale
+   ✅ Saved: ഡിങ്കിരി ഡിങ്കാലേ (2021)
+🎵 [87/313] Scraping: neelakkadalin-adiyil
+   ✅ Saved: നീലക്കടലിൻ അടിയിൽ (2021)
+🎵 [88/313] Scraping: pakaliravukalaam
+   ✅ Saved: പകലിരവുകളാം (2020)
+🎵 [89/313] Scraping: mele-theeram
+   ✅ Saved: മേലേ തീരം (2021)
+🎵 [90/313] Scraping: enkilumen
+   ✅ Saved: എങ്കിലുമെൻ (2020)
+🎵 [91/313] Scraping: fly-fly-fly
+   ✅ Saved: ഫ്‌ളൈ ഫ്‌ളൈ ഫ്‌ളൈ (2020)
+🎵 [92/313] Scraping: long-long-long-ago
+   ✅ Saved: ലോങ്ങ് ലോങ്ങ് ലോങ്ങ് എഗോ (2020)
+🎵 [93/313] Scraping: eeran-mukil-mazhiyale
+   ✅ Saved: ഈറൻമുകിൽ മഷിയാലെ (2021)
+🎵 [94/313] Scraping: fire
+   ✅ Saved: ഫയർ (2021)
+🎵 [95/313] Scraping: venmukile
+   ✅ Saved: * വെണ്മുകിലേ (2020)
+🎵 [96/313] Scraping: sticker-pottu
+   ✅ Saved: * സ്റ്റിക്കർ പോട്ട് (2020)
+🎵 [97/313] Scraping: athiril-uyarum
+   ✅ Saved: അതിരിൽ ഉയരും (2021)
+🎵 [98/313] Scraping: ee-rathri-christhumas-rathri
+   ✅ Saved: ഈ രാത്രി ക്രിസ്തുമസ് രാത്രി (2021)
+🎵 [99/313] Scraping: ithalithalayi-poo-vidarthi
+   ✅ Saved: ഇതളിതളായി പൂ വിടർത്തി (2021)
+🎵 [100/313] Scraping: oh-baby
+   ✅ Saved: ഓ ബേബി (2021)
+🎵 [101/313] Scraping: mizhi-mizhi-swakaryamaay
+   ✅ Saved: മിഴി മിഴി സ്വകാര്യമായ് (2021)
+🎵 [102/313] Scraping: mizhikal-mizhikalil
+   ✅ Saved: മിഴികൾ മിഴികളിൽ (2021)
+🎵 [103/313] Scraping: priyamoluma
+   ✅ Saved: * പ്രിയമോലുമാ (2021)
+🎵 [104/313] Scraping: ammakkiliyude
+   ✅ Saved: അമ്മക്കിളിയുടെ (2021)
+🎵 [105/313] Scraping: nilavakale
+   ✅ Saved: നിലാവകലെ (2021)
+🎵 [106/313] Scraping: kaalam-varum-nin
+   ✅ Saved: * കാലം വരും നിൻ (2020)
+🎵 [107/313] Scraping: kho-kho-theevandi
+   ✅ Saved: * ഖോ ഖോ തീവണ്ടി (2020)
+🎵 [108/313] Scraping: did-she-catch-me
+   ✅ Saved: * ഡിഡി ഷീ ക്യാച്ച് മീ (2020)
+🎵 [109/313] Scraping: ninave-vaa
+   ✅ Saved: * നിനവേ വാ (2020)
+🎵 [110/313] Scraping: nin-neram-vanne
+   ✅ Saved: * നിൻ നേരം വന്നേ (2020)
+🎵 [111/313] Scraping: boom-boom-bam
+   ✅ Saved: * ബൂം ബൂം ബാം (2020)
+🎵 [112/313] Scraping: betterness
+   ✅ Saved: * ബെറ്റർനെസ് (2020)
+🎵 [113/313] Scraping: bhayathe-karuthal-porutham
+   ✅ Saved: * ഭയത്തെ കരുതൽ പൊരുതാം (2020)
+🎵 [114/313] Scraping: rise-theme
+   ✅ Saved: * റൈസ് തീം (2020)
+🎵 [115/313] Scraping: venal-pathayil
+   ✅ Saved: * വേനൽ പാതിയിൽ (2020)
+🎵 [116/313] Scraping: smack-kho
+   ✅ Saved: * സ്മാക്ക് വിത്ത് ദി ഖോ (2020)
+🎵 [117/313] Scraping: theeram-thaane-unarum
+   ✅ Saved: തീരം താനെ ഉണരും (2020)
+🎵 [118/313] Scraping: 105142
+   ✅ Saved: *ആസ് വി റോഡ് (2021)
+🎵 [119/313] Scraping: 105138
+   ✅ Saved: വെൺമതിയെ (2021)
+🎵 [120/313] Scraping: Savariya
+   ✅ Saved: സാവരിയ (2021)
+🎵 [121/313] Scraping: pathiyil-theerumo
+   ✅ Saved: പാതിയിൽ തീരുമോ (2021)
+🎵 [122/313] Scraping: mayakondu-kanakkoodu
+   ✅ Saved: മായകൊണ്ട് കാണാക്കൂട് (2021)
+🎵 [123/313] Scraping: 94791
+   ✅ Saved: * നാണം തൂകും പെണ്ണ് (2019)
+🎵 [124/313] Scraping: 96452
+   ✅ Saved: * പാടാൻ തോന്നും പാടും നാടൻപാട്ട് (2020)
+🎵 [125/313] Scraping: madhurappathinezhukari
+   ✅ Saved: മധുരപ്പതിനേഴുകാരി (2020)
+🎵 [126/313] Scraping: ethetho-mounagal
+   ✅ Saved: ഏതേതോ മൗനങ്ങൾ (2021)
+🎵 [127/313] Scraping: poonilavin-kammalittoru
+   ✅ Saved: * പൂനിലാവിൻ കമ്മലിട്ടൊരു (2021)
+🎵 [128/313] Scraping: haara-main-tumse
+   ✅ Saved: * ഹാരാ മേം തുംസേ (2021)
+🎵 [129/313] Scraping: kalikazhinjeda
+   ✅ Saved: കളികഴിഞ്ഞെടാ (2021)
+🎵 [130/313] Scraping: nirathara-naalam-ore-manam
+   ✅ Saved: നിരതാര നാളം (ഒരേ മനം ) (2021)
+🎵 [131/313] Scraping: raavin-koorirulile-ellam-nerayo
+   ✅ Saved: രാവിൻ കൂരിരുളിലെ (എല്ലാം നേരായോ ) (2021)
+🎵 [132/313] Scraping: vinninithale-kanninithale
+   ✅ Saved: വീണ്ണിനിതളേ കണ്ണിനിതളേ (2021)
+🎵 [133/313] Scraping: hey-vaname-0
+   ✅ Saved: ഹേയ് വാനമേ (2021)
+🎵 [134/313] Scraping: angu-mele-parakkan
+   ✅ Saved: അങ്ങു മേലെ പറക്കാനാ ചക്കിപ്പരുന്തേ (2021)
+🎵 [135/313] Scraping: annu-nilaavulla-rathriyanu
+   ✅ Saved: അന്നു നിലാവുള്ള രാത്രിയാണ് (2021)
+🎵 [136/313] Scraping: chim-chilam
+   ✅ Saved: ചിം ചിലം ചിലം (2021)
+🎵 [137/313] Scraping: nee-peyyumpole-nimishangal
+   ✅ Saved: നീ പെയ്യുമ്പോലെ നിമിഷങ്ങൾ (2021)
+🎵 [138/313] Scraping: thala-pokki-pidiyeda-mone
+   ✅ Saved: * തലപൊക്കി പിടിയെട മോനെ (2021)
+🎵 [139/313] Scraping: poonkodiye
+   ✅ Saved: * പൂങ്കൊടിയേ (2021)
+🎵 [140/313] Scraping: kidavu-menja
+   ✅ Saved: കിടാവ് മേഞ്ഞ (2021)
+🎵 [141/313] Scraping: enthoram-payyaram
+   ✅ Saved: എന്തോരം പയ്യാരം (2020)
+🎵 [142/313] Scraping: kedaa-naalame
+   ✅ Saved: കെടാനാളമേ (2021)
+🎵 [143/313] Scraping: panthalu-koodi-kalikkan
+   ✅ Saved: പന്തല് കൂടി കളിക്കാൻ (2021)
+🎵 [144/313] Scraping: lele-mama-lele
+   ✅ Saved: ലേലേ മാമ ലേലേ (2021)
+🎵 [145/313] Scraping: thirike-varaam
+   ✅ Saved: * തിരികെ വരാം (2021)
+🎵 [146/313] Scraping: ormakkaalame
+   ✅ Saved: * ഹേ ഓർമ്മക്കാലമേ (2021)
+🎵 [147/313] Scraping: manohari-devamanohari
+   ✅ Saved: മനോഹരി ദേവമനോഹരി (2021)
+🎵 [148/313] Scraping: thira-thodum-theeram-mele
+   ✅ Saved: തിര തൊടും തീരം മേലെ (2021)
+🎵 [149/313] Scraping: pudanjoriyana-kayalolam
+   ✅ Saved: പുടഞ്ഞൊറിയണ കായലോളം (2021)
+🎵 [150/313] Scraping: Oru-Kudam
+   ✅ Saved: ഒരു കൊടം പാറ് (2020)
+🎵 [151/313] Scraping: 106206
+   ✅ Saved: ചെമ്റാന്തമേറെയാണ് (2021)
+🎵 [152/313] Scraping: Neeye
+   ✅ Saved: നീയെ (2020)
+🎵 [153/313] Scraping: shudhar-sthuthikkum-veede
+   ✅ Saved: * ശുദ്ധർ സ്തുതിക്കും (2021)
+🎵 [154/313] Scraping: kanne-uyirin-kanneer-maniye
+   ✅ Saved: കണ്ണേ ഉയിരിൻ കണ്ണീർമണിയേ (2021)
+🎵 [155/313] Scraping: 106412
+   ✅ Saved: ജനാലയിൽ* (2021)
+🎵 [156/313] Scraping: Nazrethin
+   ✅ Saved: നസ്രേത്തിൻ നാട്ടിലെ (2021)
+🎵 [157/313] Scraping: nigoodamam
+   ✅ Saved: നിഗൂഡമാം.. (2021)
+🎵 [158/313] Scraping: neelambale-nee-vannitha
+   ✅ Saved: നീലാമ്പലേ നീ വന്നിതാ (2021)
+🎵 [159/313] Scraping: ore-pakal
+   ✅ Saved: ഒരേ പകൽ (2021)
+🎵 [160/313] Scraping: shararanthale
+   ✅ Saved: *ശരറാന്തലേ (2020)
+🎵 [161/313] Scraping: sayahna-megham
+   ✅ Saved: *സായാഹ്ന മേഘം (2020)
+🎵 [162/313] Scraping: 101548
+   ✅ Saved: മിന്നണിഞ്ഞ രാവേ (2020)
+🎵 [163/313] Scraping: ettukale-pimpiriyam
+   ✅ Saved: എട്ടുകാലേ പിമ്പിരിയാം (2021)
+🎵 [164/313] Scraping: naayattinunarabaliyiranee-njan
+   ✅ Saved: നായാട്ടിന് നരബലിയിരനീ ഞാൻ (2021)
+🎵 [165/313] Scraping: sneha-swaroopane
+   ✅ Saved: സ്നേഹസ്വരൂപനേ (2021)
+🎵 [166/313] Scraping: story
+   ✅ Saved: * സ്റ്റോറി സോങ് (2021)
+🎵 [167/313] Scraping: innale-mellane
+   ✅ Saved: ഇന്നലെ മെല്ലനെ (2021)
+🎵 [168/313] Scraping: innale-mellene
+   ✅ Saved: ഇന്നലെ മെല്ലെനെ (2021)
+🎵 [169/313] Scraping: regret-all-my-past
+   ✅ Saved: എ റഗ്രീറ്റ് ആൾ മൈ പാസ്റ്റ് (2021)
+🎵 [170/313] Scraping: olente-muraviliyo
+   ✅ Saved: ഓളെന്റെ മുറവിളിയൊ (2021)
+🎵 [171/313] Scraping: peyyathe-thee-mazhaye
+   ✅ Saved: പെയ്യാതെ തീ മഴയെ (2021)
+🎵 [172/313] Scraping: thaka-thaka-tharikida
+   ✅ Saved: * തക തക തരികിട (2019)
+🎵 [173/313] Scraping: kasithumba-chelolum
+   ✅ Saved: കാശിത്തുമ്പ ചേലോലും (2021)
+🎵 [174/313] Scraping: ennile-njaan
+   ✅ Saved: എന്നിലെ ഞാൻ (2021)
+🎵 [175/313] Scraping: ennile-njan
+   ✅ Saved: എന്നിലെ ഞാൻ (2021)
+🎵 [176/313] Scraping: kumbala-valliyil-oonjal-ketti
+   ✅ Saved: കുമ്പള വള്ളിയിൽ ഊഞ്ഞാൽ കെട്ടി (2021)
+🎵 [177/313] Scraping: madhuramulla-nombaram
+   ✅ Saved: മധുരമുള്ള നൊമ്പരം (2021)
+🎵 [178/313] Scraping: ozhukidum-nithaantha
+   ✅ Saved: * ഒഴുകിടും നിതാന്ത (2021)
+🎵 [179/313] Scraping: chembavu-punnellin
+   ✅ Saved: * ചെമ്പാവ് പുന്നെല്ലിൻ (2021)
+🎵 [180/313] Scraping: poi-maranja
+   ✅ Saved: * പോയ് മറഞ്ഞ (2021)
+🎵 [181/313] Scraping: nalikerangalil
+   ✅ Saved: നാളികേരങ്ങളിൽ (2021)
+🎵 [182/313] Scraping: doorangalil-aazhangalil
+   ✅ Saved: *ദൂരങ്ങളില്‍ ആഴങ്ങളില്‍ (2021)
+🎵 [183/313] Scraping: doorangalil
+   ✅ Saved: ദൂരങ്ങളിൽ (2021)
+🎵 [184/313] Scraping: kannum-pootti-ninnem-nokki
+   ✅ Saved: കണ്ണും പൂട്ടി നിന്നേം നോക്കി (2021)
+🎵 [185/313] Scraping: kattoruthi-oru-thee
+   ✅ Saved: കാറ്റൊരുത്തി ഒരു തീ (2021)
+🎵 [186/313] Scraping: pale-pole
+   ✅ Saved: പലേ പോലെ (2021)
+🎵 [187/313] Scraping: lokam-cheradinja-golam
+   ✅ Saved: * ലോകം ചേറടിഞ്ഞ ഗോളം (2021)
+🎵 [188/313] Scraping: munthirippoovo
+   ✅ Saved: മുന്തിരിപ്പൂവോ എന്തിനാണാവോ (2021)
+🎵 [189/313] Scraping: aadam-paadam
+   ✅ Saved: ആടാം പാടം (2021)
+🎵 [190/313] Scraping: enthinanee-katha-iniyum
+   ✅ Saved: എന്തിനാണീ കഥ ഇനിയും (2021)
+🎵 [191/313] Scraping: ganame-thannu-nee
+   ✅ Saved: ഗാനമേ തന്നു നീ (2021)
+🎵 [192/313] Scraping: parimithaneram
+   ✅ Saved: പരിമിതനേരം (2021)
+🎵 [193/313] Scraping: ram-pum-pum-kaathoram
+   ✅ Saved: റം പം പം കാതോരം (2021)
+🎵 [194/313] Scraping: oru-cheru-karimekha
+   ✅ Saved: ഒരു ചെറുകരിമേഘചീന്തില്‍ (2021)
+🎵 [195/313] Scraping: ilaveyilalakakil
+   ✅ Saved: ഇളവെയിലലകളിൽ (2021)
+🎵 [196/313] Scraping: kannil-ente
+   ✅ Saved: കണ്ണിൽ എൻ്റെ (2021)
+🎵 [197/313] Scraping: kunjnju-kunjaalikku
+   ✅ Saved: കുഞ്ഞു കുഞ്ഞാലിക്ക് (2021)
+🎵 [198/313] Scraping: kunju-kunjalikku
+   ✅ Saved: കുഞ്ഞു കുഞ്ഞാലിക്ക് (2021)
+🎵 [199/313] Scraping: chembinte-chelulla
+   ✅ Saved: ചെമ്പിന്റെ ചേലുള്ള (2021)
+🎵 [200/313] Scraping: neeye-en-thaaye
+   ✅ Saved: നീയേ എൻ തായേ (2021)
+🎵 [201/313] Scraping: unaram-uyaram
+   ✅ Saved: *ഉണരാം ഉയരാം (2021)
+🎵 [202/313] Scraping: thozhuthittum-thozhuthittum-theerunnilla
+   ✅ Saved: *തൊഴുതിട്ടും തൊഴുതിട്ടും തീരുന്നില്ല (2021)
+🎵 [203/313] Scraping: mazha-peythu
+   ✅ Saved: *മഴ പെയ്തു (2021)
+🎵 [204/313] Scraping: muttathe-mankompil
+   ✅ Saved: *മുറ്റത്തെ മാങ്കൊമ്പിൽ (2021)
+🎵 [205/313] Scraping: oru-thoomazhayil
+   ✅ Saved: ഒരു തൂമഴയിൽ (2021)
+🎵 [206/313] Scraping: oho-kantharippenne
+   ✅ Saved: ഓഹോ കാന്താരിപ്പെണ്ണേ (2021)
+🎵 [207/313] Scraping: aararum-kanathe
+   ✅ Saved: ആരാരും കാണാതെ (2021)
+🎵 [208/313] Scraping: theerame
+   ✅ Saved: തീരമേ തീരമേ (2021)
+🎵 [209/313] Scraping: rahimun-alimun
+   ✅ Saved: റഹീമുൻ അലീമുൻ (2021)
+🎵 [210/313] Scraping: aaromal
+   ✅ Saved: ആരോമൽ (2021)
+🎵 [211/313] Scraping: uyire
+   ✅ Saved: ഉയിരേ (2021)
+🎵 [212/313] Scraping: edukka-kashay
+   ✅ Saved: എടുക്കാ കാശായ് (2021)
+🎵 [213/313] Scraping: kugramame
+   ✅ Saved: കുഗ്രാമമേ (2021)
+🎵 [214/313] Scraping: thee-minnal-thilangi
+   ✅ Saved: തീ മിന്നൽ തിളങ്ങി (2021)
+🎵 [215/313] Scraping: niranju-tharakangal-ninna
+   ✅ Saved: നിറഞ്ഞു താരകങ്ങൾ നിന്ന (2021)
+🎵 [216/313] Scraping: ravil-mayangumee-poomadiyil
+   ✅ Saved: രാവിൽ മയങ്ങുമീ പൂമടിയിൽ (2021)
+🎵 [217/313] Scraping: kattil-thaniye
+   ✅ Saved: * കാറ്റിൽ തനിയേ (2021)
+🎵 [218/313] Scraping: pakalil-pathiyum-veyilin-cheelukal
+   ✅ Saved: പകലിൽ പതിയും വെയിലിൻ ചീളുകൾ (2020)
+🎵 [219/313] Scraping: nenjilezhu-niramai
+   ✅ Saved: നെഞ്ചിലേഴു നിറമായ് (2021)
+🎵 [220/313] Scraping: 85946
+   ✅ Saved: *കൊണ്ടോട്ടി കുന്നിനു മേലെ (2019)
+🎵 [221/313] Scraping: 85948
+   ✅ Saved: *മുബറ്റാലി ഇല്ല (2019)
+🎵 [222/313] Scraping: 85947
+   ✅ Saved: *യേ പൽ കഭീ ന (2019)
+🎵 [223/313] Scraping: 85945
+   ✅ Saved: എൻ ഖൽബിലെ (2019)
+🎵 [224/313] Scraping: alare
+   ✅ Saved: ഈറൻനിലാവിൽ വരവായി (2021)
+🎵 [225/313] Scraping: neramaye-election-song
+   ✅ Saved: നേരമായേ - ഇലക്ഷൻ പാട്ട് (2021)
+🎵 [226/313] Scraping: lokam-uruntodum
+   ✅ Saved: ലോകം ഉരുണ്ടോടും (2021)
+🎵 [227/313] Scraping: thiruvarangu-nirayan
+   ✅ Saved: തിരുവരങ്ങ് നിറയാൻ (2021)
+🎵 [228/313] Scraping: innee-pirannaal
+   ✅ Saved: ഇന്നീ പിറന്നാൾ (2021)
+🎵 [229/313] Scraping: neela-mizhiyil
+   ✅ Saved: നീല മിഴിയിൽ (2021)
+🎵 [230/313] Scraping: nenchile-chillayil
+   ✅ Saved: നെഞ്ചിലെ ചില്ലയിൽ (2021)
+🎵 [231/313] Scraping: kannum-chimmi
+   ✅ Saved: * കണ്ണും ചിമ്മി കടന്നുപോയിടും (2021)
+🎵 [232/313] Scraping: maarivillai
+   ✅ Saved: * മാരിവില്ലായ് (2021)
+🎵 [233/313] Scraping: oru-theera-novunarunnu
+   ✅ Saved: ഒരു തീരാനോവുണരുന്നു (2021)
+🎵 [234/313] Scraping: chinkarappoonkodi
+   ✅ Saved: ചിങ്കാരപൂങ്കൊടി (2020)
+🎵 [235/313] Scraping: tahak-thaka-thaka
+   ✅ Saved: തക തക തക (2021)
+🎵 [236/313] Scraping: neelamizhi
+   ✅ Saved: നീലമിഴി (2020)
+🎵 [237/313] Scraping: mele-mizhi-nokki
+   ✅ Saved: മേലെ മിഴി നോക്കി (2021)
+🎵 [238/313] Scraping: it-time-give-light-back
+   ✅ Saved: * ഇറ്റ് ഈസ് ടൈം ടു ഗിവ് ദി ലൈറ്റ് ബാക്ക് (2021)
+🎵 [239/313] Scraping: thillelo-le-le-le-lo
+   ✅ Saved: * തില്ലേലേലൊ ലേ ലേ (2021)
+🎵 [240/313] Scraping: annapoornne-visalakshi
+   ✅ Saved: അന്നപൂർണ്ണേ വിശാലാക്ഷി (2021)
+🎵 [241/313] Scraping: chundeli
+   ✅ Saved: ചുണ്ടെലി (2020)
+🎵 [242/313] Scraping: mehjabi
+   ✅ Saved: മെഹ്ജാബി (2021)
+🎵 [243/313] Scraping: hijabi
+   ✅ Saved: ഹിജാബി (2021)
+🎵 [244/313] Scraping: anju-kaasu-kayyilillaa-kaalavum
+   ✅ Saved: അഞ്ചുകാശു കയ്യിലില്ലാക്കാലവും (2021)
+🎵 [245/313] Scraping: chemmaname
+   ✅ Saved: ചെമ്മാനമേ.. (2021)
+🎵 [246/313] Scraping: tharaatt-paadi-urakkiyillenkilum
+   ✅ Saved: താരാട്ട് പാടി ഉറക്കിയില്ലെങ്കിലും (2021)
+🎵 [247/313] Scraping: mazha-thodaa
+   ✅ Saved: മഴ തൊടാ (2021)
+🎵 [248/313] Scraping: mayanagaraa
+   ✅ Saved: മായാനഗരാ (2020)
+🎵 [249/313] Scraping: rumaal-ambili
+   ✅ Saved: റുമാൽ അമ്പിളി (2020)
+🎵 [250/313] Scraping: 94787
+   ✅ Saved: * മലയുടെ മുകളിൽ മഞ്ഞ് (2020)
+🎵 [251/313] Scraping: 94790
+   ✅ Saved: * വലതു ചെവിയിൽ (2020)
+🎵 [252/313] Scraping: aliyarude-omana-beevi
+   ✅ Saved: അലിയാരുടെ ഓമന ബീവി (2020)
+🎵 [253/313] Scraping: 101074
+   ✅ Saved: എൻ നെഞ്ചിനുള്ളിൽ കൊഞ്ചാനെത്തും (2020)
+🎵 [254/313] Scraping: kannippaadam-vithachathumenaa
+   ✅ Saved: കന്നിപ്പാടം വിതച്ചതും ഏനാ (2021)
+🎵 [255/313] Scraping: neelaakaashakoodaarathin-mele
+   ✅ Saved: നീലാകാശക്കൂടാരത്തിൻ മേലേ (2021)
+🎵 [256/313] Scraping: 98433
+   ✅ Saved: മാനം മീതെ (2020)
+🎵 [257/313] Scraping: odiyodippoya
+   ✅ Saved: ഓടിയോടിപ്പോയ (2020)
+🎵 [258/313] Scraping: 105873
+   ✅ Saved: *വെൺപൂവായ് (2021)
+🎵 [259/313] Scraping: oru-mizhiyay-oru-manamay
+   ✅ Saved: ഒരു മിഴിയായ് ഒരു മനമായ് (2021)
+🎵 [260/313] Scraping: kannammaa
+   ✅ Saved: * കണ്ണമ്മ കണ്ണമ്മ (2021)
+🎵 [261/313] Scraping: Akashamayavale
+   ✅ Saved: ആകാശമായവളേ (2021)
+🎵 [262/313] Scraping: aazhiyazhangal
+   ✅ Saved: ആഴിയാഴങ്ങൾ (2021)
+🎵 [263/313] Scraping: oru-kuri-composers-version
+   ✅ Saved: ഒരുകുറി - Composer's Version (2021)
+🎵 [264/313] Scraping: oru-kuri-kandu
+   ✅ Saved: ഒരുകുറി കണ്ടു (2021)
+🎵 [265/313] Scraping: choka-chokannoru
+   ✅ Saved: ചൊക ചൊകന്നൊരു (2021)
+🎵 [266/313] Scraping: 97904
+   ✅ Saved: പുലരിയിൽ അച്ഛന്റെ (2019)
+🎵 [267/313] Scraping: mein-ne-seekha
+   ✅ Saved: മേ നെ സീഖ (2021)
+🎵 [268/313] Scraping: sagaraneelimakal
+   ✅ Saved: സാഗരനീലിമകൾ (2021)
+🎵 [269/313] Scraping: kai-thozhunne
+   ✅ Saved: കൈ തൊഴുന്നേ (2021)
+🎵 [270/313] Scraping: kai-thozhunne-nadhe
+   ✅ Saved: കൈ തൊഴുന്നേ നാഥേ (2021)
+🎵 [271/313] Scraping: maranam-vannu-vilikkumbol
+   ✅ Saved: മരണം വന്നു വിളിക്കുമ്പോൾ (2021)
+🎵 [272/313] Scraping: mazhamukilaay-nirayum-manassil
+   ✅ Saved: മഴമുകിലാൽ നിറയും മനസ്സിൽ (2020)
+🎵 [273/313] Scraping: mutharakombathe
+   ✅ Saved: മുത്താരകൊമ്പത്തെ തത്തമ്മ പെണ്ണാളിനെന്താണ് (2020)
+🎵 [274/313] Scraping: anthimanam-neele
+   ✅ Saved: അന്തിമാനം നീളേ (2021)
+🎵 [275/313] Scraping: kaakka-verumoru-karutha-pakshi
+   ✅ Saved: കാക്ക വെറുമൊരു കറുത്ത പക്ഷി (2021)
+🎵 [276/313] Scraping: doore-oru-mamalayil
+   ✅ Saved: ദൂരെ ഒരു മാമലയിൽ (2021)
+🎵 [277/313] Scraping: janamanassin
+   ✅ Saved: ജനമനസ്സിൻ (2021)
+🎵 [278/313] Scraping: zindagi
+   ✅ Saved: * സിന്ദഗി (2021)
+🎵 [279/313] Scraping: anuragam-nilakkatha
+   ✅ Saved: അനുരാഗം നിലയ്ക്കാത്ത.. (2021)
+🎵 [280/313] Scraping: idam-vare
+   ✅ Saved: * ഇടം വരെ (2021)
+🎵 [281/313] Scraping: ini-dooram
+   ✅ Saved: * ഇനി ദൂരം (2021)
+🎵 [282/313] Scraping: nee-varum
+   ✅ Saved: നീ വരും (2021)
+🎵 [283/313] Scraping: 94673
+   ✅ Saved: * എന്നും നിന്റെ വഴികളിൽ (2020)
+🎵 [284/313] Scraping: 94566
+   ✅ Saved: * കാലിൽ ചിലമ്പ് (2020)
+🎵 [285/313] Scraping: 94427
+   ✅ Saved: കുളിർ തെന്നൽ വന്നു (2020)
+🎵 [286/313] Scraping: 101780
+   ✅ Saved: * വൺസ് അപ്പോൺ ഏ ടൈം ഇൻ റാന്നി (2020)
+🎵 [287/313] Scraping: 101791
+   ✅ Saved: ഈറൻ കണ്ണിൽ (2020)
+🎵 [288/313] Scraping: 101788
+   ✅ Saved: കാണാ ദൂരം (2020)
+🎵 [289/313] Scraping: kalamere-poi-maykilum
+   ✅ Saved: കാലമേറെ പോയി മായ്കിലും (2020)
+🎵 [290/313] Scraping: 101784
+   ✅ Saved: തോരാമഴയിലും (2020)
+🎵 [291/313] Scraping: tharam-pole-vannu
+   ✅ Saved: താരം പോലെ വന്നു (2021)
+🎵 [292/313] Scraping: padunnoree
+   ✅ Saved: പാടുന്നോരീ (2021)
+🎵 [293/313] Scraping: pooveyilithal
+   ✅ Saved: പൂവെയിലിതൾ (2021)
+🎵 [294/313] Scraping: polichadukkaam-machane
+   ✅ Saved: പൊളിച്ചടുക്കാം മച്ചാനേ (2021)
+🎵 [295/313] Scraping: varthinkale
+   ✅ Saved: വാർത്തിങ്കളേ (2021)
+🎵 [296/313] Scraping: venchirathile
+   ✅ Saved: വെൺചിരാതിലെ (2021)
+🎵 [297/313] Scraping: kathha-parayanu
+   ✅ Saved: കഥ പറയണ് (2021)
+🎵 [298/313] Scraping: penninte
+   ✅ Saved: പെണ്ണിന്റെ.. (2021)
+🎵 [299/313] Scraping: mele-vinpadavukal
+   ✅ Saved: മേലെ വിൺപടവുകൾ (2020)
+🎵 [300/313] Scraping: raavoram-novum-neramo
+   ✅ Saved: രാവോരം നോവും നേരമോ (2021)
+🎵 [301/313] Scraping: varavayi-neeyen
+   ✅ Saved: വരവായി നീയെൻ (2020)
+🎵 [302/313] Scraping: kinavil
+   ✅ Saved: കിനാവിൽ (2020)
+🎵 [303/313] Scraping: cla-cla-cla
+   ✅ Saved: ക്ലാ ക്ലാ ക്ലാ (2021)
+🎵 [304/313] Scraping: 94768
+   ✅ Saved: നീയും ഞാനും (2020)
+🎵 [305/313] Scraping: ayiram-tharadeepangal
+   ✅ Saved: ആയിരം താരദീപങ്ങൾ (2021)
+🎵 [306/313] Scraping: kuruva-kavile
+   ✅ Saved: കുറുവാ കാവിലെ (2021)
+🎵 [307/313] Scraping: ninnodu-cheraan
+   ✅ Saved: നിന്നോട് ചേരാൻ (2021)
+🎵 [308/313] Scraping: arikathaay-azhake
+   ✅ Saved: അരികത്തായ് അഴകേ (2021)
+🎵 [309/313] Scraping: irul-vizhungiya-vazhikal
+   ✅ Saved: ഇരുൾ വിഴുങ്ങിയ വഴികൾ (2021)
+🎵 [310/313] Scraping: chandana-mazha-pozhiyum
+   ✅ Saved: ചന്ദന മഴ പൊഴിയും (2021)
+🎵 [311/313] Scraping: panineer-ithalil
+   ✅ Saved: പനിനീർ ഇതളിൽ (2021)
+🎵 [312/313] Scraping: kattuneerin-chalilayi
+   ✅ Saved: കാട്ടുനീരിൻ ചാലിലായി (2021)
+🎵 [313/313] Scraping: kuttanu-pottante-shapam
+   ✅ Saved: കുട്ടന് പൊട്ടന്റെ ശാപം (2021)
+Year complete: success=313, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 1477

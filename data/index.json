@@ -1,4 +1,40 @@
 {
+  "85945": {
+    "id": "85945",
+    "songName": "എൻ ഖൽബിലെ",
+    "film": "മീസാൻ",
+    "lyricist": "എസ് വി ചെറിയാൻ",
+    "musicDirector": "4 മ്യൂസിക്",
+    "singers": "നജിം അർഷാദ്",
+    "year": "2019"
+  },
+  "85946": {
+    "id": "85946",
+    "songName": "*കൊണ്ടോട്ടി കുന്നിനു മേലെ",
+    "film": "മീസാൻ",
+    "lyricist": "എസ് വി ചെറിയാൻ",
+    "musicDirector": "4 മ്യൂസിക്",
+    "singers": "എസ് വി ചെറിയാൻ, ജബ്ബാർ ചെമ്മാട്",
+    "year": "2019"
+  },
+  "85947": {
+    "id": "85947",
+    "songName": "*യേ പൽ കഭീ ന",
+    "film": "മീസാൻ",
+    "lyricist": "എസ് വി ചെറിയാൻ",
+    "musicDirector": "4 മ്യൂസിക്",
+    "singers": "എസ് വി ചെറിയാൻ",
+    "year": "2019"
+  },
+  "85948": {
+    "id": "85948",
+    "songName": "*മുബറ്റാലി ഇല്ല",
+    "film": "മീസാൻ",
+    "lyricist": "എസ് വി ചെറിയാൻ",
+    "musicDirector": "4 മ്യൂസിക്",
+    "singers": "ശങ്കർ മഹാദേവൻ",
+    "year": "2019"
+  },
   "88529": {
     "id": "88529",
     "songName": "മഴവില്ലിനഴകാണ്",
@@ -44,6 +80,15 @@
     "singers": "അനാമിക പി എസ്, കോറസ്",
     "year": "2019"
   },
+  "90531": {
+    "id": "90531",
+    "songName": "* വലിപ്പാട്ട് - ആഹാ തീം",
+    "film": "ആഹാ",
+    "lyricist": "ജുബിത് നമ്രാഡത്ത്",
+    "musicDirector": "ആശിഷ്, ആകാശ്",
+    "singers": "ഇന്ദ്രജിത്ത് സുകുമാരൻ, കെ എസ് ഹരിശങ്കർ",
+    "year": "2019"
+  },
   "91187": {
     "id": "91187",
     "songName": "സഖാവിന്റെ പെണ്ണ്",
@@ -80,6 +125,15 @@
     "singers": "ജുബൈർ മുഹമ്മദ്",
     "year": "2020"
   },
+  "94427": {
+    "id": "94427",
+    "songName": "കുളിർ തെന്നൽ വന്നു",
+    "film": "സഹ്യാദ്രിയിലെ ചുവന്നപൂക്കൾ",
+    "lyricist": "രവി നായർ",
+    "musicDirector": "ഗിരീഷ് നാരായണൻ",
+    "singers": "ഗിരീഷ് നാരായണൻ, അഭിരാമി അജയ്",
+    "year": "2020"
+  },
   "94445": {
     "id": "94445",
     "songName": "* തേപ്പ് പാട്ട്",
@@ -87,6 +141,24 @@
     "lyricist": "സാൽവിൻ വർഗ്ഗീസ്",
     "musicDirector": "നിംഗജെ മ്യൂസിക് ബാൻഡ്",
     "singers": "ജിതിൻ, നിഷിൽ വിനൂ, അഭിജിത്ത് എം",
+    "year": "2020"
+  },
+  "94566": {
+    "id": "94566",
+    "songName": "* കാലിൽ ചിലമ്പ്",
+    "film": "സഹ്യാദ്രിയിലെ ചുവന്നപൂക്കൾ",
+    "lyricist": "പരമ്പരാഗതം",
+    "musicDirector": "ഗിരീഷ് നാരായണൻ",
+    "singers": "ഗിരീഷ് നാരായണൻ",
+    "year": "2020"
+  },
+  "94673": {
+    "id": "94673",
+    "songName": "* എന്നും നിന്റെ വഴികളിൽ",
+    "film": "സഹ്യാദ്രിയിലെ ചുവന്നപൂക്കൾ",
+    "lyricist": "അജെഷ് പൂവട്ടൂർ",
+    "musicDirector": "ഗിരീഷ് നാരായണൻ",
+    "singers": "അഞ്ജയ് ബൈജു",
     "year": "2020"
   },
   "94690": {
@@ -98,6 +170,15 @@
     "singers": "അഫ്സൽ",
     "year": "2020"
   },
+  "94768": {
+    "id": "94768",
+    "songName": "നീയും ഞാനും",
+    "film": "സുമേഷ് & രമേഷ്",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "യക്സാൻ ഗാരി പരേര, നേഹ എസ് നായർ",
+    "singers": "സംഗീത്, നേഹ എസ് നായർ",
+    "year": "2020"
+  },
   "94786": {
     "id": "94786",
     "songName": "* ചന്ദനമഴയുടെ",
@@ -106,6 +187,33 @@
     "musicDirector": "മോഹൻ സിത്താര",
     "singers": "വിനീത് ശ്രീനിവാസൻ, ശിഖ പ്രഭാകരൻ",
     "year": "2020"
+  },
+  "94787": {
+    "id": "94787",
+    "songName": "* മലയുടെ മുകളിൽ മഞ്ഞ്",
+    "film": "വാങ്ക്",
+    "lyricist": "പി എസ് റഫീഖ്",
+    "musicDirector": "ഔസേപ്പച്ചൻ",
+    "singers": "നജിം അർഷാദ്",
+    "year": "2020"
+  },
+  "94790": {
+    "id": "94790",
+    "songName": "* വലതു ചെവിയിൽ",
+    "film": "വാങ്ക്",
+    "lyricist": "പി എസ് റഫീഖ്",
+    "musicDirector": "ഔസേപ്പച്ചൻ",
+    "singers": "വർഷ രഞ്ജിത്ത്",
+    "year": "2020"
+  },
+  "94791": {
+    "id": "94791",
+    "songName": "* നാണം തൂകും പെണ്ണ്",
+    "film": "ചിരി",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "പ്രിൻസ് ജോർജ്",
+    "singers": "പ്രിൻസ് ജോർജ്",
+    "year": "2019"
   },
   "94896": {
     "id": "94896",
@@ -116,6 +224,24 @@
     "singers": "വിധു പ്രതാപ്, ജ്യോത്സ്ന രാധാകൃഷ്ണൻ",
     "year": "2020"
   },
+  "96452": {
+    "id": "96452",
+    "songName": "* പാടാൻ തോന്നും പാടും നാടൻപാട്ട്",
+    "film": "ചിരി",
+    "lyricist": "സന്തോഷ് വർമ്മ",
+    "musicDirector": "ജാസി ഗിഫ്റ്റ്",
+    "singers": "സുരാജ് എസ് വാസുദേവ്",
+    "year": "2020"
+  },
+  "97904": {
+    "id": "97904",
+    "songName": "പുലരിയിൽ അച്ഛന്റെ",
+    "film": "വെള്ളം",
+    "lyricist": "നിധീഷ് നടേരി",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "അനന്യ",
+    "year": "2019"
+  },
   "97905": {
     "id": "97905",
     "songName": "മനമേ നീ തിരികെ പായും വഴിയേ",
@@ -123,6 +249,15 @@
     "lyricist": "മാത്തൻ",
     "musicDirector": "ശങ്കർ ശർമ്മ",
     "singers": "മാത്തൻ",
+    "year": "2020"
+  },
+  "98433": {
+    "id": "98433",
+    "songName": "മാനം മീതെ",
+    "film": "വിധി",
+    "lyricist": "ഡോ മധു വാസുദേവൻ",
+    "musicDirector": "4 മ്യൂസിക്",
+    "singers": "അൻവർ സാദത്ത്, വിപിൻ സേവ്യർ, ബിബി മാത്യു, ഹരിത ബാലകൃഷ്ണൻ",
     "year": "2020"
   },
   "98794": {
@@ -152,6 +287,51 @@
     "singers": "കെ എസ് ചിത്ര",
     "year": "2020"
   },
+  "100628": {
+    "id": "100628",
+    "songName": "നിശകളിലിവളൊരു കനവ്",
+    "film": "ആയിശ വെഡ്സ് ഷമീർ",
+    "lyricist": "റൂബിനാദ്",
+    "musicDirector": "റൂബിനാദ്",
+    "singers": "സിയാ ഉൾ ഹഖ്",
+    "year": "2020"
+  },
+  "100629": {
+    "id": "100629",
+    "songName": "കണ്മണി നീയുറങ്ങ്",
+    "film": "ആയിശ വെഡ്സ് ഷമീർ",
+    "lyricist": "ജയനീഷ് ഒമനൂർ, നിഷാദ് ഷാ",
+    "musicDirector": "ജയനീഷ് ഒമനൂർ, നിഷാദ് ഷാ",
+    "singers": "ജി വേണുഗോപാൽ, സുജാത മോഹൻ",
+    "year": "2020"
+  },
+  "101074": {
+    "id": "101074",
+    "songName": "എൻ നെഞ്ചിനുള്ളിൽ കൊഞ്ചാനെത്തും",
+    "film": "വിധി",
+    "lyricist": "രാജീവ് ആലുങ്കൽ",
+    "musicDirector": "4 മ്യൂസിക്",
+    "singers": "ഹരി രവീന്ദ്രൻ, എവെലിൻ വിൻസെന്റ്",
+    "year": "2020"
+  },
+  "101548": {
+    "id": "101548",
+    "songName": "മിന്നണിഞ്ഞ രാവേ",
+    "film": "ദേര ഡയറീസ്",
+    "lyricist": "ജോ പോൾ",
+    "musicDirector": "സിബു സുകുമാരൻ",
+    "singers": "നജിം അർഷാദ്, ആവണി മൽഹാർ",
+    "year": "2020"
+  },
+  "101549": {
+    "id": "101549",
+    "songName": "മിഴിനനവൊരുനാൾ",
+    "film": "ആയിശ വെഡ്സ് ഷമീർ",
+    "lyricist": "റൂബിനാദ്",
+    "musicDirector": "റൂബിനാദ്",
+    "singers": "നജിം അർഷാദ്, സിയാ ഉൾ ഹഖ്",
+    "year": "2020"
+  },
   "101755": {
     "id": "101755",
     "songName": "ഏദനിൻ മധു നിറയും",
@@ -168,6 +348,42 @@
     "lyricist": "ഏങ്ങണ്ടിയൂർ ചന്ദ്രശേഖരൻ",
     "musicDirector": "ബിജിബാൽ",
     "singers": "സൗമ്യ രാമകൃഷ്ണൻ",
+    "year": "2020"
+  },
+  "101780": {
+    "id": "101780",
+    "songName": "* വൺസ് അപ്പോൺ ഏ ടൈം ഇൻ റാന്നി",
+    "film": "സാജൻ ബേക്കറി സിൻസ് 1962",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "പ്രശാന്ത് പിള്ള",
+    "singers": "അരുൺ ജെയിംസ് തകര",
+    "year": "2020"
+  },
+  "101784": {
+    "id": "101784",
+    "songName": "തോരാമഴയിലും",
+    "film": "സാജൻ ബേക്കറി സിൻസ് 1962",
+    "lyricist": "അനു എലിസബത്ത് ജോസ്",
+    "musicDirector": "പ്രശാന്ത് പിള്ള",
+    "singers": "വിനീത് ശ്രീനിവാസൻ, പ്രീതി പിള്ള",
+    "year": "2020"
+  },
+  "101788": {
+    "id": "101788",
+    "songName": "കാണാ ദൂരം",
+    "film": "സാജൻ ബേക്കറി സിൻസ് 1962",
+    "lyricist": "അനു എലിസബത്ത് ജോസ്",
+    "musicDirector": "പ്രശാന്ത് പിള്ള",
+    "singers": "പ്രീതി പിള്ള",
+    "year": "2020"
+  },
+  "101791": {
+    "id": "101791",
+    "songName": "ഈറൻ കണ്ണിൽ",
+    "film": "സാജൻ ബേക്കറി സിൻസ് 1962",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "പ്രശാന്ത് പിള്ള",
+    "singers": "കെ എസ് ഹരിശങ്കർ",
     "year": "2020"
   },
   "103673": {
@@ -187,6 +403,69 @@
     "musicDirector": "റാം സുരേന്ദർ",
     "singers": "മഞ്ജു വാര്യർ",
     "year": "2020"
+  },
+  "105138": {
+    "id": "105138",
+    "songName": "വെൺമതിയെ",
+    "film": "ഗാർഡിയൻ",
+    "lyricist": "ധന്യ പ്രദീപ് ടോം",
+    "musicDirector": "പ്രദീപ് ടോം",
+    "singers": "ലിബിൻ സ്കറിയ, കീർത്തന എസ് കെ",
+    "year": "2021"
+  },
+  "105142": {
+    "id": "105142",
+    "songName": "*ആസ് വി റോഡ്",
+    "film": "ഗാർഡിയൻ",
+    "lyricist": "നിരഞ്ജ്‌ സുരേഷ്, ധന്യ പ്രദീപ് ടോം",
+    "musicDirector": "പ്രദീപ് ടോം",
+    "singers": "നിരഞ്ജ്‌ സുരേഷ്, അശ്വിൻ വിജയൻ, ലിബിൻ സ്കറിയ, ശ്രീജേഷ്, നന്ദ കെ, കീർത്തന എസ് കെ",
+    "year": "2021"
+  },
+  "105498": {
+    "id": "105498",
+    "songName": "കനവുകൾ കരിനിഴൽ പോലെ",
+    "film": "എൺപതുകളിലെ ഏഭ്യന്മാർ",
+    "lyricist": "ഷാജി യൂസഫ്",
+    "musicDirector": "രഞ്ജിത്ത് വാസുദേവ്",
+    "singers": "വിജയ് യേശുദാസ്",
+    "year": "2021"
+  },
+  "105508": {
+    "id": "105508",
+    "songName": "നീലവാനം നിലാവിൽത്തെളിഞ്ഞ വാനം",
+    "film": "എൺപതുകളിലെ ഏഭ്യന്മാർ",
+    "lyricist": "ഷാജി യൂസഫ്",
+    "musicDirector": "രഞ്ജിത്ത് വാസുദേവ്",
+    "singers": "വിജയ് യേശുദാസ്",
+    "year": "2021"
+  },
+  "105873": {
+    "id": "105873",
+    "songName": "*വെൺപൂവായ്",
+    "film": "വിഷു",
+    "lyricist": "ഡേവിഡ് തോമസ് ചീരംവേലിൽ",
+    "musicDirector": "ഡേവിഡ് തോമസ് ചീരംവേലിൽ",
+    "singers": "ഡേവിഡ് തോമസ് ചീരംവേലിൽ",
+    "year": "2021"
+  },
+  "106206": {
+    "id": "106206",
+    "songName": "ചെമ്റാന്തമേറെയാണ്",
+    "film": "ദി ഗ്രേറ്റ് ഇന്ത്യൻ കിച്ചൺ - മഹത്തായ ഭാരതീയ അടുക്കള",
+    "lyricist": "മൃദുലദേവി എസ്",
+    "musicDirector": "മാത്യുസ് പുളിക്കൻ",
+    "singers": "നിരഞ്ജന",
+    "year": "2021"
+  },
+  "106412": {
+    "id": "106412",
+    "songName": "ജനാലയിൽ*",
+    "film": "ദി പ്രീസ്റ്റ്",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "രാഹുൽ രാജ്",
+    "singers": "ബേബി നിയ ചാർളി",
+    "year": "2021"
   },
   "iykyk": {
     "id": "iykyk",
@@ -10474,5 +10753,2543 @@
     "musicDirector": "ഗോപി സുന്ദർ",
     "singers": "ഷഹബാസ് അമൻ",
     "year": "2022"
+  },
+  "itha-vazhi-maariyodunnu": {
+    "id": "itha-vazhi-maariyodunnu",
+    "songName": "ഇതാ വഴി മാറിയോടുന്നു",
+    "film": "#ഹോം",
+    "lyricist": "ശ്യാം മുരളീധർ, അരുൺ എളാട്ട്",
+    "musicDirector": "രാഹുൽ സുബ്രഹ്മണ്യൻ",
+    "singers": "വിനീത് ശ്രീനിവാസൻ, അരുൺ എളാട്ട്, രാഹുൽ സുബ്രഹ്മണ്യൻ",
+    "year": "2021"
+  },
+  "onnunarnnu-vannu-sooryan": {
+    "id": "onnunarnnu-vannu-sooryan",
+    "songName": "ഒന്നുണർന്നു വന്നു സൂര്യൻ",
+    "film": "#ഹോം",
+    "lyricist": "അരുൺ എളാട്ട്",
+    "musicDirector": "രാഹുൽ സുബ്രഹ്മണ്യൻ",
+    "singers": "കാർത്തിക്",
+    "year": "2021"
+  },
+  "mukilu-thodaanay": {
+    "id": "mukilu-thodaanay",
+    "songName": "മുകിലു തൊടാനായ്",
+    "film": "#ഹോം",
+    "lyricist": "അരുൺ എളാട്ട്",
+    "musicDirector": "രാഹുൽ സുബ്രഹ്മണ്യൻ",
+    "singers": "മധു ബാലകൃഷ്ണൻ",
+    "year": "2021"
+  },
+  "raa-thinkalin": {
+    "id": "raa-thinkalin",
+    "songName": "രാ തിങ്കളിൻ",
+    "film": "#ഹോം",
+    "lyricist": "മമത സീമന്ദ്",
+    "musicDirector": "രാഹുൽ സുബ്രഹ്മണ്യൻ",
+    "singers": "രമ്യ നമ്പീശൻ, വിജയ് യേശുദാസ്",
+    "year": "2021"
+  },
+  "aranitharanu": {
+    "id": "aranitharanu",
+    "songName": "ആരാണിതാരാണ്",
+    "film": "Tസുനാമി",
+    "lyricist": "ലാൽ",
+    "musicDirector": "യക്സാൻ ഗാരി പരേര, നേഹ എസ് നായർ",
+    "singers": "നേഹ എസ് നായർ, കേശവ് വിനോദ്",
+    "year": "2020"
+  },
+  "sa-ma-ga-re-sa": {
+    "id": "sa-ma-ga-re-sa",
+    "songName": "സ മാ ഗ രി സ",
+    "film": "Tസുനാമി",
+    "lyricist": "ലാൽ",
+    "musicDirector": "നേഹ എസ് നായർ, യക്സാൻ ഗാരി പരേര, ഇന്നസെന്റ്",
+    "singers": "ഇന്നസെന്റ്, മുകേഷ്, സുരേഷ് കൃഷ്ണ, അജു വർഗ്ഗീസ്, ബാലു വർഗീസ്, ലാൽ, നേഹ എസ് നായർ, ഉണ്ണി കാർത്തികേയൻ",
+    "year": "2020"
+  },
+  "onnu-randu-moonnu-naalu": {
+    "id": "onnu-randu-moonnu-naalu",
+    "songName": "ഒന്ന് രണ്ട് മൂന്ന് നാല്",
+    "film": "അജഗജാന്തരം",
+    "lyricist": "",
+    "musicDirector": "",
+    "singers": "സുധീഷ് മരുതളം",
+    "year": "2021"
+  },
+  "olullere-olullere": {
+    "id": "olullere-olullere",
+    "songName": "ഓളുള്ളേരെ ഓളുള്ളേരെ",
+    "film": "അജഗജാന്തരം",
+    "lyricist": "പരമ്പരാഗതം",
+    "musicDirector": "പരമ്പരാഗതം",
+    "singers": "പ്രസീത ചാലക്കുടി",
+    "year": "2021"
+  },
+  "dannana-dannana": {
+    "id": "dannana-dannana",
+    "songName": "ഡണ്ണണ്ണ ഡണ്ണാണ",
+    "film": "അജഗജാന്തരം",
+    "lyricist": "സുധീഷ് മരുതളം",
+    "musicDirector": "സുധീഷ് മരുതളം",
+    "singers": "മാതൈ സുനിൽ",
+    "year": "2021"
+  },
+  "ee-nadhi": {
+    "id": "ee-nadhi",
+    "songName": "ഈ നദി",
+    "film": "അനുഗ്രഹീതൻ ആന്റണി",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "അരുണ്‍ മുരളീധരൻ",
+    "singers": "ആൻ ആമി, അദീഫ് മുഹമ്മദ്",
+    "year": "2021"
+  },
+  "kamini-roopini": {
+    "id": "kamini-roopini",
+    "songName": "കാമിനി രൂപിണി",
+    "film": "അനുഗ്രഹീതൻ ആന്റണി",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "അരുണ്‍ മുരളീധരൻ",
+    "singers": "കെ എസ് ഹരിശങ്കർ",
+    "year": "2019"
+  },
+  "neeye-0": {
+    "id": "neeye-0",
+    "songName": "നീയേ",
+    "film": "അനുഗ്രഹീതൻ ആന്റണി",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "അരുണ്‍ മുരളീധരൻ",
+    "singers": "ഹരിത ബാലകൃഷ്ണൻ, വിനീത് ശ്രീനിവാസൻ",
+    "year": "2021"
+  },
+  "bow-bow-song": {
+    "id": "bow-bow-song",
+    "songName": "ബൗ ബൗ ഗാനം",
+    "film": "അനുഗ്രഹീതൻ ആന്റണി",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "അരുണ്‍ മുരളീധരൻ",
+    "singers": "കൗശിക് മേനോൻ, അനന്യ നായർ",
+    "year": "2019"
+  },
+  "mayangumee-mounam": {
+    "id": "mayangumee-mounam",
+    "songName": "മയങ്ങുമീ മൗനം",
+    "film": "അനുഗ്രഹീതൻ ആന്റണി",
+    "lyricist": "ഉണ്ണി കാർത്തികേയൻ",
+    "musicDirector": "അരുണ്‍ മുരളീധരൻ",
+    "singers": "അരുണ്‍ മുരളീധരൻ",
+    "year": "2021"
+  },
+  "koodilla-koottil": {
+    "id": "koodilla-koottil",
+    "songName": "കൂടില്ലാ കൂട്ടിൽ",
+    "film": "അന്തരം",
+    "lyricist": "അജീഷ് ദാസൻ",
+    "musicDirector": "രാജേഷ് വിജയ്",
+    "singers": "സിതാര കൃഷ്ണകുമാർ",
+    "year": "2021"
+  },
+  "malayoram-veyil-kayum": {
+    "id": "malayoram-veyil-kayum",
+    "songName": "* മലയോരം വെയിൽ കായും",
+    "film": "അമീറാ",
+    "lyricist": "ഹരിത ഹരിബാബു",
+    "musicDirector": "അനൂപ്‌ ജേക്കബ്",
+    "singers": "ഗായത്രി ഓമനക്കുട്ടൻ",
+    "year": "2021"
+  },
+  "mazha-vanne-vanne": {
+    "id": "mazha-vanne-vanne",
+    "songName": "മഴ വന്നേ വന്നേ",
+    "film": "അമീറാ",
+    "lyricist": "ജിമ്മി വർഗീസ്",
+    "musicDirector": "അനൂപ് ജേക്കബ്",
+    "singers": "ഫാത്തിമ തസ്നീം",
+    "year": "2021"
+  },
+  "shokardrame": {
+    "id": "shokardrame",
+    "songName": "ശോകാർദ്രമേ..",
+    "film": "അമീറാ",
+    "lyricist": "അഖിൽ എം ബോസ്",
+    "musicDirector": "അനൂപ് ജേക്കബ്",
+    "singers": "ശ്രുതി സജി",
+    "year": "2021"
+  },
+  "kadha-paadu-kaalame-nee": {
+    "id": "kadha-paadu-kaalame-nee",
+    "songName": "കഥ പാട് കാലമേ നീ",
+    "film": "ആണും പെണ്ണും",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "ബിജിബാൽ, രമ്യ നമ്പീശൻ",
+    "year": "2021"
+  },
+  "nettiyil-chandanakuriyittu": {
+    "id": "nettiyil-chandanakuriyittu",
+    "songName": "നെറ്റിയിൽ ചന്ദനക്കുറിയിട്ട്",
+    "film": "ആദ്യരാഗം",
+    "lyricist": "ഗോപികൃഷ്ണൻ",
+    "musicDirector": "ഗോപികൃഷ്ണൻ",
+    "singers": "ശ്രീദേവി ആർ കൃഷ്ണ",
+    "year": "2021"
+  },
+  "ethranal-ethranal": {
+    "id": "ethranal-ethranal",
+    "songName": "എത്രനാൾ എത്രനാൾ",
+    "film": "ആലീസ് ഇൻ പാഞ്ചാലിനാട്",
+    "lyricist": "ആശ ജി മേനോൻ",
+    "musicDirector": "മുജീബ് മജീദ്",
+    "singers": "ശ്രുതി ശിവദാസ്, ഷിനോവ് രാജ്",
+    "year": "2021"
+  },
+  "kinavinte-manam": {
+    "id": "kinavinte-manam",
+    "songName": "കിനവിന്റെ മാനം",
+    "film": "ആലീസ് ഇൻ പാഞ്ചാലിനാട്",
+    "lyricist": "സുധിൻ വാമറ്റം",
+    "musicDirector": "ജിഷ്ണു വിജയ്",
+    "singers": "കീർത്തന എസ് കെ",
+    "year": "2021"
+  },
+  "chukku-chunnaambu-chathachu": {
+    "id": "chukku-chunnaambu-chathachu",
+    "songName": "ചുക്കു ചുണ്ണാമ്പു ചതച്ച്",
+    "film": "ആലീസ് ഇൻ പാഞ്ചാലിനാട്",
+    "lyricist": "സുധിൻ വാമറ്റം",
+    "musicDirector": "റഷീദ് മുഹമ്മദ്",
+    "singers": "സതീശൻ മുവ്വാറ്റുപുഴ",
+    "year": "2021"
+  },
+  "kadamkadhayai": {
+    "id": "kadamkadhayai",
+    "songName": "* കടംകഥയായ്",
+    "film": "ആഹാ",
+    "lyricist": "ജുബിത് നമ്രാഡത്ത്",
+    "musicDirector": "സയനോര ഫിലിപ്പ്",
+    "singers": "അർജുൻ അശോകൻ, സയനോര ഫിലിപ്പ്",
+    "year": "2019"
+  },
+  "ee-manam-thodum": {
+    "id": "ee-manam-thodum",
+    "songName": "ഈ മനം തൊടും",
+    "film": "ആഹാ",
+    "lyricist": "റ്റിറ്റോ പി തങ്കച്ചൻ",
+    "musicDirector": "ഷിയാദ് കബീർ",
+    "singers": "ഋത്വിക് എസ് ചന്ദ്",
+    "year": "2021"
+  },
+  "eerezhulakilum": {
+    "id": "eerezhulakilum",
+    "songName": "ഈരേഴുലകിലും",
+    "film": "ആഹാ",
+    "lyricist": "റ്റിറ്റോ പി തങ്കച്ചൻ",
+    "musicDirector": "സയനോര ഫിലിപ്പ്",
+    "singers": "രാജലക്ഷ്മി, നാരായണി ഗോപൻ, മാത്തൻ, ഋതു വൈശാഖ്, വർക്കി",
+    "year": "2021"
+  },
+  "kambam-kottikkeri": {
+    "id": "kambam-kottikkeri",
+    "songName": "കമ്പം കൊട്ടികേറി",
+    "film": "ആഹാ",
+    "lyricist": "സൂരജ് എസ് കുറുപ്പ്",
+    "musicDirector": "സൂരജ് എസ് കുറുപ്പ്",
+    "singers": "സുനിൽ കുമാർ പി കെ",
+    "year": "2021"
+  },
+  "thandodinja-thamarayil": {
+    "id": "thandodinja-thamarayil",
+    "songName": "തണ്ടൊടിഞ്ഞ താമരയിൽ",
+    "film": "ആഹാ",
+    "lyricist": "സയനോര ഫിലിപ്പ്",
+    "musicDirector": "സയനോര ഫിലിപ്പ്",
+    "singers": "സയനോര ഫിലിപ്പ്, വിജയ് യേശുദാസ്",
+    "year": "2019"
+  },
+  "kinarilu": {
+    "id": "kinarilu",
+    "songName": "* കിണറിലു വീണ",
+    "film": "ആർക്കറിയാം",
+    "lyricist": "അൻവർ അലി",
+    "musicDirector": "യക്സാൻ ഗാരി പരേര, നേഹ എസ് നായർ",
+    "singers": "പുഷ്പവതി",
+    "year": "2021"
+  },
+  "chiramabhayamee-bhavanam": {
+    "id": "chiramabhayamee-bhavanam",
+    "songName": "ചിരമഭയമീ ഭവനം",
+    "film": "ആർക്കറിയാം",
+    "lyricist": "അൻവർ അലി",
+    "musicDirector": "യക്സാൻ ഗാരി പരേര, നേഹ എസ് നായർ",
+    "singers": "മധുവന്തി നാരായൺ",
+    "year": "2021"
+  },
+  "doore-mari": {
+    "id": "doore-mari",
+    "songName": "ദൂരെ മാറി",
+    "film": "ആർക്കറിയാം",
+    "lyricist": "ഒ എസ് ഉണ്ണികൃഷ്ണൻ",
+    "musicDirector": "പ്രശാന്ത് പ്രഭാകർ",
+    "singers": "ജി ശ്രീറാം, വൈക്കം വിജയലക്ഷ്മി",
+    "year": "2021"
+  },
+  "innu-muthal": {
+    "id": "innu-muthal",
+    "songName": "* ഇന്നു മുതൽ",
+    "film": "ഇന്നു മുതൽ",
+    "lyricist": "സുധാകരൻ കെ പി",
+    "musicDirector": "മെജോ ജോസഫ്",
+    "singers": "സിയാ ഉൾ ഹഖ്",
+    "year": "2021"
+  },
+  "mayakkannan": {
+    "id": "mayakkannan",
+    "songName": "* മായക്കണ്ണൻ",
+    "film": "ഇന്നു മുതൽ",
+    "lyricist": "ജോഫി തരകൻ",
+    "musicDirector": "മെജോ ജോസഫ്",
+    "singers": "മെജോ ജോസഫ്",
+    "year": "2021"
+  },
+  "mausam-jesi": {
+    "id": "mausam-jesi",
+    "songName": "മോസം ജെസീ",
+    "film": "ഇന്നു മുതൽ",
+    "lyricist": "ഷാരോൺ ജോസഫ്",
+    "musicDirector": "മെജോ ജോസഫ്",
+    "singers": "ജവേദ് അലി",
+    "year": "2021"
+  },
+  "madanamoha-vipanchika": {
+    "id": "madanamoha-vipanchika",
+    "songName": "മദനമോഹ വിപഞ്ചിക",
+    "film": "ഇവൾ ഗോപിക",
+    "lyricist": "എം ഡി മനോജ്",
+    "musicDirector": "ജോയ് മാധവ്",
+    "singers": "സുരേഷ് ചെറുകോട്, ഉണ്ണിമായ ദാസ്",
+    "year": "2021"
+  },
+  "kallu-pattu": {
+    "id": "kallu-pattu",
+    "songName": "* കള്ള് പാട്ട്",
+    "film": "ഉടുമ്പ്",
+    "lyricist": "രാജീവ് ആലുങ്കൽ",
+    "musicDirector": "സാനന്ദ് ജോർജ്ജ്",
+    "singers": "ഇമ്രാൻ ഖാൻ കൊല്ലം",
+    "year": "2021"
+  },
+  "kaalamereyaay": {
+    "id": "kaalamereyaay",
+    "songName": "* കാലമേറെയായ്",
+    "film": "ഉടുമ്പ്",
+    "lyricist": "രാജീവ് ആലുങ്കൽ",
+    "musicDirector": "സാനന്ദ് ജോർജ്ജ്",
+    "singers": "ഇമ്രാൻ ഖാൻ കൊല്ലം",
+    "year": "2021"
+  },
+  "alasyathil-ninnumunarunna": {
+    "id": "alasyathil-ninnumunarunna",
+    "songName": "ആലസ്യത്തിൽ നിന്നുമുണരുന്ന",
+    "film": "ഋതുപൂർണ്ണിമ (ആൽബം )",
+    "lyricist": "ഭരണിക്കാവ് ശിവകുമാർ",
+    "musicDirector": "ആർ സോമശേഖരൻ",
+    "singers": "സതീഷ് കുമാർ",
+    "year": "2021"
+  },
+  "nonthu-vilikkukil": {
+    "id": "nonthu-vilikkukil",
+    "songName": "നൊന്തു വിളിക്കുകിൽ",
+    "film": "എന്റെ മണികണ്ഠൻ",
+    "lyricist": "അനിൽ സ്വാമി",
+    "musicDirector": "കെ ജി രാജകുമാർ",
+    "singers": "മണക്കാട് ഗോപൻ",
+    "year": "2021"
+  },
+  "abhivadhyam-abhivadhyam": {
+    "id": "abhivadhyam-abhivadhyam",
+    "songName": "അഭിവാദ്യം അഭിവാദ്യം",
+    "film": "എല്ലാം ശരിയാകും",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ഔസേപ്പച്ചൻ",
+    "singers": "രാഹുൽ ആർ നാഥ്",
+    "year": "2021"
+  },
+  "ila-peithu-moodumee": {
+    "id": "ila-peithu-moodumee",
+    "songName": "ഇല പെയ്തു മൂടുമീ",
+    "film": "എല്ലാം ശരിയാകും",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ഔസേപ്പച്ചൻ",
+    "singers": "സിതാര കൃഷ്ണകുമാർ",
+    "year": "2021"
+  },
+  "thanne-thanne": {
+    "id": "thanne-thanne",
+    "songName": "തന്നെ തന്നെ ഞാനിരിക്കേ",
+    "film": "എല്ലാം ശരിയാകും",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ഔസേപ്പച്ചൻ",
+    "singers": "വില്യം ഫ്രാൻസിസ്",
+    "year": "2021"
+  },
+  "pinnenthe-enthe-mulle": {
+    "id": "pinnenthe-enthe-mulle",
+    "songName": "പിന്നെന്തേ എന്തേ മുല്ലേ",
+    "film": "എല്ലാം ശരിയാകും",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ഔസേപ്പച്ചൻ",
+    "singers": "കെ എസ് ഹരിശങ്കർ",
+    "year": "2021"
+  },
+  "manathin-avakasi": {
+    "id": "manathin-avakasi",
+    "songName": "മാനത്തിൻ അവകാശി",
+    "film": "എല്ലാം ശരിയാകും",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ഔസേപ്പച്ചൻ",
+    "singers": "രാഹുൽ ആർ നാഥ്",
+    "year": "2021"
+  },
+  "va-va-va-keri-vada": {
+    "id": "va-va-va-keri-vada",
+    "songName": "വാ വാ വാ കേറി വാടാ",
+    "film": "ഏക് ദിൻ",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "ജോസ് ഫ്രാങ്ക്ലിൻ",
+    "singers": "ഉണ്ണി മുകുന്ദൻ",
+    "year": "2021"
+  },
+  "ozhi-macha": {
+    "id": "ozhi-macha",
+    "songName": "* ഒഴി മച്ചാ",
+    "film": "ഐസ് ഒരതി",
+    "lyricist": "അഖിൽ കാവുങ്ങൽ",
+    "musicDirector": "ഗിരീശൻ എ സി",
+    "singers": "നിരഞ്ജ്‌ സുരേഷ്",
+    "year": "2021"
+  },
+  "pularikal-sandhyakal": {
+    "id": "pularikal-sandhyakal",
+    "songName": "പുലരികൾ സന്ധ്യകൾ",
+    "film": "ഐസ് ഒരതി",
+    "lyricist": "സന്തോഷ് വർമ്മ",
+    "musicDirector": "ഗിരീശൻ എ സി",
+    "singers": "ഗിരീശൻ എ സി",
+    "year": "2021"
+  },
+  "kaatonnu-kaathil-cholli": {
+    "id": "kaatonnu-kaathil-cholli",
+    "songName": "കാറ്റൊന്ന് കാതി ചൊല്ലി",
+    "film": "ഒരു കനേഡിയൻ ഡയറി",
+    "lyricist": "ശ്രീതി",
+    "musicDirector": "കെ എ ലത്തീഫ്",
+    "singers": "കിരൺ കൃഷ്ണ, മീര കൃഷ്ണൻ",
+    "year": "2021"
+  },
+  "kutaalam-kulirundu": {
+    "id": "kutaalam-kulirundu",
+    "songName": "കുറ്റാലം കുളിരുണ്ട്",
+    "film": "ഒരു കനേഡിയൻ ഡയറി",
+    "lyricist": "ശിവകുമാർ വരിക്കര",
+    "musicDirector": "കെ എ ലത്തീഫ്",
+    "singers": "ഉണ്ണി മേനോൻ, സീമ ശ്രീകുമാർ",
+    "year": "2021"
+  },
+  "palakuri-parayuvan": {
+    "id": "palakuri-parayuvan",
+    "songName": "പലകുറി പറയുവാൻ",
+    "film": "ഒരു കനേഡിയൻ ഡയറി",
+    "lyricist": "ശിവകുമാർ വരിക്കര",
+    "musicDirector": "കെ എ ലത്തീഫ്",
+    "singers": "മധു ബാലകൃഷ്ണൻ, സീമ ശ്രീകുമാർ",
+    "year": "2021"
+  },
+  "aana-poloru-vandi": {
+    "id": "aana-poloru-vandi",
+    "songName": "ആന പോലൊരു വണ്ടി",
+    "film": "ഒരു താത്വിക അവലോകനം",
+    "lyricist": "മുരുകൻ കാട്ടാക്കട",
+    "musicDirector": "ഒ കെ രവിശങ്കർ",
+    "singers": "ശങ്കർ മഹാദേവൻ",
+    "year": "2021"
+  },
+  "thanka-sooryan": {
+    "id": "thanka-sooryan",
+    "songName": "തങ്കസൂര്യൻ",
+    "film": "ഒരു താത്വിക അവലോകനം",
+    "lyricist": "കൈതപ്രം",
+    "musicDirector": "ഒ കെ രവിശങ്കർ",
+    "singers": "മധു ബാലകൃഷ്ണൻ, രാജലക്ഷ്മി, ജോസ് സാഗർ, ഖാലിദ്",
+    "year": "2021"
+  },
+  "iruvazhiye": {
+    "id": "iruvazhiye",
+    "songName": "ഇരുവഴിയേ",
+    "film": "ഓപ്പറേഷൻ ജാവ",
+    "lyricist": "ജോ പോൾ",
+    "musicDirector": "ജേക്സ് ബിജോയ്",
+    "singers": "അലൻ ജോയ് മാത്യു, പാർവതി നായർ എ എസ്",
+    "year": "2021"
+  },
+  "naade-nattare": {
+    "id": "naade-nattare",
+    "songName": "നാടേ നാട്ടാരേ",
+    "film": "ഓപ്പറേഷൻ ജാവ",
+    "lyricist": "തിരുമാലി, ഫെജോ",
+    "musicDirector": "ജേക്സ് ബിജോയ്",
+    "singers": "തിരുമാലി, ഫെജോ, ജേക്സ് ബിജോയ്",
+    "year": "2021"
+  },
+  "chollamo": {
+    "id": "chollamo",
+    "songName": "* ചൊല്ലാമോ",
+    "film": "ഓളെ കണ്ട നാൾ",
+    "lyricist": "ഡെൽജോ ഡൊമനിക്",
+    "musicDirector": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "singers": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "year": "2021"
+  },
+  "enthanee-mounam": {
+    "id": "enthanee-mounam",
+    "songName": "എന്താണീ മൌനം",
+    "film": "ഓളെ കണ്ട നാൾ",
+    "lyricist": "കൃഷ്ണകുമാർ വർമ്മ",
+    "musicDirector": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "singers": "വിനീത് ശ്രീനിവാസൻ",
+    "year": "2021"
+  },
+  "ole-kanda-naal": {
+    "id": "ole-kanda-naal",
+    "songName": "ഓളെ കണ്ട നാൾ",
+    "film": "ഓളെ കണ്ട നാൾ",
+    "lyricist": "ഡെൽജോ ഡൊമനിക്",
+    "musicDirector": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "singers": "വിനീത് ശ്രീനിവാസൻ",
+    "year": "2020"
+  },
+  "ilam-veyilil": {
+    "id": "ilam-veyilil",
+    "songName": "* ഇളം വെയിലിൽ",
+    "film": "കച്ചി",
+    "lyricist": "സിറാജ് റെസ",
+    "musicDirector": "സിറാജ് റെസ",
+    "singers": "സിതാര കൃഷ്ണകുമാർ",
+    "year": "2021"
+  },
+  "mizhiyoramariyaathe": {
+    "id": "mizhiyoramariyaathe",
+    "songName": "* മിഴിയോരമറിയാതേതോ",
+    "film": "കച്ചി",
+    "lyricist": "റഫീക്ക് അഹമ്മദ്",
+    "musicDirector": "സിറാജ് റെസ",
+    "singers": "സിതാര കൃഷ്ണകുമാർ",
+    "year": "2021"
+  },
+  "ardramee-nenchile": {
+    "id": "ardramee-nenchile",
+    "songName": "ആർദ്രമീ നെഞ്ചിലെ",
+    "film": "കച്ചി",
+    "lyricist": "അജീഷ് ദാസൻ",
+    "musicDirector": "സിറാജ് റെസ",
+    "singers": "ശ്യാം ലാൽ",
+    "year": "2021"
+  },
+  "ee-kanakam-kahalam": {
+    "id": "ee-kanakam-kahalam",
+    "songName": "ഈ കനകം കാഹളം",
+    "film": "കനകം കാമിനി കലഹം",
+    "lyricist": "",
+    "musicDirector": "നേഹ എസ് നായർ, യക്സാൻ ഗാരി പരേര",
+    "singers": "ജാസി ഗിഫ്റ്റ്, നേഹ എസ് നായർ",
+    "year": "2021"
+  },
+  "vanyam-kala-title-song": {
+    "id": "vanyam-kala-title-song",
+    "songName": "* വന്യം (കള ടൈറ്റിൽ സോംഗ്)",
+    "film": "കള",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "ഡോൺ വിൻസന്റ്",
+    "singers": "ചാത്തൻ മൂപ്പൻ, കരിയൻ മൂപ്പൻ, അമൃത ജയകുമാർ",
+    "year": "2021"
+  },
+  "ill-be-home": {
+    "id": "ill-be-home",
+    "songName": "*ഐൽ ബി ഹോം",
+    "film": "കള",
+    "lyricist": "ഡോൺ വിൻസന്റ്",
+    "musicDirector": "ഡോൺ വിൻസന്റ്",
+    "singers": "അശോക് ടി പൊന്നപ്പൻ",
+    "year": "2021"
+  },
+  "kalabhairavashtakam": {
+    "id": "kalabhairavashtakam",
+    "songName": "*കാലഭൈരവാഷ്ടകം",
+    "film": "കള",
+    "lyricist": "ശ്രീ ആദി ശങ്കര",
+    "musicDirector": "ഡോൺ വിൻസന്റ്",
+    "singers": "ശീതൾ, ഹെവെൻലി, സഹസ്ര, അഖിൽ ഹരി, സുബ്രഹ്മണ്യൻ കെ വി",
+    "year": "2021"
+  },
+  "kaniye-kaniye": {
+    "id": "kaniye-kaniye",
+    "songName": "കനിയേ ... കനിയേ ...",
+    "film": "കാടകലം",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "പി എസ് ജയ്‌ഹരി",
+    "singers": "ബിജിബാൽ",
+    "year": "2021"
+  },
+  "paalnilavin-poykayil": {
+    "id": "paalnilavin-poykayil",
+    "songName": "പാൽനിലാവിൻ പൊയ്കയിൽ (F)",
+    "film": "കാണെക്കാണെ",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "രഞ്ജിൻ രാജ് വർമ്മ",
+    "singers": "സിതാര കൃഷ്ണകുമാർ",
+    "year": "2021"
+  },
+  "paalnilavin-poykayil-0": {
+    "id": "paalnilavin-poykayil-0",
+    "songName": "പാൽനിലാവിൻ പൊയ്കയിൽ (M)",
+    "film": "കാണെക്കാണെ",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "രഞ്ജിൻ രാജ് വർമ്മ",
+    "singers": "ജി വേണുഗോപാൽ",
+    "year": "2021"
+  },
+  "tharam-thane": {
+    "id": "tharam-thane",
+    "songName": "താരം താനേ",
+    "film": "കാളച്ചേകോൻ",
+    "lyricist": "കെ എസ് ഹരിഹരൻ",
+    "musicDirector": "ഗിരീഷ് ജ്ഞാനദാസ്",
+    "singers": "പി ജയചന്ദ്രൻ",
+    "year": "2021"
+  },
+  "ennomal-nidhiyalle": {
+    "id": "ennomal-nidhiyalle",
+    "songName": "എന്നോമൽ നിധിയല്ലേ",
+    "film": "കാവൽ",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "രഞ്ജിൻ രാജ് വർമ്മ",
+    "singers": "മധു ബാലകൃഷ്ണൻ",
+    "year": "2021"
+  },
+  "kaarmegham-moodunnu": {
+    "id": "kaarmegham-moodunnu",
+    "songName": "കാർമേഘം മൂടുന്നു",
+    "film": "കാവൽ",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "രഞ്ജിൻ രാജ് വർമ്മ",
+    "singers": "സന്തോഷ്",
+    "year": "2021"
+  },
+  "karmegaham-moodunnu": {
+    "id": "karmegaham-moodunnu",
+    "songName": "കാർമേഘം മൂടുന്നു",
+    "film": "കാവൽ",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "രഞ്ജിൻ രാജ് വർമ്മ",
+    "singers": "കെ എസ് ചിത്ര",
+    "year": "2021"
+  },
+  "thane-peythu": {
+    "id": "thane-peythu",
+    "songName": "താനേ പെയ്തു",
+    "film": "കുഞ്ഞെൽദോ",
+    "lyricist": "അനു എലിസബത്ത് ജോസ്",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "ജോബ് കുര്യൻ",
+    "year": "2021"
+  },
+  "pen-poove": {
+    "id": "pen-poove",
+    "songName": "പെൺ പൂവേ",
+    "film": "കുഞ്ഞെൽദോ",
+    "lyricist": "അശ്വതി ശ്രീകാന്ത്",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "കീർത്തന എസ് കെ, ലിബിൻ സ്കറിയ",
+    "year": "2020"
+  },
+  "farewell-song": {
+    "id": "farewell-song",
+    "songName": "ഫെയർവെൽ സോങ് - ഇടനാഴിയിലോടിക്കയറണ",
+    "film": "കുഞ്ഞെൽദോ",
+    "lyricist": "അശ്വതി ശ്രീകാന്ത്",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "ശ്രീജിഷ് ചോലയിൽ",
+    "year": "2020"
+  },
+  "manassu-nannakatte": {
+    "id": "manassu-nannakatte",
+    "songName": "മനസ്സ് നന്നാകട്ടെ",
+    "film": "കുഞ്ഞെൽദോ",
+    "lyricist": "സന്തോഷ് വർമ്മ",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "വിനീത് ശ്രീനിവാസൻ, മെറിൻ ഗ്രിഗറി",
+    "year": "2020"
+  },
+  "mizhikonil": {
+    "id": "mizhikonil",
+    "songName": "മിഴികോണിൽ",
+    "film": "കുഞ്ഞെൽദോ",
+    "lyricist": "അനു എലിസബത്ത് ജോസ്",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "അരവിന്ദ് വേണുഗോപാൽ",
+    "year": "2021"
+  },
+  "padappurappadu": {
+    "id": "padappurappadu",
+    "songName": "പടപ്പുറപ്പാട്",
+    "film": "കുരുതി",
+    "lyricist": "റഫീക്ക് അഹമ്മദ്",
+    "musicDirector": "ജേക്സ് ബിജോയ്",
+    "singers": "സിയാ ഉൾ ഹഖ്, രശ്മി സതീഷ്, ജേക്സ് ബിജോയ്",
+    "year": "2021"
+  },
+  "mankoodil-ennormappakshi": {
+    "id": "mankoodil-ennormappakshi",
+    "songName": "മൺകൂടിൽ എന്നോർമ്മപ്പക്ഷി തേടുന്നൊരാകാശം",
+    "film": "കുരുതി",
+    "lyricist": "റഫീക്ക് അഹമ്മദ്",
+    "musicDirector": "ജേക്സ് ബിജോയ്",
+    "singers": "കേശവ് വിനോദ്, മൻസൂർ അൽ മൊഹന്നദി",
+    "year": "2021"
+  },
+  "vigathamayugam-kuruthi-theme": {
+    "id": "vigathamayugam-kuruthi-theme",
+    "songName": "വിഗതമായുഗം (കുരുതി തീം)",
+    "film": "കുരുതി",
+    "lyricist": "സുജേഷ് ഹരി",
+    "musicDirector": "ജേക്സ് ബിജോയ്",
+    "singers": "ജേക്സ് ബിജോയ്, സംഗീത സചിത്ത്",
+    "year": "2021"
+  },
+  "dingiri-dingale": {
+    "id": "dingiri-dingale",
+    "songName": "ഡിങ്കിരി ഡിങ്കാലേ",
+    "film": "കുറുപ്പ്",
+    "lyricist": "ടെറി ബത്തേരി",
+    "musicDirector": "സുലൈമാൻ കക്കോടൻ",
+    "singers": "ദുൽഖർ സൽമാൻ",
+    "year": "2021"
+  },
+  "neelakkadalin-adiyil": {
+    "id": "neelakkadalin-adiyil",
+    "songName": "നീലക്കടലിൻ അടിയിൽ",
+    "film": "കുറുപ്പ്",
+    "lyricist": "അലൻ ടോം",
+    "musicDirector": "ലിയോ ടോം",
+    "singers": "ആനന്ദ് ശ്രീരാജ്",
+    "year": "2021"
+  },
+  "pakaliravukalaam": {
+    "id": "pakaliravukalaam",
+    "songName": "പകലിരവുകളാം",
+    "film": "കുറുപ്പ്",
+    "lyricist": "അൻവർ അലി",
+    "musicDirector": "സുഷിൻ ശ്യാം",
+    "singers": "നേഹ എസ് നായർ",
+    "year": "2020"
+  },
+  "mele-theeram": {
+    "id": "mele-theeram",
+    "songName": "മേലേ തീരം",
+    "film": "കുറുപ്പ്",
+    "lyricist": "നെസർ അഹമ്മദ്",
+    "musicDirector": "സുഷിൻ ശ്യാം",
+    "singers": "ആനന്ദ് ശ്രീരാജ്",
+    "year": "2021"
+  },
+  "enkilumen": {
+    "id": "enkilumen",
+    "songName": "എങ്കിലുമെൻ",
+    "film": "കൃഷ്ണൻകുട്ടി പണിതുടങ്ങി",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ആനന്ദ് മധുസൂദനൻ",
+    "singers": "പി ജയചന്ദ്രൻ, സിതാര കൃഷ്ണകുമാർ",
+    "year": "2020"
+  },
+  "fly-fly-fly": {
+    "id": "fly-fly-fly",
+    "songName": "ഫ്‌ളൈ ഫ്‌ളൈ ഫ്‌ളൈ",
+    "film": "കൃഷ്ണൻകുട്ടി പണിതുടങ്ങി",
+    "lyricist": "ആനന്ദ് മധുസൂദനൻ",
+    "musicDirector": "ആനന്ദ് മധുസൂദനൻ",
+    "singers": "സോനോബിയ സഫർ",
+    "year": "2020"
+  },
+  "long-long-long-ago": {
+    "id": "long-long-long-ago",
+    "songName": "ലോങ്ങ് ലോങ്ങ് ലോങ്ങ് എഗോ",
+    "film": "കൃഷ്ണൻകുട്ടി പണിതുടങ്ങി",
+    "lyricist": "ആനന്ദ് മധുസൂദനൻ",
+    "musicDirector": "ആനന്ദ് മധുസൂദനൻ",
+    "singers": "ആനന്ദ് മധുസൂദനൻ",
+    "year": "2020"
+  },
+  "eeran-mukil-mazhiyale": {
+    "id": "eeran-mukil-mazhiyale",
+    "songName": "ഈറൻമുകിൽ മഷിയാലെ",
+    "film": "കോൾഡ് കേസ്",
+    "lyricist": "ശ്രീനാഥ് വി നാഥ്",
+    "musicDirector": "പ്രകാശ് അലക്സ്",
+    "singers": "കെ എസ് ഹരിശങ്കർ",
+    "year": "2021"
+  },
+  "fire": {
+    "id": "fire",
+    "songName": "ഫയർ",
+    "film": "കോൾഡ് കേസ്",
+    "lyricist": "ആനന്ദ് ശ്രീരാജ്",
+    "musicDirector": "പ്രകാശ് അലക്സ്",
+    "singers": "ആനന്ദ് ശ്രീരാജ്",
+    "year": "2021"
+  },
+  "venmukile": {
+    "id": "venmukile",
+    "songName": "* വെണ്മുകിലേ",
+    "film": "ക്യാബിൻ",
+    "lyricist": "ജോ പോൾ",
+    "musicDirector": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "singers": "കെ എസ് ഹരിശങ്കർ",
+    "year": "2020"
+  },
+  "sticker-pottu": {
+    "id": "sticker-pottu",
+    "songName": "* സ്റ്റിക്കർ പോട്ട്",
+    "film": "ക്യാബിൻ",
+    "lyricist": "കൃഷ്ണ കുമാർ",
+    "musicDirector": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "singers": "മുകേഷ് ചെന്നൈ, ലൈസ തെരേസ, ഷീല, അച്ചു",
+    "year": "2020"
+  },
+  "athiril-uyarum": {
+    "id": "athiril-uyarum",
+    "songName": "അതിരിൽ ഉയരും",
+    "film": "ക്യാബിൻ",
+    "lyricist": "ഷഹീറാ നസീർ",
+    "musicDirector": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "singers": "നജിം അർഷാദ്",
+    "year": "2021"
+  },
+  "ee-rathri-christhumas-rathri": {
+    "id": "ee-rathri-christhumas-rathri",
+    "songName": "ഈ രാത്രി ക്രിസ്തുമസ് രാത്രി",
+    "film": "ക്രിസ്തുമസ് രാത്രി",
+    "lyricist": "കെ ജയകുമാർ",
+    "musicDirector": "രാജീവ്‌ ഒ എൻ വി",
+    "singers": "അപർണ രാജീവ്",
+    "year": "2021"
+  },
+  "ithalithalayi-poo-vidarthi": {
+    "id": "ithalithalayi-poo-vidarthi",
+    "songName": "ഇതളിതളായി പൂ വിടർത്തി",
+    "film": "ക്ഷണം",
+    "lyricist": "റഫീക്ക് അഹമ്മദ്",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "ജ്യോത്സ്ന രാധാകൃഷ്ണൻ",
+    "year": "2021"
+  },
+  "oh-baby": {
+    "id": "oh-baby",
+    "songName": "ഓ ബേബി",
+    "film": "ക്ഷണം",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "വിഷ്ണു മോഹൻ സിത്താര",
+    "singers": "സച്ചിൻ വാര്യർ, കോറസ്",
+    "year": "2021"
+  },
+  "mizhi-mizhi-swakaryamaay": {
+    "id": "mizhi-mizhi-swakaryamaay",
+    "songName": "മിഴി മിഴി സ്വകാര്യമായ്",
+    "film": "ക്ഷണം",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "കെ കെ നിഷാദ്, സംഗീത ശ്രീകാന്ത്",
+    "year": "2021"
+  },
+  "mizhikal-mizhikalil": {
+    "id": "mizhikal-mizhikalil",
+    "songName": "മിഴികൾ മിഴികളിൽ",
+    "film": "ക്ഷണം",
+    "lyricist": "എസ് രമേശൻ നായർ",
+    "musicDirector": "ആർ സോമശേഖരൻ",
+    "singers": "വിജേഷ് ഗോപാൽ, സംഗീത ശ്രീകാന്ത്",
+    "year": "2021"
+  },
+  "priyamoluma": {
+    "id": "priyamoluma",
+    "songName": "* പ്രിയമോലുമാ",
+    "film": "കൺഫെഷൻസ് ഓഫ് എ കുക്കൂ",
+    "lyricist": "അലോഷ്യ പീറ്റർ",
+    "musicDirector": "അലോഷ്യ പീറ്റർ",
+    "singers": "ശ്വേത മോഹൻ",
+    "year": "2021"
+  },
+  "ammakkiliyude": {
+    "id": "ammakkiliyude",
+    "songName": "അമ്മക്കിളിയുടെ",
+    "film": "കൺഫെഷൻസ് ഓഫ് എ കുക്കൂ",
+    "lyricist": "ഗീത പ്രകാശ്",
+    "musicDirector": "അലോഷ്യ പീറ്റർ",
+    "singers": "സിതാര കൃഷ്ണകുമാർ",
+    "year": "2021"
+  },
+  "nilavakale": {
+    "id": "nilavakale",
+    "songName": "നിലാവകലെ",
+    "film": "കൺഫെഷൻസ് ഓഫ് എ കുക്കൂ",
+    "lyricist": "അലോഷ്യ പീറ്റർ",
+    "musicDirector": "അലോഷ്യ പീറ്റർ",
+    "singers": "അലോഷ്യ പീറ്റർ",
+    "year": "2021"
+  },
+  "kaalam-varum-nin": {
+    "id": "kaalam-varum-nin",
+    "songName": "* കാലം വരും നിൻ",
+    "film": "ഖോ-ഖോ",
+    "lyricist": "അർജ്ജുൻ രഞ്ജൻ",
+    "musicDirector": "സിദ്ധാർത്ഥ പ്രദീപ്",
+    "singers": "ബിന്ദു അനിരുദ്ധൻ",
+    "year": "2020"
+  },
+  "kho-kho-theevandi": {
+    "id": "kho-kho-theevandi",
+    "songName": "* ഖോ ഖോ തീവണ്ടി",
+    "film": "ഖോ-ഖോ",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "സിദ്ധാർത്ഥ പ്രദീപ്",
+    "singers": "സൗപർണ്ണിക രാജഗോപാൽ, അപർണ്ണ സത്യൻ",
+    "year": "2020"
+  },
+  "did-she-catch-me": {
+    "id": "did-she-catch-me",
+    "songName": "* ഡിഡി ഷീ ക്യാച്ച് മീ",
+    "film": "ഖോ-ഖോ",
+    "lyricist": "അദിതി നായർ",
+    "musicDirector": "സിദ്ധാർത്ഥ പ്രദീപ്",
+    "singers": "അദിതി നായർ",
+    "year": "2020"
+  },
+  "ninave-vaa": {
+    "id": "ninave-vaa",
+    "songName": "* നിനവേ വാ",
+    "film": "ഖോ-ഖോ",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "സിദ്ധാർത്ഥ പ്രദീപ്",
+    "singers": "അമൃത ജയകുമാർ",
+    "year": "2020"
+  },
+  "nin-neram-vanne": {
+    "id": "nin-neram-vanne",
+    "songName": "* നിൻ നേരം വന്നേ",
+    "film": "ഖോ-ഖോ",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "സിദ്ധാർത്ഥ പ്രദീപ്",
+    "singers": "ജാസ് റാഥോർ",
+    "year": "2020"
+  },
+  "boom-boom-bam": {
+    "id": "boom-boom-bam",
+    "songName": "* ബൂം ബൂം ബാം",
+    "film": "ഖോ-ഖോ",
+    "lyricist": "അദിതി നായർ",
+    "musicDirector": "സിദ്ധാർത്ഥ പ്രദീപ്",
+    "singers": "അദിതി നായർ",
+    "year": "2020"
+  },
+  "betterness": {
+    "id": "betterness",
+    "songName": "* ബെറ്റർനെസ്",
+    "film": "ഖോ-ഖോ",
+    "lyricist": "അദിതി നായർ",
+    "musicDirector": "സിദ്ധാർത്ഥ പ്രദീപ്",
+    "singers": "അദിതി നായർ",
+    "year": "2020"
+  },
+  "bhayathe-karuthal-porutham": {
+    "id": "bhayathe-karuthal-porutham",
+    "songName": "* ഭയത്തെ കരുതൽ പൊരുതാം",
+    "film": "ഖോ-ഖോ",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "സിദ്ധാർത്ഥ പ്രദീപ്",
+    "singers": "ഭരത് രാജേഷ്",
+    "year": "2020"
+  },
+  "rise-theme": {
+    "id": "rise-theme",
+    "songName": "* റൈസ് തീം",
+    "film": "ഖോ-ഖോ",
+    "lyricist": "അദിതി നായർ",
+    "musicDirector": "സിദ്ധാർത്ഥ പ്രദീപ്",
+    "singers": "അദിതി നായർ",
+    "year": "2020"
+  },
+  "venal-pathayil": {
+    "id": "venal-pathayil",
+    "songName": "* വേനൽ പാതിയിൽ",
+    "film": "ഖോ-ഖോ",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "സിദ്ധാർത്ഥ പ്രദീപ്",
+    "singers": "നന്ദഗോപൻ വി",
+    "year": "2020"
+  },
+  "smack-kho": {
+    "id": "smack-kho",
+    "songName": "* സ്മാക്ക് വിത്ത് ദി ഖോ",
+    "film": "ഖോ-ഖോ",
+    "lyricist": "അദിതി നായർ, സിദ്ധാർത്ഥ പ്രദീപ്",
+    "musicDirector": "സിദ്ധാർത്ഥ പ്രദീപ്",
+    "singers": "അദിതി നായർ, നിതിൻ രാജ്",
+    "year": "2020"
+  },
+  "theeram-thaane-unarum": {
+    "id": "theeram-thaane-unarum",
+    "songName": "തീരം താനെ ഉണരും",
+    "film": "ഖോ-ഖോ",
+    "lyricist": "രാഹുൽ റിജി നായർ",
+    "musicDirector": "സിദ്ധാർത്ഥ പ്രദീപ്",
+    "singers": "നന്ദഗോപൻ വി",
+    "year": "2020"
+  },
+  "Savariya": {
+    "id": "Savariya",
+    "songName": "സാവരിയ",
+    "film": "ഗാർഡിയൻ",
+    "lyricist": "ധന്യ പ്രദീപ് ടോം",
+    "musicDirector": "പ്രദീപ് ടോം",
+    "singers": "നജിം അർഷാദ്, ശ്രുതി ശിവദാസ്",
+    "year": "2021"
+  },
+  "pathiyil-theerumo": {
+    "id": "pathiyil-theerumo",
+    "songName": "പാതിയിൽ തീരുമോ",
+    "film": "ചതുർമുഖം",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഡോൺ വിൻസന്റ്",
+    "singers": "അമൃത ജയകുമാർ",
+    "year": "2021"
+  },
+  "mayakondu-kanakkoodu": {
+    "id": "mayakondu-kanakkoodu",
+    "songName": "മായകൊണ്ട് കാണാക്കൂട്",
+    "film": "ചതുർമുഖം",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഡോൺ വിൻസന്റ്",
+    "singers": "ശ്വേത മോഹൻ",
+    "year": "2021"
+  },
+  "madhurappathinezhukari": {
+    "id": "madhurappathinezhukari",
+    "songName": "മധുരപ്പതിനേഴുകാരി",
+    "film": "ചിരി",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "പ്രിൻസ് ജോർജ്",
+    "singers": "കാർത്തിക്, ഷാരോൺ ജോസഫ്",
+    "year": "2020"
+  },
+  "ethetho-mounagal": {
+    "id": "ethetho-mounagal",
+    "songName": "ഏതേതോ മൗനങ്ങൾ",
+    "film": "ചെരാതുകൾ",
+    "lyricist": "അനു കുരിശിങ്കൽ",
+    "musicDirector": "മെജോ ജോസഫ്",
+    "singers": "വിധു പ്രതാപ്, നിത്യ മാമ്മൻ",
+    "year": "2021"
+  },
+  "poonilavin-kammalittoru": {
+    "id": "poonilavin-kammalittoru",
+    "songName": "* പൂനിലാവിൻ കമ്മലിട്ടൊരു",
+    "film": "ജാക്കി ഷെരീഫ്",
+    "lyricist": "ഷഹീറാ നസീർ, നസീറ നൗഷാദ്",
+    "musicDirector": "ജൂനിയർ മെഹബൂബ്",
+    "singers": "ജൂനിയർ മെഹബൂബ്, അഫ്സൽ, അൽക്ക അക്സർ",
+    "year": "2021"
+  },
+  "haara-main-tumse": {
+    "id": "haara-main-tumse",
+    "songName": "* ഹാരാ മേം തുംസേ",
+    "film": "ജിബൂട്ടി",
+    "lyricist": "തനിഷ്ക് നാബർ",
+    "musicDirector": "ദീപക് ദേവ്",
+    "singers": "ശങ്കർ മഹാദേവൻ",
+    "year": "2021"
+  },
+  "kalikazhinjeda": {
+    "id": "kalikazhinjeda",
+    "songName": "കളികഴിഞ്ഞെടാ",
+    "film": "ജിബൂട്ടി",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "ദീപക് ദേവ്",
+    "singers": "ആനന്ദ് ശ്രീരാജ്",
+    "year": "2021"
+  },
+  "nirathara-naalam-ore-manam": {
+    "id": "nirathara-naalam-ore-manam",
+    "songName": "നിരതാര നാളം (ഒരേ മനം )",
+    "film": "ജിബൂട്ടി",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "ദീപക് ദേവ്",
+    "singers": "വിജയ് പ്രകാശ്",
+    "year": "2021"
+  },
+  "raavin-koorirulile-ellam-nerayo": {
+    "id": "raavin-koorirulile-ellam-nerayo",
+    "songName": "രാവിൻ കൂരിരുളിലെ (എല്ലാം നേരായോ )",
+    "film": "ജിബൂട്ടി",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "ദീപക് ദേവ്",
+    "singers": "വിജയ് പ്രകാശ്",
+    "year": "2021"
+  },
+  "vinninithale-kanninithale": {
+    "id": "vinninithale-kanninithale",
+    "songName": "വീണ്ണിനിതളേ കണ്ണിനിതളേ",
+    "film": "ജിബൂട്ടി",
+    "lyricist": "കൈതപ്രം",
+    "musicDirector": "ദീപക് ദേവ്",
+    "singers": "ശങ്കർ മഹാദേവൻ",
+    "year": "2021"
+  },
+  "hey-vaname-0": {
+    "id": "hey-vaname-0",
+    "songName": "ഹേയ് വാനമേ",
+    "film": "ജിബൂട്ടി",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "ദീപക് ദേവ്",
+    "singers": "കാർത്തിക്",
+    "year": "2021"
+  },
+  "angu-mele-parakkan": {
+    "id": "angu-mele-parakkan",
+    "songName": "അങ്ങു മേലെ പറക്കാനാ ചക്കിപ്പരുന്തേ",
+    "film": "തട്ടുകട മുതൽ സെമിത്തേരി വരെ",
+    "lyricist": "പ്രവീൺ ചമ്രവട്ടം",
+    "musicDirector": "മനു ചന്ദ്",
+    "singers": "സിയാ ഉൾ ഹഖ്, ഷുഹൈബ് ജെറിൻ",
+    "year": "2021"
+  },
+  "annu-nilaavulla-rathriyanu": {
+    "id": "annu-nilaavulla-rathriyanu",
+    "songName": "അന്നു നിലാവുള്ള രാത്രിയാണ്",
+    "film": "തട്ടുകട മുതൽ സെമിത്തേരി വരെ",
+    "lyricist": "ഷഫീഖ് റഹ്മാൻ",
+    "musicDirector": "ഷഫീഖ് റഹ്മാൻ",
+    "singers": "നജിം അർഷാദ്",
+    "year": "2021"
+  },
+  "chim-chilam": {
+    "id": "chim-chilam",
+    "songName": "ചിം ചിലം ചിലം",
+    "film": "തട്ടുകട മുതൽ സെമിത്തേരി വരെ",
+    "lyricist": "ഫൈസൽ പൊന്നാനി",
+    "musicDirector": "മനു ചന്ദ്",
+    "singers": "അഫ്സൽ, കോറസ്",
+    "year": "2021"
+  },
+  "nee-peyyumpole-nimishangal": {
+    "id": "nee-peyyumpole-nimishangal",
+    "songName": "നീ പെയ്യുമ്പോലെ നിമിഷങ്ങൾ",
+    "film": "തട്ടുകട മുതൽ സെമിത്തേരി വരെ",
+    "lyricist": "ഷഫീഖ് റഹ്മാൻ",
+    "musicDirector": "ഷഫീഖ് റഹ്മാൻ",
+    "singers": "വിജയ് യേശുദാസ്",
+    "year": "2021"
+  },
+  "thala-pokki-pidiyeda-mone": {
+    "id": "thala-pokki-pidiyeda-mone",
+    "songName": "* തലപൊക്കി പിടിയെട മോനെ",
+    "film": "തല",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "അങ്കിത് മേനോൻ",
+    "singers": "ഗാന ബാല",
+    "year": "2021"
+  },
+  "poonkodiye": {
+    "id": "poonkodiye",
+    "songName": "* പൂങ്കൊടിയേ",
+    "film": "തല",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "അങ്കിത് മേനോൻ",
+    "singers": "സിദ് ശ്രീറാം",
+    "year": "2021"
+  },
+  "kidavu-menja": {
+    "id": "kidavu-menja",
+    "songName": "കിടാവ് മേഞ്ഞ",
+    "film": "താര",
+    "lyricist": "ബിനീഷ് പുതുപ്പണം",
+    "musicDirector": "വിഷ്ണു ദിവാകരൻ",
+    "singers": "സിതാര കൃഷ്ണകുമാർ",
+    "year": "2021"
+  },
+  "enthoram-payyaram": {
+    "id": "enthoram-payyaram",
+    "songName": "എന്തോരം പയ്യാരം",
+    "film": "തിങ്കളാഴ്ച നിശ്ചയം",
+    "lyricist": "നിധീഷ് നടേരി",
+    "musicDirector": "മുജീബ് മജീദ്",
+    "singers": "ആൻ ആമി, കെ എസ് ഹരിശങ്കർ",
+    "year": "2020"
+  },
+  "kedaa-naalame": {
+    "id": "kedaa-naalame",
+    "songName": "കെടാനാളമേ",
+    "film": "തിങ്കളാഴ്ച നിശ്ചയം",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "മുജീബ് മജീദ്",
+    "singers": "കാവ്യ അജിത്ത്",
+    "year": "2021"
+  },
+  "panthalu-koodi-kalikkan": {
+    "id": "panthalu-koodi-kalikkan",
+    "songName": "പന്തല് കൂടി കളിക്കാൻ",
+    "film": "തിങ്കളാഴ്ച നിശ്ചയം",
+    "lyricist": "ട്രഡീഷണൽ",
+    "musicDirector": "മുജീബ് മജീദ്",
+    "singers": "രവി വാണിയംപാറ",
+    "year": "2021"
+  },
+  "lele-mama-lele": {
+    "id": "lele-mama-lele",
+    "songName": "ലേലേ മാമ ലേലേ",
+    "film": "തിങ്കളാഴ്ച നിശ്ചയം",
+    "lyricist": "ട്രഡീഷണൽ",
+    "musicDirector": "മുജീബ് മജീദ്",
+    "singers": "",
+    "year": "2021"
+  },
+  "thirike-varaam": {
+    "id": "thirike-varaam",
+    "songName": "* തിരികെ വരാം",
+    "film": "തിരികെ",
+    "lyricist": "സാം മാത്യു",
+    "musicDirector": "അങ്കിത് മേനോൻ",
+    "singers": "പർവതീഷ് പ്രദീപ്",
+    "year": "2021"
+  },
+  "ormakkaalame": {
+    "id": "ormakkaalame",
+    "songName": "* ഹേ ഓർമ്മക്കാലമേ",
+    "film": "തിരികെ",
+    "lyricist": "സാം മാത്യു",
+    "musicDirector": "അങ്കിത് മേനോൻ",
+    "singers": "പർവതീഷ് പ്രദീപ്",
+    "year": "2021"
+  },
+  "manohari-devamanohari": {
+    "id": "manohari-devamanohari",
+    "songName": "മനോഹരി ദേവമനോഹരി",
+    "film": "തീര്‍ത്ഥ സൗപര്‍ണിക",
+    "lyricist": "മനോഹര വര്‍മ്മ രാജ",
+    "musicDirector": "മഹാദേവ അയ്യര്‍",
+    "singers": "ദേവാനന്ദ്",
+    "year": "2021"
+  },
+  "thira-thodum-theeram-mele": {
+    "id": "thira-thodum-theeram-mele",
+    "songName": "തിര തൊടും തീരം മേലെ",
+    "film": "തുരുത്ത്",
+    "lyricist": "ബിജു മുരളി",
+    "musicDirector": "രാജീവ്‌ ഒ എൻ വി",
+    "singers": "അപർണ രാജീവ്",
+    "year": "2021"
+  },
+  "pudanjoriyana-kayalolam": {
+    "id": "pudanjoriyana-kayalolam",
+    "songName": "പുടഞ്ഞൊറിയണ കായലോളം",
+    "film": "തുരുത്ത്",
+    "lyricist": "ബിജു മുരളി",
+    "musicDirector": "രാജീവ്‌ ഒ എൻ വി",
+    "singers": "സുദീപ് കുമാർ",
+    "year": "2021"
+  },
+  "Oru-Kudam": {
+    "id": "Oru-Kudam",
+    "songName": "ഒരു കൊടം പാറ്",
+    "film": "ദി ഗ്രേറ്റ് ഇന്ത്യൻ കിച്ചൺ - മഹത്തായ ഭാരതീയ അടുക്കള",
+    "lyricist": "മൃദുലദേവി എസ്",
+    "musicDirector": "മാത്യുസ് പുളിക്കൻ",
+    "singers": "ഹരിത ബാലകൃഷ്ണൻ, സുലേഖ കാപ്പാടൻ",
+    "year": "2020"
+  },
+  "Neeye": {
+    "id": "Neeye",
+    "songName": "നീയെ",
+    "film": "ദി ഗ്രേറ്റ് ഇന്ത്യൻ കിച്ചൺ - മഹത്തായ ഭാരതീയ അടുക്കള",
+    "lyricist": "ധന്യ സുരേഷ് മേനോൻ",
+    "musicDirector": "സൂരജ് എസ് കുറുപ്പ്",
+    "singers": "രേണുക അരുൺ",
+    "year": "2020"
+  },
+  "shudhar-sthuthikkum-veede": {
+    "id": "shudhar-sthuthikkum-veede",
+    "songName": "* ശുദ്ധർ സ്തുതിക്കും",
+    "film": "ദി പ്രീസ്റ്റ്",
+    "lyricist": "സിസ്റ്റർ അന്നമ്മ മാമ്മൻ",
+    "musicDirector": "രാഹുൽ രാജ്",
+    "singers": "മനോജ് കെ ജെ, ജൂഡിത്ത് ആൻ, ശരത് സുഗുണൻ, സനൽ ലെവി, ലിനു മോനിച്ചൻ, ഗ്രീഷ്മ ഫെലിക്സ്, അനീറ്റ സേവ്യർ, സൂസന്ന ബെൻ",
+    "year": "2021"
+  },
+  "kanne-uyirin-kanneer-maniye": {
+    "id": "kanne-uyirin-kanneer-maniye",
+    "songName": "കണ്ണേ ഉയിരിൻ കണ്ണീർമണിയേ",
+    "film": "ദി പ്രീസ്റ്റ്",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "രാഹുൽ രാജ്",
+    "singers": "നാരായണി ഗോപൻ",
+    "year": "2021"
+  },
+  "Nazrethin": {
+    "id": "Nazrethin",
+    "songName": "നസ്രേത്തിൻ നാട്ടിലെ",
+    "film": "ദി പ്രീസ്റ്റ്",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "രാഹുൽ രാജ്",
+    "singers": "ബേബി നിയ ചാർളി, മെറിൻ ഗ്രിഗറി",
+    "year": "2021"
+  },
+  "nigoodamam": {
+    "id": "nigoodamam",
+    "songName": "നിഗൂഡമാം..",
+    "film": "ദി പ്രീസ്റ്റ്",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "രാഹുൽ രാജ്",
+    "singers": "നാരായണി ഗോപൻ",
+    "year": "2021"
+  },
+  "neelambale-nee-vannitha": {
+    "id": "neelambale-nee-vannitha",
+    "songName": "നീലാമ്പലേ നീ വന്നിതാ",
+    "film": "ദി പ്രീസ്റ്റ്",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "രാഹുൽ രാജ്",
+    "singers": "സുജാത മോഹൻ",
+    "year": "2021"
+  },
+  "ore-pakal": {
+    "id": "ore-pakal",
+    "songName": "ഒരേ പകൽ",
+    "film": "ദൃശ്യം 2",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "അനിൽ ജോൺസൺ",
+    "singers": "സോനോബിയ സഫർ",
+    "year": "2021"
+  },
+  "shararanthale": {
+    "id": "shararanthale",
+    "songName": "*ശരറാന്തലേ",
+    "film": "ദേര ഡയറീസ്",
+    "lyricist": "ജോ പോൾ",
+    "musicDirector": "സിബു സുകുമാരൻ",
+    "singers": "കെ എസ് ഹരിശങ്കർ",
+    "year": "2020"
+  },
+  "sayahna-megham": {
+    "id": "sayahna-megham",
+    "songName": "*സായാഹ്ന മേഘം",
+    "film": "ദേര ഡയറീസ്",
+    "lyricist": "ജോ പോൾ",
+    "musicDirector": "സിബു സുകുമാരൻ",
+    "singers": "വിജയ് യേശുദാസ്",
+    "year": "2020"
+  },
+  "ettukale-pimpiriyam": {
+    "id": "ettukale-pimpiriyam",
+    "songName": "എട്ടുകാലേ പിമ്പിരിയാം",
+    "film": "നായാട്ട് (2021)",
+    "lyricist": "അൻവർ അലി",
+    "musicDirector": "വിഷ്ണു വിജയ്",
+    "singers": "മധുവന്തി നാരായൺ, കോറസ്",
+    "year": "2021"
+  },
+  "naayattinunarabaliyiranee-njan": {
+    "id": "naayattinunarabaliyiranee-njan",
+    "songName": "നായാട്ടിന് നരബലിയിരനീ ഞാൻ",
+    "film": "നായാട്ട് (2021)",
+    "lyricist": "വേടൻ",
+    "musicDirector": "വിഷ്ണു വിജയ്",
+    "singers": "വേടൻ",
+    "year": "2021"
+  },
+  "sneha-swaroopane": {
+    "id": "sneha-swaroopane",
+    "songName": "സ്നേഹസ്വരൂപനേ",
+    "film": "നാളേയ്ക്കായ്",
+    "lyricist": "ബി എസ് ജയദാസ്",
+    "musicDirector": "രാജീവ് ശിവ",
+    "singers": "സരിത രാജീവ്",
+    "year": "2021"
+  },
+  "story": {
+    "id": "story",
+    "songName": "* സ്റ്റോറി സോങ്",
+    "film": "നിഴൽ",
+    "lyricist": "സൂരജ് എസ് കുറുപ്പ്",
+    "musicDirector": "സൂരജ് എസ് കുറുപ്പ്",
+    "singers": "മൃദുൽ അനിൽ, നീതു നടുവത്തേറ്റ്, സൗപർണ്ണിക രാജഗോപാൽ",
+    "year": "2021"
+  },
+  "innale-mellane": {
+    "id": "innale-mellane",
+    "songName": "ഇന്നലെ മെല്ലനെ",
+    "film": "നിഴൽ",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "സൂരജ് എസ് കുറുപ്പ്",
+    "singers": "ഹരിചരൺ ശേഷാദ്രി",
+    "year": "2021"
+  },
+  "innale-mellene": {
+    "id": "innale-mellene",
+    "songName": "ഇന്നലെ മെല്ലെനെ",
+    "film": "നിഴൽ",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "സൂരജ് എസ് കുറുപ്പ്",
+    "singers": "ഹരിചരൺ ശേഷാദ്രി",
+    "year": "2021"
+  },
+  "regret-all-my-past": {
+    "id": "regret-all-my-past",
+    "songName": "എ റഗ്രീറ്റ് ആൾ മൈ പാസ്റ്റ്",
+    "film": "നോ മാൻസ് ലാൻഡ്",
+    "lyricist": "സാം പി ഫ്രാൻസിസ്",
+    "musicDirector": "സാം പി ഫ്രാൻസിസ്",
+    "singers": "സാം പി ഫ്രാൻസിസ്",
+    "year": "2021"
+  },
+  "olente-muraviliyo": {
+    "id": "olente-muraviliyo",
+    "songName": "ഓളെന്റെ മുറവിളിയൊ",
+    "film": "നോ മാൻസ് ലാൻഡ്",
+    "lyricist": "അക്കി വിനായക്",
+    "musicDirector": "ജോയ് ജിനിത്",
+    "singers": "ജാനജി എസ്",
+    "year": "2021"
+  },
+  "peyyathe-thee-mazhaye": {
+    "id": "peyyathe-thee-mazhaye",
+    "songName": "പെയ്യാതെ തീ മഴയെ",
+    "film": "നോ മാൻസ് ലാൻഡ്",
+    "lyricist": "അക്കി വിനായക്",
+    "musicDirector": "ജോയ് ജിനിത്",
+    "singers": "അമൃത ജയകുമാർ",
+    "year": "2021"
+  },
+  "thaka-thaka-tharikida": {
+    "id": "thaka-thaka-tharikida",
+    "songName": "* തക തക തരികിട",
+    "film": "പാപ്പന്റേം സൈമന്റേം പിള്ളേർ",
+    "lyricist": "സോജിൻ ജയിംസ്",
+    "musicDirector": "ജോയ് ചെറുവത്തൂർ",
+    "singers": "കരൂർ ഫാസിൽ, നോബി ജേക്കബ്",
+    "year": "2019"
+  },
+  "kasithumba-chelolum": {
+    "id": "kasithumba-chelolum",
+    "songName": "കാശിത്തുമ്പ ചേലോലും",
+    "film": "പിടികിട്ടാപ്പുള്ളി (2021)",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "പി എസ് ജയ്‌ഹരി",
+    "singers": "സൂരജ് സന്തോഷ്",
+    "year": "2021"
+  },
+  "ennile-njaan": {
+    "id": "ennile-njaan",
+    "songName": "എന്നിലെ ഞാൻ",
+    "film": "പ്രണയാമൃതം",
+    "lyricist": "ഏഴാച്ചേരി രാമചന്ദ്രൻ",
+    "musicDirector": "സലാം വീരോളി",
+    "singers": "നജിം അർഷാദ്, അനുപമ അരവിന്ദ്",
+    "year": "2021"
+  },
+  "ennile-njan": {
+    "id": "ennile-njan",
+    "songName": "എന്നിലെ ഞാൻ",
+    "film": "പ്രണയാമൃതം",
+    "lyricist": "ഏഴാച്ചേരി രാമചന്ദ്രൻ",
+    "musicDirector": "സലാം വീരോളി",
+    "singers": "നജിം അർഷാദ്, അനുപമ അരവിന്ദ്",
+    "year": "2021"
+  },
+  "kumbala-valliyil-oonjal-ketti": {
+    "id": "kumbala-valliyil-oonjal-ketti",
+    "songName": "കുമ്പള വള്ളിയിൽ ഊഞ്ഞാൽ കെട്ടി",
+    "film": "പ്രണയാമൃതം",
+    "lyricist": "ഏഴാച്ചേരി രാമചന്ദ്രൻ",
+    "musicDirector": "സലാം വീരോളി",
+    "singers": "മൃദുല വാര്യർ, അഫ്സൽ",
+    "year": "2021"
+  },
+  "madhuramulla-nombaram": {
+    "id": "madhuramulla-nombaram",
+    "songName": "മധുരമുള്ള നൊമ്പരം",
+    "film": "പ്രണയാമൃതം",
+    "lyricist": "ഏഴാച്ചേരി രാമചന്ദ്രൻ",
+    "musicDirector": "സലാം വീരോളി",
+    "singers": "അപർണ രാതുൽ, സിനോപ് രാതുൽ",
+    "year": "2021"
+  },
+  "ozhukidum-nithaantha": {
+    "id": "ozhukidum-nithaantha",
+    "songName": "* ഒഴുകിടും നിതാന്ത",
+    "film": "ബ്ലാക്ക് കോഫി",
+    "lyricist": "റഫീക്ക് അഹമ്മദ്",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "മഞ്ജരി",
+    "year": "2021"
+  },
+  "chembavu-punnellin": {
+    "id": "chembavu-punnellin",
+    "songName": "* ചെമ്പാവ് പുന്നെല്ലിൻ",
+    "film": "ബ്ലാക്ക് കോഫി",
+    "lyricist": "റഫീക്ക് അഹമ്മദ്",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "സൗമ്യ രാമകൃഷ്ണൻ",
+    "year": "2021"
+  },
+  "poi-maranja": {
+    "id": "poi-maranja",
+    "songName": "* പോയ് മറഞ്ഞ",
+    "film": "ബ്ലാക്ക് കോഫി",
+    "lyricist": "സന്തോഷ് വർമ്മ",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "ജാസി ഗിഫ്റ്റ്",
+    "year": "2021"
+  },
+  "nalikerangalil": {
+    "id": "nalikerangalil",
+    "songName": "നാളികേരങ്ങളിൽ",
+    "film": "ഭക്തിസാഗരം (ആൽബം )",
+    "lyricist": "ബാലചന്ദ്രൻ പാച്ചല്ലൂർ",
+    "musicDirector": "വിജയ് കരുൺ",
+    "singers": "സതീഷ് കുമാർ",
+    "year": "2021"
+  },
+  "doorangalil-aazhangalil": {
+    "id": "doorangalil-aazhangalil",
+    "songName": "*ദൂരങ്ങളില്‍ ആഴങ്ങളില്‍",
+    "film": "ഭാരതപ്പുഴ",
+    "lyricist": "റഫീക്ക് അഹമ്മദ്",
+    "musicDirector": "സുനിൽ കുമാർ പി കെ",
+    "singers": "നാരായണി ഗോപൻ",
+    "year": "2021"
+  },
+  "doorangalil": {
+    "id": "doorangalil",
+    "songName": "ദൂരങ്ങളിൽ",
+    "film": "ഭാരതപ്പുഴ",
+    "lyricist": "റഫീക്ക് അഹമ്മദ്",
+    "musicDirector": "സുനിൽ കുമാർ പി കെ",
+    "singers": "നാരായണി ഗോപൻ",
+    "year": "2021"
+  },
+  "kannum-pootti-ninnem-nokki": {
+    "id": "kannum-pootti-ninnem-nokki",
+    "songName": "കണ്ണും പൂട്ടി നിന്നേം നോക്കി",
+    "film": "ഭീമന്റെ വഴി",
+    "lyricist": "മു.രി",
+    "musicDirector": "വിഷ്ണു വിജയ്",
+    "singers": "ഹരിചരൺ ശേഷാദ്രി",
+    "year": "2021"
+  },
+  "kattoruthi-oru-thee": {
+    "id": "kattoruthi-oru-thee",
+    "songName": "കാറ്റൊരുത്തി ഒരു തീ",
+    "film": "ഭീമന്റെ വഴി",
+    "lyricist": "മു.രി",
+    "musicDirector": "വിഷ്ണു വിജയ്",
+    "singers": "വിഷ്ണു വിജയ്",
+    "year": "2021"
+  },
+  "pale-pole": {
+    "id": "pale-pole",
+    "songName": "പലേ പോലെ",
+    "film": "ഭീമന്റെ വഴി",
+    "lyricist": "മു.രി",
+    "musicDirector": "വിഷ്ണു വിജയ്",
+    "singers": "എം ജി ശ്രീകുമാർ",
+    "year": "2021"
+  },
+  "lokam-cheradinja-golam": {
+    "id": "lokam-cheradinja-golam",
+    "songName": "* ലോകം ചേറടിഞ്ഞ ഗോളം",
+    "film": "ഭ്രമം",
+    "lyricist": "ജോ പോൾ",
+    "musicDirector": "ജേക്സ് ബിജോയ്",
+    "singers": "പൃഥ്വിരാജ് സുകുമാരൻ",
+    "year": "2021"
+  },
+  "munthirippoovo": {
+    "id": "munthirippoovo",
+    "songName": "മുന്തിരിപ്പൂവോ എന്തിനാണാവോ",
+    "film": "ഭ്രമം",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ജേക്സ് ബിജോയ്",
+    "singers": "ജേക്സ് ബിജോയ്",
+    "year": "2021"
+  },
+  "aadam-paadam": {
+    "id": "aadam-paadam",
+    "songName": "ആടാം പാടം",
+    "film": "മധുരം",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "singers": "വിനീത് ശ്രീനിവാസൻ",
+    "year": "2021"
+  },
+  "enthinanee-katha-iniyum": {
+    "id": "enthinanee-katha-iniyum",
+    "songName": "എന്തിനാണീ കഥ ഇനിയും",
+    "film": "മധുരം",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "singers": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "year": "2021"
+  },
+  "ganame-thannu-nee": {
+    "id": "ganame-thannu-nee",
+    "songName": "ഗാനമേ തന്നു നീ",
+    "film": "മധുരം",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "singers": "സൂരജ് സന്തോഷ്, നിത്യ മാമ്മൻ",
+    "year": "2021"
+  },
+  "parimithaneram": {
+    "id": "parimithaneram",
+    "songName": "പരിമിതനേരം",
+    "film": "മധുരം",
+    "lyricist": "ഷർഫു",
+    "musicDirector": "ഗോവിന്ദ് വസന്ത",
+    "singers": "പ്രദീപ് കുമാർ, ആവണി മൽഹാർ",
+    "year": "2021"
+  },
+  "ram-pum-pum-kaathoram": {
+    "id": "ram-pum-pum-kaathoram",
+    "songName": "റം പം പം കാതോരം",
+    "film": "മധുരം",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "singers": "ആര്യ ദയാൽ",
+    "year": "2021"
+  },
+  "oru-cheru-karimekha": {
+    "id": "oru-cheru-karimekha",
+    "songName": "ഒരു ചെറുകരിമേഘചീന്തില്‍",
+    "film": "മനസ്സില്‍ ഒരു മിഥുനമഴ",
+    "lyricist": "മനോഹര വര്‍മ്മ രാജ",
+    "musicDirector": "മഹാദേവ അയ്യര്‍",
+    "singers": "ഭാവന ബാബു",
+    "year": "2021"
+  },
+  "ilaveyilalakakil": {
+    "id": "ilaveyilalakakil",
+    "songName": "ഇളവെയിലലകളിൽ",
+    "film": "മരക്കാർ അറബിക്കടലിന്റെ സിംഹം",
+    "lyricist": "പ്രഭാവർമ്മ",
+    "musicDirector": "റോണി റാഫേൽ",
+    "singers": "എം ജി ശ്രീകുമാർ, ശ്രേയ ഘോഷൽ",
+    "year": "2021"
+  },
+  "kannil-ente": {
+    "id": "kannil-ente",
+    "songName": "കണ്ണിൽ എൻ്റെ",
+    "film": "മരക്കാർ അറബിക്കടലിന്റെ സിംഹം",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ, ഷാഫി കൊല്ലം",
+    "musicDirector": "റോണി റാഫേൽ",
+    "singers": "വിനീത് ശ്രീനിവാസൻ, ശ്വേത മോഹൻ, സിയാ ഉൾ ഹഖ്",
+    "year": "2021"
+  },
+  "kunjnju-kunjaalikku": {
+    "id": "kunjnju-kunjaalikku",
+    "songName": "കുഞ്ഞു കുഞ്ഞാലിക്ക്",
+    "film": "മരക്കാർ അറബിക്കടലിന്റെ സിംഹം",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "റോണി റാഫേൽ",
+    "singers": "എം ജി ശ്രീകുമാർ",
+    "year": "2021"
+  },
+  "kunju-kunjalikku": {
+    "id": "kunju-kunjalikku",
+    "songName": "കുഞ്ഞു കുഞ്ഞാലിക്ക്",
+    "film": "മരക്കാർ അറബിക്കടലിന്റെ സിംഹം",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "റോണി റാഫേൽ",
+    "singers": "കെ എസ് ചിത്ര",
+    "year": "2021"
+  },
+  "chembinte-chelulla": {
+    "id": "chembinte-chelulla",
+    "songName": "ചെമ്പിന്റെ ചേലുള്ള",
+    "film": "മരക്കാർ അറബിക്കടലിന്റെ സിംഹം",
+    "lyricist": "പ്രിയദർശൻ",
+    "musicDirector": "റോണി റാഫേൽ",
+    "singers": "വിഷ്ണുരാജ്",
+    "year": "2021"
+  },
+  "neeye-en-thaaye": {
+    "id": "neeye-en-thaaye",
+    "songName": "നീയേ എൻ തായേ",
+    "film": "മരക്കാർ അറബിക്കടലിന്റെ സിംഹം",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "റോണി റാഫേൽ",
+    "singers": "കെ എസ് ഹരിശങ്കർ, രേഷ്മ രാഘവേന്ദ്ര",
+    "year": "2021"
+  },
+  "unaram-uyaram": {
+    "id": "unaram-uyaram",
+    "songName": "*ഉണരാം ഉയരാം",
+    "film": "മാടൻ",
+    "lyricist": "വർഗ്ഗീസ് കുറത്തിക്കാട്",
+    "musicDirector": "രഞ്ജിനി സുധീരൻ",
+    "singers": "പ്രാർത്ഥന രതീഷ്, അനഘ കൃഷ്ണൻ, ഗായത്രി ശ്രീമംഗലം",
+    "year": "2021"
+  },
+  "thozhuthittum-thozhuthittum-theerunnilla": {
+    "id": "thozhuthittum-thozhuthittum-theerunnilla",
+    "songName": "*തൊഴുതിട്ടും തൊഴുതിട്ടും തീരുന്നില്ല",
+    "film": "മാടൻ",
+    "lyricist": "തങ്കൻ തിരുവട്ടാർ",
+    "musicDirector": "പെരുമ്പാവൂർ ജി രവീന്ദ്രനാഥ്",
+    "singers": "രഞ്ജിനി സുധീരൻ",
+    "year": "2021"
+  },
+  "mazha-peythu": {
+    "id": "mazha-peythu",
+    "songName": "*മഴ പെയ്തു",
+    "film": "മാടൻ",
+    "lyricist": "ജി എസ് അജയഘോഷ്",
+    "musicDirector": "രഞ്ജിനി സുധീരൻ",
+    "singers": "രവിശങ്കർ",
+    "year": "2021"
+  },
+  "muttathe-mankompil": {
+    "id": "muttathe-mankompil",
+    "songName": "*മുറ്റത്തെ മാങ്കൊമ്പിൽ",
+    "film": "മാടൻ",
+    "lyricist": "സന്തോഷ് പെരളി",
+    "musicDirector": "രഞ്ജിനി സുധീരൻ",
+    "singers": "സുദീപ് കുമാർ, രഞ്ജിനി സുധീരൻ",
+    "year": "2021"
+  },
+  "oru-thoomazhayil": {
+    "id": "oru-thoomazhayil",
+    "songName": "ഒരു തൂമഴയിൽ",
+    "film": "മാരത്തോൺ",
+    "lyricist": "അജിത്ത് ബാലകൃഷ്ണൻ",
+    "musicDirector": "ബിബിൻ അശോകൻ",
+    "singers": "വിനീത് ശ്രീനിവാസൻ",
+    "year": "2021"
+  },
+  "oho-kantharippenne": {
+    "id": "oho-kantharippenne",
+    "songName": "ഓഹോ കാന്താരിപ്പെണ്ണേ",
+    "film": "മാരത്തോൺ",
+    "lyricist": "അർജ്ജുൻ അജിത്ത്",
+    "musicDirector": "ബിബിൻ അശോകൻ",
+    "singers": "സുനിൽ മത്തായി",
+    "year": "2021"
+  },
+  "aararum-kanathe": {
+    "id": "aararum-kanathe",
+    "songName": "ആരാരും കാണാതെ",
+    "film": "മാലിക്",
+    "lyricist": "അൻവർ അലി",
+    "musicDirector": "സുഷിൻ ശ്യാം",
+    "singers": "ഷഹബാസ് അമൻ",
+    "year": "2021"
+  },
+  "theerame": {
+    "id": "theerame",
+    "songName": "തീരമേ തീരമേ",
+    "film": "മാലിക്",
+    "lyricist": "അൻവർ അലി",
+    "musicDirector": "സുഷിൻ ശ്യാം",
+    "singers": "കെ എസ് ചിത്ര, സൂരജ് സന്തോഷ്",
+    "year": "2021"
+  },
+  "rahimun-alimun": {
+    "id": "rahimun-alimun",
+    "songName": "റഹീമുൻ അലീമുൻ",
+    "film": "മാലിക്",
+    "lyricist": "സമീര്‍ ബിന്‍സി",
+    "musicDirector": "സുഷിൻ ശ്യാം",
+    "singers": "ഹിദ സക്കീർ",
+    "year": "2021"
+  },
+  "aaromal": {
+    "id": "aaromal",
+    "songName": "ആരോമൽ",
+    "film": "മിന്നൽ മുരളി",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "നിത്യ മാമ്മൻ, സൂരജ് സന്തോഷ്",
+    "year": "2021"
+  },
+  "uyire": {
+    "id": "uyire",
+    "songName": "ഉയിരേ",
+    "film": "മിന്നൽ മുരളി",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "നാരായണി ഗോപൻ, മിഥുൻ ജയരാജ്",
+    "year": "2021"
+  },
+  "edukka-kashay": {
+    "id": "edukka-kashay",
+    "songName": "എടുക്കാ കാശായ്",
+    "film": "മിന്നൽ മുരളി",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "ശ്വേത അശോക്",
+    "year": "2021"
+  },
+  "kugramame": {
+    "id": "kugramame",
+    "songName": "കുഗ്രാമമേ",
+    "film": "മിന്നൽ മുരളി",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "സുഷിൻ ശ്യാം",
+    "singers": "വിപിൻ രവീന്ദ്രൻ",
+    "year": "2021"
+  },
+  "thee-minnal-thilangi": {
+    "id": "thee-minnal-thilangi",
+    "songName": "തീ മിന്നൽ തിളങ്ങി",
+    "film": "മിന്നൽ മുരളി",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "സുഷിൻ ശ്യാം",
+    "singers": "മർത്യൻ, സുഷിൻ ശ്യാം",
+    "year": "2021"
+  },
+  "niranju-tharakangal-ninna": {
+    "id": "niranju-tharakangal-ninna",
+    "songName": "നിറഞ്ഞു താരകങ്ങൾ നിന്ന",
+    "film": "മിന്നൽ മുരളി",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "എം ജി ശ്രീകുമാർ",
+    "year": "2021"
+  },
+  "ravil-mayangumee-poomadiyil": {
+    "id": "ravil-mayangumee-poomadiyil",
+    "songName": "രാവിൽ മയങ്ങുമീ പൂമടിയിൽ",
+    "film": "മിന്നൽ മുരളി",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "സുഷിൻ ശ്യാം",
+    "singers": "പ്രദീപ് കുമാർ",
+    "year": "2021"
+  },
+  "kattil-thaniye": {
+    "id": "kattil-thaniye",
+    "songName": "* കാറ്റിൽ തനിയേ",
+    "film": "മിയ കുൽപ്പ",
+    "lyricist": "ഡോ അൻവർ അബ്ദുള്ള",
+    "musicDirector": "രാകേഷ് കേശവൻ",
+    "singers": "രഞ്ജിനി രഞ്ജിത്",
+    "year": "2021"
+  },
+  "pakalil-pathiyum-veyilin-cheelukal": {
+    "id": "pakalil-pathiyum-veyilin-cheelukal",
+    "songName": "പകലിൽ പതിയും വെയിലിൻ ചീളുകൾ",
+    "film": "മിയ കുൽപ്പ",
+    "lyricist": "ഡോ അൻവർ അബ്ദുള്ള",
+    "musicDirector": "അലോഷ്യ പീറ്റർ",
+    "singers": "അലോഷ്യ പീറ്റർ",
+    "year": "2020"
+  },
+  "nenjilezhu-niramai": {
+    "id": "nenjilezhu-niramai",
+    "songName": "നെഞ്ചിലേഴു നിറമായ്",
+    "film": "മിഷൻ-സി",
+    "lyricist": "സുനിൽ ജി ചെറുകടവ്",
+    "musicDirector": "പാർത്ഥസാരഥി",
+    "singers": "വിജയ് യേശുദാസ്",
+    "year": "2021"
+  },
+  "alare": {
+    "id": "alare",
+    "songName": "ഈറൻനിലാവിൽ വരവായി",
+    "film": "മെമ്പർ രമേശൻ 9-ാം വാർഡ്",
+    "lyricist": "ശബരീഷ് വർമ്മ",
+    "musicDirector": "കൈലാഷ് മേനോൻ",
+    "singers": "അശ്വിൻ ആര്യൻ, നിത്യ മാമ്മൻ",
+    "year": "2021"
+  },
+  "neramaye-election-song": {
+    "id": "neramaye-election-song",
+    "songName": "നേരമായേ - ഇലക്ഷൻ പാട്ട്",
+    "film": "മെമ്പർ രമേശൻ 9-ാം വാർഡ്",
+    "lyricist": "ശബരീഷ് വർമ്മ",
+    "musicDirector": "കൈലാഷ് മേനോൻ",
+    "singers": "ജാസി ഗിഫ്റ്റ്",
+    "year": "2021"
+  },
+  "lokam-uruntodum": {
+    "id": "lokam-uruntodum",
+    "songName": "ലോകം ഉരുണ്ടോടും",
+    "film": "മെമ്പർ രമേശൻ 9-ാം വാർഡ്",
+    "lyricist": "ശബരീഷ് വർമ്മ",
+    "musicDirector": "കൈലാഷ് മേനോൻ",
+    "singers": "വിനീത് ശ്രീനിവാസൻ",
+    "year": "2021"
+  },
+  "thiruvarangu-nirayan": {
+    "id": "thiruvarangu-nirayan",
+    "songName": "തിരുവരങ്ങ് നിറയാൻ",
+    "film": "മൈ ഡിയർ മച്ചാൻസ്",
+    "lyricist": "എസ് രമേശൻ നായർ",
+    "musicDirector": "മധു ബാലകൃഷ്ണൻ",
+    "singers": "കെ എസ് ചിത്ര, മധു ബാലകൃഷ്ണൻ",
+    "year": "2021"
+  },
+  "innee-pirannaal": {
+    "id": "innee-pirannaal",
+    "songName": "ഇന്നീ പിറന്നാൾ",
+    "film": "മൈക്കിൾസ് കോഫി ഹൗസ്",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "റോണി റാഫേൽ",
+    "singers": "വിധു പ്രതാപ്, വിഷ്ണുരാജ്, സുമി അരവിന്ദ്",
+    "year": "2021"
+  },
+  "neela-mizhiyil": {
+    "id": "neela-mizhiyil",
+    "songName": "നീല മിഴിയിൽ",
+    "film": "മൈക്കിൾസ് കോഫി ഹൗസ്",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "റോണി റാഫേൽ",
+    "singers": "എം ജി ശ്രീകുമാർ",
+    "year": "2021"
+  },
+  "nenchile-chillayil": {
+    "id": "nenchile-chillayil",
+    "songName": "നെഞ്ചിലെ ചില്ലയിൽ",
+    "film": "മൈക്കിൾസ് കോഫി ഹൗസ്",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "റോണി റാഫേൽ",
+    "singers": "കെ എസ് ഹരിശങ്കർ, നിത്യ മാമ്മൻ",
+    "year": "2021"
+  },
+  "kannum-chimmi": {
+    "id": "kannum-chimmi",
+    "songName": "* കണ്ണും ചിമ്മി കടന്നുപോയിടും",
+    "film": "മോഹൻ കുമാർ ഫാൻസ്",
+    "lyricist": "ജിസ് ജോയ്, അമിത് റോയ്",
+    "musicDirector": "പ്രിൻസ് ജോർജ്",
+    "singers": "വിനീത് ശ്രീനിവാസൻ",
+    "year": "2021"
+  },
+  "maarivillai": {
+    "id": "maarivillai",
+    "songName": "* മാരിവില്ലായ്",
+    "film": "മോഹൻ കുമാർ ഫാൻസ്",
+    "lyricist": "ജിസ് ജോയ്",
+    "musicDirector": "പ്രിൻസ് ജോർജ്",
+    "singers": "പ്രിൻസ് ജോർജ്",
+    "year": "2021"
+  },
+  "oru-theera-novunarunnu": {
+    "id": "oru-theera-novunarunnu",
+    "songName": "ഒരു തീരാനോവുണരുന്നു",
+    "film": "മോഹൻ കുമാർ ഫാൻസ്",
+    "lyricist": "ജിസ് ജോയ്",
+    "musicDirector": "പ്രിൻസ് ജോർജ്",
+    "singers": "കെ എസ് ചിത്ര, അഭിജിത്ത്‌ കൊല്ലം",
+    "year": "2021"
+  },
+  "chinkarappoonkodi": {
+    "id": "chinkarappoonkodi",
+    "songName": "ചിങ്കാരപൂങ്കൊടി",
+    "film": "മോഹൻ കുമാർ ഫാൻസ്",
+    "lyricist": "ജിസ് ജോയ്",
+    "musicDirector": "പ്രിൻസ് ജോർജ്",
+    "singers": "ബെന്നി ദയാൽ, റിമി ടോമി",
+    "year": "2020"
+  },
+  "tahak-thaka-thaka": {
+    "id": "tahak-thaka-thaka",
+    "songName": "തക തക തക",
+    "film": "മോഹൻ കുമാർ ഫാൻസ്",
+    "lyricist": "ജിസ് ജോയ്",
+    "musicDirector": "പ്രിൻസ് ജോർജ്",
+    "singers": "വിനീത് ശ്രീനിവാസൻ",
+    "year": "2021"
+  },
+  "neelamizhi": {
+    "id": "neelamizhi",
+    "songName": "നീലമിഴി",
+    "film": "മോഹൻ കുമാർ ഫാൻസ്",
+    "lyricist": "ജിസ് ജോയ്",
+    "musicDirector": "പ്രിൻസ് ജോർജ്",
+    "singers": "വിജയ് യേശുദാസ്, ശ്വേത മോഹൻ",
+    "year": "2020"
+  },
+  "mele-mizhi-nokki": {
+    "id": "mele-mizhi-nokki",
+    "songName": "മേലെ മിഴി നോക്കി",
+    "film": "മോഹൻ കുമാർ ഫാൻസ്",
+    "lyricist": "ജിസ് ജോയ്",
+    "musicDirector": "പ്രിൻസ് ജോർജ്",
+    "singers": "വിജയ് യേശുദാസ്",
+    "year": "2021"
+  },
+  "it-time-give-light-back": {
+    "id": "it-time-give-light-back",
+    "songName": "* ഇറ്റ് ഈസ് ടൈം ടു ഗിവ് ദി ലൈറ്റ് ബാക്ക്",
+    "film": "മ്.....",
+    "lyricist": "എഡോൺ മൊല്ല",
+    "musicDirector": "ജുബൈർ മുഹമ്മദ്",
+    "singers": "എഡോൺ മൊല്ല, ജാനകി",
+    "year": "2021"
+  },
+  "thillelo-le-le-le-lo": {
+    "id": "thillelo-le-le-le-lo",
+    "songName": "* തില്ലേലേലൊ ലേ ലേ",
+    "film": "മ്.....",
+    "lyricist": "നാഞ്ചിയമ്മ",
+    "musicDirector": "ജുബൈർ മുഹമ്മദ്",
+    "singers": "നാഞ്ചിയമ്മ",
+    "year": "2021"
+  },
+  "annapoornne-visalakshi": {
+    "id": "annapoornne-visalakshi",
+    "songName": "അന്നപൂർണ്ണേ വിശാലാക്ഷി",
+    "film": "മ്യാവൂ",
+    "lyricist": "മുത്തുസ്വാമി ദീക്ഷിതർ",
+    "musicDirector": "മുത്തുസ്വാമി ദീക്ഷിതർ",
+    "singers": "ശിവഹരി വർമ്മ",
+    "year": "2021"
+  },
+  "chundeli": {
+    "id": "chundeli",
+    "songName": "ചുണ്ടെലി",
+    "film": "മ്യാവൂ",
+    "lyricist": "സുഹൈൽ കോയ",
+    "musicDirector": "ജസ്റ്റിൻ വർഗീസ്",
+    "singers": "സൗബിൻ ഷാഹിർ, വിനീത് ശ്രീനിവാസൻ, യാസ്മിന അലിദൊദോവ, തൻവി മീര",
+    "year": "2020"
+  },
+  "mehjabi": {
+    "id": "mehjabi",
+    "songName": "മെഹ്ജാബി",
+    "film": "മ്യാവൂ",
+    "lyricist": "സുഹൈൽ കോയ",
+    "musicDirector": "ജസ്റ്റിൻ വർഗീസ്",
+    "singers": "ജസ്റ്റിൻ വർഗീസ്, നാദിർ അബ്ദുൽ സലാം",
+    "year": "2021"
+  },
+  "hijabi": {
+    "id": "hijabi",
+    "songName": "ഹിജാബി",
+    "film": "മ്യാവൂ",
+    "lyricist": "സുഹൈൽ കോയ",
+    "musicDirector": "ജസ്റ്റിൻ വർഗീസ്",
+    "singers": "അദീഫ് മുഹമ്മദ്",
+    "year": "2021"
+  },
+  "anju-kaasu-kayyilillaa-kaalavum": {
+    "id": "anju-kaasu-kayyilillaa-kaalavum",
+    "songName": "അഞ്ചുകാശു കയ്യിലില്ലാക്കാലവും",
+    "film": "യുവം",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ഗോപി സുന്ദർ",
+    "singers": "ശ്രീജിഷ് സി എസ്",
+    "year": "2021"
+  },
+  "chemmaname": {
+    "id": "chemmaname",
+    "songName": "ചെമ്മാനമേ..",
+    "film": "യുവം",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ഗോപി സുന്ദർ",
+    "singers": "ലിബിൻ സ്കറിയ",
+    "year": "2021"
+  },
+  "tharaatt-paadi-urakkiyillenkilum": {
+    "id": "tharaatt-paadi-urakkiyillenkilum",
+    "songName": "താരാട്ട് പാടി ഉറക്കിയില്ലെങ്കിലും",
+    "film": "റെഡ് റിവർ",
+    "lyricist": "പ്രകാശ് കല്യാണി",
+    "musicDirector": "സുധേന്ദു രാജ്",
+    "singers": "സിജു കുമാർ",
+    "year": "2021"
+  },
+  "mazha-thodaa": {
+    "id": "mazha-thodaa",
+    "songName": "മഴ തൊടാ",
+    "film": "ലാൽബാഗ്",
+    "lyricist": "അജീഷ് ദാസൻ",
+    "musicDirector": "രാഹുൽ രാജ്",
+    "singers": "നിഖിൽ മാത്യു",
+    "year": "2021"
+  },
+  "mayanagaraa": {
+    "id": "mayanagaraa",
+    "songName": "മായാനഗരാ",
+    "film": "ലാൽബാഗ്",
+    "lyricist": "സുലേഖ കാപ്പാടൻ, ശ്രുതി ഉത്തപ്പ",
+    "musicDirector": "രാഹുൽ രാജ്",
+    "singers": "സുലേഖ കാപ്പാടൻ",
+    "year": "2020"
+  },
+  "rumaal-ambili": {
+    "id": "rumaal-ambili",
+    "songName": "റുമാൽ അമ്പിളി",
+    "film": "ലാൽബാഗ്",
+    "lyricist": "അജീഷ് ദാസൻ",
+    "musicDirector": "രാഹുൽ രാജ്",
+    "singers": "മംത മോഹൻദാസ്, സിയാ ഉൾ ഹഖ്",
+    "year": "2020"
+  },
+  "aliyarude-omana-beevi": {
+    "id": "aliyarude-omana-beevi",
+    "songName": "അലിയാരുടെ ഓമന ബീവി",
+    "film": "വാങ്ക്",
+    "lyricist": "പി എസ് റഫീഖ്",
+    "musicDirector": "ഔസേപ്പച്ചൻ",
+    "singers": "അമൽ ആന്റണി അഗസ്റ്റിൻ",
+    "year": "2020"
+  },
+  "kannippaadam-vithachathumenaa": {
+    "id": "kannippaadam-vithachathumenaa",
+    "songName": "കന്നിപ്പാടം വിതച്ചതും ഏനാ",
+    "film": "വിധി",
+    "lyricist": "ഏങ്ങണ്ടിയൂർ ചന്ദ്രശേഖരൻ",
+    "musicDirector": "സാനന്ദ് ജോർജ്ജ്",
+    "singers": "ബിഷോയ് അനിയൻ",
+    "year": "2021"
+  },
+  "neelaakaashakoodaarathin-mele": {
+    "id": "neelaakaashakoodaarathin-mele",
+    "songName": "നീലാകാശക്കൂടാരത്തിൻ മേലേ",
+    "film": "വിധി",
+    "lyricist": "കൈതപ്രം",
+    "musicDirector": "4 മ്യൂസിക്",
+    "singers": "അഭിജിത്ത്‌ കൊല്ലം",
+    "year": "2021"
+  },
+  "odiyodippoya": {
+    "id": "odiyodippoya",
+    "songName": "ഓടിയോടിപ്പോയ",
+    "film": "വിശുദ്ധ രാത്രികൾ",
+    "lyricist": "അൻവർ അലി",
+    "musicDirector": "സച്ചിൻ ബാലു",
+    "singers": "സുനിൽ മത്തായി, സ്മിത അമ്പു",
+    "year": "2020"
+  },
+  "oru-mizhiyay-oru-manamay": {
+    "id": "oru-mizhiyay-oru-manamay",
+    "songName": "ഒരു മിഴിയായ് ഒരു മനമായ്",
+    "film": "വിഷ്ണുകാവ്യം",
+    "lyricist": "റോസിലി ടീച്ചർ",
+    "musicDirector": "സെബി നായരമ്പലം",
+    "singers": "രഞ്ജിത് ജയരാമൻ",
+    "year": "2021"
+  },
+  "kannammaa": {
+    "id": "kannammaa",
+    "songName": "* കണ്ണമ്മ കണ്ണമ്മ",
+    "film": "വുൾഫ്",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "രഞ്ജിൻ രാജ് വർമ്മ",
+    "singers": "അങ്കിത് മേനോൻ, രാജശ്രീ സന്തോഷ്",
+    "year": "2021"
+  },
+  "Akashamayavale": {
+    "id": "Akashamayavale",
+    "songName": "ആകാശമായവളേ",
+    "film": "വെള്ളം",
+    "lyricist": "നിധീഷ് നടേരി",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "ഷഹബാസ് അമൻ",
+    "year": "2021"
+  },
+  "aazhiyazhangal": {
+    "id": "aazhiyazhangal",
+    "songName": "ആഴിയാഴങ്ങൾ",
+    "film": "വെള്ളം",
+    "lyricist": "നിധീഷ് നടേരി",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "ഷബീർ അലി",
+    "year": "2021"
+  },
+  "oru-kuri-composers-version": {
+    "id": "oru-kuri-composers-version",
+    "songName": "ഒരുകുറി - Composer's Version",
+    "film": "വെള്ളം",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "ബിജിബാൽ",
+    "year": "2021"
+  },
+  "oru-kuri-kandu": {
+    "id": "oru-kuri-kandu",
+    "songName": "ഒരുകുറി കണ്ടു",
+    "film": "വെള്ളം",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "വിശ്വനാഥൻ (ഗായകൻ)",
+    "year": "2021"
+  },
+  "choka-chokannoru": {
+    "id": "choka-chokannoru",
+    "songName": "ചൊക ചൊകന്നൊരു",
+    "film": "വെള്ളം",
+    "lyricist": "നിധീഷ് നടേരി",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "ഭദ്ര രാജിൻ",
+    "year": "2021"
+  },
+  "mein-ne-seekha": {
+    "id": "mein-ne-seekha",
+    "songName": "മേ നെ സീഖ",
+    "film": "വെള്ളം",
+    "lyricist": "ഫൗസിയ അബൂബക്കർ",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "കൃഷ്ണ ബോഗനെ",
+    "year": "2021"
+  },
+  "sagaraneelimakal": {
+    "id": "sagaraneelimakal",
+    "songName": "സാഗരനീലിമകൾ",
+    "film": "വെള്ളം",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "ബിജിബാൽ",
+    "singers": "സുനിൽ മത്തായി",
+    "year": "2021"
+  },
+  "kai-thozhunne": {
+    "id": "kai-thozhunne",
+    "songName": "കൈ തൊഴുന്നേ",
+    "film": "വെള്ളാരം കുന്നിലെ വെള്ളിമീനുകൾ",
+    "lyricist": "",
+    "musicDirector": "എസ് ആർ റാം",
+    "singers": "ആവണി മൽഹാർ",
+    "year": "2021"
+  },
+  "kai-thozhunne-nadhe": {
+    "id": "kai-thozhunne-nadhe",
+    "songName": "കൈ തൊഴുന്നേ നാഥേ",
+    "film": "വെള്ളാരം കുന്നിലെ വെള്ളിമീനുകൾ",
+    "lyricist": "സുഗുണൻ ചൂർണ്ണിക്കര",
+    "musicDirector": "എസ് ആർ റാം",
+    "singers": "ആവണി സത്യൻ",
+    "year": "2021"
+  },
+  "maranam-vannu-vilikkumbol": {
+    "id": "maranam-vannu-vilikkumbol",
+    "songName": "മരണം വന്നു വിളിക്കുമ്പോൾ",
+    "film": "വെള്ളാരം കുന്നിലെ വെള്ളിമീനുകൾ",
+    "lyricist": "രാജീവ് ആലുങ്കൽ",
+    "musicDirector": "രാജീവ് ശിവ",
+    "singers": "പ്രാർത്ഥന രതീഷ്",
+    "year": "2021"
+  },
+  "mazhamukilaay-nirayum-manassil": {
+    "id": "mazhamukilaay-nirayum-manassil",
+    "songName": "മഴമുകിലാൽ നിറയും മനസ്സിൽ",
+    "film": "വെള്ളാരം കുന്നിലെ വെള്ളിമീനുകൾ",
+    "lyricist": "സുഗുണൻ ചൂർണ്ണിക്കര",
+    "musicDirector": "രാജീവ് ശിവ",
+    "singers": "വിധു പ്രതാപ്",
+    "year": "2020"
+  },
+  "mutharakombathe": {
+    "id": "mutharakombathe",
+    "songName": "മുത്താരകൊമ്പത്തെ തത്തമ്മ പെണ്ണാളിനെന്താണ്",
+    "film": "വെള്ളാരം കുന്നിലെ വെള്ളിമീനുകൾ",
+    "lyricist": "രാജീവ് ആലുങ്കൽ",
+    "musicDirector": "എം കെ അർജ്ജുനൻ",
+    "singers": "അഭിജിത്ത്‌ കൊല്ലം",
+    "year": "2020"
+  },
+  "anthimanam-neele": {
+    "id": "anthimanam-neele",
+    "songName": "അന്തിമാനം നീളേ",
+    "film": "വെൽക്കം ടു പാണ്ടിമല",
+    "lyricist": "രശ്മി സുശീൽ",
+    "musicDirector": "ചാൾസ് സൈമൺ",
+    "singers": "ജിമ്മി വർഗീസ്, പ്രശാന്ത് നായർ, അനൂപ് നാരായണൻ, റോബിൻസൺ മാത്യു",
+    "year": "2021"
+  },
+  "kaakka-verumoru-karutha-pakshi": {
+    "id": "kaakka-verumoru-karutha-pakshi",
+    "songName": "കാക്ക വെറുമൊരു കറുത്ത പക്ഷി",
+    "film": "വേലുക്കാക്ക ഒപ്പ് കാ",
+    "lyricist": "മുരളി ദേവ്",
+    "musicDirector": "യൂനസിയോ",
+    "singers": "വിദ്യാധരൻ",
+    "year": "2021"
+  },
+  "doore-oru-mamalayil": {
+    "id": "doore-oru-mamalayil",
+    "songName": "ദൂരെ ഒരു മാമലയിൽ",
+    "film": "വേലുക്കാക്ക ഒപ്പ് കാ",
+    "lyricist": "ശ്രീനിവാസൻ മേമുറി",
+    "musicDirector": "റിനിൽ ഗൗതം",
+    "singers": "വിദ്യാധരൻ, പ്രിയ കാനു",
+    "year": "2021"
+  },
+  "janamanassin": {
+    "id": "janamanassin",
+    "songName": "ജനമനസ്സിൻ",
+    "film": "വൺ",
+    "lyricist": "റഫീക്ക് അഹമ്മദ്",
+    "musicDirector": "ഗോപി സുന്ദർ",
+    "singers": "ശങ്കർ മഹാദേവൻ",
+    "year": "2021"
+  },
+  "zindagi": {
+    "id": "zindagi",
+    "songName": "* സിന്ദഗി",
+    "film": "വർത്തമാനം",
+    "lyricist": "വിശാൽ ജോൺസൺ, ഫായിസ് ചൗധരി",
+    "musicDirector": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "singers": "ഹിഷാം അബ്ദുൾ വഹാബ്",
+    "year": "2021"
+  },
+  "anuragam-nilakkatha": {
+    "id": "anuragam-nilakkatha",
+    "songName": "അനുരാഗം നിലയ്ക്കാത്ത..",
+    "film": "വർത്തമാനം",
+    "lyricist": "റഫീക്ക് അഹമ്മദ്",
+    "musicDirector": "രമേഷ് നാരായൺ",
+    "singers": "മഞ്ജരി",
+    "year": "2021"
+  },
+  "idam-vare": {
+    "id": "idam-vare",
+    "songName": "* ഇടം വരെ",
+    "film": "സണ്ണി",
+    "lyricist": "സാന്ദ്ര മാധവ്",
+    "musicDirector": "ശങ്കർ ശർമ്മ",
+    "singers": "ശങ്കർ ശർമ്മ",
+    "year": "2021"
+  },
+  "ini-dooram": {
+    "id": "ini-dooram",
+    "songName": "* ഇനി ദൂരം",
+    "film": "സണ്ണി",
+    "lyricist": "സാന്ദ്ര മാധവ്",
+    "musicDirector": "ശങ്കർ ശർമ്മ",
+    "singers": "കെ എസ് ഹരിശങ്കർ",
+    "year": "2021"
+  },
+  "nee-varum": {
+    "id": "nee-varum",
+    "songName": "നീ വരും",
+    "film": "സണ്ണി",
+    "lyricist": "സാന്ദ്ര മാധവ്",
+    "musicDirector": "ശങ്കർ ശർമ്മ",
+    "singers": "കെ എസ് ഹരിശങ്കർ",
+    "year": "2021"
+  },
+  "kalamere-poi-maykilum": {
+    "id": "kalamere-poi-maykilum",
+    "songName": "കാലമേറെ പോയി മായ്കിലും",
+    "film": "സാജൻ ബേക്കറി സിൻസ് 1962",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "പ്രശാന്ത് പിള്ള",
+    "singers": "കെ എസ് ഹരിശങ്കർ",
+    "year": "2020"
+  },
+  "tharam-pole-vannu": {
+    "id": "tharam-pole-vannu",
+    "songName": "താരം പോലെ വന്നു",
+    "film": "സാന്റാക്രൂസ്",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഷിബു സുകുമാരൻ",
+    "singers": "സിയാ ഉൾ ഹഖ്",
+    "year": "2021"
+  },
+  "padunnoree": {
+    "id": "padunnoree",
+    "songName": "പാടുന്നോരീ",
+    "film": "സാന്റാക്രൂസ്",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഷിബു സുകുമാരൻ",
+    "singers": "സിയാ ഉൾ ഹഖ്, ശ്രീനന്ദ ശ്രീകുമാർ, ആവണി മൽഹാർ",
+    "year": "2021"
+  },
+  "pooveyilithal": {
+    "id": "pooveyilithal",
+    "songName": "പൂവെയിലിതൾ",
+    "film": "സാന്റാക്രൂസ്",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഷിബു സുകുമാരൻ",
+    "singers": "ശ്രീനന്ദ ശ്രീകുമാർ",
+    "year": "2021"
+  },
+  "polichadukkaam-machane": {
+    "id": "polichadukkaam-machane",
+    "songName": "പൊളിച്ചടുക്കാം മച്ചാനേ",
+    "film": "സാന്റാക്രൂസ്",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഷിബു സുകുമാരൻ",
+    "singers": "ആന്റണി ദാസൻ",
+    "year": "2021"
+  },
+  "varthinkale": {
+    "id": "varthinkale",
+    "songName": "വാർത്തിങ്കളേ",
+    "film": "സാന്റാക്രൂസ്",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഷിബു സുകുമാരൻ",
+    "singers": "കെ എസ് ഹരിശങ്കർ",
+    "year": "2021"
+  },
+  "venchirathile": {
+    "id": "venchirathile",
+    "songName": "വെൺചിരാതിലെ",
+    "film": "സാന്റാക്രൂസ്",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഷിബു സുകുമാരൻ",
+    "singers": "ശ്വേത മോഹൻ",
+    "year": "2021"
+  },
+  "kathha-parayanu": {
+    "id": "kathha-parayanu",
+    "songName": "കഥ പറയണ്",
+    "film": "സാറാസ്",
+    "lyricist": "ഷാൻ റഹ്മാൻ",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "ഷാൻ റഹ്മാൻ",
+    "year": "2021"
+  },
+  "penninte": {
+    "id": "penninte",
+    "songName": "പെണ്ണിന്റെ..",
+    "film": "സാറാസ്",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "ഷാൻ റഹ്മാൻ",
+    "year": "2021"
+  },
+  "mele-vinpadavukal": {
+    "id": "mele-vinpadavukal",
+    "songName": "മേലെ വിൺപടവുകൾ",
+    "film": "സാറാസ്",
+    "lyricist": "മനു മൻജിത്ത്",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "സൂരജ് സന്തോഷ്",
+    "year": "2020"
+  },
+  "raavoram-novum-neramo": {
+    "id": "raavoram-novum-neramo",
+    "songName": "രാവോരം നോവും നേരമോ",
+    "film": "സാറാസ്",
+    "lyricist": "ജോ പോൾ",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "വിനീത് ശ്രീനിവാസൻ, ഗൗരി ലക്ഷ്മി",
+    "year": "2021"
+  },
+  "varavayi-neeyen": {
+    "id": "varavayi-neeyen",
+    "songName": "വരവായി നീയെൻ",
+    "film": "സാറാസ്",
+    "lyricist": "ജോ പോൾ",
+    "musicDirector": "ഷാൻ റഹ്മാൻ",
+    "singers": "ദിവ്യ വിനീത്, വിനീത് ശ്രീനിവാസൻ",
+    "year": "2020"
+  },
+  "kinavil": {
+    "id": "kinavil",
+    "songName": "കിനാവിൽ",
+    "film": "സുമേഷ് & രമേഷ്",
+    "lyricist": "വിനായക് ശശികുമാർ",
+    "musicDirector": "യക്സാൻ ഗാരി പരേര, നേഹ എസ് നായർ",
+    "singers": "നേഹ എസ് നായർ",
+    "year": "2020"
+  },
+  "cla-cla-cla": {
+    "id": "cla-cla-cla",
+    "songName": "ക്ലാ ക്ലാ ക്ലാ",
+    "film": "സുമേഷ് & രമേഷ്",
+    "lyricist": "ടെൻസൻ ആൻ്റണി",
+    "musicDirector": "യക്സാൻ ഗാരി പരേര, നേഹ എസ് നായർ",
+    "singers": "ടെൻസൻ ആൻ്റണി",
+    "year": "2021"
+  },
+  "ayiram-tharadeepangal": {
+    "id": "ayiram-tharadeepangal",
+    "songName": "ആയിരം താരദീപങ്ങൾ",
+    "film": "സ്റ്റാർ",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "രഞ്ജിൻ രാജ് വർമ്മ",
+    "singers": "മൃദുല വാര്യർ",
+    "year": "2021"
+  },
+  "kuruva-kavile": {
+    "id": "kuruva-kavile",
+    "songName": "കുറുവാ കാവിലെ",
+    "film": "സ്റ്റാർ",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "എം ജയചന്ദ്രൻ",
+    "singers": "സിതാര കൃഷ്ണകുമാർ",
+    "year": "2021"
+  },
+  "ninnodu-cheraan": {
+    "id": "ninnodu-cheraan",
+    "songName": "നിന്നോട് ചേരാൻ",
+    "film": "സ്റ്റാർ",
+    "lyricist": "ബി കെ ഹരിനാരായണൻ",
+    "musicDirector": "വില്യം ഫ്രാൻസിസ്",
+    "singers": "നിത്യ മാമ്മൻ",
+    "year": "2021"
+  },
+  "arikathaay-azhake": {
+    "id": "arikathaay-azhake",
+    "songName": "അരികത്തായ് അഴകേ",
+    "film": "സ്വപ്നസുന്ദരി",
+    "lyricist": "ജെറിൻ",
+    "musicDirector": "വിഷ്ണു മോഹനകൃഷ്‌ണൻ",
+    "singers": "സിദ്ധാർത്ഥ് ശങ്കർ, ദേവനന്ദ",
+    "year": "2021"
+  },
+  "irul-vizhungiya-vazhikal": {
+    "id": "irul-vizhungiya-vazhikal",
+    "songName": "ഇരുൾ വിഴുങ്ങിയ വഴികൾ",
+    "film": "സ്വപ്നസുന്ദരി",
+    "lyricist": "സുദർശൻ പുത്തൂർ",
+    "musicDirector": "ഫെമിൻ ഫ്രാൻസിസ്",
+    "singers": "അരുൺ രാജ്",
+    "year": "2021"
+  },
+  "chandana-mazha-pozhiyum": {
+    "id": "chandana-mazha-pozhiyum",
+    "songName": "ചന്ദന മഴ പൊഴിയും",
+    "film": "സ്വപ്നസുന്ദരി",
+    "lyricist": "സുഭാഷ് ചേർത്തല",
+    "musicDirector": "അജിത് സുകുമാരൻ",
+    "singers": "നജിം അർഷാദ്, ശോഭ ശിവാനി",
+    "year": "2021"
+  },
+  "panineer-ithalil": {
+    "id": "panineer-ithalil",
+    "songName": "പനിനീർ ഇതളിൽ",
+    "film": "സ്വപ്നസുന്ദരി",
+    "lyricist": "ഫെമിൻ ഫ്രാൻസിസ്",
+    "musicDirector": "ഫെമിൻ ഫ്രാൻസിസ്",
+    "singers": "ഇമ്രാൻ, മിദുന്യ ബിനീഷ്",
+    "year": "2021"
+  },
+  "kattuneerin-chalilayi": {
+    "id": "kattuneerin-chalilayi",
+    "songName": "കാട്ടുനീരിൻ ചാലിലായി",
+    "film": "സർക്കാസ് സിർക 2020",
+    "lyricist": "ശിവ ഒടയംചാൽ",
+    "musicDirector": "സെൽജുക് റുസ്തം",
+    "singers": "ദർശന രാജേന്ദ്രൻ, ശേഖർ സുധീർ",
+    "year": "2021"
+  },
+  "kuttanu-pottante-shapam": {
+    "id": "kuttanu-pottante-shapam",
+    "songName": "കുട്ടന് പൊട്ടന്റെ ശാപം",
+    "film": "സർക്കാസ് സിർക 2020",
+    "lyricist": "ഹരീഷ് പല്ലാരം",
+    "musicDirector": "സെൽജുക് റുസ്തം",
+    "singers": "ജോഫി ചിറയത്ത്",
+    "year": "2021"
   }
 }
