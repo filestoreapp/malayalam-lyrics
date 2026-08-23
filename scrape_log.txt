@@ -20513,3 +20513,464 @@ Year complete: success=233, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 7954
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 2002
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/2002
+   Page 1: https://m3db.com/archive/lyrics/year/2002
+   Found 224 songs on this page. Total unique so far: 224
+Total songs to scrape for this year: 224
+🎵 [1/224] Scraping: akhila-gunangal
+   ✅ Saved: അഖിലഗുണങ്ങൾ (2002)
+🎵 [2/224] Scraping: 34540
+   ✅ Saved: ഉരുകിത്തീര്‍ന്നിടും മെഴുകുതിരിപോല്‍ (2002)
+🎵 [3/224] Scraping: kunnathe-konnamarangal
+   ✅ Saved: കുന്നത്തെ കൊന്നമരങ്ങൾ (2002)
+🎵 [4/224] Scraping: raakkilee-neeyonnu-paadoo
+   ✅ Saved: രാക്കിളീ നീയൊന്നു പാടൂ (2002)
+🎵 [5/224] Scraping: 38039
+   ✅ Saved: കാവും കോവിലകവും (2002)
+🎵 [6/224] Scraping: 68886
+   ✅ Saved: ഏഴ് വർണ്ണ (2002)
+🎵 [7/224] Scraping: 68893
+   ✅ Saved: കാവ്യശില്പം (2002)
+🎵 [8/224] Scraping: 68892
+   ✅ Saved: നിഴലായ് നിലാവായ് (2002)
+🎵 [9/224] Scraping: 4079
+   ✅ Saved: അധരം സഖീ ()
+🎵 [10/224] Scraping: 4080
+   ✅ Saved: എനിക്കും ഒരു നാവുണ്ടെങ്കിൽ (M) ()
+🎵 [11/224] Scraping: 67194
+   ✅ Saved: എനിക്കും ഒരു നാവുണ്ടെങ്കിൽ(F) ()
+🎵 [12/224] Scraping: 67198
+   ✅ Saved: നീലനിലാവെ (F) ()
+🎵 [13/224] Scraping: 67199
+   ✅ Saved: നീലനിലാവെ (M) ()
+🎵 [14/224] Scraping: 30775
+   ✅ Saved: മാനിന്റെ മിഴിയുള്ള പെണ്ണിനെ ()
+🎵 [15/224] Scraping: 67196
+   ✅ Saved: മുല്ലയ്ക്കു കല്ല്യാണ... ()
+🎵 [16/224] Scraping: 67197
+   ✅ Saved: സ്വപ്നങ്ങൾ കാണാൻ.. ()
+🎵 [17/224] Scraping: 17679
+   ✅ Saved: ഒടുവിലാ മംഗളാ ദർശനയായ് (2002)
+🎵 [18/224] Scraping: 56568
+   ✅ Saved: കതിര് കൊയ്ത് (2002)
+🎵 [19/224] Scraping: 17660
+   ✅ Saved: പൊഴിയാമഴ പൂമഴ ചിന്നിയ രാത്രിയിൽ (2002)
+🎵 [20/224] Scraping: 56569
+   ✅ Saved: മാനത്തുണ്ടൊരു രാച്ചുണ്ടന്‍ അമ്പിളി (2002)
+🎵 [21/224] Scraping: 17613
+   ✅ Saved: വെറുതെ ഇനിയും കാത്തു നിൽപ്പൂ (2002)
+🎵 [22/224] Scraping: iniyum-ninnormathan
+   ✅ Saved: ഇനിയും നിന്നോർമ്മതൻ ()
+🎵 [23/224] Scraping: 14816
+   ✅ Saved: ഇല്ലൊരു മലർച്ചില്ല ()
+🎵 [24/224] Scraping: 103659
+   ✅ Saved: ഇല്ലൊരു മലർച്ചില്ല - M (2002)
+🎵 [25/224] Scraping: ekaakiyam-ninte
+   ✅ Saved: ഏകാകിയാം നിന്റെ ()
+🎵 [26/224] Scraping: parayaatha-mozhikal
+   ✅ Saved: പറയാത്ത മൊഴികൾ തൻ ()
+🎵 [27/224] Scraping: pranayam
+   ✅ Saved: പ്രണയം (2002)
+🎵 [28/224] Scraping: 64296
+   ✅ Saved: പിറന്നമണ്ണില്‍ നിന്നുയര്‍ന്നു (2002)
+🎵 [29/224] Scraping: manathe-thudiyunarum
+   ✅ Saved: മാനത്തെ തുടിയുണരും ()
+🎵 [30/224] Scraping: 16802
+   ✅ Saved: മിഴിയിതളിൽ നിലാമലരിതളോ ()
+🎵 [31/224] Scraping: 103228
+   ✅ Saved: അറിയാത്ത ജീവിതയാത്ര (2002)
+🎵 [32/224] Scraping: 103225
+   ✅ Saved: ആഴിത്തിരകൾ - F (2002)
+🎵 [33/224] Scraping: 103226
+   ✅ Saved: ആഴിത്തിരകൾ - M (2002)
+🎵 [34/224] Scraping: 66198
+   ✅ Saved: ചിരിക്കുമ്പോള്‍ കൂടെച്ചിരിക്കാന്‍ (2002)
+🎵 [35/224] Scraping: 103227
+   ✅ Saved: ദൈവസ്നേഹം തേന്മഴ (2002)
+🎵 [36/224] Scraping: 103224
+   ✅ Saved: നിലാവേ നീയെൻ (2002)
+🎵 [37/224] Scraping: 103229
+   ✅ Saved: സൗഗന്ധികങ്ങൾ മാത്രം (2002)
+🎵 [38/224] Scraping: onnaam-mala-keri-pokente
+   ✅ Saved: ഒന്നാം മല കേറി പോകേണ്ടേ (2002)
+🎵 [39/224] Scraping: kathayile-rajakumariyum
+   ✅ Saved: കഥയിലെ രാജകുമാരിയും ()
+🎵 [40/224] Scraping: 6951
+   ✅ Saved: കൈ തുടി താളം ()
+🎵 [41/224] Scraping: thainkale-poothinkale
+   ✅ Saved: തിങ്കളേ പൂത്തിങ്കളേ ()
+🎵 [42/224] Scraping: thumbi-kalyanathinu
+   ✅ Saved: തുമ്പിക്കല്ല്യാണത്തിനു ()
+🎵 [43/224] Scraping: 19551
+   ✅ Saved: രാക്കടൽ ‍കടഞ്ഞെടുത്ത ()
+🎵 [44/224] Scraping: 101939
+   ✅ Saved: ഒളിച്ചേ ഒളിച്ചേ (2002)
+🎵 [45/224] Scraping: 101941
+   ✅ Saved: കാവതി കാക്കക്കൂട്ടിൽ (2002)
+🎵 [46/224] Scraping: 101940
+   ✅ Saved: പാലച്ചോട്ടിൽ ചത്തു കിടക്കും (2002)
+🎵 [47/224] Scraping: 64147
+   ✅ Saved: ഒത്തിരി ഒത്തിരി (M) (2002)
+🎵 [48/224] Scraping: 64842
+   ✅ Saved: ഒത്തിരി ഒത്തിരി സ്നേഹിച്ചുപോയി (F) ()
+🎵 [49/224] Scraping: 64148
+   ✅ Saved: കാട്ടുപെണ്ണിന്റെ കണ്ണിൽ (2002)
+🎵 [50/224] Scraping: 64149
+   ✅ Saved: കിളിമകളേ നീ കണ്ടോ (2002)
+🎵 [51/224] Scraping: 64146
+   ✅ Saved: നീലവാനം കുട (2002)
+🎵 [52/224] Scraping: 64863
+   ✅ Saved: മാനേ പേടമാനേ(F) (2002)
+🎵 [53/224] Scraping: 64862
+   ✅ Saved: മാനേ പേടമാനേ(M) (2002)
+🎵 [54/224] Scraping: 58800
+   ✅ Saved: വെള്ളാരം കുന്നുകളിൽ (2002)
+🎵 [55/224] Scraping: 59565
+   ✅ Saved: ഒച്ചയുരുക്കി കച്ചമുറുക്കി (2002)
+🎵 [56/224] Scraping: 18072
+   ✅ Saved: അഴകേ വരു നീ ()
+🎵 [57/224] Scraping: 17997
+   ✅ Saved: ഓമന മലരേ ()
+🎵 [58/224] Scraping: 17988
+   ✅ Saved: കടഞ്ഞ ചന്ദനമോ ()
+🎵 [59/224] Scraping: 17993
+   ✅ Saved: കണ്ണേ ഉണരു നീ ()
+🎵 [60/224] Scraping: 64490
+   ✅ Saved: കാറ്റേ പൂങ്കാറ്റെ ()
+🎵 [61/224] Scraping: 17982
+   ✅ Saved: കുഞ്ഞന്റെ പെണ്ണിനു്‌ (D ()
+🎵 [62/224] Scraping: 64419
+   ✅ Saved: കുഞ്ഞന്റെ പെണ്ണിന് ()
+🎵 [63/224] Scraping: oru-mazhappakshi-padunnu
+   ✅ Saved: ഒരു മഴപ്പക്ഷി പാടുന്നു ()
+🎵 [64/224] Scraping: 33742
+   ✅ Saved: കനകച്ചിലങ്ക കൊഞ്ചി (2002)
+🎵 [65/224] Scraping: 33741
+   ✅ Saved: കന്നിവസന്തം കാറ്റില്‍ (2002)
+🎵 [66/224] Scraping: 33740
+   ✅ Saved: മണിമുകിലേ നീ (2002)
+🎵 [67/224] Scraping: 21937
+   ✅ Saved: പൂത്തുമ്പീ പാടുമോ ()
+🎵 [68/224] Scraping: vande-maatharam-vande-maatharam-suphalaam-sujalaam
+   ✅ Saved: വന്ദേ മാതരം വന്ദേ മാതരം സുഫലാം സുജലാം ()
+🎵 [69/224] Scraping: 68193
+   ✅ Saved: അക്കയ്യിലീക്കൈയ്യിലേ (2002)
+🎵 [70/224] Scraping: aravinda-nayana
+   ✅ Saved: അരവിന്ദനയനാ നിന്‍ (2002)
+🎵 [71/224] Scraping: adyamay-onnu-kandu
+   ✅ Saved: ആദ്യമായ് ഒന്നു കണ്ടു (2002)
+🎵 [72/224] Scraping: 40401
+   ✅ Saved: ഗോകുലത്തിൽ താമസിക്കും (2002)
+🎵 [73/224] Scraping: 13176
+   ✅ Saved: പൂവേ ഒരു മഴമുത്തം ()
+🎵 [74/224] Scraping: priyasaghi-evide-nee
+   ✅ Saved: പ്രിയസഖി എവിടെ നീ. (2002)
+🎵 [75/224] Scraping: vasantha-raavin-kilivaathil
+   ✅ Saved: വസന്തരാവിൻ കിളിവാതിൽ ()
+🎵 [76/224] Scraping: 59718
+   ✅ Saved: അമ്പിളിമാമനുമുണ്ടല്ലോ (F) (2002)
+🎵 [77/224] Scraping: 59716
+   ✅ Saved: അമ്പിളിമാമനുമുണ്ടല്ലോ (M) (2002)
+🎵 [78/224] Scraping: 59712
+   ✅ Saved: ചക്കരമാവിൻ (F) (2002)
+🎵 [79/224] Scraping: 59711
+   ✅ Saved: ചക്കരമാവിൻ (M) (2002)
+🎵 [80/224] Scraping: 59713
+   ✅ Saved: ചക്കരമാവിൻ (Pathos) (2002)
+🎵 [81/224] Scraping: 59709
+   ✅ Saved: തിത്തെയ് തിത്തെയ് (2002)
+🎵 [82/224] Scraping: 59697
+   ✅ Saved: വളകിലുക്കണ (2002)
+🎵 [83/224] Scraping: neelappulayante
+   ✅ Saved: നീലപുലയന്റെ ()
+🎵 [84/224] Scraping: 81773
+   ✅ Saved: പാണൻ തുടി കൊട്ടി (2002)
+🎵 [85/224] Scraping: 81774
+   ✅ Saved: യമുനാനദിയുടെ തീരങ്ങളിൽ (2002)
+🎵 [86/224] Scraping: nanma-niranjavale-kanyaamariyame
+   ✅ Saved: നന്മനിറഞ്ഞവളേ കന്യാമറിയമേ ()
+🎵 [87/224] Scraping: 64300
+   ✅ Saved: പൂക്കണ് പൂക്കണ് (2002)
+🎵 [88/224] Scraping: valuthaayoru-marathinte
+   ✅ Saved: വലുതായൊരു മരത്തിന്റെ ()
+🎵 [89/224] Scraping: 101520
+   ✅ Saved: ഇടിമിന്നലായ് കൊടിപറത്തിടാം (2002)
+🎵 [90/224] Scraping: 101521
+   ✅ Saved: കളമിതാ ഈ കളിയിലെ (2002)
+🎵 [91/224] Scraping: 99255
+   ✅ Saved: പാടാൻ കൊതിച്ചു ഞാൻ (2002)
+🎵 [92/224] Scraping: 95515
+   ✅ Saved: പൂ പോലെ പൂത്തിരി പോലെ (2002)
+🎵 [93/224] Scraping: 16378
+   ✅ Saved: കൊമ്പെട് കുഴലെട് ()
+🎵 [94/224] Scraping: palum-kudameduthu
+   ✅ Saved: പാലും കുടമെടുത്ത് (2002)
+🎵 [95/224] Scraping: 96433
+   ✅ Saved: ഹിമഗിരി നിരകൾ (2002)
+🎵 [96/224] Scraping: 62494
+   ✅ Saved: ആത്മാർപ്പണത്തിൽ (2002)
+🎵 [97/224] Scraping: 62497
+   ✅ Saved: ആരെ ആരെ (2002)
+🎵 [98/224] Scraping: 62496
+   ✅ Saved: ഓർമ്മ തൻ (2002)
+🎵 [99/224] Scraping: 62498
+   ✅ Saved: ചെല്ലമ്മ (2002)
+🎵 [100/224] Scraping: 62495
+   ✅ Saved: ജീവിതപ്പൂക്കൾ (2002)
+🎵 [101/224] Scraping: 62499
+   ✅ Saved: സംക്രമം (2002)
+🎵 [102/224] Scraping: 104465
+   ✅ Saved: തുടിക്കും താമരപൂവേ (2002)
+🎵 [103/224] Scraping: 104463
+   ✅ Saved: നീലാഞ്ജനം നിന്റെ (2002)
+🎵 [104/224] Scraping: 104464
+   ✅ Saved: നീലാഞ്ജനം നിന്റെ (2002)
+🎵 [105/224] Scraping: 104499
+   ✅ Saved: വാളോങ്ങി പോരിനിറങ്ങി (2002)
+🎵 [106/224] Scraping: 33198
+   ✅ Saved: ഒരേ മുഖം കാണാന്‍ (2002)
+🎵 [107/224] Scraping: 65754
+   ✅ Saved: കളരിയ്ക്കും (2002)
+🎵 [108/224] Scraping: 33201
+   ✅ Saved: തങ്കം കൊണ്ടൊരു നിലവിളക്ക്‌ (2002)
+🎵 [109/224] Scraping: 33202
+   ✅ Saved: പുത്തൂരം വീട്ടിലെ (2002)
+🎵 [110/224] Scraping: 33199
+   ✅ Saved: പൂമാനം മേലേ (2002)
+🎵 [111/224] Scraping: 33203
+   ✅ Saved: സുന്ദരി തുമ്പികൾ (2002)
+🎵 [112/224] Scraping: aarum-aarum-kaanathe
+   ✅ Saved: ആരും ആരും കാണാതെ (D) (2002)
+🎵 [113/224] Scraping: aarum-aarum-f
+   ✅ Saved: ആരും ആരും കാണാതെ (F) ()
+🎵 [114/224] Scraping: 12130
+   ✅ Saved: കാർമുകിൽ‌വർണ്ണന്റെ ചുണ്ടിൽ ()
+🎵 [115/224] Scraping: 7183
+   ✅ Saved: ഗോപികേ ഹൃദയമൊരു ()
+🎵 [116/224] Scraping: 7184
+   ✅ Saved: മനസ്സിൽ മിഥുന മഴ ()
+🎵 [117/224] Scraping: 12129
+   ✅ Saved: മൗലിയിൽ മയിൽപ്പീലി ചാർത്തി ()
+🎵 [118/224] Scraping: sreelavasantham
+   ✅ Saved: ശ്രീല വസന്തം ()
+🎵 [119/224] Scraping: 14142
+   ✅ Saved: എന്നമ്മേ ഒന്നു കാണാൻ ()
+🎵 [120/224] Scraping: 14144
+   ✅ Saved: എൻ കരളിൽ താമസിച്ചാൽ ()
+🎵 [121/224] Scraping: 51119
+   ✅ Saved: കാത്തു കാത്തൊരു (2002)
+🎵 [122/224] Scraping: 67416
+   ✅ Saved: സുഖമാണീ നിലാവ് (2002)
+🎵 [123/224] Scraping: 14143
+   ✅ Saved: സുഖമാണീ നിലാവ് എന്തു സുഖമാണീ കാറ്റ് (F) ()
+🎵 [124/224] Scraping: 67414
+   ✅ Saved: സൂര്യനെ (2002)
+🎵 [125/224] Scraping: 95231
+   ✅ Saved: നടവഴിയും ഇടവഴിയും (2002)
+🎵 [126/224] Scraping: 95236
+   ✅ Saved: മായം ചൊല്ലും മൈനേ (2002)
+🎵 [127/224] Scraping: 97476
+   ✅ Saved: മോഹസ്വരൂപിണി പാടുകയായ് (2002)
+🎵 [128/224] Scraping: 95305
+   ✅ Saved: ഹേ ശിങ്കാരി (2002)
+🎵 [129/224] Scraping: 59653
+   ✅ Saved: കുങ്കുമരാഗ പരഗമണിഞ്ഞ (F) (2002)
+🎵 [130/224] Scraping: 59654
+   ✅ Saved: കുങ്കുമരാഗ പരഗമണിഞ്ഞ (M) (2002)
+🎵 [131/224] Scraping: 59658
+   ✅ Saved: തണ്ണീര്‍പ്പന്തലിലെ (F) (2002)
+🎵 [132/224] Scraping: 59657
+   ✅ Saved: തണ്ണീര്‍പ്പന്തലിലെ (M) (2002)
+🎵 [133/224] Scraping: 59659
+   ✅ Saved: ദേവതേ കേൾക്കുമോ (2002)
+🎵 [134/224] Scraping: 59656
+   ✅ Saved: പുലരൊളിതന്‍ മലരിലോ (D) (2002)
+🎵 [135/224] Scraping: 59655
+   ✅ Saved: പുലരൊളിതന്‍ മലരിലോ (M) (2002)
+🎵 [136/224] Scraping: 33186
+   ✅ Saved: ആറ്റും‌മണമ്മേലേ (2002)
+🎵 [137/224] Scraping: 33196
+   ✅ Saved: എന്തിന്നവിടം പറയുന്നച്ഛാ (2002)
+🎵 [138/224] Scraping: 33195
+   ✅ Saved: കരളുരുകും കഥപറയാം (2002)
+🎵 [139/224] Scraping: 33194
+   ✅ Saved: കോലശ്രീ നാട്ടില്‍ അരിങ്ങോടരേ (2002)
+🎵 [140/224] Scraping: 33197
+   ✅ Saved: ചൊടിയിതളോ മധുമലരോ (2002)
+🎵 [141/224] Scraping: 33190
+   ✅ Saved: തേനുള്ള പൂവിന്റെ നെഞ്ചം (m) (2002)
+🎵 [142/224] Scraping: 33187
+   ✅ Saved: തേനുള്ള പൂവിന്റെ നെഞ്ചം(f) (2002)
+🎵 [143/224] Scraping: 33192
+   ✅ Saved: പാടാം പാടാം ആരോമൽ ചേകവര്‍ (2002)
+🎵 [144/224] Scraping: 33185
+   ✅ Saved: പാടുവാനൊരു വീണയും (2002)
+🎵 [145/224] Scraping: 33191
+   ✅ Saved: പെണ്‍തരി വെറുമൊരു (2002)
+🎵 [146/224] Scraping: 54211
+   ✅ Saved: തനിയേ പറക്കുന്ന (2002)
+🎵 [147/224] Scraping: 54210
+   ✅ Saved: ശ്രിത കമല (2002)
+🎵 [148/224] Scraping: 58816
+   ✅ Saved: കാറ്റിൻ കാൽത്തളയിൽ ()
+🎵 [149/224] Scraping: 58817
+   ✅ Saved: യാത്രയാകുമോർമ്മതൻ ()
+🎵 [150/224] Scraping: 58818
+   ✅ Saved: വസന്ത ()
+🎵 [151/224] Scraping: 18198
+   ✅ Saved: അരുളാൻ മടിക്കുന്ന ()
+🎵 [152/224] Scraping: 18201
+   ✅ Saved: ഇഷ്ടം എനിക്കിഷ്ടം ()
+🎵 [153/224] Scraping: 18200
+   ✅ Saved: എന്നും എന്നെന്നും ()
+🎵 [154/224] Scraping: 18199
+   ✅ Saved: എൻ മനം അറിഞ്ഞീല ()
+🎵 [155/224] Scraping: 18205
+   ✅ Saved: തേങ്ങുന്നെന്നുള്ളം ()
+🎵 [156/224] Scraping: 18202
+   ✅ Saved: പിണങ്ങരുതേ നീ ()
+🎵 [157/224] Scraping: 18203
+   ✅ Saved: സ്നേഹമേ എൻ പ്രേമമേ ()
+🎵 [158/224] Scraping: 15384
+   ✅ Saved: സ്വരരാഗ സംഗീതമേ (F) ()
+🎵 [159/224] Scraping: 18204
+   ✅ Saved: സ്വരരാഗ സംഗീതമേ (M) (2005)
+🎵 [160/224] Scraping: chandanamalla-chandrikayalla
+   ✅ Saved: ചന്ദനമല്ല ചന്ദ്രികയല്ല* (2002)
+🎵 [161/224] Scraping: 58799
+   ✅ Saved: ഞാനറിഞ്ഞല്ലോ നാലാളറിഞ്ഞല്ലോ (2002)
+🎵 [162/224] Scraping: 16795
+   ✅ Saved: മാട്ടുപ്പൊങ്കൽ മാസം ()
+🎵 [163/224] Scraping: viralthottal-viriyunna-d
+   ✅ Saved: വിരൽ തൊട്ടാൽ (D) ()
+🎵 [164/224] Scraping: 66550
+   ✅ Saved: വിരൽ തൊട്ടാൽ (F) (2002)
+🎵 [165/224] Scraping: 66551
+   ✅ Saved: സുൻ മിത് വാരെ (2002)
+🎵 [166/224] Scraping: 54059
+   ✅ Saved: ഏനിന്നലെ ചൊപ്പനം കണ്ടപ്പം ചൊപ്പനം കണ്ടേ (2002)
+🎵 [167/224] Scraping: 65135
+   ✅ Saved: ഓം ജയ ശൗരേ ()
+🎵 [168/224] Scraping: 65146
+   ✅ Saved: ഓളകൈകൊണ്ട് .. ()
+🎵 [169/224] Scraping: 65275
+   ✅ Saved: കറുത്തക്കോഴി....... ()
+🎵 [170/224] Scraping: 65173
+   ✅ Saved: കറുത്തമുത്തേ..(M) ()
+🎵 [171/224] Scraping: 65175
+   ✅ Saved: കറുത്തമുത്തേ...(D) ()
+🎵 [172/224] Scraping: 65174
+   ✅ Saved: കറുത്തമുത്തേ...(F) ()
+🎵 [173/224] Scraping: 65276
+   ✅ Saved: ബാംബൂ ബോയ്സ് ബാംബൂ ... ()
+🎵 [174/224] Scraping: 15918
+   ✅ Saved: തേരിറങ്ങും മുകിലേ ()
+🎵 [175/224] Scraping: 15923
+   ✅ Saved: പുതുവെട്ടം തേടി വന്നു മണിപ്പന്തലിൽ ()
+🎵 [176/224] Scraping: 15921
+   ✅ Saved: രാവിന്റെ ദേവഹൃദയത്തിൽ ()
+🎵 [177/224] Scraping: 65755
+   ✅ Saved: രാവിന്റെ(F) (2002)
+🎵 [178/224] Scraping: 15926
+   ✅ Saved: വേളിപ്പെണ്ണിനു താലിക്ക് ()
+🎵 [179/224] Scraping: 15925
+   ✅ Saved: സ്വർഗ്ഗം നമ്മുടെ കൈയ്യിൽ ()
+🎵 [180/224] Scraping: ee-elavaththoor-kayalinte
+   ✅ Saved: ഈ എലവത്തൂർ കായലിന്റെ (2002)
+🎵 [181/224] Scraping: 14512
+   ✅ Saved: എന്റെ എല്ലാമെല്ലാമല്ലേ (2002)
+🎵 [182/224] Scraping: 68047
+   ✅ Saved: കരിമിഴിക്കുരുവിയെ (F) (2002)
+🎵 [183/224] Scraping: karimizhi-kuruviye-d
+   ✅ Saved: കരിമിഴിക്കുരുവിയെ കണ്ടീലാ (D) (2002)
+🎵 [184/224] Scraping: chingamaasam
+   ✅ Saved: ചിങ്ങമാസം വന്നു ചേർന്നാൽ (2002)
+🎵 [185/224] Scraping: 21228
+   ✅ Saved: പത്തിരി ചുട്ടു വിളമ്പി വിളിച്ചത് (2002)
+🎵 [186/224] Scraping: 14577
+   ✅ Saved: പെണ്ണേ പെണ്ണേ നിൻ കല്യാണമായ് (2002)
+🎵 [187/224] Scraping: 68048
+   ✅ Saved: മീശക്കാരൻ (2002)
+🎵 [188/224] Scraping: 14579
+   ✅ Saved: വാളെടുത്താലങ്കക്കലി (2002)
+🎵 [189/224] Scraping: 14158
+   ✅ Saved: ഒന്നു തൊടാനുള്ളിൽ ()
+🎵 [190/224] Scraping: 8842
+   ✅ Saved: വട്ടയില പന്തലിട്ട് ()
+🎵 [191/224] Scraping: 57108
+   ✅ Saved: എന്നും പലവിധ തലവിധി (2003)
+🎵 [192/224] Scraping: 57109
+   ✅ Saved: കൂമനും കുറുകനും (2003)
+🎵 [193/224] Scraping: 57111
+   ✅ Saved: പൂമുഖത്തൊരു (2003)
+🎵 [194/224] Scraping: 57110
+   ✅ Saved: മനസ്സിനുള്ളിൽ മയങ്ങി (2003)
+🎵 [195/224] Scraping: 57112
+   ✅ Saved: സൈറ്റടിക്കണ മാധവാ (2003)
+🎵 [196/224] Scraping: 103728
+   ✅ Saved: കവിളിൽ മറുകുള്ള സുന്ദരി പൂവിൻ (2002)
+🎵 [197/224] Scraping: amme-amme-kanneertheyyam
+   ✅ Saved: അമ്മേ അമ്മേ കണ്ണീർത്തെയ്യം ()
+🎵 [198/224] Scraping: 59692
+   ✅ Saved: കുക്കു കുക്കു കുറുവാലി (2002)
+🎵 [199/224] Scraping: 59683
+   ✅ Saved: തിന്തകത്താരോം (2002)
+🎵 [200/224] Scraping: 59681
+   ✅ Saved: നാരായണീയമാം (2002)
+🎵 [201/224] Scraping: 59691
+   ✅ Saved: മക്കളെ കാത്തുകൊണ്ട് (2002)
+🎵 [202/224] Scraping: 11913
+   ✅ Saved: മണിക്കുയിലേ ()
+🎵 [203/224] Scraping: 59679
+   ✅ Saved: മണിക്കുയിലേ (F) (2002)
+🎵 [204/224] Scraping: 59682
+   ✅ Saved: വാല്‍ക്കണ്ണാടീ (2002)
+🎵 [205/224] Scraping: ethetho-thaali-peeli
+   ✅ Saved: ഏതേതോ താലി പീലി (2002)
+🎵 [206/224] Scraping: kalivilayaadiya
+   ✅ Saved: കളിവിളയാടിയ (2002)
+🎵 [207/224] Scraping: 59694
+   ✅ Saved: കൊഞ്ചി കൊഞ്ചി (2002)
+🎵 [208/224] Scraping: 59696
+   ✅ Saved: തോട്ടുങ്കരക്കാരി (2002)
+🎵 [209/224] Scraping: omane-paadoo-nee-madhuramai
+   ✅ Saved: ഓമനേ പാടൂ നീ മധുരമായ് ()
+🎵 [210/224] Scraping: 33183
+   ✅ Saved: കരിമിഴിയാളേ ഒരു കഥ (2002)
+🎵 [211/224] Scraping: daivam-thanna-vidhiyalle
+   ✅ Saved: ദൈവം തന്ന വിധിയല്ലേ ()
+🎵 [212/224] Scraping: 66361
+   ✅ Saved: ദൈവം തന്ന വിധിയല്ലേ(M) (2002)
+🎵 [213/224] Scraping: 33182
+   ✅ Saved: പ്രേമമധു തേടും കാര്‍വണ്ടു (f) (2002)
+🎵 [214/224] Scraping: 33181
+   ✅ Saved: പ്രേമമധു തേടും കാര്‍വണ്ടു പോലെ (2002)
+🎵 [215/224] Scraping: makaranilavil-madhuravumayi
+   ✅ Saved: മകരനിലാവിൽ മധുരവുമായീ ()
+🎵 [216/224] Scraping: 33184
+   ✅ Saved: വെളുത്ത പെണ്ണിന്‍റെ (2002)
+🎵 [217/224] Scraping: 50963
+   ✅ Saved: അറിഞ്ഞുവോ ആത്മാവിൽ (2002)
+🎵 [218/224] Scraping: 50967
+   ✅ Saved: ദൂരേ മലയിൽ (2002)
+🎵 [219/224] Scraping: 50968
+   ✅ Saved: മഞ്ഞക്കിളിയേ (2002)
+🎵 [220/224] Scraping: 50966
+   ✅ Saved: മണിമാളിക മുകളിൽ (2002)
+🎵 [221/224] Scraping: 50970
+   ✅ Saved: മാനസവനികയിലേതോ (F) (2002)
+🎵 [222/224] Scraping: 50965
+   ✅ Saved: മാനസവനികയിലേതോ (M) (2002)
+🎵 [223/224] Scraping: 50964
+   ✅ Saved: ഹരിനാമസാഗരം (2002)
+🎵 [224/224] Scraping: 50969
+   ✅ Saved: ഹരിനാമസാഗരം (F) (2002)
+Year complete: success=224, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 8178
