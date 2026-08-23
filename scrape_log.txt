@@ -28142,3 +28142,644 @@ Year complete: success=330, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 11697
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1991
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1991
+   Page 1: https://m3db.com/archive/lyrics/year/1991
+   Found 314 songs on this page. Total unique so far: 314
+Total songs to scrape for this year: 314
+🎵 [1/314] Scraping: 97678
+   ✅ Saved: പൂരാടരാത്രി കടിഞ്ഞൂൽ (1991)
+🎵 [2/314] Scraping: poorada-rathri-kadinjool
+   ✅ Saved: പൂരാടരാത്രി കടിഞ്ഞൂൽ (F) (1991)
+🎵 [3/314] Scraping: 97677
+   ✅ Saved: ശലഭമേ ചിത്രശലഭമേ (1991)
+🎵 [4/314] Scraping: 97341
+   ✅ Saved: കരിനീല മിഴിയുള്ള (1991)
+🎵 [5/314] Scraping: 97343
+   ✅ Saved: ചുടലക്കാടുണരുമ്പോള്‍ (1991)
+🎵 [6/314] Scraping: devangane-nee-vaa
+   ✅ Saved: ദേവാംഗനേ നീ വാ (1991)
+🎵 [7/314] Scraping: 97342
+   ✅ Saved: നിലാവിന്റെ ന‍ാട്ടില്‍ (1991)
+🎵 [8/314] Scraping: 64342
+   ✅ Saved: നീ വരൂ പൊന്‍ താരകേ (1991)
+🎵 [9/314] Scraping: 63607
+   ✅ Saved: നീ വരൂ വനദേവതേ (1991)
+🎵 [10/314] Scraping: ambili-kalayoru
+   ✅ Saved: അമ്പിളിക്കലയൊരു ()
+🎵 [11/314] Scraping: 6623
+   ✅ Saved: ഇടയരാഗ രമണദുഃഖം ()
+🎵 [12/314] Scraping: kurukkuthikkannulla
+   ✅ Saved: കുരുക്കുത്തിക്കണ്ണുള്ള ()
+🎵 [13/314] Scraping: 58973
+   ✅ Saved: മതിലേഖ മാഞ്ഞു കഴിഞ്ഞു (1991)
+🎵 [14/314] Scraping: 58979
+   ✅ Saved: വരികാ വരികാ (1991)
+🎵 [15/314] Scraping: 34164
+   ✅ Saved: ജെയിംസ്‌ ബോണ്ട്‌ (1991)
+🎵 [16/314] Scraping: 96704
+   ✅ Saved: എങ്ങോ പൈങ്കിളി (1991)
+🎵 [17/314] Scraping: 96702
+   ✅ Saved: എങ്ങോ പൈങ്കിളി (1991)
+🎵 [18/314] Scraping: 96703
+   ✅ Saved: മാതളംപൂ (1991)
+🎵 [19/314] Scraping: 95718
+   ✅ Saved: കല്ലെല്ലാം കർപ്പൂരമുത്തു പോലെ (1991)
+🎵 [20/314] Scraping: tharaapadham-chethoharam
+   ✅ Saved: താരാപഥം ചേതോഹരം (1991)
+🎵 [21/314] Scraping: 26359
+   ✅ Saved: ചെന്താരം പൂത്തു (1991)
+🎵 [22/314] Scraping: 26360
+   ✅ Saved: സകലമാന പുകിലുമേറുമൊരു (1991)
+🎵 [23/314] Scraping: 97638
+   ✅ Saved: ഭൂമിയെ പീഠമാക്കി (1991)
+🎵 [24/314] Scraping: kandu-njan-mizhikalil
+   ✅ Saved: കണ്ടു ഞാന്‍ മിഴികളില്‍ (1991)
+🎵 [25/314] Scraping: 34113
+   ✅ Saved: ഗണപതി ബപ്പാ മോറിയാ (1991)
+🎵 [26/314] Scraping: 34112
+   ✅ Saved: മാമലമേലേ വാർമഴമേഘം (1991)
+🎵 [27/314] Scraping: 34111
+   ✅ Saved: രാമായണ കാറ്റേ (1991)
+🎵 [28/314] Scraping: 161
+   ✅ Saved: അഴകേ നിൻ മിഴിനീർ ()
+🎵 [29/314] Scraping: pulare-poonkodiyil
+   ✅ Saved: പുലരേ പൂങ്കോടിയിൽ ()
+🎵 [30/314] Scraping: vikara-noukayumay
+   ✅ Saved: വികാരനൗകയുമായ് ()
+🎵 [31/314] Scraping: 9694
+   ✅ Saved: ഹൃദയരാഗതന്ത്രി മീട്ടി ()
+🎵 [32/314] Scraping: 58855
+   ✅ Saved: പൂക്കടമ്പിലിത്തിരിക്കുടന്ന (1991)
+🎵 [33/314] Scraping: 58856
+   ✅ Saved: മുത്തുക്കിളി മൊഴികളെ (1991)
+🎵 [34/314] Scraping: parannu-ponkilikal
+   ✅ Saved: Clone of പറന്നൂ പൊന്‍കിളികള്‍ (1991)
+🎵 [35/314] Scraping: parannu-ponkilikal-0
+   ✅ Saved: പറന്നൂ പൊന്‍കിളികള്‍ (1991)
+🎵 [36/314] Scraping: shyamasandra-neela-sandyayil
+   ✅ Saved: ശ്യാമസാന്ദ്ര നീലസന്ധ്യയില്‍ (1991)
+🎵 [37/314] Scraping: thazhvaram-ponnaninju
+   ✅ Saved: താഴ്വാരം പൊന്നണിഞ്ഞു... ()
+🎵 [38/314] Scraping: 9878
+   ✅ Saved: തുളസീമാലയിതാ വനമാലീ ()
+🎵 [39/314] Scraping: 13067
+   ✅ Saved: പൂവാം കുരുന്നിനു ()
+🎵 [40/314] Scraping: alilathoniyumayi
+   ✅ Saved: ആലില തോണിയുമായി (1991)
+🎵 [41/314] Scraping: alilathoniyumayi-0
+   ✅ Saved: ആലില തോണിയുമായി (1991)
+🎵 [42/314] Scraping: aadimanaadam-mangaladeepa
+   ✅ Saved: ആദിമനാദം മംഗളദീപ ()
+🎵 [43/314] Scraping: neelathaamarayinnum-kinaavin
+   ✅ Saved: നീലത്താമരയിന്നും കിനാവിൻ ()
+🎵 [44/314] Scraping: medappulari-paravakale
+   ✅ Saved: മേടപ്പുലരി പറവകളേ ()
+🎵 [45/314] Scraping: 35045
+   ✅ Saved: സ്വര്‍ഗത്തില്‍ സുല്‍ത്താന്‍ (1991)
+🎵 [46/314] Scraping: kuliru-peyyunna-neelambaram
+   ✅ Saved: കുളിരു പെയ്യുന്ന നീലാംബരം ()
+🎵 [47/314] Scraping: janmangalthan-kalppadavukalil
+   ✅ Saved: ജന്മങ്ങൾ തൻ കൽപ്പടവുകളിൽ ()
+🎵 [48/314] Scraping: saanthayaam-syaamayam
+   ✅ Saved: ശാന്തയാം ശ്യാമയാം ()
+🎵 [49/314] Scraping: snehathe-vazhthipadam
+   ✅ Saved: സ്നേഹത്തെ വാഴ്ത്തിപ്പാടാം ()
+🎵 [50/314] Scraping: 102481
+   ✅ Saved: ആവണിതന്‍ പൂക്കളത്തില്‍ (1991)
+🎵 [51/314] Scraping: aavani-nin
+   ✅ Saved: ആവണീ നിന്‍ മുടിയിഴയില്‍ (1991)
+🎵 [52/314] Scraping: ilam-thooval
+   ✅ Saved: ഇളം‌തൂവല്‍ ചിറകാര്‍ക്കും (1991)
+🎵 [53/314] Scraping: 102486
+   ✅ Saved: ഓണം തിരുവോണം തിരുവോണം (1991)
+🎵 [54/314] Scraping: kaanaponnum-thedi
+   ✅ Saved: കാണാപ്പൊന്നു് തേടിപ്പോകും (1991)
+🎵 [55/314] Scraping: kottum-vanne
+   ✅ Saved: കൊട്ടും വന്നേ കൊഴലും വന്നേ (1991)
+🎵 [56/314] Scraping: cherusseri
+   ✅ Saved: ചെറുശ്ശേരിതന്‍ പ്രിയ (1991)
+🎵 [57/314] Scraping: poopada-kootiyorungiya
+   ✅ Saved: പൂപ്പട കൂട്ടിയൊരുങ്ങിയ (1991)
+🎵 [58/314] Scraping: 97565
+   ✅ Saved: കപോതമേ പോയ് വാ വാ (1991)
+🎵 [59/314] Scraping: 104949
+   ✅ Saved: പെണ്ണല്ലോ നീ (1991)
+🎵 [60/314] Scraping: 104948
+   ✅ Saved: പ്രിയമുള്ളൊരെൻ തോഴാ (1991)
+🎵 [61/314] Scraping: 104942
+   ✅ Saved: മാനസവർണ്ണം ചാർത്തുന്ന ദേവി (1991)
+🎵 [62/314] Scraping: 104946
+   ✅ Saved: വീണ്ടും വീണ്ടും (1991)
+🎵 [63/314] Scraping: 104947
+   ✅ Saved: സായം സന്ധ്യതൻ വരവായി (1991)
+🎵 [64/314] Scraping: 104943
+   ✅ Saved: ഹൃദയം കൊടുത്തു (1991)
+🎵 [65/314] Scraping: 104944
+   ✅ Saved: ഹൃദയം നിറയെ - F (1991)
+🎵 [66/314] Scraping: 104945
+   ✅ Saved: ഹൃദയം നിറയെ - M (1991)
+🎵 [67/314] Scraping: 97274
+   ✅ Saved: ആട്ടവും പാട്ടുമുള്ള നന്നാട് (1991)
+🎵 [68/314] Scraping: 97275
+   ✅ Saved: ചിരിയേറിയ പ്രായം (1991)
+🎵 [69/314] Scraping: 87847
+   ✅ Saved: കോടിയുടുത്തേതോ (1991)
+🎵 [70/314] Scraping: 87845
+   ✅ Saved: നിങ്ങൾക്കൊരു ജോലി (1991)
+🎵 [71/314] Scraping: manasilou-mandarakkaadu
+   ✅ Saved: മനസ്സിലൊരു മന്ദാരക്കാട് ()
+🎵 [72/314] Scraping: malar-choodi-puzhayoram
+   ✅ Saved: മലർ ചൂടി പുഴയോരം ()
+🎵 [73/314] Scraping: 97562
+   ✅ Saved: പുതിയലഹരിതന്‍ പ്രഭാതം (1991)
+🎵 [74/314] Scraping: saayamsandhyan
+   ✅ Saved: സായംസന്ധ്യതൻ ()
+🎵 [75/314] Scraping: katte-vava
+   ✅ Saved: കാറ്റേ വാ വാ ()
+🎵 [76/314] Scraping: katte-vaa-vaa-poombatte-vaa
+   ✅ Saved: കാറ്റേ വാ വാ പൂമ്പാറ്റേ വാ (1991)
+🎵 [77/314] Scraping: vrindavaname-chollu
+   ✅ Saved: വൃന്ദാവനമേ ചൊല്ലൂ ()
+🎵 [78/314] Scraping: 9907
+   ✅ Saved: അന്തിവെയിൽ പൊന്നുതിരും ()
+🎵 [79/314] Scraping: paathiramazhayetho-d
+   ✅ Saved: പാതിരാമഴയെതോ - D (1991)
+🎵 [80/314] Scraping: paathiraamazhayetho
+   ✅ Saved: പാതിരാമഴയേതോ (F) (1991)
+🎵 [81/314] Scraping: paathiramazhayetho-m
+   ✅ Saved: പാതിരാമഴയേതോ - M ()
+🎵 [82/314] Scraping: 33404
+   ✅ Saved: മായാത്ത മാരിവില്ലിതാ (1991)
+🎵 [83/314] Scraping: 26345
+   ✅ Saved: ഏകാകിയായ് (1991)
+🎵 [84/314] Scraping: 26343
+   ✅ Saved: കിലുകിലുക്കാം പെട്ടീ (1991)
+🎵 [85/314] Scraping: 97511
+   ✅ Saved: താരാഗണങ്ങൾക്കു താഴെ -M (1991)
+🎵 [86/314] Scraping: 16140
+   ✅ Saved: താരാഗണങ്ങൾക്കു താഴേ (1991)
+🎵 [87/314] Scraping: 9908
+   ✅ Saved: ആലാപനം തേടും ()
+🎵 [88/314] Scraping: poonthennalo-kanneerthumbiyo
+   ✅ Saved: പൂന്തെന്നലോ കണ്ണീർത്തുമ്പിയോ ()
+🎵 [89/314] Scraping: raakkolam-vannathaane
+   ✅ Saved: രാക്കോലം വന്നതാണേ ()
+🎵 [90/314] Scraping: raappaadee-pakshikkoottam
+   ✅ Saved: രാപ്പാടീ പക്ഷിക്കൂട്ടം ()
+🎵 [91/314] Scraping: 16633
+   ✅ Saved: ശ്രീ ശിവസുതപദകമല സേവിതം ()
+🎵 [92/314] Scraping: 13778
+   ✅ Saved: ഇനിയൊരു ഗാനവുമായ് പോരൂ ()
+🎵 [93/314] Scraping: 14939
+   ✅ Saved: കുയിലമ്മേ കുയിലമ്മേ ()
+🎵 [94/314] Scraping: 96722
+   ✅ Saved: കുയിലമ്മേ കുയിലമ്മേ - F (1991)
+🎵 [95/314] Scraping: 58947
+   ✅ Saved: കരളില്‍ മോഹങ്ങള്‍ (1991)
+🎵 [96/314] Scraping: 97640
+   ✅ Saved: ദാരുകനിഗ്രഹഘോരക പോലെ (1991)
+🎵 [97/314] Scraping: 97639
+   ✅ Saved: ഹൃദയദളങ്ങളിൽ പനിനീർ (1991)
+🎵 [98/314] Scraping: 95451
+   ✅ Saved: കോഴിക്കോട്ടൊരു കോയ (1991)
+🎵 [99/314] Scraping: 95433
+   ✅ Saved: പരിപ്പും നെയ്യും പപ്പടവും (1991)
+🎵 [100/314] Scraping: 63464
+   ✅ Saved: തിന്തകത്തോം ചിലമ്പണിഞ്ഞ് (1991)
+🎵 [101/314] Scraping: 12076
+   ✅ Saved: മായാമഞ്ചലിൽ ഇതുവഴിയേ (1991)
+🎵 [102/314] Scraping: 58411
+   ✅ Saved: അരികിലേക്കിനിയും (1991)
+🎵 [103/314] Scraping: 58412
+   ✅ Saved: എണ്ണിയാല്‍ തീരാത്ത (1991)
+🎵 [104/314] Scraping: 58413
+   ✅ Saved: നീലക്കരിമ്പന (1991)
+🎵 [105/314] Scraping: 63861
+   ✅ Saved: കിലുകിൽ കിലുക്കാംപെട്ടി (1991)
+🎵 [106/314] Scraping: 63862
+   ✅ Saved: ചെല്ലപ്പൂവേ (1991)
+🎵 [107/314] Scraping: 96773
+   ✅ Saved: ഒരു പൂവിരിയും പോലെ (1991)
+🎵 [108/314] Scraping: 96774
+   ✅ Saved: കടലേഴും താണ്ടുന്ന കാറ്റേ (1991)
+🎵 [109/314] Scraping: 97567
+   ✅ Saved: കാഞ്ചന താമരപ്പൂമുഖം (1991)
+🎵 [110/314] Scraping: pulari-viriyum-mumbe
+   ✅ Saved: പുലരി വിരിയും മുൻപേ ()
+🎵 [111/314] Scraping: manasil-ninnum
+   ✅ Saved: മനസ്സിൽ നിന്നും ()
+🎵 [112/314] Scraping: 37437
+   ✅ Saved: ചെത്തിക്കിണുങ്ങി പാടടേ (1991)
+🎵 [113/314] Scraping: 37436
+   ✅ Saved: സാന്ത്വനം കാര്‍ത്തിക (1991)
+🎵 [114/314] Scraping: 40077
+   ✅ Saved: ഇളമാന്‍ കിടാവുപോല്‍ (1991)
+🎵 [115/314] Scraping: 40079
+   ✅ Saved: നീഹാരം പൊഴിയാറായ് (1991)
+🎵 [116/314] Scraping: 40080
+   ✅ Saved: പൊന്‍മേട്ടിലെ കുടന്ന (1991)
+🎵 [117/314] Scraping: 40081
+   ✅ Saved: മുന്തിരിവള്ളിയിലൂഞ്ഞാലാടും (1991)
+🎵 [118/314] Scraping: 40078
+   ✅ Saved: മോഹനകാനന കന്യകയാടും (1991)
+🎵 [119/314] Scraping: 27563
+   ✅ Saved: താനാരോ തക്കം തന്തിന്നാരോ (1990)
+🎵 [120/314] Scraping: 27562
+   ✅ Saved: പാലരുവിക്കുളിരണിയും (1990)
+🎵 [121/314] Scraping: 27561
+   ✅ Saved: മദനപ്പൂ നിറമുള്ള (1990)
+🎵 [122/314] Scraping: 96064
+   ✅ Saved: അഷ്ടപദീപദമധുരം (1991)
+🎵 [123/314] Scraping: 36613
+   ✅ Saved: പുത്തനൊരു കൊയ്ത്തരിവാൾ (1991)
+🎵 [124/314] Scraping: oottippattanam
+   ✅ Saved: ഊട്ടിപ്പട്ടണം ()
+🎵 [125/314] Scraping: kilukil-pambaram
+   ✅ Saved: കിലുകിൽ പമ്പരം ()
+🎵 [126/314] Scraping: panineer-chandrike
+   ✅ Saved: പനിനീർചന്ദ്രികേ ()
+🎵 [127/314] Scraping: 16147
+   ✅ Saved: മീനവേനലിൽ ()
+🎵 [128/314] Scraping: 95556
+   ✅ Saved: കിക്കിളിക്കുടുക്ക പെണ്ണുങ്ങളേ (1991)
+🎵 [129/314] Scraping: 95554
+   ✅ Saved: ജന്മരാഗമാണു നീ (1991)
+🎵 [130/314] Scraping: 10098
+   ✅ Saved: പച്ചക്കറിക്കാ‍യത്തട്ടിൽ (1991)
+🎵 [131/314] Scraping: aruna-kiranamaniyu
+   ✅ Saved: അരുണകിരണമണിയുമുദയ ()
+🎵 [132/314] Scraping: kizhakkunarum-pakshi
+   ✅ Saved: കിഴക്കുണരും പക്ഷീ ()
+🎵 [133/314] Scraping: 8311
+   ✅ Saved: മൺ ചെരാതുകൾ ()
+🎵 [134/314] Scraping: souparnikamritha-veechikal
+   ✅ Saved: സൗപർണ്ണികാമൃത വീചികൾ F ()
+🎵 [135/314] Scraping: souparnikamrutha-veechikal-paadum-m
+   ✅ Saved: സൗപർണ്ണികാമൃത വീചികൾ പാടും - M (1991)
+🎵 [136/314] Scraping: hey-ghanashyama-mohana-krishna
+   ✅ Saved: ഹേ ഘനശ്യാമ മോഹന കൃഷ്ണാ ()
+🎵 [137/314] Scraping: 97687
+   ✅ Saved: കടലുകള്‍ താണ്ടി ബന്ന് (1991)
+🎵 [138/314] Scraping: 97686
+   ✅ Saved: ഗ്രാമീണസുന്ദരി നാണക്കാരി (1986)
+🎵 [139/314] Scraping: 97685
+   ✅ Saved: ചുരീദാറ് സുന്ദരീ (1986)
+🎵 [140/314] Scraping: 58830
+   ✅ Saved: ഈറൻ ചൊടികളിൽ (1991)
+🎵 [141/314] Scraping: 58831
+   ✅ Saved: കാലം പഞ്ചരി (1991)
+🎵 [142/314] Scraping: 16148
+   ✅ Saved: പുതിയ കുടുംബത്തിൻ (1991)
+🎵 [143/314] Scraping: 95510
+   ✅ Saved: പുതിയ കുടുംബത്തിൻ - D (1991)
+🎵 [144/314] Scraping: sharonil-viriyum
+   ✅ Saved: ശാരോനിൽ വിരിയും (1991)
+🎵 [145/314] Scraping: 97049
+   ✅ Saved: ഓലേലം പാടി നടന്ന (1991)
+🎵 [146/314] Scraping: tharam-valkkannadi-nokki
+   ✅ Saved: താരം വാൽക്കണ്ണാടി നോക്കി ()
+🎵 [147/314] Scraping: gopihridayam
+   ✅ Saved: ഗോപീഹൃദയം ()
+🎵 [148/314] Scraping: 54183
+   ✅ Saved: നിറകുടുക്ക മുത്തുണ്ടോ (1991)
+🎵 [149/314] Scraping: 97563
+   ✅ Saved: ഈ സംഗീതം നിൻ സമ്മാനം (1991)
+🎵 [150/314] Scraping: thenmullukal-smaranakal
+   ✅ Saved: തേന്‍‌മുള്ളുകള്‍ സ്മരണകള്‍ (1991)
+🎵 [151/314] Scraping: 12997
+   ✅ Saved: ഓമനേ നീയൊരോമൽ ()
+🎵 [152/314] Scraping: 62425
+   ✅ Saved: ചെറുകുളിരല (1991)
+🎵 [153/314] Scraping: thennala-anayuka-nee
+   ✅ Saved: തെന്നലേ അണയുക നീ (1991)
+🎵 [154/314] Scraping: 10110
+   ✅ Saved: പന്നഗേന്ദ്രശയനാ ()
+🎵 [155/314] Scraping: yamunaa-nadiyaayozhukum
+   ✅ Saved: യമുനാനദിയായൊഴുകും ()
+🎵 [156/314] Scraping: 96969
+   ✅ Saved: ശാരി മേരി രാജേശ്വരി (1991)
+🎵 [157/314] Scraping: 15692
+   ✅ Saved: നീർപ്പളുങ്കുകൾ ചിതറി വീഴുമീ ()
+🎵 [158/314] Scraping: pookkaalam-vannoo-pookkaalam
+   ✅ Saved: പൂക്കാലം വന്നു പൂക്കാലം ()
+🎵 [159/314] Scraping: manthrikkochamma-varunnunde
+   ✅ Saved: മന്ത്രിക്കൊച്ചമ്മ വരുന്നുണ്ടേ ()
+🎵 [160/314] Scraping: 96701
+   ✅ Saved: തൂമഞ്ഞു പെയ്യും (1991)
+🎵 [161/314] Scraping: 96691
+   ✅ Saved: പൊൻ കൊരലാരപ്പണ്ടം (1991)
+🎵 [162/314] Scraping: 96689
+   ✅ Saved: മേശ വിളക്കിന്റെ (1991)
+🎵 [163/314] Scraping: maanathundoru
+   ✅ Saved: മാനത്തുണ്ടൊരു (1991)
+🎵 [164/314] Scraping: vellippadavirangi
+   ✅ Saved: വെള്ളിപ്പടവിറങ്ങി (1991)
+🎵 [165/314] Scraping: chandanam-peithu-pinneyum
+   ✅ Saved: ചന്ദനം പെയ്തു പിന്നെയും (1991)
+🎵 [166/314] Scraping: 97541
+   ✅ Saved: നാവും നീട്ടി വിരുന്നു വരുന്നവരേ (1991)
+🎵 [167/314] Scraping: 97540
+   ✅ Saved: സ്വരലയപല്ലവിയിൽ (1991)
+🎵 [168/314] Scraping: oru-ponkinaviletho
+   ✅ Saved: ഒരു പൊൻ കിനാവിലേതോ ()
+🎵 [169/314] Scraping: 55
+   ✅ Saved: ദേവാങ്കണങ്ങൾ കൈയ്യൊഴിഞ്ഞ താരകം ()
+🎵 [170/314] Scraping: 15698
+   ✅ Saved: ദേവീ ആത്മരാഗമേകാം ()
+🎵 [171/314] Scraping: palappoove-nin
+   ✅ Saved: പാലപ്പൂവേ ()
+🎵 [172/314] Scraping: 58897
+   ✅ Saved: അജ്ഞാതവാസം (1991)
+🎵 [173/314] Scraping: 58898
+   ✅ Saved: പ്രേമം ആദ്യത്തെ (1991)
+🎵 [174/314] Scraping: 58899
+   ✅ Saved: മലർനിരകളിൽ (1991)
+🎵 [175/314] Scraping: 54479
+   ✅ Saved: മണിനൂപുരം പദതാരിലേകി (1991)
+🎵 [176/314] Scraping: 96688
+   ✅ Saved: മധുവനം പൂത്തൊരുങ്ങി (1991)
+🎵 [177/314] Scraping: 96686
+   ✅ Saved: യാമം മോഹനയാമം (1991)
+🎵 [178/314] Scraping: 96687
+   ✅ Saved: രജനീ ഉണരൂ ശ്രുതിയില്‍ നിറയൂ (1991)
+🎵 [179/314] Scraping: 8486
+   ✅ Saved: അളകാപുരിയിൽ അഴകിൻ വനിയിൽ ()
+🎵 [180/314] Scraping: 8485
+   ✅ Saved: ആതിര വരവായി ()
+🎵 [181/314] Scraping: mazhavil
+   ✅ Saved: മഴവില്ലാടും മലയുടെ മുകളിൽ ()
+🎵 [182/314] Scraping: 7151
+   ✅ Saved: മാണിക്യക്കുയിലേ നീ ()
+🎵 [183/314] Scraping: shara-ranthal
+   ✅ Saved: ശരറാന്തൽ പൊന്നും പൂവും ()
+🎵 [184/314] Scraping: ambalappuzhayile-ambaadippaithale-f
+   ✅ Saved: അമ്പലപ്പുഴയിലെ അമ്പാടിപ്പൈതലേ - F (1991)
+🎵 [185/314] Scraping: ambalappuzhayile-ambaadippaithale-m
+   ✅ Saved: അമ്പലപ്പുഴയിലെ അമ്പാടിപ്പൈതലേ -M (1991)
+🎵 [186/314] Scraping: kinnaram-chollanethana
+   ✅ Saved: കിന്നാരം ചൊല്ലാനെത്തണ (1991)
+🎵 [187/314] Scraping: mrugamada-thilakavum
+   ✅ Saved: മൃഗമദതിലകവും മൃദുമന്ദഹാസവും (1991)
+🎵 [188/314] Scraping: 23949
+   ✅ Saved: അഞ്ജനശിലയിൽ ആദിപരാശക്തി ()
+🎵 [189/314] Scraping: avidathe-kavilethum
+   ✅ Saved: അവിടുത്തെ കാവിലെത്തും ()
+🎵 [190/314] Scraping: 23948
+   ✅ Saved: ആപദി കിം കരണീയം അമ്മേ ()
+🎵 [191/314] Scraping: thamarappoovil-oru-mandasmithamai
+   ✅ Saved: താമരപ്പൂവിൽ ഒരു മന്ദസ്മിതമായ് ()
+🎵 [192/314] Scraping: nin-divya-namamathennum
+   ✅ Saved: നിൻ ദിവ്യനാമമതെന്നും ()
+🎵 [193/314] Scraping: 23950
+   ✅ Saved: പാടുന്നു ഞാനിന്ന് കാടാമ്പുഴയിലെത്തി ()
+🎵 [194/314] Scraping: 23974
+   ✅ Saved: പാദങ്ങളിൽ വീണു കേഴുന്നു ഞാൻ ()
+🎵 [195/314] Scraping: mookambike-devi-mookambike
+   ✅ Saved: മൂ‍കാംബികേ ദേവി മൂകാംബികേ ()
+🎵 [196/314] Scraping: viswamohinee-jagadambke-devi
+   ✅ Saved: വിശ്വമോഹിനീ ജഗദംബികേ ദേവി ()
+🎵 [197/314] Scraping: poomarachayakal-chamaram-veeshunna-d
+   ✅ Saved: Clone of പൂമരഛായകൾ ചാമരം വീശുന്ന - D (1991)
+🎵 [198/314] Scraping: poomarachayakal-chamaram-veeshunna-d-0
+   ✅ Saved: പൂമരഛായകൾ ചാമരം വീശുന്ന - F (1991)
+🎵 [199/314] Scraping: 16139
+   ✅ Saved: ആനയ്ക്കെടുപ്പത് പൊന്നുണ്ടേ ()
+🎵 [200/314] Scraping: 149
+   ✅ Saved: ചീരപ്പൂവുകൾക്കുമ്മ കൊടുക്കണ ()
+🎵 [201/314] Scraping: 10178
+   ✅ Saved: നീ വിട പറയുമ്പോൾ ()
+🎵 [202/314] Scraping: 93037
+   ✅ Saved: ഒരു തങ്കത്താരം മിന്നും മായാനഗരിയിൽ (1991)
+🎵 [203/314] Scraping: 93038
+   ✅ Saved: കനകതാരമേ ഉണരൂ മദനയാമമായ് (1991)
+🎵 [204/314] Scraping: 16152
+   ✅ Saved: പാടൂ താലിപ്പൂത്തുമ്പീ ()
+🎵 [205/314] Scraping: 58974
+   ✅ Saved: അമ്പത്തൊന്നക്ഷരാളീ കലിതതനുലതേ (1991)
+🎵 [206/314] Scraping: 58976
+   ✅ Saved: മൗനം മൗനത്തില്‍ (1991)
+🎵 [207/314] Scraping: 58975
+   ✅ Saved: ശ്യാമ രത്നം ചൂടും (1991)
+🎵 [208/314] Scraping: eatho-madalasa
+   ✅ Saved: ഏതോ മദാലസ (1991)
+🎵 [209/314] Scraping: 97304
+   ✅ Saved: ചന്ദ്രകാന്തം അലിയും നിലാവില്‍ (1991)
+🎵 [210/314] Scraping: chandrakantham-aliyum-nilavil-f
+   ✅ Saved: ചന്ദ്രകാന്തം അലിയും നിലാവില്‍ (F) (1991)
+🎵 [211/314] Scraping: thala-mele
+   ✅ Saved: തലമേലെ (1991)
+🎵 [212/314] Scraping: 97303
+   ✅ Saved: നയനാംബുജങ്ങളോ കതിരൊളിയോ (1991)
+🎵 [213/314] Scraping: kili-paadumetho
+   ✅ Saved: കിളി പാടുമേതോ (1991)
+🎵 [214/314] Scraping: thumbee-nin-moham
+   ✅ Saved: തുമ്പീ നിൻ മോഹം (1991)
+🎵 [215/314] Scraping: 7204
+   ✅ Saved: പൊന്നരളിക്കൊമ്പിലെ (1991)
+🎵 [216/314] Scraping: 7202
+   ✅ Saved: മഞ്ഞുവീണ പൊൽത്താരയിൽ (1991)
+🎵 [217/314] Scraping: mele-manathe-theru
+   ✅ Saved: മേലേ മാനത്തെ തേര് (1991)
+🎵 [218/314] Scraping: 91662
+   ✅ Saved: ചോതിക്കൊഴുന്നേ ചാമക്കിളുന്നേ (1991)
+🎵 [219/314] Scraping: 91663
+   ✅ Saved: ഹരിയും ശ്രീയും വരമായീ (1991)
+🎵 [220/314] Scraping: then-virunninaai
+   ✅ Saved: തേൻ വിരുന്നിനായ് ()
+🎵 [221/314] Scraping: sagaraneelima-kadamizhikkonil
+   ✅ Saved: സാഗരനീലിമ കടമിഴിക്കോണിൽ ()
+🎵 [222/314] Scraping: 30958
+   ✅ Saved: അമ്പാടി പൂങ്കുട ചൂടി നല്ലിളം ചേവടിയോടെ (1991)
+🎵 [223/314] Scraping: 10486
+   ✅ Saved: ഏതോ വാർമുകിലിൻ ()
+🎵 [224/314] Scraping: 87124
+   ✅ Saved: ഏതോ വാർ‍മുകിലിൻ (1991)
+🎵 [225/314] Scraping: 87123
+   ✅ Saved: കുണുകുണുങ്ങിപ്പുഴയും (1991)
+🎵 [226/314] Scraping: 39677
+   ✅ Saved: മുത്തണി മുന്തിരി ()
+🎵 [227/314] Scraping: 58836
+   ✅ Saved: ഓം കാളി (1991)
+🎵 [228/314] Scraping: 97235
+   ✅ Saved: ഒരു കുഞ്ഞുമലരായ് വിരിയുന്ന (1991)
+🎵 [229/314] Scraping: 97233
+   ✅ Saved: കനവില്‍ പൂത്ത കനകപ്പൂക്കള്‍ (1991)
+🎵 [230/314] Scraping: 97234
+   ✅ Saved: മാലേയക്കുളിര്‍ തൂകും (1991)
+🎵 [231/314] Scraping: 58977
+   ✅ Saved: സൂര്യൻ തേരിറങ്ങി (1991)
+🎵 [232/314] Scraping: 10264
+   ✅ Saved: ഗോപാംഗനേ ()
+🎵 [233/314] Scraping: 10266
+   ✅ Saved: ധ്വനിപ്രസാദം നിറയും ()
+🎵 [234/314] Scraping: 97047
+   ✅ Saved: ധ്വനിപ്രസാ‍ദം നിറയും (1991)
+🎵 [235/314] Scraping: 15737
+   ✅ Saved: രഘുവംശപതേ പരിപാലയമാം ()
+🎵 [236/314] Scraping: 10265
+   ✅ Saved: രാമകഥാഗാനലയം ()
+🎵 [237/314] Scraping: 15738
+   ✅ Saved: ശ്രീ വിനായകം നമാമ്യഹം ()
+🎵 [238/314] Scraping: nellola-kondu-vaa
+   ✅ Saved: നെല്ലോല കൊണ്ടു വാ ()
+🎵 [239/314] Scraping: manasinorayiram-kilivathil
+   ✅ Saved: മനസ്സിനൊരായിരം കിളിവാതിൽ ()
+🎵 [240/314] Scraping: manasinnoraayiram-kilivaathil
+   ✅ Saved: മനസ്സിന്നൊരായിരം കിളിവാതിൽ ()
+🎵 [241/314] Scraping: mukile-nee-mooliya-raagam
+   ✅ Saved: മുകിലേ നീ മൂളിയ രാഗം ()
+🎵 [242/314] Scraping: ee-ravil
+   ✅ Saved: ഈ രാവിൽ (1991)
+🎵 [243/314] Scraping: kattinum-kulirinum
+   ✅ Saved: കാറ്റിനും കുളിരിനും (1991)
+🎵 [244/314] Scraping: prayam-nenchinullil
+   ✅ Saved: പ്രായം നെഞ്ചിനുള്ളിൽ (1991)
+🎵 [245/314] Scraping: madham-potti-ozhukunna
+   ✅ Saved: മദം പൊട്ടി ഒഴുകുന്ന യൗവ്വനം (1991)
+🎵 [246/314] Scraping: aadippadi-nadakkunna-naadodiyalla
+   ✅ Saved: ആടിപ്പാടി നടക്കുന്ന നാടോടിയല്ല ()
+🎵 [247/314] Scraping: 10297
+   ✅ Saved: ഏതോ കിളിനാദം (1991)
+🎵 [248/314] Scraping: venchandanamo-thoomanjo
+   ✅ Saved: വെൺചന്ദനമോ തൂമഞ്ഞോ ()
+🎵 [249/314] Scraping: 58942
+   ✅ Saved: മുത്തുകൾ മുത്തുകൾ (1991)
+🎵 [250/314] Scraping: 58943
+   ✅ Saved: രതിദീപം നീട്ടും (1991)
+🎵 [251/314] Scraping: 16150
+   ✅ Saved: ചെല്ലക്കാറ്റിൻ പള്ളിത്തേരിൽ ()
+🎵 [252/314] Scraping: 58459
+   ✅ Saved: നക്ഷത്രം മിന്നുന്ന (1991)
+🎵 [253/314] Scraping: engine-fire-engine
+   ✅ Saved: എഞ്ചിൻ ഫയറെഞ്ചിൻ മണിയെഞ്ചിൻ സാറേ സാറേ ()
+🎵 [254/314] Scraping: kaiyyil-then-kinnam
+   ✅ Saved: കയ്യില്‍ തേന്‍കിണ്ണം പേറും രാത്രി ()
+🎵 [255/314] Scraping: happy-new-year-happy-new-year
+   ✅ Saved: ഹാപ്പി ന്യൂ ഇയര്‍ ഹാപ്പി ന്യൂ ഇയര്‍ ()
+🎵 [256/314] Scraping: 4108
+   ✅ Saved: ചെമ്പരുന്തിൻ ചേലുണ്ടേ (1991)
+🎵 [257/314] Scraping: 14946
+   ✅ Saved: പൊന്നാവണിവെട്ടം (1991)
+🎵 [258/314] Scraping: 40157
+   ✅ Saved: അളകാപുരിയില്‍ നിന്നോ (1991)
+🎵 [259/314] Scraping: 51403
+   ✅ Saved: കാശിത്തുമ്പക്കാവായ് (1991)
+🎵 [260/314] Scraping: 51404
+   ✅ Saved: ബ്രേക്ക് ബ്രേക്ക്ഡാൻസ് (1991)
+🎵 [261/314] Scraping: 13179
+   ✅ Saved: വർണ്ണം വാരിച്ചൂടും വാനവീഥി ()
+🎵 [262/314] Scraping: thirakalkk-kadaloru
+   ✅ Saved: തിരകൾക്ക് കടലൊരു ()
+🎵 [263/314] Scraping: krishnathulasiyum-mullayum-f
+   ✅ Saved: കൃഷ്‌ണതുളസിയും മുല്ലയും - F (1991)
+🎵 [264/314] Scraping: krishnathulasiyum-mullayum-m
+   ✅ Saved: കൃഷ്‌ണതുളസിയും മുല്ലയും - M (1991)
+🎵 [265/314] Scraping: 58844
+   ✅ Saved: ശാലിനി ആടിവാ (1991)
+🎵 [266/314] Scraping: 58845
+   ✅ Saved: സ്നേഹവാനിൽ നീ (1991)
+🎵 [267/314] Scraping: 95490
+   ✅ Saved: മലരിടും ദേഹം (1991)
+🎵 [268/314] Scraping: 95491
+   ✅ Saved: മാഘമാസ രഥമണഞ്ഞു (1991)
+🎵 [269/314] Scraping: oru-poomarithan-kuliril
+   ✅ Saved: ഒരു പൂമാരിതൻ (1991)
+🎵 [270/314] Scraping: manasa-yamunayile
+   ✅ Saved: മാനസയമുനയിലെ (1991)
+🎵 [271/314] Scraping: raavin-moham-njan
+   ✅ Saved: രാവിന്‍മോഹം ഞാന്‍ (1991)
+🎵 [272/314] Scraping: 96306
+   ✅ Saved: ആദ്യവസന്തമേ - M (1991)
+🎵 [273/314] Scraping: 16135
+   ✅ Saved: ആദ്യവസന്തമേ ഈ മൂകവീണയിൽ - F ()
+🎵 [274/314] Scraping: 16134
+   ✅ Saved: കസ്തൂരി എന്റെ കസ്തൂരി ()
+🎵 [275/314] Scraping: 10425
+   ✅ Saved: പാണപ്പുഴ പാടി ()
+🎵 [276/314] Scraping: 10424
+   ✅ Saved: മിണ്ടാത്തതെന്തേ ()
+🎵 [277/314] Scraping: 97738
+   ✅ Saved: അമൃതിൻ കുടം കയ്യിലേന്തും (1991)
+🎵 [278/314] Scraping: malarmanam-peyyum
+   ✅ Saved: മലർമണം പെയ്യും (1991)
+🎵 [279/314] Scraping: 97659
+   ✅ Saved: ഇടറുന്ന കിളിമൊഴിയോടെ - F (1991)
+🎵 [280/314] Scraping: 97658
+   ✅ Saved: ഇടറുന്ന കിളിമൊഴിയോടെ - M (1991)
+🎵 [281/314] Scraping: 95555
+   ✅ Saved: ഗന്ധര്‍വ്വഹൃദയം ബന്ധുരനാദമായ് (1988)
+🎵 [282/314] Scraping: 97660
+   ✅ Saved: സംഗീത തപസ്യ (1991)
+🎵 [283/314] Scraping: ananthanarthanam-f
+   ✅ Saved: ആനന്തനർത്തനം (F) (1991)
+🎵 [284/314] Scraping: ananthanarthanam-m
+   ✅ Saved: ആനന്തനർത്തനം (M) (1991)
+🎵 [285/314] Scraping: enthinu-kollum-iniyenthinu
+   ✅ Saved: എന്തിന് കൊള്ളും ഇനിയെന്തിന് (1991)
+🎵 [286/314] Scraping: riksha-riksha-cycle-riksha
+   ✅ Saved: റിക്ഷ റിക്ഷ സൈക്കിള്‍ റിക്ഷാ (1991)
+🎵 [287/314] Scraping: vazhanullavan-vazhum
+   ✅ Saved: വാഴാനുള്ളവൻ വാഴും (1991)
+🎵 [288/314] Scraping: 97490
+   ✅ Saved: ആകാശ മേടയ്ക്ക് വാതിലുണ്ടോ (1991)
+🎵 [289/314] Scraping: 14952
+   ✅ Saved: ഗൗരീ മനോഹരീ ()
+🎵 [290/314] Scraping: 14947
+   ✅ Saved: പേരാറ്റിന്നക്കരെയക്കരെ ()
+🎵 [291/314] Scraping: poroo-poroo-aadivijanathayil
+   ✅ Saved: പോരൂ പോരൂ ആദിവിജനതയിൽ ()
+🎵 [292/314] Scraping: 58978
+   ✅ Saved: ആലോലം ആലോലം (1991)
+🎵 [293/314] Scraping: 97709
+   ✅ Saved: പുഷ്പങ്ങളായിരം വിരിയട്ടെ (1991)
+🎵 [294/314] Scraping: 63381
+   ✅ Saved: തുമ്പപ്പൂകോടിയുടുത്തൂ (1991)
+🎵 [295/314] Scraping: 97752
+   ✅ Saved: സീതക്കിളീ സീതക്കിളീ (1991)
+🎵 [296/314] Scraping: unni-va-va-vo-f
+   ✅ Saved: ഉണ്ണീ വാവാവോ - F (1991)
+🎵 [297/314] Scraping: unni-va-va-vo
+   ✅ Saved: ഉണ്ണീ വാവാവോ - M ()
+🎵 [298/314] Scraping: 7580
+   ✅ Saved: സ്വരകന്യകമാർ വീണ ()
+🎵 [299/314] Scraping: 94949
+   ✅ Saved: നീലാമ്പൽ പൂവിതളായ് നിന്മിഴിനാളം (1991)
+🎵 [300/314] Scraping: 94945
+   ✅ Saved: ഏഴാം സ്വർഗ്ഗം വിടർന്നുവോ (1991)
+🎵 [301/314] Scraping: oru-janmamam-ushasandyayai
+   ✅ Saved: ഒരു ജന്മമാം ഉഷസന്ധ്യയായ് ()
+🎵 [302/314] Scraping: 94948
+   ✅ Saved: മാലാഖമാരുടെ പൊന്നാട ചൂടുന്ന (1991)
+🎵 [303/314] Scraping: oru-mulankadinte
+   ✅ Saved: ഒരു മുളങ്കാടിന്റെ (1991)
+🎵 [304/314] Scraping: kaatinu-kuliru-vannu
+   ✅ Saved: കാറ്റിനു കുളിര് വന്നു (1991)
+🎵 [305/314] Scraping: poonilaapakshi
+   ✅ Saved: പൂനിലാപ്പക്ഷി (1991)
+🎵 [306/314] Scraping: priya-ragini
+   ✅ Saved: പ്രിയ രാഗിണീ (1991)
+🎵 [307/314] Scraping: priyasakhi-pranasakhi
+   ✅ Saved: പ്രിയസഖീ പ്രാണസഖീ (1991)
+🎵 [308/314] Scraping: bhavam-susmithabhavam
+   ✅ Saved: ഭാവം സുസ്മിതഭാവം (1991)
+🎵 [309/314] Scraping: manassil-chithrashilakalal
+   ✅ Saved: മനസ്സില്‍ ചിത്രശിലകളാല്‍ (1991)
+🎵 [310/314] Scraping: mothirakkaiviral
+   ✅ Saved: മോതിരക്കൈവിരല്‍ (1991)
+🎵 [311/314] Scraping: vayalarin-kavithayo
+   ✅ Saved: വയലാറിന്‍ കവിതയോ (1991)
+🎵 [312/314] Scraping: sumasharanoru
+   ✅ Saved: സുമശരനൊരു (1991)
+🎵 [313/314] Scraping: 96326
+   ✅ Saved: ഒരു ശില്പ ഗോപുരത്തില്‍ (1991)
+🎵 [314/314] Scraping: 96342
+   ✅ Saved: സ്വർലോക നായകൻ (1991)
+Year complete: success=314, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 12011
