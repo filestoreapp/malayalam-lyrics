@@ -55603,3 +55603,706 @@ Year complete: success=263, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 18330
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1973
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1973
+   Page 1: https://m3db.com/archive/lyrics/year/1973
+   Found 345 songs on this page. Total unique so far: 345
+Total songs to scrape for this year: 345
+🎵 [1/345] Scraping: 10321
+   ✅ Saved: എന്റെ സ്വപ്നത്തിൻ താമരപ്പൊയ്കയിൽ ()
+🎵 [2/345] Scraping: 7651
+   ✅ Saved: നീല നീല സമുദ്രത്തിന്നക്കരെയായി ()
+🎵 [3/345] Scraping: 3800
+   ✅ Saved: മല്ലികാബാണൻ തന്റെ വില്ലെടുത്തു ()
+🎵 [4/345] Scraping: 7650
+   ✅ Saved: മുഴുതിങ്കൾ മണിവിളക്കണഞ്ഞൂ ()
+🎵 [5/345] Scraping: 7652
+   ✅ Saved: സമയമാം നദി പുറകോട്ടൊഴുകീ ()
+🎵 [6/345] Scraping: 11198
+   ✅ Saved: അമ്പിളിനാളം ()
+🎵 [7/345] Scraping: udaya-soubhagya-tharakayo
+   ✅ Saved: ഉദയസൗഭാഗ്യതാരകയോ ()
+🎵 [8/345] Scraping: 11196
+   ✅ Saved: കാവേരി പൂമ്പട്ടണത്തില്‍ ()
+🎵 [9/345] Scraping: 11197
+   ✅ Saved: കൊച്ചുരാമാ കരിങ്കാലീ ()
+🎵 [10/345] Scraping: 11194
+   ✅ Saved: താഴമ്പൂ മുല്ലപ്പൂ ()
+🎵 [11/345] Scraping: 10937
+   ✅ Saved: മുത്തുകിലുങ്ങീ മണിമുത്തുകിലുങ്ങീ ()
+🎵 [12/345] Scraping: 16953
+   ✅ Saved: അണ്ണാർക്കണ്ണാ ()
+🎵 [13/345] Scraping: ennini-darsanam
+   ✅ Saved: എന്നിനി ദർശനം ()
+🎵 [14/345] Scraping: 65378
+   ✅ Saved: പതിവ്രതയാകണം പത്നി (1973)
+🎵 [15/345] Scraping: 16952
+   ✅ Saved: മംഗളദർശന ദായികേ ()
+🎵 [16/345] Scraping: 9980
+   ✅ Saved: മഞ്ഞിൽ നീരാടും ()
+🎵 [17/345] Scraping: 11522
+   ✅ Saved: ഇവിടത്തെ ചേച്ചിക്കിന്നലെ ()
+🎵 [18/345] Scraping: kaalameghathoppi-vacha
+   ✅ Saved: കാളമേഘത്തൊപ്പി വെച്ച ()
+🎵 [19/345] Scraping: darling
+   ✅ Saved: ഡാർലിങ് ഡാർലിങ് ()
+🎵 [20/345] Scraping: tajmahal-nirmmicha
+   ✅ Saved: താജ്മഹൽ നിർമ്മിച്ച ()
+🎵 [21/345] Scraping: 11525
+   ✅ Saved: പുഷ്പഗന്ധീ സ്വപ്നഗന്ധീ ()
+🎵 [22/345] Scraping: 11521
+   ✅ Saved: മരാളികേ മരാളികേ ()
+🎵 [23/345] Scraping: snehathin-idayanaam
+   ✅ Saved: സ്നേഹത്തിൻ ഇടയനാം ()
+🎵 [24/345] Scraping: aashrama-pushpame
+   ✅ Saved: ആശ്രമപുഷ്പമേ അചുംബിതപുഷ്പമേ ()
+🎵 [25/345] Scraping: 11249
+   ✅ Saved: ഉണരൂ വസന്തമേ ()
+🎵 [26/345] Scraping: 9990
+   ✅ Saved: കാമദേവന്റെ ശ്രീകോവിലിൽ ()
+🎵 [27/345] Scraping: chotanikkara-bhagavathi
+   ✅ Saved: ചോറ്റാനിക്കര ഭഗവതീ ()
+🎵 [28/345] Scraping: thamara-malarin
+   ✅ Saved: താമരമലരിൻ ()
+🎵 [29/345] Scraping: sangeethamathmavin
+   ✅ Saved: സംഗീതമാത്മാവിൻ ()
+🎵 [30/345] Scraping: 78497
+   ✅ Saved: കടലാടി തേടി (1973)
+🎵 [31/345] Scraping: 78495
+   ✅ Saved: കണ്ണേ കരളേ കാത്തിരുന്നു (1973)
+🎵 [32/345] Scraping: chandana-vishariyum-veeshi-veesh
+   ✅ Saved: ചന്ദനവിശറിയും വീശി വീശി ()
+🎵 [33/345] Scraping: chandralekhathan-kaathil
+   ✅ Saved: ചന്ദ്രലേഖ തൻ കാതിൽ ()
+🎵 [34/345] Scraping: deva-nin-chevadikal
+   ✅ Saved: ദേവാ നിൻ ചേവടികൾ ()
+🎵 [35/345] Scraping: 78496
+   ✅ Saved: പൂങ്കോഴി തന്നുടെ കൂജനം (1973)
+🎵 [36/345] Scraping: 13871
+   ✅ Saved: സ്നേഹം തന്നുടെ തണ്ണീർപ്പന്തലിൽ ()
+🎵 [37/345] Scraping: 11102
+   ✅ Saved: പകൽ വിളക്കണയുന്നൂ ()
+🎵 [38/345] Scraping: 16970
+   ✅ Saved: പറവകൾ ഇണപ്പറവകൾ ()
+🎵 [39/345] Scraping: 7870
+   ✅ Saved: സുഖമൊരു ബിന്ദൂ ()
+🎵 [40/345] Scraping: 16966
+   ✅ Saved: ഹൃദയവീണതന്‍ മൃദുലതന്ത്രിയില്‍ ()
+🎵 [41/345] Scraping: 11531
+   ✅ Saved: അമ്മയ്ക്കുമച്ഛനും കാരാഗൃഹം ()
+🎵 [42/345] Scraping: utharamadhurapuriyil
+   ✅ Saved: ഉത്തരമഥുരാപുരിയിൽ ()
+🎵 [43/345] Scraping: 11530
+   ✅ Saved: കനകം മൂലം ദുഃഖം ()
+🎵 [44/345] Scraping: 11528
+   ✅ Saved: നാളീകലോചനേ നിൻ മിഴികൾക്കിന്നു ()
+🎵 [45/345] Scraping: maala-maala-varanamaala
+   ✅ Saved: മാല മാല വരണമാല ()
+🎵 [46/345] Scraping: 9739
+   ✅ Saved: എന്റെ മകൻ കൃഷ്ണനുണ്ണി ()
+🎵 [47/345] Scraping: en-mandahaasam
+   ✅ Saved: എൻ മന്ദഹാസം ചന്ദ്രികയായെങ്കിൽ (1973)
+🎵 [48/345] Scraping: 78494
+   ✅ Saved: കരളിന്റെ കടലാസ്സില്‍ (1973)
+🎵 [49/345] Scraping: 11155
+   ✅ Saved: കലയുടെ ദേവി ()
+🎵 [50/345] Scraping: 13923
+   ✅ Saved: ചാലേ ചാലിച്ച ചന്ദനഗോപിയും ()
+🎵 [51/345] Scraping: 12254
+   ✅ Saved: ഉദ്യാനപാലകാ നിൻ പുഷ്പവാടിയിൽ ()
+🎵 [52/345] Scraping: 12255
+   ✅ Saved: എന്തു വേണം എനിയ്ക്കെന്തു വേണം ()
+🎵 [53/345] Scraping: 78525
+   ✅ Saved: ഒന്നിച്ചു കളിച്ചു വളര്‍ന്ന (1973)
+🎵 [54/345] Scraping: 10000
+   ✅ Saved: കാർക്കൂന്തൽകെട്ടിലെന്തിനു ()
+🎵 [55/345] Scraping: thullithulli-nadakkunna
+   ✅ Saved: തുള്ളിതുള്ളി നടക്കുന്ന ()
+🎵 [56/345] Scraping: 12256
+   ✅ Saved: നിശീഥിനി നിശീഥിനി ()
+🎵 [57/345] Scraping: 78524
+   ✅ Saved: പെണ്ണിനെന്തൊരഴക് (1973)
+🎵 [58/345] Scraping: 7914
+   ✅ Saved: ഒന്നാം മാനം പൂമാനം ()
+🎵 [59/345] Scraping: 7916
+   ✅ Saved: കനകക്കുന്നിൽ നിന്ന് ()
+🎵 [60/345] Scraping: pankajakshan-kadalvarnan
+   ✅ Saved: പങ്കജാക്ഷൻ കടൽവർണ്ണൻ ()
+🎵 [61/345] Scraping: 7915
+   ✅ Saved: പ്രാണനാഥനെനിക്കു നൽകിയ ()
+🎵 [62/345] Scraping: 16964
+   ✅ Saved: യാഹി മാധവ ()
+🎵 [63/345] Scraping: 7917
+   ✅ Saved: സ്വാതന്ത്ര്യം ജന്മാവകാശം ()
+🎵 [64/345] Scraping: 8216
+   ✅ Saved: ചോറ്റാനിക്കര ഭഗവതി ()
+🎵 [65/345] Scraping: 8218
+   ✅ Saved: പാലം കടക്കുവോളം ()
+🎵 [66/345] Scraping: 8217
+   ✅ Saved: ഭൂമി പെറ്റ മകളല്ലോ ()
+🎵 [67/345] Scraping: sivasambho
+   ✅ Saved: ശിവശംഭോ ()
+🎵 [68/345] Scraping: 13915
+   ✅ Saved: അബലകളെന്നും പ്രതിക്കൂട്ടിൽ ()
+🎵 [69/345] Scraping: 13919
+   ✅ Saved: ആദാം എന്റെ അപ്പൂപ്പൻ ()
+🎵 [70/345] Scraping: kayalkkattinte
+   ✅ Saved: കായൽക്കാറ്റിന്റെ താളം തെറ്റി ()
+🎵 [71/345] Scraping: 78505
+   ✅ Saved: കാലമാം ഒഴുക്കുത്തിൽ (1973)
+🎵 [72/345] Scraping: 78502
+   ✅ Saved: നിശ്ചലം കിടപ്പൊരീ (1973)
+🎵 [73/345] Scraping: 78501
+   ✅ Saved: പിന്നെയും വാത്മീകങ്ങളുയര്‍ന്നൂ (1973)
+🎵 [74/345] Scraping: 78504
+   ✅ Saved: വാരിധി വാനിനെ (1973)
+🎵 [75/345] Scraping: 78503
+   ✅ Saved: വേട്ടാനായ്ക്കളാല്‍ ചൂഴും (1973)
+🎵 [76/345] Scraping: 78506
+   ✅ Saved: സ്വപ്നങ്ങള്‍ നീട്ടും കുമ്പിള്‍ (1973)
+🎵 [77/345] Scraping: 13917
+   ✅ Saved: സ്വർഗ്ഗത്തിൽ വിളക്കു വെയ്ക്കും ()
+🎵 [78/345] Scraping: 10365
+   ✅ Saved: അമ്പിളി വിടരും ()
+🎵 [79/345] Scraping: 78491
+   ✅ Saved: ആനപ്പല്ല്‌ വേണോ (1973)
+🎵 [80/345] Scraping: 16971
+   ✅ Saved: എൻ ചുണ്ടിൽ രാഗനൊമ്പരം ()
+🎵 [81/345] Scraping: 16972
+   ✅ Saved: എൻ ചുണ്ടിൽ രാഗമന്ദാരം ()
+🎵 [82/345] Scraping: 12141
+   ✅ Saved: ഏഴിലം പാല പൂത്തു ()
+🎵 [83/345] Scraping: 78490
+   ✅ Saved: പൗർണ്ണമിതൻ പാലരുവി (1973)
+🎵 [84/345] Scraping: 53480
+   ✅ Saved: എ സ്മാഷ് ആൻഡ് എ ക്രാഷ് (1979)
+🎵 [85/345] Scraping: 53479
+   ✅ Saved: കപിലവസ്തുവിലെ (1973)
+🎵 [86/345] Scraping: 11638
+   ✅ Saved: ശരപഞ്ജരം പുഷ്പശരപഞ്ജരം ()
+🎵 [87/345] Scraping: 16973
+   ✅ Saved: നീയെന്റെ പ്രാർത്ഥന കേട്ടു ()
+🎵 [88/345] Scraping: mazhavillin-ajnjaathavaasam
+   ✅ Saved: മഴവില്ലിൻ അജ്ഞാതവാസം ()
+🎵 [89/345] Scraping: 16976
+   ✅ Saved: സ്വർഗ്ഗത്തിലല്ലോ വിവാഹം ()
+🎵 [90/345] Scraping: 16975
+   ✅ Saved: സൗന്ദര്യപൂജയ്ക്ക് പൂക്കൂടയേന്തുന്ന ()
+🎵 [91/345] Scraping: 8306
+   ✅ Saved: ഓർമ്മകൾതൻ താമരമലരുകൾ ()
+🎵 [92/345] Scraping: 8304
+   ✅ Saved: കാലമൊരജ്ഞാത കാമുകൻ ()
+🎵 [93/345] Scraping: 16977
+   ✅ Saved: ചിത്രശാല ഞാൻ ()
+🎵 [94/345] Scraping: 8305
+   ✅ Saved: മകരസംക്രമ സന്ധ്യയിൽ ()
+🎵 [95/345] Scraping: rakkuyilin-rajasadhasil
+   ✅ Saved: രാക്കുയിലിൻ രാജസദസ്സിൽ (1986)
+🎵 [96/345] Scraping: 10315
+   ✅ Saved: രാജ്യം പോയൊരു രാജകുമാരൻ ()
+🎵 [97/345] Scraping: roopavathi-nin
+   ✅ Saved: രൂപവതീ നിൻ ()
+🎵 [98/345] Scraping: 17052
+   ✅ Saved: ഉഷസ്സിന്റെ രഥത്തിൽ ()
+🎵 [99/345] Scraping: kaattin-karavaal
+   ✅ Saved: കാറ്റിൻ കരവാൾ ()
+🎵 [100/345] Scraping: 17063
+   ✅ Saved: കുന്നിമണിക്കുഞ്ഞേ നിന്റെ ()
+🎵 [101/345] Scraping: pandoru-mukkuvan-0
+   ✅ Saved: പണ്ടൊരു മുക്കുവൻ (1974)
+🎵 [102/345] Scraping: 12178
+   ✅ Saved: തങ്കത്തളികയിൽ പൊങ്കലുമായ് വന്ന ()
+🎵 [103/345] Scraping: thirakal
+   ✅ Saved: തിരകൾ തിരകൾ ()
+🎵 [104/345] Scraping: 8349
+   ✅ Saved: തൃത്താപ്പൂവുകളിലക്കുറി ചാര്‍ത്തും ()
+🎵 [105/345] Scraping: 10112
+   ✅ Saved: പത്മതീർത്ഥമേ ഉണരൂ ()
+🎵 [106/345] Scraping: 8353
+   ✅ Saved: ശ്രീ വല്ലഭ ശ്രീവത്സാങ്കിത ()
+🎵 [107/345] Scraping: 9751
+   ✅ Saved: അമ്മേ അമ്മേ അവിടുത്തെ മുൻപിൽ ()
+🎵 [108/345] Scraping: 55317
+   ✅ Saved: ഓശാകളി മുട്ടിനുതാളം (1973)
+🎵 [109/345] Scraping: 9753
+   ✅ Saved: ഗോകുലാഷ്ടമി നാൾ ()
+🎵 [110/345] Scraping: 9752
+   ✅ Saved: ചായം കറുത്ത ചായം ()
+🎵 [111/345] Scraping: 55316
+   ✅ Saved: മാരിയമ്മാ തായേ (1973)
+🎵 [112/345] Scraping: 9754
+   ✅ Saved: ശ്രീവത്സം മാറിൽ ചാർത്തിയ ()
+🎵 [113/345] Scraping: oh-ammini
+   ✅ Saved: ഓ അമ്മിണി ()
+🎵 [114/345] Scraping: 16956
+   ✅ Saved: വൃന്ദാവനത്തിലെ കണ്ണാ ()
+🎵 [115/345] Scraping: 7132
+   ✅ Saved: ഇഷ്ടപ്രാണേശ്വരീ ()
+🎵 [116/345] Scraping: 9764
+   ✅ Saved: കാദംബരീ പുഷ്പസരസ്സിൽ ()
+🎵 [117/345] Scraping: 9765
+   ✅ Saved: യരുശലേമിലെ സ്വര്‍ഗ്ഗദൂതാ ()
+🎵 [118/345] Scraping: 9767
+   ✅ Saved: വെള്ളിക്കുരിശ് വലംകൈയ്യിലുയര്‍ത്തും ()
+🎵 [119/345] Scraping: 8421
+   ✅ Saved: വെൺചന്ദ്രലേഖയൊരപ്സര സ്ത്രീ ()
+🎵 [120/345] Scraping: 9766
+   ✅ Saved: സംക്രമവിഷുപ്പക്ഷീ ()
+🎵 [121/345] Scraping: 16958
+   ✅ Saved: അക്കൽദാമയിൽ പാപം പേറിയ ()
+🎵 [122/345] Scraping: 16960
+   ✅ Saved: ഒരു ചില്ലിക്കാശുമെനിക്ക് ()
+🎵 [123/345] Scraping: 61077
+   ✅ Saved: കണ്ട് രണ്ട് കണ്ണ് (1973)
+🎵 [124/345] Scraping: 16959
+   ✅ Saved: കാട്ടിലെ മന്ത്രീ ()
+🎵 [125/345] Scraping: 16961
+   ✅ Saved: മധുരമധുരമീ മധുപാനം ()
+🎵 [126/345] Scraping: 12443
+   ✅ Saved: ഹൃദയത്തിൽ നിറയുന്ന ()
+🎵 [127/345] Scraping: 8430
+   ✅ Saved: അക്കരെയക്കരെ ()
+🎵 [128/345] Scraping: 8434
+   ✅ Saved: ചാരുമുഖിയുഷ മന്ദം ()
+🎵 [129/345] Scraping: 8432
+   ✅ Saved: താളത്തിൽ താളത്തിൽ (1973)
+🎵 [130/345] Scraping: 8427
+   ✅ Saved: നൃത്യതി നൃത്യതി ()
+🎵 [131/345] Scraping: 8433
+   ✅ Saved: പഞ്ചമിത്തിരുനാൾ ()
+🎵 [132/345] Scraping: 8429
+   ✅ Saved: സുന്ദരിമാര്‍കുല മൌലികളേ ()
+🎵 [133/345] Scraping: 13867
+   ✅ Saved: എന്റെ മുന്തിരിച്ചാറിനോ ()
+🎵 [134/345] Scraping: 16969
+   ✅ Saved: ഗാഗുൽത്താമലകളേ (1973)
+🎵 [135/345] Scraping: 80484
+   ✅ Saved: യഹൂദിയാ ഇത് യഹൂദിയാ (1973)
+🎵 [136/345] Scraping: 80489
+   ✅ Saved: രാജാവിന്‍ രാജാവെഴുന്നള്ളുന്നു (1973)
+🎵 [137/345] Scraping: 16968
+   ✅ Saved: ഹോശാനാ ഹോശാനാ (1973)
+🎵 [138/345] Scraping: 8509
+   ✅ Saved: ഇവൻ വിസ്കി (1973)
+🎵 [139/345] Scraping: 8474
+   ✅ Saved: എന്തൂട്ടാണീ പ്രേമമെന്നു ()
+🎵 [140/345] Scraping: 78453
+   ✅ Saved: ഓരോ തുള്ളിച്ചോരയിൽ നിന്നും (1973)
+🎵 [141/345] Scraping: 8473
+   ✅ Saved: ഗുരുകുലം വളർത്തിയ ()
+🎵 [142/345] Scraping: 8471
+   ✅ Saved: നന്ത്യാർവട്ടപ്പൂ ചൂടി ()
+🎵 [143/345] Scraping: 8472
+   ✅ Saved: വിഗ്രഹ ഭഞ്ജകരേ ()
+🎵 [144/345] Scraping: ambalamettile
+   ✅ Saved: അമ്പലമേട്ടിലെ ()
+🎵 [145/345] Scraping: 78511
+   ✅ Saved: ഏറ്റുപാടാന്‍ മാത്രമായൊരു (1973)
+🎵 [146/345] Scraping: 10839
+   ✅ Saved: തലയ്ക്കു മുകളിൽ വെൺകൊറ്റക്കുട ()
+🎵 [147/345] Scraping: thaazhvara-charthiya
+   ✅ Saved: താഴ്വര ചാർത്തിയ ()
+🎵 [148/345] Scraping: 10841
+   ✅ Saved: സ്വർണ്ണം ചിരിക്കുന്നു ()
+🎵 [149/345] Scraping: 13872
+   ✅ Saved: എൻ നോട്ടം കാണാൻ ()
+🎵 [150/345] Scraping: 13876
+   ✅ Saved: ഓർക്കുമ്പോൾ ചൊല്ലാൻ നാണം ()
+🎵 [151/345] Scraping: chiyyam-chiyyam-chindhiyam
+   ✅ Saved: ചിയ്യാം ചിയ്യാം ചിന്ധിയാം ()
+🎵 [152/345] Scraping: 13874
+   ✅ Saved: നീലമേഘങ്ങൾ നീന്താനിറങ്ങിയ ()
+🎵 [153/345] Scraping: 9551
+   ✅ Saved: പ്രിയമുള്ളവളേ നിനക്കു വേണ്ടി ()
+🎵 [154/345] Scraping: 17014
+   ✅ Saved: യരൂശലേമിന്റെ നന്ദിനി ()
+🎵 [155/345] Scraping: 13878
+   ✅ Saved: വരില്ലെന്നു ചൊല്ലുന്നു വേദന ()
+🎵 [156/345] Scraping: kudikkoo-kudikkoo
+   ✅ Saved: കുടിക്കൂ കുടിക്കൂ (1973)
+🎵 [157/345] Scraping: devikulam-malayil
+   ✅ Saved: ദേവികുളം മലയിൽ (1973)
+🎵 [158/345] Scraping: naayattukaarude
+   ✅ Saved: നായാട്ടുകാരുടെ കൂടാരത്തിൽ (1973)
+🎵 [159/345] Scraping: 8507
+   ✅ Saved: പ്രണയകലാവല്ലഭാ വല്ലഭാ (1973)
+🎵 [160/345] Scraping: parvatha-nandinee
+   ✅ Saved: പർവതനന്ദിനി (1973)
+🎵 [161/345] Scraping: 8506
+   ✅ Saved: മൃഗം മൃഗം (1973)
+🎵 [162/345] Scraping: 8503
+   ✅ Saved: റ്റാ റ്റാ താഴ്വരകളേ (1973)
+🎵 [163/345] Scraping: ave-maria
+   ✅ Saved: ആവേ മരിയ ()
+🎵 [164/345] Scraping: upasana
+   ✅ Saved: ഉപാസന ഉപാസന ()
+🎵 [165/345] Scraping: gothambu-vayalukal
+   ✅ Saved: ഗോതമ്പു വയലുകൾ ()
+🎵 [166/345] Scraping: chembakamo-chandanamo
+   ✅ Saved: ചെമ്പകമോ ചന്ദനമോ ()
+🎵 [167/345] Scraping: 11634
+   ✅ Saved: പിതാവേ പിതാവേ ()
+🎵 [168/345] Scraping: veene-veene-veenappenne
+   ✅ Saved: വീണേ വീണേ വീണപ്പെണ്ണേ ()
+🎵 [169/345] Scraping: ambalavilakkukalananju
+   ✅ Saved: അമ്പലവിളക്കുകളണഞ്ഞൂ ()
+🎵 [170/345] Scraping: 7167
+   ✅ Saved: ആകാശരൂപിണി അന്നപൂർണ്ണേശ്വരീ ()
+🎵 [171/345] Scraping: 78498
+   ✅ Saved: ഉടലതിരമ്യമൊരുത്തനു ()
+🎵 [172/345] Scraping: 12229
+   ✅ Saved: ഉദിച്ചാൽ അസ്തമിക്കും ()
+🎵 [173/345] Scraping: karpooradeepathin
+   ✅ Saved: കർപ്പൂരദീപത്തിൻ കാന്തിയിൽ ()
+🎵 [174/345] Scraping: 16962
+   ✅ Saved: ത്രിപുരസുന്ദരീ ()
+🎵 [175/345] Scraping: 12248
+   ✅ Saved: സ്വർണ്ണഗോപുര നർത്തകീ ()
+🎵 [176/345] Scraping: orikkal-mathram
+   ✅ Saved: ഒരിക്കൽ മാത്രം വിളികേള്‍ക്കുമോ ()
+🎵 [177/345] Scraping: oru-chumbanam
+   ✅ Saved: ഒരു ചുംബനം ()
+🎵 [178/345] Scraping: odakkuzhal-vili-melam
+   ✅ Saved: ഓടക്കുഴൽ വിളി മേളം ()
+🎵 [179/345] Scraping: chaithrayamini
+   ✅ Saved: ചൈത്രയാമിനീ ചന്ദ്രികയാൽ ()
+🎵 [180/345] Scraping: innaleyolamenthennarinjeela
+   ✅ Saved: ഇന്നലെയോളവുമെന്തെന്നറിഞ്ഞീലാ ()
+🎵 [181/345] Scraping: thiruvanchiyooro
+   ✅ Saved: തിരുവഞ്ചിയൂരോ ()
+🎵 [182/345] Scraping: 8562
+   ✅ Saved: പേരാറ്റിൻ കരയിലേക്കൊരു ()
+🎵 [183/345] Scraping: veluppo-kadumchuvappo
+   ✅ Saved: വെളുപ്പോ കടുംചുവപ്പോ ()
+🎵 [184/345] Scraping: 8572
+   ✅ Saved: കാമുകഹൃത്തിൽ കവിത ()
+🎵 [185/345] Scraping: 8567
+   ✅ Saved: തൃച്ചേവടികളിൽ ()
+🎵 [186/345] Scraping: 8571
+   ✅ Saved: ദുഃഖത്തിൻ കയ്പുനീർ ()
+🎵 [187/345] Scraping: prananadhayenikku
+   ✅ Saved: പ്രാണനാഥയെനിക്കു നൽകിയ ()
+🎵 [188/345] Scraping: mangalamkavile
+   ✅ Saved: മംഗലാം കാവിലെ മായാഗൗരിക്ക് ()
+🎵 [189/345] Scraping: sankalpamandapathil
+   ✅ Saved: സങ്കല്പ മണ്ഡപത്തിൽ ()
+🎵 [190/345] Scraping: 8569
+   ✅ Saved: സ്മരിക്കാൻ പഠിപ്പിച്ച മനസ്സേ ()
+🎵 [191/345] Scraping: 7180
+   ✅ Saved: കൃഷ്ണപക്ഷക്കിളി ചിലച്ചൂ ()
+🎵 [192/345] Scraping: 16983
+   ✅ Saved: ഗന്ധർവ നഗരങ്ങൾ ()
+🎵 [193/345] Scraping: 8575
+   ✅ Saved: നക്ഷത്രങ്ങളേ സാക്ഷി ()
+🎵 [194/345] Scraping: 8573
+   ✅ Saved: പുഷ്പമംഗലയാം ഭൂമിക്കു ()
+🎵 [195/345] Scraping: 8574
+   ✅ Saved: മാതാവേ മാതാവേ ()
+🎵 [196/345] Scraping: 51199
+   ✅ Saved: പനിമതി മുഖി ബാലേ (1973)
+🎵 [197/345] Scraping: 51200
+   ✅ Saved: മുണ്ടകപ്പാടത്തെ കൊയ്ത്തും (1973)
+🎵 [198/345] Scraping: 16984
+   ✅ Saved: ശ്രീ മഹാദേവൻ തന്റെ (1973)
+🎵 [199/345] Scraping: 16987
+   ✅ Saved: സമയമായീ സമയമായീ ()
+🎵 [200/345] Scraping: 10842
+   ✅ Saved: കരകവിയും കിങ്ങിണിയാറ് ()
+🎵 [201/345] Scraping: thamara-motte
+   ✅ Saved: താമരമൊട്ടേ ()
+🎵 [202/345] Scraping: deva-divya-darsanam
+   ✅ Saved: ദേവാ ദിവ്യദര്‍ശനം നല്‍കൂ (1973)
+🎵 [203/345] Scraping: pachanottukal
+   ✅ Saved: പച്ചനോട്ടുകൾ തിളങ്ങുന്നു ()
+🎵 [204/345] Scraping: 10874
+   ✅ Saved: പണ്ടു പണ്ടൊരു സന്ന്യാസി ()
+🎵 [205/345] Scraping: paribhavichodunna
+   ✅ Saved: പരിഭവിച്ചോടുന്ന പവിഴക്കൊടി ()
+🎵 [206/345] Scraping: 10332
+   ✅ Saved: ചിരിക്കൂ ചിരിക്കൂ ചിത്രവർണ്ണപ്പൂവേ ()
+🎵 [207/345] Scraping: 10597
+   ✅ Saved: തിരമാലകളുടെ ഗാനം ()
+🎵 [208/345] Scraping: 10719
+   ✅ Saved: നക്ഷത്രമണ്ഡല നട തുറന്നു ()
+🎵 [209/345] Scraping: 10736
+   ✅ Saved: പൂവണിപ്പൊന്നും ചിങ്ങം ()
+🎵 [210/345] Scraping: 10730
+   ✅ Saved: മനസ്സിനകത്തൊരു പാലാഴി ()
+🎵 [211/345] Scraping: 38908
+   ✅ Saved: മന്മഥനാം കാമുകാ നായകാ (1973)
+🎵 [212/345] Scraping: 17000
+   ✅ Saved: സൂര്യനും ചന്ദ്രനും പണ്ടൊരു കാലം ()
+🎵 [213/345] Scraping: 11532
+   ✅ Saved: അണിയം മണിയം ()
+🎵 [214/345] Scraping: 11734
+   ✅ Saved: കണ്ണുനീർത്തുള്ളിയെ ()
+🎵 [215/345] Scraping: 11533
+   ✅ Saved: കാറ്റുമൊഴുക്കും കിഴക്കോട്ട് ()
+🎵 [216/345] Scraping: 11733
+   ✅ Saved: നീലഗിരിയുടെ സഖികളേ (1973)
+🎵 [217/345] Scraping: 11534
+   ✅ Saved: മാറിൽ സ്യമന്തകരത്നം ()
+🎵 [218/345] Scraping: 11535
+   ✅ Saved: വാ മമ്മീ വാ മമ്മീ ()
+🎵 [219/345] Scraping: 10806
+   ✅ Saved: ആദാമിന്റെ സന്തതികൾ ()
+🎵 [220/345] Scraping: 10808
+   ✅ Saved: ആറ്റുമ്മണമ്മേലെ ഉണ്ണിയാർച്ച ()
+🎵 [221/345] Scraping: 12223
+   ✅ Saved: കുയിലിന്റെ മണിനാദം കേട്ടു ()
+🎵 [222/345] Scraping: 10805
+   ✅ Saved: നക്ഷത്രക്കണ്ണുള്ള സുന്ദരിപ്പെണ്ണേ ()
+🎵 [223/345] Scraping: 16999
+   ✅ Saved: പഞ്ചവടിയിലെ വിജയശ്രീയോ ()
+🎵 [224/345] Scraping: 10609
+   ✅ Saved: പാലരുവീ കരയിൽ ()
+🎵 [225/345] Scraping: 10807
+   ✅ Saved: സിന്ദൂരകിരണമായ് ()
+🎵 [226/345] Scraping: 16989
+   ✅ Saved: ആലുണ്ടെലയുണ്ടെലയുണ്ടെലഞ്ഞിയുണ്ട് ()
+🎵 [227/345] Scraping: 16993
+   ✅ Saved: ഒന്നാം പൊന്നോണപ്പൂപ്പട ()
+🎵 [228/345] Scraping: 16990
+   ✅ Saved: കുഞ്ഞല്ലേ പിഞ്ചുകുഞ്ഞല്ലേ ()
+🎵 [229/345] Scraping: thuramukhame
+   ✅ Saved: തുറമുഖമേ ()
+🎵 [230/345] Scraping: 16988
+   ✅ Saved: പാവങ്ങൾ പെണ്ണുങ്ങൾ ()
+🎵 [231/345] Scraping: 16992
+   ✅ Saved: പോകൂ മരണമേ പോകൂ ()
+🎵 [232/345] Scraping: 16994
+   ✅ Saved: പ്രതിമകൾ പ്രതിമകൾ ()
+🎵 [233/345] Scraping: 16996
+   ✅ Saved: സ്വർണ്ണഖനികളുടെ ()
+🎵 [234/345] Scraping: swarnavarnathattamitta
+   ✅ Saved: സ്വർണ്ണവർണ്ണത്തട്ടമിട്ട സുന്ദരിപ്പെണ്ണേ ()
+🎵 [235/345] Scraping: anthivilakku-prakasham
+   ✅ Saved: അന്തിവിളക്ക് പ്രകാശം ()
+🎵 [236/345] Scraping: jeevitham-oru-gaanam
+   ✅ Saved: ജീവിതമൊരു ഗാനം (1973)
+🎵 [237/345] Scraping: periyaare
+   ✅ Saved: പെരിയാറേ പെരിയാറേ ()
+🎵 [238/345] Scraping: bindu-bindu
+   ✅ Saved: ബിന്ദു ബിന്ദു ()
+🎵 [239/345] Scraping: 17002
+   ✅ Saved: മറക്കാനും പിരിയാനും ()
+🎵 [240/345] Scraping: 8669
+   ✅ Saved: ആദിപരാശക്തി അമൃതവർഷിണി ()
+🎵 [241/345] Scraping: 8667
+   ✅ Saved: ചാമുണ്ഡേശ്വരീ രക്തേശ്വരീ ()
+🎵 [242/345] Scraping: nalacharithathile
+   ✅ Saved: നളചരിതത്തിലെ നായകനോ ()
+🎵 [243/345] Scraping: 8670
+   ✅ Saved: മന്ത്രമോതിരം മായമോതിരം ()
+🎵 [244/345] Scraping: 17006
+   ✅ Saved: രൂപവതീ രുചിരാംഗീ ()
+🎵 [245/345] Scraping: 8666
+   ✅ Saved: വയനാടൻ കേളൂന്റെ പൊന്നും കോട്ട ()
+🎵 [246/345] Scraping: 8671
+   ✅ Saved: വള്ളിയൂർക്കാവിലെ കന്നിക്ക് ()
+🎵 [247/345] Scraping: 13882
+   ✅ Saved: അഭിനവജീവിത നാടകത്തിൽ ()
+🎵 [248/345] Scraping: aayiram-pookkal
+   ✅ Saved: ആയിരം പൂക്കൾ വിരിയട്ടെ ()
+🎵 [249/345] Scraping: ellam-kaanunnoramme
+   ✅ Saved: എല്ലാം കാണുന്നോരമ്മേ ()
+🎵 [250/345] Scraping: 13890
+   ✅ Saved: ചുണ്ടത്തെ പുഞ്ചിരി ()
+🎵 [251/345] Scraping: 13884
+   ✅ Saved: മന്മഥമന്ദിരത്തിൽ പൂജ ()
+🎵 [252/345] Scraping: 65364
+   ✅ Saved: ആരോടും മിണ്ടാത്ത ഭാവം (1973)
+🎵 [253/345] Scraping: 65365
+   ✅ Saved: കാരിരുമ്പാണി പഴുതുള്ള (1973)
+🎵 [254/345] Scraping: 8683
+   ✅ Saved: ആതിരേ തിരുവാതിരേ ()
+🎵 [255/345] Scraping: 8682
+   ✅ Saved: കല്ലോലിനിയുടെ കരയിൽ ()
+🎵 [256/345] Scraping: malayalabhashathan
+   ✅ Saved: മലയാളഭാഷ തൻ ()
+🎵 [257/345] Scraping: muthu-mehboobe
+   ✅ Saved: മുത്തു മെഹബൂബെ ()
+🎵 [258/345] Scraping: 8684
+   ✅ Saved: രാഗതരംഗിണി നീയണയുമ്പോൾ ()
+🎵 [259/345] Scraping: 8681
+   ✅ Saved: സുപ്രഭാതമായി സുമകന്യകേ ()
+🎵 [260/345] Scraping: 11069
+   ✅ Saved: കൈകൊട്ടിക്കളി തുടങ്ങീ ()
+🎵 [261/345] Scraping: 11068
+   ✅ Saved: ഗോപീചന്ദനക്കുറിയണിഞ്ഞു ()
+🎵 [262/345] Scraping: 11070
+   ✅ Saved: പതിനേഴോ പതിനെട്ടോ ()
+🎵 [263/345] Scraping: 16965
+   ✅ Saved: മദ്ധ്യാഹ്നവേളയിൽ മയങ്ങാൻ ()
+🎵 [264/345] Scraping: 11067
+   ✅ Saved: സത്യദേവനു മരണമുണ്ടോ ()
+🎵 [265/345] Scraping: 9811
+   ✅ Saved: കണ്ണുകൾ കരിങ്കൂവളപ്പൂക്കൾ ()
+🎵 [266/345] Scraping: 9810
+   ✅ Saved: കാളിന്ദി തടത്തിലെ രാധ ()
+🎵 [267/345] Scraping: 11616
+   ✅ Saved: ദീപാരാധന നട തുറന്നൂ ()
+🎵 [268/345] Scraping: 16955
+   ✅ Saved: മന്ദാരമണമുള്ള കാറ്റേ ()
+🎵 [269/345] Scraping: 11628
+   ✅ Saved: വജ്രകുണ്ഡലം ()
+🎵 [270/345] Scraping: 13894
+   ✅ Saved: അടുത്ത ലോട്ടറി നറുക്കു വല്ലതും (1973)
+🎵 [271/345] Scraping: 12441
+   ✅ Saved: അമ്മുവിനിന്നൊരു സമ്മാനം ()
+🎵 [272/345] Scraping: 13896
+   ✅ Saved: എല്ലാമറിഞ്ഞവൻ നീ മാത്രം ()
+🎵 [273/345] Scraping: 13892
+   ✅ Saved: കല്പനാരാമത്തിൽ കണിക്കൊന്ന ()
+🎵 [274/345] Scraping: 12442
+   ✅ Saved: കൃഷ്ണ ദയാമയ ()
+🎵 [275/345] Scraping: amme-kadalamme
+   ✅ Saved: അമ്മേ കടലമ്മേ ()
+🎵 [276/345] Scraping: kadalinu-pathinezhu-vayassayi
+   ✅ Saved: കടലിനു പതിനേഴു വയസ്സായി ()
+🎵 [277/345] Scraping: swargasagarathil-ninnu
+   ✅ Saved: സ്വർഗ്ഗസാഗരത്തിൽ നിന്നു ()
+🎵 [278/345] Scraping: 8718
+   ✅ Saved: കല്ലായിപ്പുഴയൊരു മണവാട്ടി ()
+🎵 [279/345] Scraping: pathinaalaam-raavudichathu
+   ✅ Saved: പതിനാലാം രാവുദിച്ചത് ()
+🎵 [280/345] Scraping: 8719
+   ✅ Saved: മാരിമലർ ചൊരിയുന്ന ()
+🎵 [281/345] Scraping: 12247
+   ✅ Saved: മൊഞ്ചത്തിപ്പെണ്ണെ നിൻ ചുണ്ട് ()
+🎵 [282/345] Scraping: anasuye-priyamvade
+   ✅ Saved: അനസൂയേ പ്രിയംവദേ ()
+🎵 [283/345] Scraping: 8727
+   ✅ Saved: പ്രളയപയോധിയിൽ ()
+🎵 [284/345] Scraping: 8728
+   ✅ Saved: മണിനാഗതിരുനാഗ യക്ഷിയമ്മേ ()
+🎵 [285/345] Scraping: vaikkathappanum-sivarathri
+   ✅ Saved: വൈക്കത്തപ്പനും ശിവരാത്രി ()
+🎵 [286/345] Scraping: chirakulla-kilikalkke
+   ✅ Saved: ചിറകുള്ള കിളികൾക്കേ ()
+🎵 [287/345] Scraping: maanathu-kannikal
+   ✅ Saved: മാനത്തുകണ്ണികൾ ()
+🎵 [288/345] Scraping: maaveli-naadu-vaaneedum
+   ✅ Saved: മാവേലി നാടു വാണീടും ()
+🎵 [289/345] Scraping: 8742
+   ✅ Saved: വീരവിരാട കുമാരവിഭോ ()
+🎵 [290/345] Scraping: sreemamgalyathaali-chaarthiya
+   ✅ Saved: ശ്രീമംഗല്യത്താലി ചാർത്തിയ ()
+🎵 [291/345] Scraping: 11630
+   ✅ Saved: അയലത്തെ ചിന്നമ്മ ()
+🎵 [292/345] Scraping: 11629
+   ✅ Saved: പുരുഷഗന്ധം ()
+🎵 [293/345] Scraping: 16997
+   ✅ Saved: സിന്ദാബാദ് സിന്ദാബാദ് വയസ്സൻസ് ക്ലബ് ()
+🎵 [294/345] Scraping: 16998
+   ✅ Saved: സ്വർണ്ണമുരുക്കിയൊഴിച്ച പോലെ ()
+🎵 [295/345] Scraping: 17016
+   ✅ Saved: പുഞ്ചിരിപ്പൂവുമായ് പഞ്ചമി ചന്ദ്രിക ()
+🎵 [296/345] Scraping: 17018
+   ✅ Saved: മനുഷ്യനു ദൈവം ()
+🎵 [297/345] Scraping: 17017
+   ✅ Saved: രത്നരാഗമുണർന്ന നിൻ കവിളിൽ ()
+🎵 [298/345] Scraping: 17027
+   ✅ Saved: ശലഭമേ വരൂ ()
+🎵 [299/345] Scraping: swayamvarakanyake
+   ✅ Saved: സ്വയംവരകന്യകേ ()
+🎵 [300/345] Scraping: 13902
+   ✅ Saved: ഇന്നത്തെ മോഹനസ്വപ്നങ്ങളേ ()
+🎵 [301/345] Scraping: oro-hridayaspandanam-thannilum
+   ✅ Saved: ഓരോ ഹൃദയസ്പന്ദനം തന്നിലും ()
+🎵 [302/345] Scraping: vaarunippenninu-mukham-karuthu
+   ✅ Saved: വാരുണിപ്പെണ്ണിനു മുഖം കറുത്തൂ ()
+🎵 [303/345] Scraping: shyamasundari-rajani
+   ✅ Saved: ശ്യാമസുന്ദരീ രജനീ ()
+🎵 [304/345] Scraping: 17011
+   ✅ Saved: ആകാശഗംഗയിൽ ഞാനൊരിക്കൽ ()
+🎵 [305/345] Scraping: adithyananayum
+   ✅ Saved: ആദിത്യനണയും അമ്പിളി കരിയും ()
+🎵 [306/345] Scraping: 17010
+   ✅ Saved: മനോഹരീ മനോഹരീ ()
+🎵 [307/345] Scraping: 17007
+   ✅ Saved: സ്നേഹസ്വരൂപനാം എൻ ജീവനായകാ ()
+🎵 [308/345] Scraping: 10906
+   ✅ Saved: കാട്ടരുവി ചിലങ്ക കെട്ടി ()
+🎵 [309/345] Scraping: 10905
+   ✅ Saved: ചിത്രവർണ്ണക്കൊടികളുയർത്തി ()
+🎵 [310/345] Scraping: jeevitheswarikkekuvanoru
+   ✅ Saved: ജീവിതേശ്വരിക്കേകുവാനൊരു ()
+🎵 [311/345] Scraping: priyathame-nee
+   ✅ Saved: പ്രിയതമേ നീ പ്രേമാമൃതം ()
+🎵 [312/345] Scraping: maanasaveenayil
+   ✅ Saved: മാനസവീണയിൽ മദനൻ ()
+🎵 [313/345] Scraping: muthuchippi-thurannu
+   ✅ Saved: മുത്തുച്ചിപ്പി തുറന്നു ()
+🎵 [314/345] Scraping: aramanayavanika-uyarumbol
+   ✅ Saved: അരമനയവനിക ഉയരുമ്പോൾ (1973)
+🎵 [315/345] Scraping: alolaneela-vilochanangal
+   ✅ Saved: ആലോലനീലവിലോചനങ്ങൾ ()
+🎵 [316/345] Scraping: oonjaala-d
+   ✅ Saved: ഊഞ്ഞാലാ ഊഞ്ഞാല (D) ()
+🎵 [317/345] Scraping: oonjaala
+   ✅ Saved: ഊഞ്ഞാലാ ഊഞ്ഞാലാ (1973)
+🎵 [318/345] Scraping: oonjaala-0
+   ✅ Saved: ഊഞ്ഞാലാ ഊഞ്ഞാലാ (1973)
+🎵 [319/345] Scraping: 13695
+   ✅ Saved: എന്റെ വീടിനു ചുമരുകളില്ലാ ()
+🎵 [320/345] Scraping: 13699
+   ✅ Saved: കുമുദിനികൾ കളഭം പൂശി ()
+🎵 [321/345] Scraping: 13691
+   ✅ Saved: നളിനമുഖി നളിനമുഖി ()
+🎵 [322/345] Scraping: 3799
+   ✅ Saved: ആറാട്ടിനാനകൾ എഴുന്നെള്ളി (1973)
+🎵 [323/345] Scraping: 17012
+   ✅ Saved: ഈരേഴുലകവും നിറഞ്ഞിരിക്കും (1973)
+🎵 [324/345] Scraping: chandhanathil
+   ✅ Saved: ചന്ദനത്തിൽ കടഞ്ഞെടുത്ത (1973)
+🎵 [325/345] Scraping: 10688
+   ✅ Saved: താരകരൂപിണീ (1973)
+🎵 [326/345] Scraping: 11921
+   ✅ Saved: പൊന്നിൻ ചിങ്ങത്തേരുവന്നൂ (1973)
+🎵 [327/345] Scraping: ponnum-thenum
+   ✅ Saved: പൊന്നും തേനും (1973)
+🎵 [328/345] Scraping: 9838
+   ✅ Saved: നീ വരു കാവ്യദേവതേ ()
+🎵 [329/345] Scraping: 9837
+   ✅ Saved: മഴവിൽക്കൊടികാവടി ()
+🎵 [330/345] Scraping: 9836
+   ✅ Saved: മാതളപ്പൂപോലൊരു ()
+🎵 [331/345] Scraping: 9834
+   ✅ Saved: മാനേ മാനേ വിളികേൾക്കൂ ()
+🎵 [332/345] Scraping: sourayoodhathil
+   ✅ Saved: സൗരയൂഥത്തിൽ വിടർന്നോരു ()
+🎵 [333/345] Scraping: 11322
+   ✅ Saved: ആകാശത്താമര പ്രാണനിൽ ചൂടി ()
+🎵 [334/345] Scraping: 9048
+   ✅ Saved: കാക്കേ കാക്കേ കൂടെവിടെ ()
+🎵 [335/345] Scraping: 9050
+   ✅ Saved: ദൈവപുത്രാ നിന്‍ കാല്‍തളിരില്‍ ()
+🎵 [336/345] Scraping: 9047
+   ✅ Saved: മണിനാദം മണിനാദം ()
+🎵 [337/345] Scraping: swapnam-vilambiya-swargaputhri
+   ✅ Saved: സ്വപ്നം വിളമ്പിയ സ്വർഗ്ഗപുത്രി ()
+🎵 [338/345] Scraping: swarnamukhee-nin
+   ✅ Saved: സ്വർണ്ണമുഖീ നിൻ സ്വപ്നസദസ്സിൽ ()
+🎵 [339/345] Scraping: 17013
+   ✅ Saved: ആനന്ദസങ്കീർത്തന ലഹരിയിൽ ()
+🎵 [340/345] Scraping: 17024
+   ✅ Saved: മന്ദാരവനിയിൽ മന്ദഹസിക്കും ()
+🎵 [341/345] Scraping: 17029
+   ✅ Saved: അമ്പലക്കുന്നിലെ പെണ്ണൊരുത്തി ()
+🎵 [342/345] Scraping: 11095
+   ✅ Saved: അസ്തമയചക്രവാളം ()
+🎵 [343/345] Scraping: aapaadachoodam-panineeru
+   ✅ Saved: ആപാദചൂഡം പനിനീര് ()
+🎵 [344/345] Scraping: 78521
+   ✅ Saved: കാർത്തികത്തിരുനാൾ (1973)
+🎵 [345/345] Scraping: 65377
+   ✅ Saved: ഹൃദയം മായാമധുപാത്രം (1973)
+Year complete: success=345, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 18675
