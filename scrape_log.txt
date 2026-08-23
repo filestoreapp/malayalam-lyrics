@@ -22947,3 +22947,814 @@ Year complete: success=334, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 9145
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1998
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1998
+   Page 1: https://m3db.com/archive/lyrics/year/1998
+   Found 399 songs on this page. Total unique so far: 399
+Total songs to scrape for this year: 399
+🎵 [1/399] Scraping: 103668
+   ✅ Saved: ചെപ്പു കിലുക്കി നടക്കണ (1998)
+🎵 [2/399] Scraping: 103667
+   ✅ Saved: ചെറവരമ്പില് ചിരി (1998)
+🎵 [3/399] Scraping: 103672
+   ✅ Saved: ജന്മങ്ങളേ തേങ്ങുന്നുവോ (1998)
+🎵 [4/399] Scraping: 103669
+   ✅ Saved: ഞാൻ കേൾക്കുന്നു (D) (1998)
+🎵 [5/399] Scraping: 103666
+   ✅ Saved: ഞാൻ കേൾക്കുന്നു - F (1998)
+🎵 [6/399] Scraping: 103671
+   ✅ Saved: ദൈവഹിതം പോലെ (1998)
+🎵 [7/399] Scraping: 103670
+   ✅ Saved: മനസിന്റെ മൈനേ നീ - D (1998)
+🎵 [8/399] Scraping: 103665
+   ✅ Saved: മനസിന്റെ മൈനേ നീ - M (1998)
+🎵 [9/399] Scraping: 33830
+   ✅ Saved: ചിരിച്ചെന്‍റെ മനസ്സിലെ - D (1998)
+🎵 [10/399] Scraping: 104172
+   ✅ Saved: ചിരിച്ചെന്‍റെ മനസ്സിലെ - M (1998)
+🎵 [11/399] Scraping: 33831
+   ✅ Saved: തേൻചൊടി പൂവേ (1998)
+🎵 [12/399] Scraping: 33828
+   ✅ Saved: പൊന്നും തിങ്കള്‍ താരാട്ടും (1998)
+🎵 [13/399] Scraping: ponvaanam-ee-kaikalil
+   ✅ Saved: പൊൻവാനം ഈ കൈകളിൽ ()
+🎵 [14/399] Scraping: 104174
+   ✅ Saved: പൊൻവാനം ഈ കൈകളിൽ (1998)
+🎵 [15/399] Scraping: 33829
+   ✅ Saved: മോഹത്തിന്‍ മുത്തെടുത്തു (1998)
+🎵 [16/399] Scraping: 87691
+   ✅ Saved: അമ്മായി അമ്മായി (1998)
+🎵 [17/399] Scraping: 87668
+   ✅ Saved: ആദ്യത്തെ കുട്ടുമോൻ ആണായിരിക്കണം (1998)
+🎵 [18/399] Scraping: chithrapponniinjalil
+   ✅ Saved: ചിത്രപ്പൊന്നൂഞ്ഞാലിൽ (1998)
+🎵 [19/399] Scraping: thankanilavin
+   ✅ Saved: തങ്കനിലാവിൻ (1998)
+🎵 [20/399] Scraping: 87670
+   ✅ Saved: രാഗമഴയിൽ ഇളം തൂവൽ കുടിലിൽ (1998)
+🎵 [21/399] Scraping: 87816
+   ✅ Saved: അമ്മ അമ്മ അമ്മായിയമ്മ (1998)
+🎵 [22/399] Scraping: 87809
+   ✅ Saved: മേലേ പൊൻവെയിലാകാശം (1998)
+🎵 [23/399] Scraping: 105362
+   ✅ Saved: വെളിച്ചം വിളക്കിനെ - F (1998)
+🎵 [24/399] Scraping: 105361
+   ✅ Saved: വെളിച്ചം വിളക്കിനെ - M (1998)
+🎵 [25/399] Scraping: 9846
+   ✅ Saved: ആകാശത്താമരപോലെ ()
+🎵 [26/399] Scraping: 171
+   ✅ Saved: ഏതോ നിദ്രതൻ ()
+🎵 [27/399] Scraping: 105201
+   ✅ Saved: ഏതോ നിദ്രതൻ - D (1998)
+🎵 [28/399] Scraping: 95692
+   ✅ Saved: കുപ്പിവള കിലുകിലെ (1998)
+🎵 [29/399] Scraping: thinkaloru-thanka
+   ✅ Saved: തിങ്കളൊരു തങ്കത്താമ്പാളം ()
+🎵 [30/399] Scraping: marathakaraavin-karayil
+   ✅ Saved: മരതകരാവിൻ കരയിൽ ()
+🎵 [31/399] Scraping: 7759
+   ✅ Saved: മാനേ മലരമ്പൻ വളർത്തുന്ന ()
+🎵 [32/399] Scraping: 105199
+   ✅ Saved: ആലമീനേ ഉടയോനേ (1998)
+🎵 [33/399] Scraping: 58704
+   ✅ Saved: തൂവെൺ പ്രാവുകൾ [D] (1998)
+🎵 [34/399] Scraping: 105197
+   ✅ Saved: തൂവെൺപ്രാവുകൾ - M (1998)
+🎵 [35/399] Scraping: 63773
+   ✅ Saved: പൊന്നുരുക്കും (F) ()
+🎵 [36/399] Scraping: 105198
+   ✅ Saved: പൊന്നുരുക്കും പൂമാനം - D (1998)
+🎵 [37/399] Scraping: 77548
+   ✅ Saved: അങ്കച്ചുവടുകൾ ()
+🎵 [38/399] Scraping: 77549
+   ✅ Saved: കണ്ടുമുട്ടുമ്പം ()
+🎵 [39/399] Scraping: 77547
+   ✅ Saved: പീലിപ്പൂവേ ()
+🎵 [40/399] Scraping: 77550
+   ✅ Saved: പീലിപ്പൂവേ (M) ()
+🎵 [41/399] Scraping: anthippoomaanam
+   ✅ Saved: അന്തിപ്പൂമാനം ()
+🎵 [42/399] Scraping: 31684
+   ✅ Saved: രാധാമാധവമായ് ()
+🎵 [43/399] Scraping: 31683
+   ✅ Saved: ശ്രീപാൽക്കടലിൽ ()
+🎵 [44/399] Scraping: 105462
+   ✅ Saved: അമ്മേ ദേവി (1998)
+🎵 [45/399] Scraping: 105456
+   ✅ Saved: ആടാടുണ്ണി ചാഞ്ചാട് - M (1998)
+🎵 [46/399] Scraping: 105455
+   ✅ Saved: ആടാടുണ്ണി ചാഞ്ചാട് -F (1998)
+🎵 [47/399] Scraping: 105458
+   ✅ Saved: കാടിനേഴഴക് (1998)
+🎵 [48/399] Scraping: 58759
+   ✅ Saved: പിണങ്ങാനൊരു നിമിഷം (1998)
+🎵 [49/399] Scraping: 105457
+   ✅ Saved: പിണങ്ങാനൊരു നിമിഷം - M (1998)
+🎵 [50/399] Scraping: 105454
+   ✅ Saved: പൂമാനപ്പടിവാതിൽ (1998)
+🎵 [51/399] Scraping: 105461
+   ✅ Saved: മംഗലപ്പക്ഷി ജാതകപ്പക്ഷി (1998)
+🎵 [52/399] Scraping: 15048
+   ✅ Saved: ആടുകൾ മേയുന്ന - F ()
+🎵 [53/399] Scraping: 104105
+   ✅ Saved: ആടുകൾ മേയുന്ന - M (1998)
+🎵 [54/399] Scraping: 104103
+   ✅ Saved: എങ്ങുനിന്നെങ്ങുനിന്നീ സുഗന്ധം - D (1998)
+🎵 [55/399] Scraping: 15052
+   ✅ Saved: എങ്ങുനിന്നെങ്ങുനിന്നീ സുഗന്ധം - F ()
+🎵 [56/399] Scraping: 104104
+   ✅ Saved: എങ്ങുനിന്നെങ്ങുനിന്നീ സുഗന്ധം - M (1998)
+🎵 [57/399] Scraping: 15049
+   ✅ Saved: ചമ്പകമലരൊളി പൊൻ നൂലിൽ ()
+🎵 [58/399] Scraping: neram-poy-neram-poy
+   ✅ Saved: നേരം പോയ് നേരം പോയ് ()
+🎵 [59/399] Scraping: 15050
+   ✅ Saved: പാണ്ടിമദ്ദളം ചെണ്ട കൈമണി ()
+🎵 [60/399] Scraping: aanandathen-kummi
+   ✅ Saved: ആനന്ദത്തേൻ കുമ്മി ()
+🎵 [61/399] Scraping: 10019
+   ✅ Saved: ഓരോരോ പൂമുത്തും ()
+🎵 [62/399] Scraping: paayunnoo-ponmaaningoru
+   ✅ Saved: പായുന്നൂ പൊന്മാനിങ്ങൊരു ()
+🎵 [63/399] Scraping: maanathukanniyum-makkalum
+   ✅ Saved: മാനത്തുക്കണ്ണിയും മക്കളും ()
+🎵 [64/399] Scraping: 105512
+   ✅ Saved: ചൊല്ലീടാം സുല്ലു സുന്ദരി ()
+🎵 [65/399] Scraping: 105510
+   ✅ Saved: നിലാവോ നീൾമിഴി ()
+🎵 [66/399] Scraping: 105513
+   ✅ Saved: വെള്ളാരംകുന്നത്ത് - F ()
+🎵 [67/399] Scraping: 105511
+   ✅ Saved: വെള്ളാരംകുന്നത്ത് - M ()
+🎵 [68/399] Scraping: malayaalapponnampala-manivaathil
+   ✅ Saved: മലയാളപ്പൊന്നമ്പല മണിവാതിൽ ()
+🎵 [69/399] Scraping: ambilippoovattam
+   ✅ Saved: അമ്പിളിപ്പൂവട്ടം ()
+🎵 [70/399] Scraping: 104894
+   ✅ Saved: അമ്പിളിപ്പൂവട്ടം പൊന്നുരുളി - F (1998)
+🎵 [71/399] Scraping: 3881
+   ✅ Saved: ചെമ്പകപ്പൂ മൊട്ടിനുള്ളിൽ ()
+🎵 [72/399] Scraping: chembakappoo-mottinnullil-m
+   ✅ Saved: ചെമ്പകപ്പൂ മൊട്ടിന്നുള്ളിൽ - M (1998)
+🎵 [73/399] Scraping: 3884
+   ✅ Saved: തേൻ തുളുമ്പും ഓർമ്മയായി ()
+🎵 [74/399] Scraping: 3883
+   ✅ Saved: പാർവണ പാൽമഴ ()
+🎵 [75/399] Scraping: 66799
+   ✅ Saved: കന്നിനിലാ.. ()
+🎵 [76/399] Scraping: 66798
+   ✅ Saved: കരുണാമയനെ ()
+🎵 [77/399] Scraping: 7924
+   ✅ Saved: കരുണാമയനേ (M) ()
+🎵 [78/399] Scraping: 63408
+   ✅ Saved: താറാക്കൂട്ടം കേറാക്കുന്ന് (1998)
+🎵 [79/399] Scraping: thinkalkkuri-thottum
+   ✅ Saved: തിങ്കൾക്കുറി തൊട്ടും.. (F) ()
+🎵 [80/399] Scraping: 55289
+   ✅ Saved: തിങ്കൾക്കുറിതൊട്ടും തുടുതുമ്പക്കുടമിട്ടും (1998)
+🎵 [81/399] Scraping: 55291
+   ✅ Saved: മോഹമായ് ഓ അടുത്തൊന്നു (1998)
+🎵 [82/399] Scraping: 14632
+   ✅ Saved: സുന്ദരിയേ സുന്ദരിയേ ()
+🎵 [83/399] Scraping: 105388
+   ✅ Saved: കൊന്നപ്പൂക്കൾ പൊന്നുരുക്കുന്നൂ (1994)
+🎵 [84/399] Scraping: 105389
+   ✅ Saved: വിടചൊല്ലി അകലുന്ന (1994)
+🎵 [85/399] Scraping: 34436
+   ✅ Saved: ഉന്മാദം കരളിലൊരുന്മാദം (1998)
+🎵 [86/399] Scraping: 34434
+   ✅ Saved: യാമിനീ മണ്ഡപങ്ങള്‍ (1998)
+🎵 [87/399] Scraping: 34437
+   ✅ Saved: യാമിനീ മണ്ഡപങ്ങള്‍ (f) (1998)
+🎵 [88/399] Scraping: 34435
+   ✅ Saved: വിരഹം നുരയും (1998)
+🎵 [89/399] Scraping: kaathoram-kannaaram
+   ✅ Saved: കാതോരം കണ്ണാരം ()
+🎵 [90/399] Scraping: 10068
+   ✅ Saved: തിരുവാതിര തിരനോക്കിയ ()
+🎵 [91/399] Scraping: doore-karalilurukumoru
+   ✅ Saved: ദൂരേ കരളിലുരുകുമൊരു (1998)
+🎵 [92/399] Scraping: 8097
+   ✅ Saved: മഞ്ഞക്കിളിയുടെ ()
+🎵 [93/399] Scraping: 58702
+   ✅ Saved: മഞ്ഞക്കിളിയുടെ മൂളിപ്പാട്ടുണ്ടേ (1998)
+🎵 [94/399] Scraping: moovanthi-thazhvarayil
+   ✅ Saved: മൂവന്തി താഴ്വരയിൽ ()
+🎵 [95/399] Scraping: oru-navabharatham
+   ✅ Saved: ഒരു നവഭാരതം (1998)
+🎵 [96/399] Scraping: kakka-penne
+   ✅ Saved: കാക്ക പെണ്ണേ (1998)
+🎵 [97/399] Scraping: 105731
+   ✅ Saved: നീതിമാനീ കുരുതി തറയിൽ (1998)
+🎵 [98/399] Scraping: neela-kadambin-poo
+   ✅ Saved: നീല കടമ്പിൻ പൂ (1998)
+🎵 [99/399] Scraping: maya-mayooram-peelineerthum
+   ✅ Saved: മായാമയൂരം പീലിനീർത്തും (1998)
+🎵 [100/399] Scraping: aruthe-aruthe-theemari
+   ✅ Saved: അരുതേ അരുതേ തീമാരി ()
+🎵 [101/399] Scraping: kallu-kondoru-pennu
+   ✅ Saved: കല്ലു കൊണ്ടൊരു പെണ്ണ് പാറ ()
+🎵 [102/399] Scraping: kenu-mayangiyoren
+   ✅ Saved: കേണുമയങ്ങിയൊരെൻ പൈതലേ ()
+🎵 [103/399] Scraping: 33801
+   ✅ Saved: ജനിച്ചെന്ന പാപം (1998)
+🎵 [104/399] Scraping: thithaaram-theyyam-paadi
+   ✅ Saved: തിത്താരം തെയ്യാരം പാടി ()
+🎵 [105/399] Scraping: manimaaran-porum-raavaanu
+   ✅ Saved: മണിമാരൻ പോരും രാവാണു ()
+🎵 [106/399] Scraping: 10077
+   ✅ Saved: കൂടില്ലാക്കിളികൾ ()
+🎵 [107/399] Scraping: gagana-neelima-d
+   ✅ Saved: ഗഗനനീലിമ - D (1998)
+🎵 [108/399] Scraping: gagana-neelima-f
+   ✅ Saved: ഗഗനനീലിമ - F (1998)
+🎵 [109/399] Scraping: gagana-neelima-m
+   ✅ Saved: ഗഗനനീലിമ - M ()
+🎵 [110/399] Scraping: nattucha-pole
+   ✅ Saved: നട്ടുച്ചപോലെ (1998)
+🎵 [111/399] Scraping: 10075
+   ✅ Saved: പാതിരാപ്പൂവിന്റെ ()
+🎵 [112/399] Scraping: yadukula-kokila-f
+   ✅ Saved: യദുകുല കോകില - F (1998)
+🎵 [113/399] Scraping: yadukula-kokila-m
+   ✅ Saved: യദുകുല കോകില - M ()
+🎵 [114/399] Scraping: 10078
+   ✅ Saved: സാമഗാനലയഭാവം ()
+🎵 [115/399] Scraping: 91705
+   ✅ Saved: ഇന്ദുമാലിനി സ്നേഹയാമിനി (1998)
+🎵 [116/399] Scraping: 105160
+   ✅ Saved: ഈ കാറ്റിനു മണമുണ്ട് - F (1998)
+🎵 [117/399] Scraping: 105159
+   ✅ Saved: ഈ കാറ്റിനു മണമുണ്ട് - M (1998)
+🎵 [118/399] Scraping: 105074
+   ✅ Saved: മനസ്സിലെന്തേ മയിൽപ്പീലി - D (1998)
+🎵 [119/399] Scraping: 105073
+   ✅ Saved: മനസ്സിലെന്തേ മയിൽപ്പീലി - FD (1998)
+🎵 [120/399] Scraping: 77137
+   ✅ Saved: തങ്കമണി താമരയായ് (1998)
+🎵 [121/399] Scraping: thiruvanikkadum-thandi
+   ✅ Saved: തിരുവാണിക്കാവും താണ്ടി ()
+🎵 [122/399] Scraping: 77136
+   ✅ Saved: ദു:ഖസ്വപ്നങ്ങളേ നിത്യസത്യങ്ങളേ (1998)
+🎵 [123/399] Scraping: ponnusha-kanyake
+   ✅ Saved: പൊന്നുഷഃകന്യകേ (1998)
+🎵 [124/399] Scraping: 15625
+   ✅ Saved: പൊൻ വിളക്കേന്തുമീ ഉഷസ്സാണോ ()
+🎵 [125/399] Scraping: 105323
+   ✅ Saved: കുളിരലയുടെ സല്ലാപം (1998)
+🎵 [126/399] Scraping: 105324
+   ✅ Saved: മലരമ്പന്റെ (1998)
+🎵 [127/399] Scraping: 105326
+   ✅ Saved: രാഗാർദ്രഹംസമായ് (1998)
+🎵 [128/399] Scraping: 105325
+   ✅ Saved: രാമഴയിൽ കുളിരലകൾ (1998)
+🎵 [129/399] Scraping: 33335
+   ✅ Saved: താർമകൾക്കൻപുള്ള തത്തേ (1998)
+🎵 [130/399] Scraping: 33334
+   ✅ Saved: പീലിമുകിൽ താഴ്‌വരയിൽ (1998)
+🎵 [131/399] Scraping: 33332
+   ✅ Saved: മാനത്തേ മാമയിലേ (1998)
+🎵 [132/399] Scraping: 33333
+   ✅ Saved: മെല്ലെയെന്‍ കണ്ണിലെ (1998)
+🎵 [133/399] Scraping: 104929
+   ✅ Saved: മെല്ലെയെൻ കണ്ണിലെ - F (1998)
+🎵 [134/399] Scraping: iniyum-paribhavamaruthe-d
+   ✅ Saved: ഇനിയും പരിഭവമരുതേ - D ()
+🎵 [135/399] Scraping: iniyum-paribhavamaruthe-f
+   ✅ Saved: ഇനിയും പരിഭവമരുതേ - F (1998)
+🎵 [136/399] Scraping: 92150
+   ✅ Saved: കാവേരി തീരത്തെ (1998)
+🎵 [137/399] Scraping: 93088
+   ✅ Saved: കാവേരി തീരത്തെ (1998)
+🎵 [138/399] Scraping: 15025
+   ✅ Saved: മംഗളദീപവുമായ് ()
+🎵 [139/399] Scraping: mangala-deepavumaai-f
+   ✅ Saved: മംഗളദീപവുമായ് - F (1998)
+🎵 [140/399] Scraping: malayannaarkkannan-markazhithumbiye
+   ✅ Saved: മലയണ്ണാർക്കണ്ണൻ മാർകഴിത്തുമ്പിയെ ()
+🎵 [141/399] Scraping: 93090
+   ✅ Saved: വാലിട്ടു കണ്ണെഴുതും (1998)
+🎵 [142/399] Scraping: 105365
+   ✅ Saved: അമ്പോറ്റീ ചെമ്പോത്ത് (1998)
+🎵 [143/399] Scraping: 12454
+   ✅ Saved: ആവണിപ്പൊന്നൂഞ്ഞാലാടുമ്പോൾ ()
+🎵 [144/399] Scraping: 12453
+   ✅ Saved: ആവണിപ്പൊന്നൂഞ്ഞാൽ ആടിക്കാം ()
+🎵 [145/399] Scraping: 7113
+   ✅ Saved: എന്റെ മൗനരാഗമിന്നു നീയറിഞ്ഞുവോ ()
+🎵 [146/399] Scraping: karalinte-novarinjal
+   ✅ Saved: കരളിന്റെ നോവറിഞ്ഞാൽ ()
+🎵 [147/399] Scraping: 105363
+   ✅ Saved: നാലുകെട്ടിൻ അകത്തളത്തിൽ (1998)
+🎵 [148/399] Scraping: 63954
+   ✅ Saved: അധരം മധുരം മൃദുലസുരഭിലം മുത്തം താ.. (1998)
+🎵 [149/399] Scraping: kandaatte-himagiri-nirakalil
+   ✅ Saved: കണ്ടാട്ടെ ഹിമഗിരി നിരകളിൽ (1998)
+🎵 [150/399] Scraping: 63961
+   ✅ Saved: കാത്തുവച്ചൊരു കാലത്തിളക്കം (1998)
+🎵 [151/399] Scraping: 63946
+   ✅ Saved: രാക്കാവിലേതോ കുളിർകാറ്റു പോലെ (1998)
+🎵 [152/399] Scraping: 36777
+   ✅ Saved: ആരോഹണത്തില്‍ ചിരിച്ചും (1998)
+🎵 [153/399] Scraping: 98247
+   ✅ Saved: ഏതോ വർണ്ണസ്വപ്നം പോലെ (1998)
+🎵 [154/399] Scraping: 96505
+   ✅ Saved: നന്ദകുമാരനു നൈവേദ്യമായൊരു - F (1998)
+🎵 [155/399] Scraping: 98248
+   ✅ Saved: നന്ദകുമാരനു നൈവേദ്യമായൊരു - M (1998)
+🎵 [156/399] Scraping: 36778
+   ✅ Saved: പാടാതെ പോയോ ()
+🎵 [157/399] Scraping: 98245
+   ✅ Saved: പാടാത്ത പാട്ടിന്റെ (1998)
+🎵 [158/399] Scraping: 12913
+   ✅ Saved: ആരോടും മിണ്ടാതെ (1998)
+🎵 [159/399] Scraping: 14650
+   ✅ Saved: മച്ചകത്തമ്മയെ കാൽ തൊട്ടു വന്ദിച്ചു (1998)
+🎵 [160/399] Scraping: 77012
+   ✅ Saved: കാണാത്തിങ്കൾ പോറ്റും (1998)
+🎵 [161/399] Scraping: 104389
+   ✅ Saved: പനിനീർ പൊയ്കകൾ മിഴികൾ (1998)
+🎵 [162/399] Scraping: 104390
+   ✅ Saved: വെയിൽ ചായും കുന്നിൻ (1998)
+🎵 [163/399] Scraping: aanalla-pennalla
+   ✅ Saved: ആണല്ല പെണ്ണല്ല ()
+🎵 [164/399] Scraping: iru-meyyum
+   ✅ Saved: ഇരുമെയ്യും ()
+🎵 [165/399] Scraping: 3987
+   ✅ Saved: ഉദയം വാൽക്കണ്ണെഴുതി ()
+🎵 [166/399] Scraping: kannil-thiri-thelikkum
+   ✅ Saved: കണ്ണിൽ തിരി തെളിക്കും ()
+🎵 [167/399] Scraping: they-they-thaalam-melam
+   ✅ Saved: തെയ് തെയ് താളം മേളം ()
+🎵 [168/399] Scraping: pin-nilavudhichuvallo
+   ✅ Saved: പിൻനിലാവുദിച്ചുവല്ലോ (1998)
+🎵 [169/399] Scraping: 3982
+   ✅ Saved: പൊന്നിൻ വള കിലുക്കി ()
+🎵 [170/399] Scraping: chandanakkaavile-poovaali
+   ✅ Saved: ചന്ദനക്കാവിലെ പൂവാലി ()
+🎵 [171/399] Scraping: 81797
+   ✅ Saved: ദേവലോകം‌ പോലെ (1998)
+🎵 [172/399] Scraping: 92149
+   ✅ Saved: നന്ദബാലം ഗാനലോലം (1998)
+🎵 [173/399] Scraping: pakalkkinaavil-palavattam
+   ✅ Saved: പകൽക്കിനാവിൽ പലവട്ടം ()
+🎵 [174/399] Scraping: 105166
+   ✅ Saved: ബാഷ്പസാഗര തീരത്തെ - F (1998)
+🎵 [175/399] Scraping: 95470
+   ✅ Saved: ബാഷ്പസാഗര തീരത്തെ - M (1998)
+🎵 [176/399] Scraping: silayaay-piraviyundenkil
+   ✅ Saved: ശിലയായ് പിറവിയുണ്ടെങ്കിൽ ()
+🎵 [177/399] Scraping: 81798
+   ✅ Saved: ശ്രീപാദമേ ഗതി (1998)
+🎵 [178/399] Scraping: 8480
+   ✅ Saved: ഇനിയെന്നു കാണും ()
+🎵 [179/399] Scraping: 95636
+   ✅ Saved: ഓരങ്ങളില്‍ ഓരങ്ങളില്‍ ഓളങ്ങള്‍ (1998)
+🎵 [180/399] Scraping: 16065
+   ✅ Saved: കണ്ണേ ഉറങ്ങുറങ്ങ് ()
+🎵 [181/399] Scraping: 10150
+   ✅ Saved: ഗോപാലികേ നീകണ്ടുവോ ()
+🎵 [182/399] Scraping: 104106
+   ✅ Saved: തേൻനിലാവിലെൻ - F (1998)
+🎵 [183/399] Scraping: 104107
+   ✅ Saved: തേൻനിലാവിലെൻ - M (1998)
+🎵 [184/399] Scraping: 13774
+   ✅ Saved: പാടാത്ത വൃന്ദാവനം ()
+🎵 [185/399] Scraping: 102687
+   ✅ Saved: സ്മരവാരം വാരം (1998)
+🎵 [186/399] Scraping: 34409
+   ✅ Saved: ആഞ്ഞു തുഴഞ്ഞു ചാകര (1998)
+🎵 [187/399] Scraping: 104959
+   ✅ Saved: ആഴിയലപ്പൂങ്കുളിരാട്ടം (1998)
+🎵 [188/399] Scraping: 34407
+   ✅ Saved: കരയുടെ മാറില്‍ - D (1998)
+🎵 [189/399] Scraping: 104957
+   ✅ Saved: കരയുടെ മാറില്‍ - F (1998)
+🎵 [190/399] Scraping: 34380
+   ✅ Saved: കൊള്ളിമീന്‍ കോറിയ (1998)
+🎵 [191/399] Scraping: 34408
+   ✅ Saved: മിഴിനീരുകൊണ്ടു തീര്‍ത്തു (1998)
+🎵 [192/399] Scraping: 34410
+   ✅ Saved: മിഴിനീരുകൊണ്ടു തീര്‍ത്തു (f) (1998)
+🎵 [193/399] Scraping: 34381
+   ✅ Saved: മുങ്ങാതെ കിട്ടിയ മുത്തല്ലേ (1998)
+🎵 [194/399] Scraping: 18060
+   ✅ Saved: ആരോ കമഴ്ത്തി വെച്ചോരോട്ടുരുളി ()
+🎵 [195/399] Scraping: aaro-kamazhthi-vachorotturuli
+   ✅ Saved: ആരോ കമഴ്ത്തി വെച്ചോരോട്ടുരുളി - F (1998)
+🎵 [196/399] Scraping: 19324
+   ✅ Saved: ആറന്മുളപ്പള്ളിയോടം ()
+🎵 [197/399] Scraping: 19327
+   ✅ Saved: ഇല്ലക്കുളങ്ങരെയിന്നലെ ()
+🎵 [198/399] Scraping: chandana-valayitta-kai-f
+   ✅ Saved: ചന്ദനവളയിട്ട കൈ കൊണ്ടു - F (1998)
+🎵 [199/399] Scraping: chandana-valayitta-kai-m
+   ✅ Saved: ചന്ദനവളയിട്ട കൈ കൊണ്ടു - M (1998)
+🎵 [200/399] Scraping: 19326
+   ✅ Saved: തേവാരമുരുവിടും ()
+🎵 [201/399] Scraping: 19323
+   ✅ Saved: പറ നിറയെ പൊന്നളക്കും ()
+🎵 [202/399] Scraping: 19325
+   ✅ Saved: പൂമുല്ലക്കോടിയുടുക്കേണം ()
+🎵 [203/399] Scraping: 19321
+   ✅ Saved: വില്ലിന്മേൽ താളം കൊട്ടി (1998)
+🎵 [204/399] Scraping: neeyen-kaamamohini
+   ✅ Saved: നീയെൻ കാമമോഹിനീ ()
+🎵 [205/399] Scraping: 8517
+   ✅ Saved: വിഷാദരാഗം മീട്ടി ()
+🎵 [206/399] Scraping: 105067
+   ✅ Saved: വിഷാദരാഗം മീട്ടി - M (1998)
+🎵 [207/399] Scraping: sharadendu-neythu-neythu
+   ✅ Saved: ശാരദേന്ദു നെയ്തു നെയ്തു ()
+🎵 [208/399] Scraping: 105072
+   ✅ Saved: സ്നേഹലോലമാം - F (1998)
+🎵 [209/399] Scraping: 8519
+   ✅ Saved: സ്നേഹലോലമാം - M ()
+🎵 [210/399] Scraping: swargam-thedi-vannore
+   ✅ Saved: സ്വർഗ്ഗം തേടി വന്നോരേ ()
+🎵 [211/399] Scraping: 104100
+   ✅ Saved: *അമ്പട പടവിളി (1998)
+🎵 [212/399] Scraping: 104033
+   ✅ Saved: ശോശന്നപ്പൂവേ നിൻ പുഞ്ചിരി (1998)
+🎵 [213/399] Scraping: 33004
+   ✅ Saved: ചെല്ലക്കാറ്റു ചാഞ്ചക്കമാടും ആലിൻ (1998)
+🎵 [214/399] Scraping: neeyente-pattil-sreeragamayi
+   ✅ Saved: നീയെന്റെ പാട്ടില്‍ ശ്രീരാഗമായി (1998)
+🎵 [215/399] Scraping: 64197
+   ✅ Saved: പൂമാനം (F) (1998)
+🎵 [216/399] Scraping: 33003
+   ✅ Saved: പൂമാനം പൂപ്പന്തലൊരുക്കും (1998)
+🎵 [217/399] Scraping: ponveyil
+   ✅ Saved: പൊൻ‌വെയിലൂതിയുരുക്കി മിനുക്കി ()
+🎵 [218/399] Scraping: maye-thaye-durgge
+   ✅ Saved: മായേ തായേ ദുർഗ്ഗേ (1998)
+🎵 [219/399] Scraping: aavani-poovani
+   ✅ Saved: ആവണി പൂവണി (1998)
+🎵 [220/399] Scraping: kathoram-kannaram
+   ✅ Saved: കാതോരം കണ്ണാരം (1998)
+🎵 [221/399] Scraping: pulariyen-thodiyil
+   ✅ Saved: പുലരിയെൻ തൊടിയിൽ (1998)
+🎵 [222/399] Scraping: viraha-samayamunathi
+   ✅ Saved: വിരഹ സമയമുണർത്തി (1998)
+🎵 [223/399] Scraping: aranu-neeyenikkomale
+   ✅ Saved: ആരാണു നീയെനിക്കോമലേ ()
+🎵 [224/399] Scraping: ennakkaruppinnezhazhaku
+   ✅ Saved: എണ്ണക്കറുപ്പിന്നേഴഴക് ()
+🎵 [225/399] Scraping: onninumallathe-0
+   ✅ Saved: ഒന്നിനുമല്ലാതെ എന്തിനോ തോന്നിയൊരിഷ്ടം ()
+🎵 [226/399] Scraping: ninakkai-thozhi
+   ✅ Saved: നിനക്കായ് തോഴീ ()
+🎵 [227/399] Scraping: 12114
+   ✅ Saved: നിനക്കായ് ദേവാ ()
+🎵 [228/399] Scraping: ninakkai-deva
+   ✅ Saved: നിനക്കായ് ദേവാ പുനർജ്ജനിക്കാം ()
+🎵 [229/399] Scraping: 19233
+   ✅ Saved: പാതിരാക്കാറ്റു വീശി ()
+🎵 [230/399] Scraping: 105542
+   ✅ Saved: കണ്ണീർപ്പൂവും കാക്കപ്പൂവും - F (1998)
+🎵 [231/399] Scraping: 105541
+   ✅ Saved: കണ്ണീർപ്പൂവും കാക്കപ്പൂവും - M (1998)
+🎵 [232/399] Scraping: 105540
+   ✅ Saved: നീലാഞ്ജനം കണ്ണാ (1998)
+🎵 [233/399] Scraping: 105545
+   ✅ Saved: വർണ്ണത്തേരിൽ വന്നു (1998)
+🎵 [234/399] Scraping: 14627
+   ✅ Saved: എന്തേ മുല്ലേ പൂക്കാത്തൂ (F) ()
+🎵 [235/399] Scraping: 104120
+   ✅ Saved: എന്തേ മുല്ലേ പൂക്കാത്തൂ - D (1998)
+🎵 [236/399] Scraping: 104121
+   ✅ Saved: എന്തേ മുല്ലേ പൂക്കാത്തൂ - M (1998)
+🎵 [237/399] Scraping: dhanumasa-thinkal
+   ✅ Saved: ധനുമാസത്തിങ്കൾ കൊളുത്തും ()
+🎵 [238/399] Scraping: 14628
+   ✅ Saved: പുലരി തൻ ഹൃദയമാം ()
+🎵 [239/399] Scraping: 62744
+   ✅ Saved: ഉദിച്ച ചന്തിരന്റെ (1998)
+🎵 [240/399] Scraping: 62755
+   ✅ Saved: എരിയുന്ന കനലിന്റെ (1998)
+🎵 [241/399] Scraping: 62754
+   ✅ Saved: എല്ലാം മറക്കാം നിലാവേ (1998)
+🎵 [242/399] Scraping: ellam-marakkam-nilave
+   ✅ Saved: എല്ലാം മറക്കാം നിലാവേ ()
+🎵 [243/399] Scraping: 62745
+   ✅ Saved: ബല്ലാ ബല്ലാ ബല്ലാ ഹേ (1998)
+🎵 [244/399] Scraping: sonare-sonare
+   ✅ Saved: സോനാരേ സോനാരേ ()
+🎵 [245/399] Scraping: 105369
+   ✅ Saved: ഗന്ധർവ്വരാവിന്റെ (1998)
+🎵 [246/399] Scraping: 105367
+   ✅ Saved: പൂർണ്ണത തേടും ദീപങ്ങൾ (1998)
+🎵 [247/399] Scraping: 105368
+   ✅ Saved: വിശ്വാധാരമാം (1998)
+🎵 [248/399] Scraping: 12134
+   ✅ Saved: ആരോ വിരൽ നീട്ടി (F) ()
+🎵 [249/399] Scraping: pranaya-varnangal
+   ✅ Saved: ആരോ വിരൽ നീട്ടി മനസ്സിൻ ()
+🎵 [250/399] Scraping: othiri-othiri
+   ✅ Saved: ഒത്തിരിയൊത്തിരി ഒത്തിരി സ്വപ്നങ്ങൾ ()
+🎵 [251/399] Scraping: orukula-poopole
+   ✅ Saved: ഒരുകുലപ്പൂപോലെ ()
+🎵 [252/399] Scraping: 8679
+   ✅ Saved: കണ്ണാടിക്കൂടും കൂട്ടി ()
+🎵 [253/399] Scraping: 4035
+   ✅ Saved: പാട്ടുപഠിക്കണെങ്കിൽ ()
+🎵 [254/399] Scraping: 65316
+   ✅ Saved: വരമഞ്ഞളാടിയ (M) (1998)
+🎵 [255/399] Scraping: 12002
+   ✅ Saved: വരമഞ്ഞളാടിയ രാവിന്റെ ()
+🎵 [256/399] Scraping: 102888
+   ✅ Saved: നിറതിങ്കളേ തിരി താഴ്ത്തുമോ (1998)
+🎵 [257/399] Scraping: 102892
+   ✅ Saved: പുലർവാനപ്പന്തലൊരുക്കി (1998)
+🎵 [258/399] Scraping: 102906
+   ✅ Saved: പ്രിയ താരകേ (1998)
+🎵 [259/399] Scraping: 102904
+   ✅ Saved: വരവായ് ഒരു മംഗല്യപ്പല്ലക്ക് (1998)
+🎵 [260/399] Scraping: 102905
+   ✅ Saved: വിഷുപ്പക്ഷി വിളിക്കുന്നേ (1998)
+🎵 [261/399] Scraping: 102889
+   ✅ Saved: വെണ്ണിലാ ചിറകുമായ് - F (1998)
+🎵 [262/399] Scraping: 102890
+   ✅ Saved: വെണ്ണിലാ ചിറകുമായ് - M (1998)
+🎵 [263/399] Scraping: rimjhim-rimjhim-paadi
+   ✅ Saved: രിംജിം രിംജിം പാടി (1998)
+🎵 [264/399] Scraping: rani-lalithapriya-naadam
+   ✅ Saved: റാണീ ലളിതപ്രിയ നാദം (1998)
+🎵 [265/399] Scraping: 105351
+   ✅ Saved: ഈ സ്വപ്നഭൂമിയെ (1998)
+🎵 [266/399] Scraping: jalatharanga-leela
+   ✅ Saved: ജലതരംഗലീല (1998)
+🎵 [267/399] Scraping: thapputhakilu-melam
+   ✅ Saved: തപ്പുതകിലു മേളം (1998)
+🎵 [268/399] Scraping: mohini-enikkaai
+   ✅ Saved: മോഹിനി എനിക്കായ് (1998)
+🎵 [269/399] Scraping: 34576
+   ✅ Saved: അത്തം പത്തിനു മുറ്റത്തെത്തും (1996)
+🎵 [270/399] Scraping: 34577
+   ✅ Saved: പൂവാംകുരുന്നില കൂടിന്നുള്ളില്‍ (1996)
+🎵 [271/399] Scraping: 34575
+   ✅ Saved: സ്വര്‍ണ്ണദള കോടികള്‍ (1996)
+🎵 [272/399] Scraping: 34578
+   ✅ Saved: സ്വര്‍ണ്ണദള കോടികള്‍ (f) (1996)
+🎵 [273/399] Scraping: 104388
+   ✅ Saved: കളകള കളമൊഴി (1998)
+🎵 [274/399] Scraping: 87728
+   ✅ Saved: കിലുകിലെ വള കിലുങ്ങവേ (1998)
+🎵 [275/399] Scraping: thinkalpoo-virinjuvo-d
+   ✅ Saved: തിങ്കൾപ്പൂ വിരിഞ്ഞുവോ - D (1998)
+🎵 [276/399] Scraping: 104386
+   ✅ Saved: തിങ്കൾപ്പൂ വിരിഞ്ഞുവോ - F (1998)
+🎵 [277/399] Scraping: 104385
+   ✅ Saved: തിങ്കൾപ്പൂ വിരിഞ്ഞുവോ - M (1998)
+🎵 [278/399] Scraping: 104387
+   ✅ Saved: പൊങ്ങിപ്പൊങ്ങി പോകണം (1998)
+🎵 [279/399] Scraping: 104140
+   ✅ Saved: അന്തിമുകിൽ നിറം (1998)
+🎵 [280/399] Scraping: 104122
+   ✅ Saved: ഒന്നാംതുമ്പീ ഓരിലത്തുമ്പീ - D (1998)
+🎵 [281/399] Scraping: 104123
+   ✅ Saved: ഒന്നാംതുമ്പീ ഓരിലത്തുമ്പീ - M (1998)
+🎵 [282/399] Scraping: 104126
+   ✅ Saved: കൂടെവിടെ കൂടെവിടെ - F (1998)
+🎵 [283/399] Scraping: 104125
+   ✅ Saved: കൂടെവിടെ കൂടെവിടെ - M (1998)
+🎵 [284/399] Scraping: 104128
+   ✅ Saved: പൂ വിരിഞ്ഞ പോലെ (1998)
+🎵 [285/399] Scraping: 104127
+   ✅ Saved: റാന്തൽ വെളിച്ചത്തിൽ (1998)
+🎵 [286/399] Scraping: 104124
+   ✅ Saved: ഹൃദയമുരളിയുടെ രാഗം (1998)
+🎵 [287/399] Scraping: 99484
+   ✅ Saved: കരുമാടിക്കുട്ടാ നിന്റെ കണ്ണാടി (1998)
+🎵 [288/399] Scraping: 99485
+   ✅ Saved: തടുക്കാമെങ്കിൽ തടുത്തോ (1998)
+🎵 [289/399] Scraping: 99486
+   ✅ Saved: തിരിതെളിഞ്ഞ കഥയിലൊരു (1998)
+🎵 [290/399] Scraping: 99481
+   ✅ Saved: പീലിക്കൊമ്പത്താടും (1998)
+🎵 [291/399] Scraping: 99483
+   ✅ Saved: പ്രപഞ്ചമുണരും (F) (1998)
+🎵 [292/399] Scraping: 99482
+   ✅ Saved: പ്രപഞ്ചമുണരും (M) (1998)
+🎵 [293/399] Scraping: akale-akale-alayunna
+   ✅ Saved: അകലേ അകലേ അലയുന്ന ()
+🎵 [294/399] Scraping: anchu-kannanalla
+   ✅ Saved: അഞ്ചുകണ്ണനല്ല ()
+🎵 [295/399] Scraping: 104028
+   ✅ Saved: ഒന്നാനാം കുന്നിന്മേൽ - M (1998)
+🎵 [296/399] Scraping: onnanam-kunninmel
+   ✅ Saved: ഒന്നാനാം കുന്നിന്മേൽ പൊൻ വിളക്ക് ()
+🎵 [297/399] Scraping: paathiraappoo-choodi
+   ✅ Saved: പാതിരാപ്പൂ ചൂടി ()
+🎵 [298/399] Scraping: 23143
+   ✅ Saved: പാതിരാപ്പൂ ചൂടി വാലിട്ടു കണ്ണെഴുതി ()
+🎵 [299/399] Scraping: 15986
+   ✅ Saved: മയിലായ് പറന്നു ()
+🎵 [300/399] Scraping: 15985
+   ✅ Saved: മയിലായ് പറന്നു വാ ()
+🎵 [301/399] Scraping: 105381
+   ✅ Saved: അയ്യയ്യാ മെയ്യോരം (1998)
+🎵 [302/399] Scraping: 19098
+   ✅ Saved: ആദ്യദർശനം ()
+🎵 [303/399] Scraping: 19096
+   ✅ Saved: ഒരു നുള്ളു കുങ്കുമം നിറുകയിൽ (1998)
+🎵 [304/399] Scraping: 105387
+   ✅ Saved: തപ്പെട് തകിലെട് (1998)
+🎵 [305/399] Scraping: 105378
+   ✅ Saved: പനിനീർ കുളിർ മാരിയിൽ (1998)
+🎵 [306/399] Scraping: 105366
+   ✅ Saved: പീലിക്കൊമ്പിൽ കൂട്ടും (1998)
+🎵 [307/399] Scraping: 105380
+   ✅ Saved: സ്വർണ്ണമാൻ കിടാവേ (1998)
+🎵 [308/399] Scraping: 58404
+   ✅ Saved: കടുകൊടച്ചടുപ്പിലിട്ട് (1998)
+🎵 [309/399] Scraping: 58409
+   ✅ Saved: ചില്ല് ജന്നലിന്റെ അരികിൽ (1998)
+🎵 [310/399] Scraping: 58401
+   ✅ Saved: രാസാ താൻടാ (1998)
+🎵 [311/399] Scraping: 34707
+   ✅ Saved: ആയിരം പൊന്‍പണം - D (1998)
+🎵 [312/399] Scraping: 104384
+   ✅ Saved: ആയിരം പൊന്‍പണം - M (1998)
+🎵 [313/399] Scraping: 34700
+   ✅ Saved: കല്യാണ കച്ചേരി പക്കാല (1998)
+🎵 [314/399] Scraping: 34708
+   ✅ Saved: വലംതിരിഞ്ഞ് ഇടംതിരിഞ്ഞ് (1998)
+🎵 [315/399] Scraping: 67688
+   ✅ Saved: ആരോമലേ.. ()
+🎵 [316/399] Scraping: 40350
+   ✅ Saved: ഒരു പൂവിനെ നിശാശലഭം (D) (1998)
+🎵 [317/399] Scraping: 67686
+   ✅ Saved: ഒരു പൂവിനെ.. ()
+🎵 [318/399] Scraping: 67696
+   ✅ Saved: കാണാകൂട്ടിൻ.. ()
+🎵 [319/399] Scraping: 67694
+   ✅ Saved: ദൂരെയൊരു താരം (D) ()
+🎵 [320/399] Scraping: 67695
+   ✅ Saved: ദൂരെയൊരു താരം (F) ()
+🎵 [321/399] Scraping: 67752
+   ✅ Saved: മാരിവില്ലിന്മേൽ (D) ()
+🎵 [322/399] Scraping: 67750
+   ✅ Saved: മാരിവില്ലിന്മേൽ (M) ()
+🎵 [323/399] Scraping: 105432
+   ✅ Saved: കൊടുങ്ങല്ലൂരമ്പലത്തിൽ (1998)
+🎵 [324/399] Scraping: 58700
+   ✅ Saved: തിര എഴുതും മണ്ണില്‍ [D ] (1998)
+🎵 [325/399] Scraping: 105433
+   ✅ Saved: തിരയെഴുതും (1998)
+🎵 [326/399] Scraping: 104906
+   ✅ Saved: തിരയെഴുതും മണ്ണിൽ - M (1998)
+🎵 [327/399] Scraping: thillaana-paadi-varoo
+   ✅ Saved: തില്ലാന പാടി വരൂ (1998)
+🎵 [328/399] Scraping: 105439
+   ✅ Saved: തില്ലാന പാടിവരൂ (1998)
+🎵 [329/399] Scraping: 58701
+   ✅ Saved: മഞ്ചാടിക്കുന്നിലെ പ്രാവേ [D] (1998)
+🎵 [330/399] Scraping: 105444
+   ✅ Saved: സ്വർണ്ണ പക്ഷീ (1998)
+🎵 [331/399] Scraping: 105322
+   ✅ Saved: കൂടാം ഒന്നിച്ച് (1998)
+🎵 [332/399] Scraping: 105321
+   ✅ Saved: പണ്ടീ കടലിൽ (1998)
+🎵 [333/399] Scraping: kizhakku-pulari
+   ✅ Saved: കിഴക്കു പുലരി ചെങ്കൊടി പാറി ()
+🎵 [334/399] Scraping: 104908
+   ✅ Saved: ചെറുവള്ളിക്കാവിലിന്ന് (1998)
+🎵 [335/399] Scraping: nammal-koyyum-vayalellaam
+   ✅ Saved: നമ്മളു കൊയ്യും വയലെല്ലാം ()
+🎵 [336/399] Scraping: 58703
+   ✅ Saved: പനിനീര്‍ മാരിയില്‍ (ബോണസ് ട്രാക്ക്) (1998)
+🎵 [337/399] Scraping: 8847
+   ✅ Saved: പൊന്നാര്യൻ പാടം ()
+🎵 [338/399] Scraping: 55998
+   ✅ Saved: ബലികുടീരങ്ങള്‍‌ (1998)
+🎵 [339/399] Scraping: vaikaashi-thennalo
+   ✅ Saved: വൈകാശിത്തെന്നലോ ()
+🎵 [340/399] Scraping: vaikashithennalo-f
+   ✅ Saved: വൈകാശിത്തെന്നലോ - F (1998)
+🎵 [341/399] Scraping: 34432
+   ✅ Saved: ഏഴാം നാള് ആയില്യം നാള് (f) (1998)
+🎵 [342/399] Scraping: 34427
+   ✅ Saved: ഏഴാം നാള് ആയില്യം നാള് - M (1998)
+🎵 [343/399] Scraping: 34429
+   ✅ Saved: കുങ്കുമപ്പൂകൊണ്ടു കൂടൊരുക്കി (1998)
+🎵 [344/399] Scraping: 34430
+   ✅ Saved: കൊതിച്ചതും വിധിച്ചതും (1998)
+🎵 [345/399] Scraping: 34431
+   ✅ Saved: മൂക്കില്ലാ നാക്കില്ലാ വായില്ലാ (1998)
+🎵 [346/399] Scraping: 105515
+   ✅ Saved: അമ്പിളിപൂ മാരനോ (1998)
+🎵 [347/399] Scraping: 80452
+   ✅ Saved: ഒരുതുള്ളി പലതുള്ളി പെരുവെള്ളം (1998)
+🎵 [348/399] Scraping: 80457
+   ✅ Saved: താരം താരം തേരിൽ (1998)
+🎵 [349/399] Scraping: 33874
+   ✅ Saved: ഏഴാം കടല്‍ നീന്തിയൊരമ്പിളീ (1988)
+🎵 [350/399] Scraping: 33875
+   ✅ Saved: ഒന്നാം കടല്‍ നീന്തി - D (1988)
+🎵 [351/399] Scraping: 104899
+   ✅ Saved: ഒന്നാം കടല്‍ നീന്തി - F (1998)
+🎵 [352/399] Scraping: 12830
+   ✅ Saved: എത്രയോ ജന്മമായ് നിന്നെ ഞാൻ ()
+🎵 [353/399] Scraping: oru-rathri-koodi-vidavangave-m
+   ✅ Saved: ഒരു രാത്രി കൂടി വിട വാങ്ങവേ - M ()
+🎵 [354/399] Scraping: 66068
+   ✅ Saved: ഒരു രാത്രികൂടി വിടവാങ്ങവേ - D ()
+🎵 [355/399] Scraping: 104775
+   ✅ Saved: ഒരു രാത്രികൂടി വിടവാങ്ങവേ - F (1998)
+🎵 [356/399] Scraping: 66066
+   ✅ Saved: കുന്നിമണിക്കൂട്ടില്‍ ()
+🎵 [357/399] Scraping: 13079
+   ✅ Saved: കൺഫ്യൂഷൻ തീർക്കണമേ ()
+🎵 [358/399] Scraping: 13080
+   ✅ Saved: ചൂളമടിച്ച് കറങ്ങി നടക്കും ()
+🎵 [359/399] Scraping: 66069
+   ✅ Saved: പൂഞ്ചില്ലമേല്‍ ഊഞ്ഞാലിടും ()
+🎵 [360/399] Scraping: maarivillin
+   ✅ Saved: മാരിവില്ലിൻ ()
+🎵 [361/399] Scraping: alliyambalayi
+   ✅ Saved: അല്ലിയാമ്പലായി (1998)
+🎵 [362/399] Scraping: 99049
+   ✅ Saved: കൈവന്ന തങ്കമല്ലെ (1998)
+🎵 [363/399] Scraping: 99050
+   ✅ Saved: കൈവന്ന തങ്കമല്ലെ (1998)
+🎵 [364/399] Scraping: 99051
+   ✅ Saved: പൂമാനത്തെ (1998)
+🎵 [365/399] Scraping: mayikayamam-0
+   ✅ Saved: മായികയാമം (1998)
+🎵 [366/399] Scraping: mayikayamam
+   ✅ Saved: മായികയാമം (1998)
+🎵 [367/399] Scraping: koodarakoottil-thengum-f
+   ✅ Saved: കൂടാരക്കൂട്ടിൽ തേങ്ങും - F (1998)
+🎵 [368/399] Scraping: koodarakoottil-thengum-m
+   ✅ Saved: കൂടാരക്കൂട്ടിൽ തേങ്ങും - M (1998)
+🎵 [369/399] Scraping: koodarakoottil-thengum-kuyile-d
+   ✅ Saved: കൂടാരക്കൂട്ടിൽ തേങ്ങും കുയിലേ - D (1998)
+🎵 [370/399] Scraping: 33096
+   ✅ Saved: നാടോടിത്തെയ്യവും തോറ്റവും (1998)
+🎵 [371/399] Scraping: 33095
+   ✅ Saved: പഞ്ചമുടിപ്പുഴ താണ്ടി (1998)
+🎵 [372/399] Scraping: 33106
+   ✅ Saved: മനസ്സിൽ വളർന്നു പൂത്ത (1998)
+🎵 [373/399] Scraping: 105350
+   ✅ Saved: മാതം പുലരുമ്പം (1998)
+🎵 [374/399] Scraping: 33081
+   ✅ Saved: മാതം പുലരുമ്പം‍ മോരൂട്ട് (1998)
+🎵 [375/399] Scraping: 83429
+   ✅ Saved: കളിയൂഞ്ഞാലാടിയെത്തും (1998)
+🎵 [376/399] Scraping: 83430
+   ✅ Saved: കൂടറിയാക്കുയിലമ്മേ - D (1998)
+🎵 [377/399] Scraping: 98167
+   ✅ Saved: കൂടറിയാക്കുയിലമ്മേ - M (1998)
+🎵 [378/399] Scraping: 83431
+   ✅ Saved: തേൻമലരേ തേങ്ങരുതേ - D (1998)
+🎵 [379/399] Scraping: 98168
+   ✅ Saved: തേൻമലരേ തേങ്ങരുതേ - F (1998)
+🎵 [380/399] Scraping: 83428
+   ✅ Saved: തേൻമലരേ തേങ്ങരുതേ - M (1998)
+🎵 [381/399] Scraping: 83427
+   ✅ Saved: പഞ്ചവർണ്ണക്കുളിരേ (1998)
+🎵 [382/399] Scraping: 105370
+   ✅ Saved: ഒരു വീണപൂവിനെന്തിനീ (1998)
+🎵 [383/399] Scraping: 105371
+   ✅ Saved: നിഴലാടും പോലാട് കരിനാഗമേ (1998)
+🎵 [384/399] Scraping: 105372
+   ✅ Saved: മെറ്റിൽഡ മെറ്റിൽഡ (1998)
+🎵 [385/399] Scraping: 15713
+   ✅ Saved: കൈതപ്പൂ മണമെന്തേ ()
+🎵 [386/399] Scraping: kondotteennodi-vannu
+   ✅ Saved: കൊണ്ടോട്ടീന്നോടി വന്ന് ()
+🎵 [387/399] Scraping: perariyathoru-nombarathe
+   ✅ Saved: പേരറിയാത്തൊരു നൊമ്പരത്തെ ()
+🎵 [388/399] Scraping: marakkaan-kazhinjenkil
+   ✅ Saved: മറക്കാൻ കഴിഞ്ഞെങ്കിൽ ()
+🎵 [389/399] Scraping: raavu-nilaappoovu
+   ✅ Saved: രാവ് നിലാപ്പൂവ് ()
+🎵 [390/399] Scraping: poojabimbam-mizhi
+   ✅ Saved: പൂജാബിംബം മിഴി തുറന്നു ()
+🎵 [391/399] Scraping: ponnambal-puzhayirambil-nammal
+   ✅ Saved: പൊന്നാമ്പൽ പുഴയിറമ്പിൽ നമ്മൾ ()
+🎵 [392/399] Scraping: ponne-ponnambili
+   ✅ Saved: പൊന്നേ പൊന്നമ്പിളി (1998)
+🎵 [393/399] Scraping: minnal-kaivala-chaarthi
+   ✅ Saved: മിന്നൽ കൈവള ചാർത്തി ()
+🎵 [394/399] Scraping: 15499
+   ✅ Saved: സമയമിതപൂർവ സായാഹ്നം ()
+🎵 [395/399] Scraping: 15715
+   ✅ Saved: സമയമിതപൂർവ സായാഹ്നം ()
+🎵 [396/399] Scraping: 105463
+   ✅ Saved: മഴവില്ലിൻ പൊട്ടും കുത്തി (1998)
+🎵 [397/399] Scraping: 105487
+   ✅ Saved: മാണിക്ക്യമുത്ത് (1998)
+🎵 [398/399] Scraping: 105464
+   ✅ Saved: വെള്ളിലക്കൂടാരം - D (1998)
+🎵 [399/399] Scraping: 105465
+   ✅ Saved: വെള്ളിലക്കൂടാരം - F (1998)
+Year complete: success=399, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 9544
