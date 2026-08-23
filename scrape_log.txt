@@ -84939,3 +84939,64 @@ Year complete: success=11, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22043
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1941
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1941
+   Page 1: https://m3db.com/archive/lyrics/year/1941
+   Found 24 songs on this page. Total unique so far: 24
+Total songs to scrape for this year: 24
+🎵 [1/24] Scraping: akhila-lokaikaveera
+   ✅ Saved: അഖില ലോകൈകവീരാ (1941)
+🎵 [2/24] Scraping: arutharuthe-kopam
+   ✅ Saved: അരുതരുതേ കോപം (1941)
+🎵 [3/24] Scraping: arinjen-arinjen
+   ✅ Saved: അറിഞ്ഞേൻ അറിഞ്ഞേൻ (1941)
+🎵 [4/24] Scraping: ithilumenthupari-bhagyam
+   ✅ Saved: ഇതിലുമെന്തുപരി ഭാഗ്യം (1941)
+🎵 [5/24] Scraping: ini-enthano-bhavam
+   ✅ Saved: ഇനി എന്താണോ ഭാവം (1941)
+🎵 [6/24] Scraping: enthusara-mulakil
+   ✅ Saved: എന്തുസാരമുലകിൽ (1941)
+🎵 [7/24] Scraping: ennomal-thankame
+   ✅ Saved: എന്നോമൽ തങ്കമേ (1941)
+🎵 [8/24] Scraping: 35038
+   ✅ Saved: ക്ഷീരാംബുധി മാനിനീ (1941)
+🎵 [9/24] Scraping: 35037
+   ✅ Saved: ഗുരുകുലമതിലങ്ങേകാന്തത്തില്‍ (1941)
+🎵 [10/24] Scraping: chithamellam-thelinju
+   ✅ Saved: ചിത്തമെല്ലാം തെളിഞ്ഞു (1941)
+🎵 [11/24] Scraping: janakninkaloru-piraviyil
+   ✅ Saved: ജനകനിങ്കലൊരു പിറവിയിൽ (1941)
+🎵 [12/24] Scraping: jayaharenatha-bhagavan
+   ✅ Saved: ജയഹരേനാഥ ഭഗവൻ (1941)
+🎵 [13/24] Scraping: namaste-pranathulya
+   ✅ Saved: നമസ്തേ പ്രാണതുല്യ (1941)
+🎵 [14/24] Scraping: narayana-nama
+   ✅ Saved: നാരായണ നമ (1941)
+🎵 [15/24] Scraping: narayana-namo
+   ✅ Saved: നാരായണ നമോ (1941)
+🎵 [16/24] Scraping: narayanam-bhaje-0
+   ✅ Saved: നാരായണം ഭജേ (1941)
+🎵 [17/24] Scraping: paramapuruha-nin
+   ✅ Saved: പരമപുരുഷ നിൻ (1941)
+🎵 [18/24] Scraping: madhava-nin-malaratiye
+   ✅ Saved: മാധവാ നിൻ മലരടിയേ (1941)
+🎵 [19/24] Scraping: vande-vande-varijanethra
+   ✅ Saved: വന്ദേ വന്ദേ വാരിജനേത്ര (1941)
+🎵 [20/24] Scraping: sree-ramavarmma-maharaja
+   ✅ Saved: ശ്രീ രാമവർമ്മ മഹാരാജ (1941)
+🎵 [21/24] Scraping: sree-vaikundavasa
+   ✅ Saved: ശ്രീ വൈകുണ്ഠ വാസാ (1941)
+🎵 [22/24] Scraping: saraseeruha-lochana
+   ✅ Saved: സരസീരുഹ ലോചന (1941)
+🎵 [23/24] Scraping: hantha-hantha
+   ✅ Saved: ഹന്ത ഹന്ത (1941)
+🎵 [24/24] Scraping: hare-sakalaloka-nayaka
+   ✅ Saved: ഹരേ സകലലോക നായക (1941)
+Year complete: success=24, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22067

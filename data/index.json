@@ -54881,6 +54881,24 @@
     "singers": "എസ് ജാനകി",
     "year": "1983"
   },
+  "35037": {
+    "id": "35037",
+    "songName": "ഗുരുകുലമതിലങ്ങേകാന്തത്തില്‍",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "തിരുവനന്തപുരം വി ലക്ഷ്മി, കോറസ്",
+    "year": "1941"
+  },
+  "35038": {
+    "id": "35038",
+    "songName": "ക്ഷീരാംബുധി മാനിനീ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "തിരുവനന്തപുരം വി ലക്ഷ്മി, കോറസ്",
+    "year": "1941"
+  },
   "35039": {
     "id": "35039",
     "songName": "ചെല്ലത്തേൻ കിളികൾ",
@@ -198385,5 +198403,203 @@
     "musicDirector": "പി എസ് ദിവാകർ",
     "singers": "ടി കെ ഗോവിന്ദറാവു",
     "year": ""
+  },
+  "akhila-lokaikaveera": {
+    "id": "akhila-lokaikaveera",
+    "songName": "അഖില ലോകൈകവീരാ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "arutharuthe-kopam": {
+    "id": "arutharuthe-kopam",
+    "songName": "അരുതരുതേ കോപം",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "arinjen-arinjen": {
+    "id": "arinjen-arinjen",
+    "songName": "അറിഞ്ഞേൻ അറിഞ്ഞേൻ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "ithilumenthupari-bhagyam": {
+    "id": "ithilumenthupari-bhagyam",
+    "songName": "ഇതിലുമെന്തുപരി ഭാഗ്യം",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "പാപനാശം ശിവൻ",
+    "year": "1941"
+  },
+  "ini-enthano-bhavam": {
+    "id": "ini-enthano-bhavam",
+    "songName": "ഇനി എന്താണോ ഭാവം",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "enthusara-mulakil": {
+    "id": "enthusara-mulakil",
+    "songName": "എന്തുസാരമുലകിൽ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "ennomal-thankame": {
+    "id": "ennomal-thankame",
+    "songName": "എന്നോമൽ തങ്കമേ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "chithamellam-thelinju": {
+    "id": "chithamellam-thelinju",
+    "songName": "ചിത്തമെല്ലാം തെളിഞ്ഞു",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "janakninkaloru-piraviyil": {
+    "id": "janakninkaloru-piraviyil",
+    "songName": "ജനകനിങ്കലൊരു പിറവിയിൽ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "jayaharenatha-bhagavan": {
+    "id": "jayaharenatha-bhagavan",
+    "songName": "ജയഹരേനാഥ ഭഗവൻ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "namaste-pranathulya": {
+    "id": "namaste-pranathulya",
+    "songName": "നമസ്തേ പ്രാണതുല്യ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "narayana-nama": {
+    "id": "narayana-nama",
+    "songName": "നാരായണ നമ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "narayana-namo": {
+    "id": "narayana-namo",
+    "songName": "നാരായണ നമോ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "",
+    "singers": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "year": "1941"
+  },
+  "narayanam-bhaje-0": {
+    "id": "narayanam-bhaje-0",
+    "songName": "നാരായണം ഭജേ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "paramapuruha-nin": {
+    "id": "paramapuruha-nin",
+    "songName": "പരമപുരുഷ നിൻ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "madhava-nin-malaratiye": {
+    "id": "madhava-nin-malaratiye",
+    "songName": "മാധവാ നിൻ മലരടിയേ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "vande-vande-varijanethra": {
+    "id": "vande-vande-varijanethra",
+    "songName": "വന്ദേ വന്ദേ വാരിജനേത്ര",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "sree-ramavarmma-maharaja": {
+    "id": "sree-ramavarmma-maharaja",
+    "songName": "ശ്രീ രാമവർമ്മ മഹാരാജ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "വി എ ചെല്ലപ്പ",
+    "year": "1941"
+  },
+  "sree-vaikundavasa": {
+    "id": "sree-vaikundavasa",
+    "songName": "ശ്രീ വൈകുണ്ഠ വാസാ",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "saraseeruha-lochana": {
+    "id": "saraseeruha-lochana",
+    "songName": "സരസീരുഹ ലോചന",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "hantha-hantha": {
+    "id": "hantha-hantha",
+    "songName": "ഹന്ത ഹന്ത",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
+  },
+  "hare-sakalaloka-nayaka": {
+    "id": "hare-sakalaloka-nayaka",
+    "songName": "ഹരേ സകലലോക നായക",
+    "film": "പ്രഹ്ലാദ",
+    "lyricist": "കിളിമാനൂർ മാധവവാര്യര്‍",
+    "musicDirector": "വി എസ് പാർത്ഥസാരഥി അയ്യങ്കാർ",
+    "singers": "",
+    "year": "1941"
   }
 }
