@@ -83302,3 +83302,88 @@ Year complete: success=35, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 21296
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1958
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1958
+   Page 1: https://m3db.com/archive/lyrics/year/1958
+   Found 36 songs on this page. Total unique so far: 36
+Total songs to scrape for this year: 36
+🎵 [1/36] Scraping: 17947
+   ✅ Saved: ഇനിയെന്നു കാണുമെൻ ()
+🎵 [2/36] Scraping: 7187
+   ✅ Saved: എന്തിനിത്ര പഞ്ചസാര ()
+🎵 [3/36] Scraping: 13239
+   ✅ Saved: കണ്ണുനീരിതു കണ്ടതില്ലയോ ()
+🎵 [4/36] Scraping: 13235
+   ✅ Saved: കാത്തു സൂക്ഷിച്ചൊരു കസ്തൂരിമാമ്പഴം ()
+🎵 [5/36] Scraping: 13238
+   ✅ Saved: ധിനകു ധിനകു ധിന ധാരേ ()
+🎵 [6/36] Scraping: 13236
+   ✅ Saved: പൊന്നണിഞ്ഞിട്ടില്ല ഞാൻ ()
+🎵 [7/36] Scraping: 13237
+   ✅ Saved: വെളുത്ത പെണ്ണേ വെളുത്ത പെണ്ണേ ()
+🎵 [8/36] Scraping: 7188
+   ✅ Saved: ഹാലു പിടിച്ചൊരു ()
+🎵 [9/36] Scraping: 65537
+   ✅ Saved: ഈ മണ്ണ് നമ്മുടെ മണ്ണ് (1958)
+🎵 [10/36] Scraping: 17946
+   ✅ Saved: ഈശപുത്രനേ വാ (1958)
+🎵 [11/36] Scraping: 66945
+   ✅ Saved: കട്ടിയിരുമ്പെടുത്തു കാച്ചി (1958)
+🎵 [12/36] Scraping: 65508
+   ✅ Saved: കരളിൽ കനിയും രസമേ (1958)
+🎵 [13/36] Scraping: 65524
+   ✅ Saved: കൂട്ടിലൊരു തത്തമ്മ കാത്തിരിക്കുന്നേ (1958)
+🎵 [14/36] Scraping: 66947
+   ✅ Saved: പുന്നാരപ്പൊന്നു മോളേ‌ (1958)
+🎵 [15/36] Scraping: 66946
+   ✅ Saved: പൂങ്കുയില്‍ പാടിടുമ്പോള്‍ (1958)
+🎵 [16/36] Scraping: 65542
+   ✅ Saved: മനം നൊന്ത് ഞാൻ പെറ്റ മംഗല്യമേ (1958)
+🎵 [17/36] Scraping: 17944
+   ✅ Saved: മായമീ ലോകം (1958)
+🎵 [18/36] Scraping: 17945
+   ✅ Saved: വരുമോ ഇരുൾ മാറി (1958)
+🎵 [19/36] Scraping: 66888
+   ✅ Saved: ഓടക്കുയലൂതുന്നേ (1958)
+🎵 [20/36] Scraping: 66929
+   ✅ Saved: ഓടുന്നുണ്ടോടുന്നുണ്ടേ (1958)
+🎵 [21/36] Scraping: 66886
+   ✅ Saved: കാട്ടിനിന്ന നിന്നെ (1958)
+🎵 [22/36] Scraping: 66885
+   ✅ Saved: കാണാത്തതെല്ലാം കാണുന്നു (1958)
+🎵 [23/36] Scraping: 66934
+   ✅ Saved: താ തക്കിടത്തന്താരേ (1958)
+🎵 [24/36] Scraping: 11988
+   ✅ Saved: തുമ്പപ്പൂപെയ്യണ പൂനിലാവേ ()
+🎵 [25/36] Scraping: 66887
+   ✅ Saved: നാളെയാണു കല്യാണം (1958)
+🎵 [26/36] Scraping: 66930
+   ✅ Saved: പാടത്തിന്‍ മണ്ണില് (1958)
+🎵 [27/36] Scraping: 66931
+   ✅ Saved: പൂമഴപെയ്തല്ല് പൂമരം പൂത്തല്ല് (1958)
+🎵 [28/36] Scraping: 17942
+   ✅ Saved: ആലപ്പുഴക്കടവീന്ന് ()
+🎵 [29/36] Scraping: 17940
+   ✅ Saved: ഏഴാം കടലിനപ്പുറമുണ്ടൊരു ()
+🎵 [30/36] Scraping: odi-odi-odi-vannu
+   ✅ Saved: ഓടി ഓടി ഓടി വന്നു ()
+🎵 [31/36] Scraping: 17943
+   ✅ Saved: ഓടിയോടി ഓടി വന്നു ()
+🎵 [32/36] Scraping: 13281
+   ✅ Saved: കന്യാമറിയമേ തായെ ()
+🎵 [33/36] Scraping: 66948
+   ✅ Saved: കല്‍ക്കണ്ടമാവിന്‍ ചോട്ടില്‍ (1958)
+🎵 [34/36] Scraping: 66949
+   ✅ Saved: കേഴുന്നതെന്തിനാവോ (1958)
+🎵 [35/36] Scraping: 66950
+   ✅ Saved: നാളെ നിന്റെ കല്യാണം (1958)
+🎵 [36/36] Scraping: 14441
+   ✅ Saved: യേശുനായകാ പ്രേമസാഗരാ ()
+Year complete: success=36, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 21332
