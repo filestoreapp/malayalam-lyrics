@@ -15,7 +15,8 @@ function renderSongCard(song) {
     <p>Year: ${song.year}</p>
   `;
   card.addEventListener('click', () => {
-    window.location.href = `song.html?id=${song.id}`;
+    const yearParam = song.year ? encodeURIComponent(song.year) : 'unknown';
+    window.location.href = `song.html?id=${song.id}&year=${yearParam}`;
   });
   return card;
 }
