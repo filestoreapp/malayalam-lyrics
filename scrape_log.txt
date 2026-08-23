@@ -83870,3 +83870,182 @@ Year complete: success=70, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 21554
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1954
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1954
+   Page 1: https://m3db.com/archive/lyrics/year/1954
+   Found 83 songs on this page. Total unique so far: 83
+Total songs to scrape for this year: 83
+🎵 [1/83] Scraping: 66494
+   ✅ Saved: വരൂ നീ പ്രേമരമണീ (1952)
+🎵 [2/83] Scraping: 39595
+   ✅ Saved: എന്‍ ജീവിതസുഖ (1954)
+🎵 [3/83] Scraping: 66599
+   ✅ Saved: കണ്ണിനും കണ്ണായി നേടി (1954)
+🎵 [4/83] Scraping: 39599
+   ✅ Saved: കളിയോടമിതില്‍ (1954)
+🎵 [5/83] Scraping: 66603
+   ✅ Saved: ഞാനനേകം നാളുണ്ടു (bit) (1954)
+🎵 [6/83] Scraping: 39593
+   ✅ Saved: താരണത്തങ്കനിലാവേ (1954)
+🎵 [7/83] Scraping: 39597
+   ✅ Saved: തുള്ളിത്തുള്ളി ഓടിവാ (1954)
+🎵 [8/83] Scraping: 39598
+   ✅ Saved: ഭൂവിങ്കലെന്നുമനുരാഗമതിന്‍ (1954)
+🎵 [9/83] Scraping: 39596
+   ✅ Saved: മനോഹരമിതാ ഹാ (1954)
+🎵 [10/83] Scraping: 17876
+   ✅ Saved: വാ‍ വാ എൻ ദേവാ ()
+🎵 [11/83] Scraping: adi-thozhunnen-ambike
+   ✅ Saved: അടി തൊഴുന്നേനംബികേ ()
+🎵 [12/83] Scraping: allallamallallinte
+   ✅ Saved: അല്ലലാമല്ലലിന്റെ ()
+🎵 [13/83] Scraping: avan-varunnu
+   ✅ Saved: അവൻ വരുന്നൂ ()
+🎵 [14/83] Scraping: 12556
+   ✅ Saved: അൻപു തൻ പൊന്നമ്പലത്തിൽ ()
+🎵 [15/83] Scraping: asha-kaivitathe
+   ✅ Saved: ആശ കൈവിടാതെ (1954)
+🎵 [16/83] Scraping: ororo-chenchorathan
+   ✅ Saved: ഓരോരോ ചെഞ്ചോര തൻ ()
+🎵 [17/83] Scraping: 55046
+   ✅ Saved: ജീവിതം നുകർന്ന് (1954)
+🎵 [18/83] Scraping: 66645
+   ✅ Saved: പിന്നിലാക്കി ജീവിതത്തിന്‍ (1954)
+🎵 [19/83] Scraping: manasamohanane
+   ✅ Saved: മാനസ മോഹനനേ (1954)
+🎵 [20/83] Scraping: varunnu-njaan
+   ✅ Saved: വരുന്നു ഞാൻ ()
+🎵 [21/83] Scraping: vinnin-nilaave
+   ✅ Saved: വിണ്ണിൻ നിലാവേ ()
+🎵 [22/83] Scraping: vishaadamenthinu-thozhee
+   ✅ Saved: വിഷാദമെന്തിനു തോഴീ ()
+🎵 [23/83] Scraping: 11830
+   ✅ Saved: ഉണരുണരൂ ഉണ്ണിക്കണ്ണാ ()
+🎵 [24/83] Scraping: 11828
+   ✅ Saved: എങ്ങനെ നീ മറക്കും കുയിലേ ()
+🎵 [25/83] Scraping: 11825
+   ✅ Saved: എല്ലാരും ചൊല്ലണ് ()
+🎵 [26/83] Scraping: kadalasu-vanchiyeri
+   ✅ Saved: കടലാസുവഞ്ചിയേറി ()
+🎵 [27/83] Scraping: 11829
+   ✅ Saved: കായലരികത്ത് വലയെറിഞ്ഞപ്പോൾ ()
+🎵 [28/83] Scraping: 11831
+   ✅ Saved: കുയിലിനെത്തേടി ()
+🎵 [29/83] Scraping: 17881
+   ✅ Saved: ജിഞ്ചക്കം താരോ ()
+🎵 [30/83] Scraping: 7198
+   ✅ Saved: മാനെന്നും വിളിക്കില്ല ()
+🎵 [31/83] Scraping: 11832
+   ✅ Saved: മിന്നും പൊന്നിൻ കിരീടം ()
+🎵 [32/83] Scraping: 12636
+   ✅ Saved: അമ്മിണിക്കുട്ടൻ വളർന്നാൽ ()
+🎵 [33/83] Scraping: 66607
+   ✅ Saved: അമ്മിണിക്കുട്ടൻ വളർന്നാൽ (D) (1954)
+🎵 [34/83] Scraping: koottinu-varumo
+   ✅ Saved: കൂട്ടിനു വരുമോ ()
+🎵 [35/83] Scraping: kezhathe-thozhi
+   ✅ Saved: കേഴാതെ തോഴീ ()
+🎵 [36/83] Scraping: 66608
+   ✅ Saved: ദേവീ ദേവീ (1954)
+🎵 [37/83] Scraping: 66614
+   ✅ Saved: നല്ലൊരു പാട്ടു നീ ചൊല്ലിത്തരാമോ (1954)
+🎵 [38/83] Scraping: 66615
+   ✅ Saved: നിൻ കനിവാണീ നന്മകളഖിലം ()
+🎵 [39/83] Scraping: 66610
+   ✅ Saved: ലീലാരസമയ മാനസമേ (1954)
+🎵 [40/83] Scraping: vaadithalarnnoru
+   ✅ Saved: വാടിത്തളർന്നൊരു ()
+🎵 [41/83] Scraping: ayyo-maryada-rama
+   ✅ Saved: അയ്യോ മര്യാദ രാമാ (1954)
+🎵 [42/83] Scraping: 38012
+   ✅ Saved: ആനന്ദജാലങ്ങള്‍ (1954)
+🎵 [43/83] Scraping: 38016
+   ✅ Saved: എന്‍ കരളേല്‍ (1954)
+🎵 [44/83] Scraping: 38010
+   ✅ Saved: ഒരുമയില്‍ നിന്നെ (1954)
+🎵 [45/83] Scraping: 38019
+   ✅ Saved: താരേ വരിക നീ ചാരേ (1954)
+🎵 [46/83] Scraping: 38020
+   ✅ Saved: നാഥനിരിക്കുമ്പോള്‍ (1954)
+🎵 [47/83] Scraping: 38017
+   ✅ Saved: പാടിയാടി (1954)
+🎵 [48/83] Scraping: 38011
+   ✅ Saved: പാരാകവേ രാഗപ്പാലാഴിയാകവേ (1954)
+🎵 [49/83] Scraping: 38018
+   ✅ Saved: പുകളിന്റെ പൊന്നിൻ (1954)
+🎵 [50/83] Scraping: 38013
+   ✅ Saved: പുമുല്ല തേടി (1954)
+🎵 [51/83] Scraping: 38014
+   ✅ Saved: മാരിക്കാറു മാറിപ്പോയി (1954)
+🎵 [52/83] Scraping: ravippol-kshana
+   ✅ Saved: രാവിപ്പോൾ ക്ഷണ (bit) (1954)
+🎵 [53/83] Scraping: 38101
+   ✅ Saved: ആശാരഹിതമേ (1954)
+🎵 [54/83] Scraping: 38100
+   ✅ Saved: എന്തിനായ് വിരിഞ്ഞീടും (1954)
+🎵 [55/83] Scraping: 38108
+   ✅ Saved: എന്നോമല്‍ തങ്കമേ (1954)
+🎵 [56/83] Scraping: 38102
+   ✅ Saved: കടമിഴിയാലേ കഥ പറയാതെ (1954)
+🎵 [57/83] Scraping: kandorundo-ente-kannane
+   ✅ Saved: കണ്ടോരുണ്ടോ എന്റെ കണ്ണനെ (1954)
+🎵 [58/83] Scraping: 17878
+   ✅ Saved: നീലിപ്പെണ്ണേ നീലിപ്പെണ്ണേ ()
+🎵 [59/83] Scraping: 38106
+   ✅ Saved: പൂജ ചെയ്‌വു ഞാന്‍ (1954)
+🎵 [60/83] Scraping: 38105
+   ✅ Saved: പൂവ്വല്‍ മെയ്യഴകേ (1954)
+🎵 [61/83] Scraping: 38107
+   ✅ Saved: പ്രതീക്ഷകള്‍ നാളെ (1954)
+🎵 [62/83] Scraping: 38104
+   ✅ Saved: മാല കോര്‍ക്കുക (1954)
+🎵 [63/83] Scraping: 66589
+   ✅ Saved: കണവൻതൻ ജീവിതനൌക (1954)
+🎵 [64/83] Scraping: 66590
+   ✅ Saved: കാണുവതെല്ലാം മായികമേ (1954)
+🎵 [65/83] Scraping: kochariprave
+   ✅ Saved: കൊച്ചരിപ്രാവേ (1954)
+🎵 [66/83] Scraping: 66588
+   ✅ Saved: ജയമാതേ കല്യാണി (1954)
+🎵 [67/83] Scraping: 66592
+   ✅ Saved: നവപ്രേമമന്ദാരം (1954)
+🎵 [68/83] Scraping: 66591
+   ✅ Saved: പൊൻകിനാവേ മായാതെ (1954)
+🎵 [69/83] Scraping: 66593
+   ✅ Saved: മുരളി പാടി (1954)
+🎵 [70/83] Scraping: anayathe-nilpoo
+   ✅ Saved: അണയാതെ നില്പൂ ()
+🎵 [71/83] Scraping: 12686
+   ✅ Saved: അദ്ധ്വാനിക്കുന്നവർക്കും ()
+🎵 [72/83] Scraping: 66616
+   ✅ Saved: ഇന്നുവരും എന്‍നായകന്‍ (1954)
+🎵 [73/83] Scraping: kannum-poottiyuranguka
+   ✅ Saved: കണ്ണും പൂട്ടിയുറങ്ങുക (1954)
+🎵 [74/83] Scraping: 12689
+   ✅ Saved: കണ്ണും പൂട്ടിയുറങ്ങുക ()
+🎵 [75/83] Scraping: kanivolum-kamaneeya
+   ✅ Saved: കനിവോലും കമനീയ ()
+🎵 [76/83] Scraping: 66621
+   ✅ Saved: കൂറ്റുകാർ നിന്നെ വിളിപ്പതെന്തേ (1954)
+🎵 [77/83] Scraping: 66619
+   ✅ Saved: കൊച്ചിളം കാറ്റത്തു (1954)
+🎵 [78/83] Scraping: 66617
+   ✅ Saved: ജഗദീശ്വരലീലകളാരറിവൂ (1954)
+🎵 [79/83] Scraping: 66623
+   ✅ Saved: പോയ്‌വരു നീ പോയ്‌വരു (1954)
+🎵 [80/83] Scraping: mazhayellaam-poyallo
+   ✅ Saved: മഴയെല്ലാം പോയല്ലോ ()
+🎵 [81/83] Scraping: 66622
+   ✅ Saved: മഹല്‍ത്യാഗമേ (1954)
+🎵 [82/83] Scraping: maanam-thelinju
+   ✅ Saved: മാനം തെളിഞ്ഞു ()
+🎵 [83/83] Scraping: 66625
+   ✅ Saved: വന്നു വന്നു ക്രിസ്തുമസ്സേ (1954)
+Year complete: success=83, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 21637
