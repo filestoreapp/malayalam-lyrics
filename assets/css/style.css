@@ -44,86 +44,61 @@ h1 {
   outline: none;
 }
 
-#movieCount {
+.filters {
+  margin-top: 15px;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.filters select {
+  padding: 10px 15px;
+  font-size: 14px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+}
+
+#songCount {
   text-align: center;
   margin-bottom: 20px;
   opacity: 0.7;
 }
 
-#movieList {
+#songList {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 20px;
-  max-width: 1400px;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 15px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
-.movie-card {
+.song-card {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: 8px;
-  overflow: hidden;
-  display: flex;
-  flex-direction: column;
+  padding: 15px;
+  cursor: pointer;
   transition: transform 0.2s, border-color 0.2s;
 }
 
-.movie-card:hover {
+.song-card:hover {
   transform: translateY(-3px);
   border-color: var(--accent);
 }
 
-.movie-poster {
-  width: 100%;
-  aspect-ratio: 2/3;
-  object-fit: cover;
-}
-
-.poster-placeholder {
-  width: 100%;
-  aspect-ratio: 2/3;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 3rem;
-  background: #2a2a2a;
-}
-
-.movie-info {
-  padding: 15px;
-  flex: 1;
-}
-
-.movie-title {
+.song-card h3 {
   color: var(--accent);
-  margin-bottom: 5px;
-  font-size: 1.2rem;
+  margin-bottom: 8px;
+  font-size: 18px;
 }
 
-.movie-year {
-  opacity: 0.7;
-  margin-bottom: 10px;
-  font-size: 0.9rem;
-}
-
-.song-list {
-  list-style: none;
-  padding: 0;
-}
-
-.song-list li {
-  margin: 5px 0;
-}
-
-.song-link {
-  color: var(--text);
-  text-decoration: none;
-  transition: color 0.2s;
-}
-
-.song-link:hover {
-  color: var(--accent);
-  text-decoration: underline;
+.song-card p {
+  margin: 3px 0;
+  font-size: 14px;
+  opacity: 0.9;
 }
 
 .back-link {
@@ -162,8 +137,5 @@ h1 {
   #lyricsContent {
     font-size: 16px;
     padding: 20px;
-  }
-  #movieList {
-    grid-template-columns: 1fr;
   }
 }
