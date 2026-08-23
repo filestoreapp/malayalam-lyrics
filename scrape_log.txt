@@ -84242,3 +84242,322 @@ Year complete: success=90, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 21727
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1952
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1952
+   Page 1: https://m3db.com/archive/lyrics/year/1952
+   Found 153 songs on this page. Total unique so far: 153
+Total songs to scrape for this year: 153
+🎵 [1/153] Scraping: 12540
+   ✅ Saved: അമ്പിളിയമ്മാവാ തിരിഞ്ഞു നിന്ന് ()
+🎵 [2/153] Scraping: aariro-kanmaniye
+   ✅ Saved: ആരീരോ കണ്മണിയേ (1952)
+🎵 [3/153] Scraping: 66302
+   ✅ Saved: എന്മകനേ നീ ഉറങ്ങുറങ്ങ് (1952)
+🎵 [4/153] Scraping: kalachakram-ithu-thiriyuka
+   ✅ Saved: കാലചക്രം ഇത് തിരിയുക (1952)
+🎵 [5/153] Scraping: ghora-karmamitharuthe
+   ✅ Saved: ഘോരകർമ്മമിതരുതേ ()
+🎵 [6/153] Scraping: 66337
+   ✅ Saved: ജീവിതാനന്ദം (1952)
+🎵 [7/153] Scraping: thathante-sannidhi
+   ✅ Saved: താതന്റെ സന്നിധി ()
+🎵 [8/153] Scraping: 12485
+   ✅ Saved: തെളിയൂ നീ പൊൻവിളക്കേ ()
+🎵 [9/153] Scraping: daivame-karunasagarame
+   ✅ Saved: ദൈവമേ കരുണാസാഗരമേ ()
+🎵 [10/153] Scraping: 12549
+   ✅ Saved: നാമേ മുതലാളി നമുക്കിനി ()
+🎵 [11/153] Scraping: pani-cheyyaathe
+   ✅ Saved: പണി ചെയ്യാതെ ()
+🎵 [12/153] Scraping: poovanchumee-thanu-thalarnnu
+   ✅ Saved: പൂവഞ്ചുമീ തനു തളർന്നു (1952)
+🎵 [13/153] Scraping: ponnumakanr
+   ✅ Saved: പൊന്നുമകനേ (1952)
+🎵 [14/153] Scraping: madhumaasachandrika
+   ✅ Saved: മധുമാസചന്ദ്രിക ()
+🎵 [15/153] Scraping: 12709
+   ✅ Saved: മധുരമധുരമീ ജീവിതം ()
+🎵 [16/153] Scraping: maara-manam-kolla-cheitha
+   ✅ Saved: മാരാ മനം കൊള്ള ചെയ്ത ()
+🎵 [17/153] Scraping: lokare-ithu-kettu
+   ✅ Saved: ലോകരേ ഇത് കേട്ട് (1952)
+🎵 [18/153] Scraping: vanithakalanimaale
+   ✅ Saved: വനിതകളണിമാലേ ()
+🎵 [19/153] Scraping: 12544
+   ✅ Saved: വരുമോ വരുമോ ഇനി ()
+🎵 [20/153] Scraping: 66480
+   ✅ Saved: അണിയായ് പുഴയിലണയാം (1952)
+🎵 [21/153] Scraping: aniyay-puzhayil
+   ✅ Saved: അണിയായ് പുഴയിൽ (1952)
+🎵 [22/153] Scraping: amma-thaan-paaril
+   ✅ Saved: അമ്മ താൻ പാരിൽ ()
+🎵 [23/153] Scraping: 66479
+   ✅ Saved: അമ്മതാൻ പാരിൽ ആലംബമേ (1952)
+🎵 [24/153] Scraping: 66482
+   ✅ Saved: അരുതേ പൈങ്കിളിയേ (1952)
+🎵 [25/153] Scraping: aruthe-painkiliye
+   ✅ Saved: അരുതേ പൈങ്കിളിയേ ()
+🎵 [26/153] Scraping: arumasodara
+   ✅ Saved: അരുമസോദരാ ()
+🎵 [27/153] Scraping: 66481
+   ✅ Saved: അരുമസോദരാ (1952)
+🎵 [28/153] Scraping: 66476
+   ✅ Saved: ആനന്ദ സുദിനമിതേ (1952)
+🎵 [29/153] Scraping: ananda-sudinamithe
+   ✅ Saved: ആനന്ദസുദിനമിതേ ()
+🎵 [30/153] Scraping: udamayum-elimayum
+   ✅ Saved: ഉടമയും എളിമയും (1952)
+🎵 [31/153] Scraping: kezhuka-thaye
+   ✅ Saved: കേഴുക തായേ ()
+🎵 [32/153] Scraping: 66484
+   ✅ Saved: കേഴുക തായേ (1952)
+🎵 [33/153] Scraping: 66483
+   ✅ Saved: ചുരുക്കത്തില്‍ രണ്ടുദിനം (1952)
+🎵 [34/153] Scraping: 17839
+   ✅ Saved: ചുരുക്കത്തിൽ രണ്ടു ദിനം ()
+🎵 [35/153] Scraping: 66485
+   ✅ Saved: നീണാൾ വാണീടും (1952)
+🎵 [36/153] Scraping: paavanam-paavanam
+   ✅ Saved: പാവനം പാവനം ()
+🎵 [37/153] Scraping: 66486
+   ✅ Saved: പൊന്‍തിരുവോണം വരവായ് (1952)
+🎵 [38/153] Scraping: pon-thiruvonam-varavaayi
+   ✅ Saved: പൊൻ തിരുവോണം വരവായ് (1952)
+🎵 [39/153] Scraping: vanamaali-varavaayi
+   ✅ Saved: വനമാലി വരവായി ()
+🎵 [40/153] Scraping: varoo-nee-premaramani
+   ✅ Saved: വരൂ നീ പ്രേമരമണി (1952)
+🎵 [41/153] Scraping: arodum
+   ✅ Saved: സഖി ആരോടും (1952)
+🎵 [42/153] Scraping: 66415
+   ✅ Saved: അല്ലലാമല്ലിന്റെ അന്ധകാരം (1952)
+🎵 [43/153] Scraping: 66386
+   ✅ Saved: അല്‍ഫോന്‍സാ അല്‍ഫോന്‍സാ (1952)
+🎵 [44/153] Scraping: 66388
+   ✅ Saved: ആദിത്യപ്രഭപോല്‍ (1952)
+🎵 [45/153] Scraping: kaniyoo-dayanidhe
+   ✅ Saved: കനിയൂ ദയാനിധേ (1952)
+🎵 [46/153] Scraping: 66417
+   ✅ Saved: കേള്‍ക്കുകാഹാ (1952)
+🎵 [47/153] Scraping: 66416
+   ✅ Saved: താരമാറും ആറും (1952)
+🎵 [48/153] Scraping: 66412
+   ✅ Saved: നന്മ നിറഞ്ഞോരമ്മേ (1952)
+🎵 [49/153] Scraping: 66413
+   ✅ Saved: പ്രേമജീവിത മലര്‍വാടി (1952)
+🎵 [50/153] Scraping: 66414
+   ✅ Saved: ഭവജീവികള്‍ക്കാശാനിലയമേ (1952)
+🎵 [51/153] Scraping: 52829
+   ✅ Saved: മാനസവീണേ (1952)
+🎵 [52/153] Scraping: 52832
+   ✅ Saved: വരുമോ (1952)
+🎵 [53/153] Scraping: 52825
+   ✅ Saved: ആനന്ദകാലമിനിമേൽ (1952)
+🎵 [54/153] Scraping: kaliyay-pandoru-aattitayan
+   ✅ Saved: കളിയായ് പണ്ടൊരു ആട്ടിടയൻ (1952)
+🎵 [55/153] Scraping: 12564
+   ✅ Saved: കൊച്ചമ്മയാകിലും ()
+🎵 [56/153] Scraping: 52824
+   ✅ Saved: പനിനീർപ്പൂപോലെ (1952)
+🎵 [57/153] Scraping: 66352
+   ✅ Saved: പാഴായജീവിതമേ (1952)
+🎵 [58/153] Scraping: 52826
+   ✅ Saved: മധുമയമാ‍യ്​ പാടി (1952)
+🎵 [59/153] Scraping: 12565
+   ✅ Saved: മധുരഗായകാ (1952)
+🎵 [60/153] Scraping: 66348
+   ✅ Saved: മറയുകയായ് പാവമേ (1952)
+🎵 [61/153] Scraping: 12561
+   ✅ Saved: മാറുവതില്ലേ ലോകമേ ()
+🎵 [62/153] Scraping: 66342
+   ✅ Saved: മാ‍യമാണു പാരില്‍ (1952)
+🎵 [63/153] Scraping: 12566
+   ✅ Saved: വരമായ് പ്രിയതരമായ് (1952)
+🎵 [64/153] Scraping: 12563
+   ✅ Saved: വളരു കൃഷീവല (1952)
+🎵 [65/153] Scraping: aa-neelavaanilen
+   ✅ Saved: ആ നീല വാനിലെൻ (1952)
+🎵 [66/153] Scraping: 38744
+   ✅ Saved: ആ നീലവാനിലെന്നാശകള്‍ (1952)
+🎵 [67/153] Scraping: 38746
+   ✅ Saved: ആഗതമായിതാ പുഷ്പകാലം (1952)
+🎵 [68/153] Scraping: 38754
+   ✅ Saved: ഇതോ ഹാ നിന്‍ നീതി (1952)
+🎵 [69/153] Scraping: 38749
+   ✅ Saved: ഇരുമിഴിതന്നില്‍ (1952)
+🎵 [70/153] Scraping: 38745
+   ✅ Saved: കന്നിക്കതിരാടും നാള്‍ (1952)
+🎵 [71/153] Scraping: kaattiladi-kanmayakkum
+   ✅ Saved: കാറ്റിലാടി കണ്മയക്കും ()
+🎵 [72/153] Scraping: 52827
+   ✅ Saved: കാറ്റിലാടികണ്മയക്കും (1952)
+🎵 [73/153] Scraping: 38748
+   ✅ Saved: ജയം ജയം സ്ഥാനജയം (1952)
+🎵 [74/153] Scraping: 38752
+   ✅ Saved: ജലജല ജല്‍ജല്‍ (1952)
+🎵 [75/153] Scraping: 38751
+   ✅ Saved: നീയേ ശരണമെന്‍ (1952)
+🎵 [76/153] Scraping: 38750
+   ✅ Saved: മറയുകയോ നീയെന്‍ (1952)
+🎵 [77/153] Scraping: 38753
+   ✅ Saved: മോഹനം മോഹനം മോഹനം (1952)
+🎵 [78/153] Scraping: 38747
+   ✅ Saved: ലോകമേ കാലം (1952)
+🎵 [79/153] Scraping: 38755
+   ✅ Saved: വരൂ വരൂ സോദരാ (1952)
+🎵 [80/153] Scraping: 66418
+   ✅ Saved: അമ്പിളി അമ്മാവാ നീ അന്‍പിനോടേ (1952)
+🎵 [81/153] Scraping: 66422
+   ✅ Saved: ഇനിമേല്‍ ഒരു പോതും (1952)
+🎵 [82/153] Scraping: 66421
+   ✅ Saved: ഗാനം പകര്‍ന്നയെന്‍ (1952)
+🎵 [83/153] Scraping: 66420
+   ✅ Saved: ചരണപങ്കജം ഗതിപരനേ (1952)
+🎵 [84/153] Scraping: nirasamathramayi
+   ✅ Saved: നിരാശമാത്രമായി (1952)
+🎵 [85/153] Scraping: 66419
+   ✅ Saved: ഭാവി ഇരുളാമോ (1952)
+🎵 [86/153] Scraping: 66424
+   ✅ Saved: മഞ്ജുകലികേ വിരിയൂ (1952)
+🎵 [87/153] Scraping: 66423
+   ✅ Saved: മായേ ത്വം യാഹി (1952)
+🎵 [88/153] Scraping: 66474
+   ✅ Saved: വാനില്‍മേലേ മാമതി പോലെ (1952)
+🎵 [89/153] Scraping: vela-cheyyu
+   ✅ Saved: വേല ചെയ്യൂ (1952)
+🎵 [90/153] Scraping: 66475
+   ✅ Saved: ശിവകാമേശ്വരീം ചിന്തയേഹം (1952)
+🎵 [91/153] Scraping: 66497
+   ✅ Saved: ഓ അതിമോദമാര്‍ന്ന പരമോര്‍മ്മയെന്‍ (1952)
+🎵 [92/153] Scraping: oh-en-maradevatha
+   ✅ Saved: ഓ എൻ മാരദേവതാ (1952)
+🎵 [93/153] Scraping: 66498
+   ✅ Saved: ഓ ചിന്തയിലെന്‍ മതി വാടിയിതാ (1952)
+🎵 [94/153] Scraping: 66499
+   ✅ Saved: സഹായമാരെ ബാലെ (1952)
+🎵 [95/153] Scraping: innale-nattoru
+   ✅ Saved: ഇന്നലെ നട്ടൊരു ()
+🎵 [96/153] Scraping: deepangal-mangi
+   ✅ Saved: ദീപങ്ങൾ മങ്ങി ()
+🎵 [97/153] Scraping: neelakkuruvi-neelakkuruvi
+   ✅ Saved: നീലക്കുരുവീ നീലക്കുരുവീ ()
+🎵 [98/153] Scraping: neelappoompeeli-nivarthaadm
+   ✅ Saved: നീലപ്പൂമ്പീലി നിവർത്താടും ()
+🎵 [99/153] Scraping: neram-poy
+   ✅ Saved: നേരം പോയ് ()
+🎵 [100/153] Scraping: neram-mangiya-nerathekkaa
+   ✅ Saved: നേരം മങ്ങിയ നേരത്തേക്കര ()
+🎵 [101/153] Scraping: 17292
+   ✅ Saved: നേരംപോയ് നേരംപോയ് ()
+🎵 [102/153] Scraping: poothamarakkombukalu
+   ✅ Saved: പൂത്തമരക്കൊമ്പുകള് കാത്തിരുന്ന ()
+🎵 [103/153] Scraping: 8604
+   ✅ Saved: പൊന്നരിവാളമ്പിളിയില് ()
+🎵 [104/153] Scraping: 17305
+   ✅ Saved: മാങ്കനികൾ തേടി ()
+🎵 [105/153] Scraping: maankanikal-thedi
+   ✅ Saved: മാങ്കനികൾ തേടി ()
+🎵 [106/153] Scraping: 18249
+   ✅ Saved: മാനം തെളിഞ്ഞല്ലോ ()
+🎵 [107/153] Scraping: 8596
+   ✅ Saved: മാരിവില്ലിൻ തേന്മലരേ ()
+🎵 [108/153] Scraping: maavelippaattumaay-maamalanaattile
+   ✅ Saved: മാവേലിപ്പാട്ടുമായ് മാമലനാട്ടിലെ ()
+🎵 [109/153] Scraping: moolippaattumaay-thambran
+   ✅ Saved: മൂളിപ്പാട്ടുമായ് തമ്പ്രാൻ ()
+🎵 [110/153] Scraping: vellaram-kunnile
+   ✅ Saved: വെള്ളാരം കുന്നിലെ ()
+🎵 [111/153] Scraping: 35068
+   ✅ Saved: അനുരാഗപ്പൂനിലാവിൽ (1952)
+🎵 [112/153] Scraping: 66375
+   ✅ Saved: ആതിരദിനമേ (1952)
+🎵 [113/153] Scraping: 53043
+   ✅ Saved: ആരിരാരോ (1952)
+🎵 [114/153] Scraping: 66382
+   ✅ Saved: കണ്ണുനീരില്‍ കാലമെല്ലാം (1952)
+🎵 [115/153] Scraping: 66380
+   ✅ Saved: ഗുണമില്ലീ റേഷന്‍ മോശമേ (1952)
+🎵 [116/153] Scraping: 35067
+   ✅ Saved: പറന്നു പോയെന്‍ പ്രേമപ്പൈങ്കിളി (1952)
+🎵 [117/153] Scraping: 66383
+   ✅ Saved: പാടുക നീലക്കുയിലേ (1952)
+🎵 [118/153] Scraping: 66384
+   ✅ Saved: പാപികളാല്‍ നിറയുന്നു (1952)
+🎵 [119/153] Scraping: 66378
+   ✅ Saved: ഭൂവിമേലേ ഹാ ഇതുപോല്‍ (1952)
+🎵 [120/153] Scraping: 38857
+   ✅ Saved: അയ്യോ ചേട്ടാ (1952)
+🎵 [121/153] Scraping: 38856
+   ✅ Saved: ആടിപ്പാടി ആടിപ്പാടി (1952)
+🎵 [122/153] Scraping: 38864
+   ✅ Saved: ഉടമയിൽവാഴും (1952)
+🎵 [123/153] Scraping: ohoru-jeevithame
+   ✅ Saved: ഓ...ഒരു ജീവിതമേ (1952)
+🎵 [124/153] Scraping: 38859
+   ✅ Saved: കരയാതെ സോദരീ (1952)
+🎵 [125/153] Scraping: 38858
+   ✅ Saved: ജഗദീശ്വരാ (1952)
+🎵 [126/153] Scraping: 38863
+   ✅ Saved: തവജീവിത (1952)
+🎵 [127/153] Scraping: 38862
+   ✅ Saved: പരിചിതരായിഹ (1952)
+🎵 [128/153] Scraping: 38860
+   ✅ Saved: മതിമോഹനമിതു (1952)
+🎵 [129/153] Scraping: 38861
+   ✅ Saved: മായരുതേയീ (1952)
+🎵 [130/153] Scraping: 79454
+   ✅ Saved: അമ്മാ ആരിനിയാലംബമമ്മാ (1952)
+🎵 [131/153] Scraping: 79453
+   ✅ Saved: ഉന്നതങ്ങളില്‍ (1952)
+🎵 [132/153] Scraping: 12677
+   ✅ Saved: കരയാതെന്നോമനക്കുഞ്ഞേ ()
+🎵 [133/153] Scraping: 12676
+   ✅ Saved: കുളിരേകിടുന്ന കാറ്റേ ()
+🎵 [134/153] Scraping: 12675
+   ✅ Saved: ചിന്തയിൽ നീറുന്ന ()
+🎵 [135/153] Scraping: 79455
+   ✅ Saved: നിത്യസുന്ദര സ്വര്‍ഗ്ഗം (1952)
+🎵 [136/153] Scraping: 12679
+   ✅ Saved: പാവനഹൃദയം തകർന്നൂ ()
+🎵 [137/153] Scraping: 79456
+   ✅ Saved: പോയിതുകാലം തമോമയം (1952)
+🎵 [138/153] Scraping: mohanane-ennathma
+   ✅ Saved: മോഹനനേ എന്നാത്മ (1952)
+🎵 [139/153] Scraping: mohanane-ennathma-0
+   ✅ Saved: മോഹനനേ എന്നാത്മ (1952)
+🎵 [140/153] Scraping: 12674
+   ✅ Saved: മോഹിനിയേ ()
+🎵 [141/153] Scraping: 66338
+   ✅ Saved: രമണൻ - സംഗീതനാടകം (1952)
+🎵 [142/153] Scraping: 52828
+   ✅ Saved: സഖിയാരോടും (1952)
+🎵 [143/153] Scraping: 12678
+   ✅ Saved: ഹാ ഹാ ജയിച്ചു പോയി ഞാൻ ()
+🎵 [144/153] Scraping: 66373
+   ✅ Saved: അഴലില്‍ നീറി (1952)
+🎵 [145/153] Scraping: 66365
+   ✅ Saved: അഴലില്‍ നീറി ദിനദിനം (1952)
+🎵 [146/153] Scraping: 66369
+   ✅ Saved: കുളിര്‍പവനന്‍ ചുരുളിളകിടവേ (1952)
+🎵 [147/153] Scraping: 66371
+   ✅ Saved: കേഴാനോ ഈ ജീവിതമെന്നുമഹോ (1952)
+🎵 [148/153] Scraping: 66368
+   ✅ Saved: ജീവിതം അഴലില്‍ ആഴ്ത്തിടാതെ (1952)
+🎵 [149/153] Scraping: 66367
+   ✅ Saved: തകരുന്നു ജീവിതം (1952)
+🎵 [150/153] Scraping: 66370
+   ✅ Saved: താരില്‍ റാണി (1952)
+🎵 [151/153] Scraping: 66366
+   ✅ Saved: പണിയെടുത്തും പട്ടിണിയില്‍ (1952)
+🎵 [152/153] Scraping: 66374
+   ✅ Saved: പുലരൊളി വീശുകയായ് (1952)
+🎵 [153/153] Scraping: 66372
+   ✅ Saved: പ്രേമസംഗീതം പാടിടുക (1952)
+Year complete: success=153, skipped=0, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 21880
