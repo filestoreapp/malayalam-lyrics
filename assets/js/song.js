@@ -1,13 +1,14 @@
 async function loadSong() {
   const params = new URLSearchParams(window.location.search);
   const id = params.get('id');
+  const year = params.get('year') || 'unknown';
   if (!id) {
     document.getElementById('lyricsContent').textContent = 'Song ID missing.';
     return;
   }
 
   try {
-    const response = await fetch(`data/lyrics/${id}.json`);
+    const response = await fetch(`data/lyrics/${encodeURIComponent(year)}/${id}.json`);
     if (!response.ok) throw new Error('Song not found');
     const song = await response.json();
 
