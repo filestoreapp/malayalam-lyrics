@@ -22,7 +22,7 @@ const featuredSong = document.getElementById('featuredSong');
 const randomSongBtn = document.getElementById('randomSongBtn');
 const themeToggle = document.getElementById('themeToggle');
 
-// Load theme
+// Theme toggle
 const savedTheme = localStorage.getItem('theme') || 'dark';
 document.body.classList.toggle('light', savedTheme === 'light');
 
@@ -31,7 +31,7 @@ themeToggle.addEventListener('click', () => {
   localStorage.setItem('theme', document.body.classList.contains('light') ? 'light' : 'dark');
 });
 
-// Fetch index.json
+// Load data
 async function loadSongs() {
   try {
     const response = await fetch('data/index.json');
@@ -45,7 +45,7 @@ async function loadSongs() {
   }
 }
 
-// Helper: get unique sorted values for a field
+// Get unique values for a field
 function getUniqueValues(field) {
   const vals = new Set();
   allSongs.forEach(song => {
@@ -55,7 +55,7 @@ function getUniqueValues(field) {
   return Array.from(vals).sort();
 }
 
-// Render stats bar
+// Stats bar
 function renderStats() {
   const totalSongs = allSongs.length;
   const movies = getUniqueValues('film').length;
@@ -74,7 +74,7 @@ function renderStats() {
   `;
 }
 
-// Render alphabet browse buttons
+// Alphabet browse
 function renderAlphabet() {
   const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
   alphabetBrowse.innerHTML = '<button data-letter="" class="active">All</button>';
@@ -93,10 +93,9 @@ function renderAlphabet() {
   });
 }
 
-// Render featured song (Lyrics of the Day)
+// Featured song (Lyrics of the Day)
 function renderFeaturedSong() {
   if (allSongs.length === 0) return;
-  // Choose a song based on day of year (deterministic)
   const now = new Date();
   const start = new Date(now.getFullYear(), 0, 0);
   const diff = now - start;
@@ -108,12 +107,10 @@ function renderFeaturedSong() {
     <h2>${song.songName}</h2>
     <p>Film: ${song.film} | Year: ${song.year}</p>
   `;
-  featuredSong.addEventListener('click', () => {
-    goToSong(song);
-  });
+  featuredSong.addEventListener('click', () => goToSong(song));
 }
 
-// Navigate to song page
+// Go to song page
 function goToSong(song) {
   const year = song.year || 'unknown';
   window.location.href = `song.html?id=${song.id}&year=${encodeURIComponent(year)}`;
@@ -135,7 +132,6 @@ function createSongCard(song) {
     </div>
   `;
   card.addEventListener('click', (e) => {
-    // Ignore clicks on share button
     if (e.target.classList.contains('share-btn')) return;
     goToSong(song);
   });
@@ -152,7 +148,7 @@ function createSongCard(song) {
   return card;
 }
 
-// Render song grid
+// Render grid with pagination
 function renderSongs() {
   songList.innerHTML = '';
   const start = (currentPage - 1) * ITEMS_PER_PAGE;
@@ -169,7 +165,7 @@ function renderSongs() {
   renderPagination();
 }
 
-// Render pagination controls
+// Pagination
 function renderPagination() {
   const totalPages = Math.ceil(filteredSongs.length / ITEMS_PER_PAGE);
   paginationDiv.innerHTML = '';
@@ -186,7 +182,6 @@ function renderPagination() {
   });
   paginationDiv.appendChild(prevBtn);
 
-  // Page numbers (max 7 visible)
   let startPage = Math.max(1, currentPage - 3);
   let endPage = Math.min(totalPages, startPage + 6);
   if (endPage - startPage < 6) {
@@ -217,13 +212,12 @@ function renderPagination() {
   paginationDiv.appendChild(nextBtn);
 }
 
-// Apply all filters and sorting
+// Apply filters and sorting
 function applyFiltersAndRender() {
   currentSearch = searchInput.value.toLowerCase().trim();
   const query = currentSearch;
 
   filteredSongs = allSongs.filter(song => {
-    // Search filter
     const matchesSearch = !query ||
       song.songName.toLowerCase().includes(query) ||
       song.film.toLowerCase().includes(query) ||
@@ -232,18 +226,15 @@ function applyFiltersAndRender() {
       song.singers.toLowerCase().includes(query) ||
       song.year.includes(query);
 
-    // Type filter
     const matchesType = currentFilterType === 'all' || currentFilterValue === '' ||
       song[currentFilterType] === currentFilterValue;
 
-    // Alphabet filter (on songName)
     const matchesAlphabet = currentAlphabet === '' ||
       song.songName.charAt(0).toUpperCase() === currentAlphabet;
 
     return matchesSearch && matchesType && matchesAlphabet;
   });
 
-  // Sorting
   switch (currentSort) {
     case 'title':
       filteredSongs.sort((a, b) => a.songName.localeCompare(b.songName, 'ml'));
@@ -261,9 +252,7 @@ function applyFiltersAndRender() {
       filteredSongs.sort((a, b) => a.film.localeCompare(b.film, 'ml'));
       break;
     case 'added':
-      // Use insertion order (id) - no sort needed
-      break;
-    default:
+      // Keep original order
       break;
   }
 
@@ -290,24 +279,16 @@ function populateFilterValues() {
 }
 
 // Event listeners
-searchInput.addEventListener('input', () => {
-  applyFiltersAndRender();
-});
-
-filterType.addEventListener('change', () => {
-  populateFilterValues();
-});
-
+searchInput.addEventListener('input', applyFiltersAndRender);
+filterType.addEventListener('change', populateFilterValues);
 filterValue.addEventListener('change', () => {
   currentFilterValue = filterValue.value;
   applyFiltersAndRender();
 });
-
 sortType.addEventListener('change', () => {
   currentSort = sortType.value;
   applyFiltersAndRender();
 });
-
 randomSongBtn.addEventListener('click', () => {
   if (allSongs.length === 0) return;
   const randomIndex = Math.floor(Math.random() * filteredSongs.length || allSongs.length);
@@ -315,14 +296,14 @@ randomSongBtn.addEventListener('click', () => {
   goToSong(song);
 });
 
-// Initialization
+// Initialize
 async function init() {
   await loadSongs();
   if (allSongs.length === 0) return;
   renderStats();
   renderAlphabet();
   renderFeaturedSong();
-  populateFilterValues(); // this sets currentFilterType based on select value
+  populateFilterValues();
   applyFiltersAndRender();
 }
 
