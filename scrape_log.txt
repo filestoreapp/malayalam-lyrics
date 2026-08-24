@@ -108233,3 +108233,39 @@ Year complete: success=0, skipped=14, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1938
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1938
+   Page 1: https://m3db.com/archive/lyrics/year/1938
+   Found 23 songs on this page. Total unique so far: 23
+Total songs to scrape for this year: 23
+⏭️  [1/23] Already exists in index: 37465
+⏭️  [2/23] Already exists in index: 37462
+⏭️  [3/23] Already exists in index: 37461
+⏭️  [4/23] Already exists in index: 37463
+⏭️  [5/23] Already exists in index: 37469
+⏭️  [6/23] Already exists in index: 37471
+⏭️  [7/23] Already exists in index: 37468
+⏭️  [8/23] Already exists in index: 37464
+⏭️  [9/23] Already exists in index: 34991
+⏭️  [10/23] Already exists in index: 37477
+⏭️  [11/23] Already exists in index: durnnaya-jeevithame
+⏭️  [12/23] Already exists in index: 37474
+⏭️  [13/23] Already exists in index: 37466
+⏭️  [14/23] Already exists in index: 37460
+⏭️  [15/23] Already exists in index: 37473
+⏭️  [16/23] Already exists in index: 37472
+⏭️  [17/23] Already exists in index: maaran-ghorasarangal
+⏭️  [18/23] Already exists in index: 37467
+⏭️  [19/23] Already exists in index: lokam-anaswarame
+⏭️  [20/23] Already exists in index: 37476
+⏭️  [21/23] Already exists in index: sree-vasudevaparane
+⏭️  [22/23] Already exists in index: 37475
+⏭️  [23/23] Already exists in index: 37470
+Year complete: success=0, skipped=23, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
