@@ -107506,3 +107506,86 @@ Year complete: success=0, skipped=60, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1955
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1955
+   Page 1: https://m3db.com/archive/lyrics/year/1955
+   Found 70 songs on this page. Total unique so far: 70
+Total songs to scrape for this year: 70
+⏭️  [1/70] Already exists in index: 66650
+⏭️  [2/70] Already exists in index: 66649
+⏭️  [3/70] Already exists in index: 66707
+⏭️  [4/70] Already exists in index: 66662
+⏭️  [5/70] Already exists in index: 66663
+⏭️  [6/70] Already exists in index: 66713
+⏭️  [7/70] Already exists in index: 66711
+⏭️  [8/70] Already exists in index: 66714
+⏭️  [9/70] Already exists in index: 66715
+⏭️  [10/70] Already exists in index: 66716
+⏭️  [11/70] Already exists in index: 66709
+⏭️  [12/70] Already exists in index: 66717
+⏭️  [13/70] Already exists in index: 8297
+⏭️  [14/70] Already exists in index: aa-malarpoykayil
+⏭️  [15/70] Already exists in index: 9748
+⏭️  [16/70] Already exists in index: 8299
+⏭️  [17/70] Already exists in index: oho-thathinantha
+⏭️  [18/70] Already exists in index: 66647
+⏭️  [19/70] Already exists in index: 8300
+⏭️  [20/70] Already exists in index: marayathe-vilasavu
+⏭️  [21/70] Already exists in index: maanathoonnoru
+⏭️  [22/70] Already exists in index: 38771
+⏭️  [23/70] Already exists in index: ennini-njan-nedum
+⏭️  [24/70] Already exists in index: kunkumacharumaninju
+⏭️  [25/70] Already exists in index: 12575
+⏭️  [26/70] Already exists in index: 12576
+⏭️  [27/70] Already exists in index: panathin-neethiyil
+⏭️  [28/70] Already exists in index: 38770
+⏭️  [29/70] Already exists in index: paavanamaamidamaami
+⏭️  [30/70] Already exists in index: 66721
+⏭️  [31/70] Already exists in index: 66722
+⏭️  [32/70] Already exists in index: udayagiri-chuvannu
+⏭️  [33/70] Already exists in index: enthinu-kanneerennum
+⏭️  [34/70] Already exists in index: 66718
+⏭️  [35/70] Already exists in index: kallilum-mullilum
+⏭️  [36/70] Already exists in index: chirichukonde
+⏭️  [37/70] Already exists in index: 66720
+⏭️  [38/70] Already exists in index: thellakalathu
+⏭️  [39/70] Already exists in index: 81617
+⏭️  [40/70] Already exists in index: 66719
+⏭️  [41/70] Already exists in index: pazhaya-yugangngal
+⏭️  [42/70] Already exists in index: 17783
+⏭️  [43/70] Already exists in index: 66655
+⏭️  [44/70] Already exists in index: 66652
+⏭️  [45/70] Already exists in index: kanum-kanninu
+⏭️  [46/70] Already exists in index: kanam-veendum-thalirthu
+⏭️  [47/70] Already exists in index: 66648
+⏭️  [48/70] Already exists in index: 66651
+⏭️  [49/70] Already exists in index: theyila-thottam
+⏭️  [50/70] Already exists in index: 66654
+⏭️  [51/70] Already exists in index: 66653
+⏭️  [52/70] Already exists in index: 66656
+⏭️  [53/70] Already exists in index: 66723
+⏭️  [54/70] Already exists in index: 7598
+⏭️  [55/70] Already exists in index: adimannil
+⏭️  [56/70] Already exists in index: 38778
+⏭️  [57/70] Already exists in index: 17884
+⏭️  [58/70] Already exists in index: 38772
+⏭️  [59/70] Already exists in index: 38783
+⏭️  [60/70] Already exists in index: 38779
+⏭️  [61/70] Already exists in index: 38781
+⏭️  [62/70] Already exists in index: 38776
+⏭️  [63/70] Already exists in index: 38784
+⏭️  [64/70] Already exists in index: 38782
+⏭️  [65/70] Already exists in index: 38780
+⏭️  [66/70] Already exists in index: 17883
+⏭️  [67/70] Already exists in index: maya-madhava-gopala
+⏭️  [68/70] Already exists in index: 38785
+⏭️  [69/70] Already exists in index: 38777
+⏭️  [70/70] Already exists in index: 38773
+Year complete: success=0, skipped=70, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
