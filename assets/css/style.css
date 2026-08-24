@@ -307,6 +307,39 @@ body {
   cursor: not-allowed;
 }
 
+/* Lyrics page */
+.back-link {
+  color: var(--accent);
+  text-decoration: none;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+#songMeta {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+#songMeta p {
+  margin: 5px 0;
+}
+
+#lyricsContent {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 30px;
+  max-width: 800px;
+  margin: 0 auto;
+  white-space: pre-line;   /* Critical for line breaks */
+  line-height: 2;
+  font-size: 18px;
+}
+
 @media (max-width: 600px) {
   .site-title {
     font-size: 1.5rem;
@@ -324,5 +357,9 @@ body {
   }
   .song-grid {
     grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  }
+  #lyricsContent {
+    font-size: 16px;
+    padding: 20px;
   }
 }
