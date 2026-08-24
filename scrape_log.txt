@@ -107589,3 +107589,99 @@ Year complete: success=0, skipped=70, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1954
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1954
+   Page 1: https://m3db.com/archive/lyrics/year/1954
+   Found 83 songs on this page. Total unique so far: 83
+Total songs to scrape for this year: 83
+⏭️  [1/83] Already exists in index: 66494
+⏭️  [2/83] Already exists in index: 39595
+⏭️  [3/83] Already exists in index: 66599
+⏭️  [4/83] Already exists in index: 39599
+⏭️  [5/83] Already exists in index: 66603
+⏭️  [6/83] Already exists in index: 39593
+⏭️  [7/83] Already exists in index: 39597
+⏭️  [8/83] Already exists in index: 39598
+⏭️  [9/83] Already exists in index: 39596
+⏭️  [10/83] Already exists in index: 17876
+⏭️  [11/83] Already exists in index: adi-thozhunnen-ambike
+⏭️  [12/83] Already exists in index: allallamallallinte
+⏭️  [13/83] Already exists in index: avan-varunnu
+⏭️  [14/83] Already exists in index: 12556
+⏭️  [15/83] Already exists in index: asha-kaivitathe
+⏭️  [16/83] Already exists in index: ororo-chenchorathan
+⏭️  [17/83] Already exists in index: 55046
+⏭️  [18/83] Already exists in index: 66645
+⏭️  [19/83] Already exists in index: manasamohanane
+⏭️  [20/83] Already exists in index: varunnu-njaan
+⏭️  [21/83] Already exists in index: vinnin-nilaave
+⏭️  [22/83] Already exists in index: vishaadamenthinu-thozhee
+⏭️  [23/83] Already exists in index: 11830
+⏭️  [24/83] Already exists in index: 11828
+⏭️  [25/83] Already exists in index: 11825
+⏭️  [26/83] Already exists in index: kadalasu-vanchiyeri
+⏭️  [27/83] Already exists in index: 11829
+⏭️  [28/83] Already exists in index: 11831
+⏭️  [29/83] Already exists in index: 17881
+⏭️  [30/83] Already exists in index: 7198
+⏭️  [31/83] Already exists in index: 11832
+⏭️  [32/83] Already exists in index: 12636
+⏭️  [33/83] Already exists in index: 66607
+⏭️  [34/83] Already exists in index: koottinu-varumo
+⏭️  [35/83] Already exists in index: kezhathe-thozhi
+⏭️  [36/83] Already exists in index: 66608
+⏭️  [37/83] Already exists in index: 66614
+⏭️  [38/83] Already exists in index: 66615
+⏭️  [39/83] Already exists in index: 66610
+⏭️  [40/83] Already exists in index: vaadithalarnnoru
+⏭️  [41/83] Already exists in index: ayyo-maryada-rama
+⏭️  [42/83] Already exists in index: 38012
+⏭️  [43/83] Already exists in index: 38016
+⏭️  [44/83] Already exists in index: 38010
+⏭️  [45/83] Already exists in index: 38019
+⏭️  [46/83] Already exists in index: 38020
+⏭️  [47/83] Already exists in index: 38017
+⏭️  [48/83] Already exists in index: 38011
+⏭️  [49/83] Already exists in index: 38018
+⏭️  [50/83] Already exists in index: 38013
+⏭️  [51/83] Already exists in index: 38014
+⏭️  [52/83] Already exists in index: ravippol-kshana
+⏭️  [53/83] Already exists in index: 38101
+⏭️  [54/83] Already exists in index: 38100
+⏭️  [55/83] Already exists in index: 38108
+⏭️  [56/83] Already exists in index: 38102
+⏭️  [57/83] Already exists in index: kandorundo-ente-kannane
+⏭️  [58/83] Already exists in index: 17878
+⏭️  [59/83] Already exists in index: 38106
+⏭️  [60/83] Already exists in index: 38105
+⏭️  [61/83] Already exists in index: 38107
+⏭️  [62/83] Already exists in index: 38104
+⏭️  [63/83] Already exists in index: 66589
+⏭️  [64/83] Already exists in index: 66590
+⏭️  [65/83] Already exists in index: kochariprave
+⏭️  [66/83] Already exists in index: 66588
+⏭️  [67/83] Already exists in index: 66592
+⏭️  [68/83] Already exists in index: 66591
+⏭️  [69/83] Already exists in index: 66593
+⏭️  [70/83] Already exists in index: anayathe-nilpoo
+⏭️  [71/83] Already exists in index: 12686
+⏭️  [72/83] Already exists in index: 66616
+⏭️  [73/83] Already exists in index: kannum-poottiyuranguka
+⏭️  [74/83] Already exists in index: 12689
+⏭️  [75/83] Already exists in index: kanivolum-kamaneeya
+⏭️  [76/83] Already exists in index: 66621
+⏭️  [77/83] Already exists in index: 66619
+⏭️  [78/83] Already exists in index: 66617
+⏭️  [79/83] Already exists in index: 66623
+⏭️  [80/83] Already exists in index: mazhayellaam-poyallo
+⏭️  [81/83] Already exists in index: 66622
+⏭️  [82/83] Already exists in index: maanam-thelinju
+⏭️  [83/83] Already exists in index: 66625
+Year complete: success=0, skipped=83, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
