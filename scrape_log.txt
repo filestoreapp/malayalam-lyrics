@@ -108206,3 +108206,30 @@ Year complete: success=0, skipped=24, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1940
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1940
+   Page 1: https://m3db.com/archive/lyrics/year/1940
+   Found 14 songs on this page. Total unique so far: 14
+Total songs to scrape for this year: 14
+⏭️  [1/14] Already exists in index: kathayithu-kelkkan-sahajare-vaa
+⏭️  [2/14] Already exists in index: 37519
+⏭️  [3/14] Already exists in index: 37518
+⏭️  [4/14] Already exists in index: 37517
+⏭️  [5/14] Already exists in index: 37516
+⏭️  [6/14] Already exists in index: 37523
+⏭️  [7/14] Already exists in index: 37524
+⏭️  [8/14] Already exists in index: 37521
+⏭️  [9/14] Already exists in index: 37520
+⏭️  [10/14] Already exists in index: 37522
+⏭️  [11/14] Already exists in index: 37526
+⏭️  [12/14] Already exists in index: 37527
+⏭️  [13/14] Already exists in index: 37525
+⏭️  [14/14] Already exists in index: 34992
+Year complete: success=0, skipped=14, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
