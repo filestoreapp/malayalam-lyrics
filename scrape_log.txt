@@ -107685,3 +107685,106 @@ Year complete: success=0, skipped=83, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1953
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1953
+   Page 1: https://m3db.com/archive/lyrics/year/1953
+   Found 90 songs on this page. Total unique so far: 90
+Total songs to scrape for this year: 90
+⏭️  [1/90] Already exists in index: 17858
+⏭️  [2/90] Already exists in index: 17852
+⏭️  [3/90] Already exists in index: 17846
+⏭️  [4/90] Already exists in index: 66582
+⏭️  [5/90] Already exists in index: 17856
+⏭️  [6/90] Already exists in index: 17850
+⏭️  [7/90] Already exists in index: 17854
+⏭️  [8/90] Already exists in index: premamennaal-pulivalu
+⏭️  [9/90] Already exists in index: 17859
+⏭️  [10/90] Already exists in index: 66587
+⏭️  [11/90] Already exists in index: 17848
+⏭️  [12/90] Already exists in index: idiyappam
+⏭️  [13/90] Already exists in index: ethu-paapathinaalo
+⏭️  [14/90] Already exists in index: omanayen
+⏭️  [15/90] Already exists in index: 69513
+⏭️  [16/90] Already exists in index: kuthukamee-lathakalil
+⏭️  [17/90] Already exists in index: 69514
+⏭️  [18/90] Already exists in index: 69512
+⏭️  [19/90] Already exists in index: leelalolithame
+⏭️  [20/90] Already exists in index: ammathan-thankakudame
+⏭️  [21/90] Already exists in index: karayunnathenthe-soonyathayil
+⏭️  [22/90] Already exists in index: 19973
+⏭️  [23/90] Already exists in index: 66500
+⏭️  [24/90] Already exists in index: deva-jagannatha
+⏭️  [25/90] Already exists in index: paaril-jeevitham-pole
+⏭️  [26/90] Already exists in index: 19971
+⏭️  [27/90] Already exists in index: paavana-bharatha
+⏭️  [28/90] Already exists in index: 17868
+⏭️  [29/90] Already exists in index: 17874
+⏭️  [30/90] Already exists in index: 17873
+⏭️  [31/90] Already exists in index: 17870
+⏭️  [32/90] Already exists in index: veeshi-ponvala
+⏭️  [33/90] Already exists in index: he-kaliyodame
+⏭️  [34/90] Already exists in index: 17869
+⏭️  [35/90] Already exists in index: 66512
+⏭️  [36/90] Already exists in index: 66504
+⏭️  [37/90] Already exists in index: 17865
+⏭️  [38/90] Already exists in index: 17863
+⏭️  [39/90] Already exists in index: 17866
+⏭️  [40/90] Already exists in index: 66517
+⏭️  [41/90] Already exists in index: 66505
+⏭️  [42/90] Already exists in index: 17864
+⏭️  [43/90] Already exists in index: 66506
+⏭️  [44/90] Already exists in index: 66507
+⏭️  [45/90] Already exists in index: 66509
+⏭️  [46/90] Already exists in index: 66515
+⏭️  [47/90] Already exists in index: 66516
+⏭️  [48/90] Already exists in index: anuragamrutham
+⏭️  [49/90] Already exists in index: 38767
+⏭️  [50/90] Already exists in index: aadippadippokaam
+⏭️  [51/90] Already exists in index: oru-navayugame
+⏭️  [52/90] Already exists in index: kanna-neeyurangu
+⏭️  [53/90] Already exists in index: 38766
+⏭️  [54/90] Already exists in index: komalamruthupadhe
+⏭️  [55/90] Already exists in index: 38769
+⏭️  [56/90] Already exists in index: pavangalilalivullore
+⏭️  [57/90] Already exists in index: 38768
+⏭️  [58/90] Already exists in index: sokamenthinaay
+⏭️  [59/90] Already exists in index: snehame-lokam
+⏭️  [60/90] Already exists in index: alayukayam-njangal
+⏭️  [61/90] Already exists in index: azhakin-ponnodavumayi
+⏭️  [62/90] Already exists in index: 12707
+⏭️  [63/90] Already exists in index: 66501
+⏭️  [64/90] Already exists in index: paathumaam-jagadeeshwaraa
+⏭️  [65/90] Already exists in index: picchakappoo-choodum
+⏭️  [66/90] Already exists in index: 66502
+⏭️  [67/90] Already exists in index: mangalacharithe
+⏭️  [68/90] Already exists in index: malanadu
+⏭️  [69/90] Already exists in index: 12693
+⏭️  [70/90] Already exists in index: vanikayilangane
+⏭️  [71/90] Already exists in index: 66503
+⏭️  [72/90] Already exists in index: cycle-vandiyeri-varum
+⏭️  [73/90] Already exists in index: 66519
+⏭️  [74/90] Already exists in index: 66523
+⏭️  [75/90] Already exists in index: 66522
+⏭️  [76/90] Already exists in index: 66544
+⏭️  [77/90] Already exists in index: 53042
+⏭️  [78/90] Already exists in index: thoomulla-scentu-pole
+⏭️  [79/90] Already exists in index: paadu-pettu-paadangalil
+⏭️  [80/90] Already exists in index: paadupettu-paadangalil
+⏭️  [81/90] Already exists in index: 66525
+⏭️  [82/90] Already exists in index: prathikarachintha
+⏭️  [83/90] Already exists in index: 66579
+⏭️  [84/90] Already exists in index: 66541
+⏭️  [85/90] Already exists in index: 66520
+⏭️  [86/90] Already exists in index: 66574
+⏭️  [87/90] Already exists in index: 66575
+⏭️  [88/90] Already exists in index: sariyo-thetto
+⏭️  [89/90] Already exists in index: sreeraman-seethaye
+⏭️  [90/90] Already exists in index: 66521
+Year complete: success=0, skipped=90, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
