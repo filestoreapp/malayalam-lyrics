@@ -107328,3 +107328,108 @@ Year complete: success=0, skipped=36, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1957
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1957
+   Page 1: https://m3db.com/archive/lyrics/year/1957
+   Found 92 songs on this page. Total unique so far: 92
+Total songs to scrape for this year: 92
+⏭️  [1/92] Already exists in index: 66850
+⏭️  [2/92] Already exists in index: 66851
+⏭️  [3/92] Already exists in index: 66852
+⏭️  [4/92] Already exists in index: 66853
+⏭️  [5/92] Already exists in index: 17899
+⏭️  [6/92] Already exists in index: 66854
+⏭️  [7/92] Already exists in index: 66855
+⏭️  [8/92] Already exists in index: 66856
+⏭️  [9/92] Already exists in index: 17900
+⏭️  [10/92] Already exists in index: 14448
+⏭️  [11/92] Already exists in index: poomala-vidarathe
+⏭️  [12/92] Already exists in index: 17898
+⏭️  [13/92] Already exists in index: 17909
+⏭️  [14/92] Already exists in index: 17907
+⏭️  [15/92] Already exists in index: 17908
+⏭️  [16/92] Already exists in index: 66875
+⏭️  [17/92] Already exists in index: 17910
+⏭️  [18/92] Already exists in index: 17904
+⏭️  [19/92] Already exists in index: njanariyaathen-maanasamathiloru
+⏭️  [20/92] Already exists in index: 12899
+⏭️  [21/92] Already exists in index: 17911
+⏭️  [22/92] Already exists in index: vellinilaavathu
+⏭️  [23/92] Already exists in index: 8446
+⏭️  [24/92] Already exists in index: 17912
+⏭️  [25/92] Already exists in index: 12611
+⏭️  [26/92] Already exists in index: 66861
+⏭️  [27/92] Already exists in index: 12617
+⏭️  [28/92] Already exists in index: 12615
+⏭️  [29/92] Already exists in index: 12613
+⏭️  [30/92] Already exists in index: marana-bhi-mohabbat
+⏭️  [31/92] Already exists in index: 66864
+⏭️  [32/92] Already exists in index: 12616
+⏭️  [33/92] Already exists in index: 12614
+⏭️  [34/92] Already exists in index: vayaranu-nammalkku-dosham
+⏭️  [35/92] Already exists in index: 66841
+⏭️  [36/92] Already exists in index: 66816
+⏭️  [37/92] Already exists in index: 66819
+⏭️  [38/92] Already exists in index: 66820
+⏭️  [39/92] Already exists in index: 66836
+⏭️  [40/92] Already exists in index: 66834
+⏭️  [41/92] Already exists in index: 66833
+⏭️  [42/92] Already exists in index: 66835
+⏭️  [43/92] Already exists in index: 66827
+⏭️  [44/92] Already exists in index: 66829
+⏭️  [45/92] Already exists in index: 66830
+⏭️  [46/92] Already exists in index: 66823
+⏭️  [47/92] Already exists in index: 66818
+⏭️  [48/92] Already exists in index: 66817
+⏭️  [49/92] Already exists in index: 66826
+⏭️  [50/92] Already exists in index: 66839
+⏭️  [51/92] Already exists in index: 66842
+⏭️  [52/92] Already exists in index: 66840
+⏭️  [53/92] Already exists in index: 66843
+⏭️  [54/92] Already exists in index: 66844
+⏭️  [55/92] Already exists in index: 66838
+⏭️  [56/92] Already exists in index: 66837
+⏭️  [57/92] Already exists in index: 66845
+⏭️  [58/92] Already exists in index: 66846
+⏭️  [59/92] Already exists in index: 66847
+⏭️  [60/92] Already exists in index: 66859
+⏭️  [61/92] Already exists in index: 17933
+⏭️  [62/92] Already exists in index: 37259
+⏭️  [63/92] Already exists in index: 37258
+⏭️  [64/92] Already exists in index: 12970
+⏭️  [65/92] Already exists in index: 21143
+⏭️  [66/92] Already exists in index: tham-tho
+⏭️  [67/92] Already exists in index: 17934
+⏭️  [68/92] Already exists in index: 37260
+⏭️  [69/92] Already exists in index: 37261
+⏭️  [70/92] Already exists in index: 37262
+⏭️  [71/92] Already exists in index: poomulla
+⏭️  [72/92] Already exists in index: 37245
+⏭️  [73/92] Already exists in index: 37264
+⏭️  [74/92] Already exists in index: 37263
+⏭️  [75/92] Already exists in index: 14445
+⏭️  [76/92] Already exists in index: 14446
+⏭️  [77/92] Already exists in index: 14444
+⏭️  [78/92] Already exists in index: oru-vatti-poo-tharanam
+⏭️  [79/92] Already exists in index: 17929
+⏭️  [80/92] Already exists in index: 17930
+⏭️  [81/92] Already exists in index: 66848
+⏭️  [82/92] Already exists in index: 17931
+⏭️  [83/92] Already exists in index: 17932
+⏭️  [84/92] Already exists in index: 14425
+⏭️  [85/92] Already exists in index: 64262
+⏭️  [86/92] Already exists in index: 66878
+⏭️  [87/92] Already exists in index: 66879
+⏭️  [88/92] Already exists in index: 66881
+⏭️  [89/92] Already exists in index: 66883
+⏭️  [90/92] Already exists in index: 66882
+⏭️  [91/92] Already exists in index: 66880
+⏭️  [92/92] Already exists in index: 66884
+Year complete: success=0, skipped=92, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
