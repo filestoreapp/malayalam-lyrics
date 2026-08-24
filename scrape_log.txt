@@ -85100,3 +85100,36 @@ Year complete: success=23, skipped=0, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 2026
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/2026
+   Page 1: https://m3db.com/archive/lyrics/year/2026
+   Found 20 songs on this page. Total unique so far: 20
+Total songs to scrape for this year: 20
+⏭️  [1/20] Already exists in index: iykyk
+⏭️  [2/20] Already exists in index: ammapputhappe
+⏭️  [3/20] Already exists in index: theeraa-dooram
+⏭️  [4/20] Already exists in index: kunjikkavil-meghame
+⏭️  [5/20] Already exists in index: chirake-chirake
+⏭️  [6/20] Already exists in index: akrom-pekrom
+⏭️  [7/20] Already exists in index: karayumennaano
+⏭️  [8/20] Already exists in index: mizhiyilaaranu
+⏭️  [9/20] Already exists in index: kaattuchembakam
+⏭️  [10/20] Already exists in index: ru-ru-ru
+⏭️  [11/20] Already exists in index: engotta
+⏭️  [12/20] Already exists in index: thakkol
+⏭️  [13/20] Already exists in index: mellave-mellave
+⏭️  [14/20] Already exists in index: aradhakan
+⏭️  [15/20] Already exists in index: komala-thamara
+⏭️  [16/20] Already exists in index: hridayamithezhuthum
+⏭️  [17/20] Already exists in index: aa-nalla-naalini
+⏭️  [18/20] Already exists in index: mukil-chattiyil
+⏭️  [19/20] Already exists in index: karumani
+⏭️  [20/20] Already exists in index: veeraattam
+Year complete: success=0, skipped=20, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
