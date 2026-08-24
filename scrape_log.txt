@@ -107954,3 +107954,80 @@ Year complete: success=0, skipped=153, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1951
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1951
+   Page 1: https://m3db.com/archive/lyrics/year/1951
+   Found 64 songs on this page. Total unique so far: 64
+Total songs to scrape for this year: 64
+⏭️  [1/64] Already exists in index: 66288
+⏭️  [2/64] Already exists in index: 79479
+⏭️  [3/64] Already exists in index: 79478
+⏭️  [4/64] Already exists in index: 79481
+⏭️  [5/64] Already exists in index: 66289
+⏭️  [6/64] Already exists in index: 66290
+⏭️  [7/64] Already exists in index: 79476
+⏭️  [8/64] Already exists in index: 79480
+⏭️  [9/64] Already exists in index: 66291
+⏭️  [10/64] Already exists in index: 79477
+⏭️  [11/64] Already exists in index: 12600
+⏭️  [12/64] Already exists in index: 12522
+⏭️  [13/64] Already exists in index: 12601
+⏭️  [14/64] Already exists in index: 52478
+⏭️  [15/64] Already exists in index: 66257
+⏭️  [16/64] Already exists in index: 12603
+⏭️  [17/64] Already exists in index: thoraathorasrudhara
+⏭️  [18/64] Already exists in index: 12595
+⏭️  [19/64] Already exists in index: pashiyaaluyir-vaadi
+⏭️  [20/64] Already exists in index: 12599
+⏭️  [21/64] Already exists in index: paapamaanithu-baale
+⏭️  [22/64] Already exists in index: 12521
+⏭️  [23/64] Already exists in index: premaraajyamaarnnu-vaazhoo
+⏭️  [24/64] Already exists in index: mgdalama-mariyam
+⏭️  [25/64] Already exists in index: 12596
+⏭️  [26/64] Already exists in index: 66258
+⏭️  [27/64] Already exists in index: 66267
+⏭️  [28/64] Already exists in index: 52479
+⏭️  [29/64] Already exists in index: 14437
+⏭️  [30/64] Already exists in index: 12123
+⏭️  [31/64] Already exists in index: parithapamithe-haa
+⏭️  [32/64] Already exists in index: puthusooryashobhayil-polum
+⏭️  [33/64] Already exists in index: 17817
+⏭️  [34/64] Already exists in index: 17815
+⏭️  [35/64] Already exists in index: 17818
+⏭️  [36/64] Already exists in index: 17823
+⏭️  [37/64] Already exists in index: sahajare
+⏭️  [38/64] Already exists in index: 17821
+⏭️  [39/64] Already exists in index: haa-pon-pularkaalam
+⏭️  [40/64] Already exists in index: aasakale-vidarathinimel
+⏭️  [41/64] Already exists in index: 66260
+⏭️  [42/64] Already exists in index: iru-kaiyyum-neetti
+⏭️  [43/64] Already exists in index: ellam-nashichoduvilee
+⏭️  [44/64] Already exists in index: komala-keralame
+⏭️  [45/64] Already exists in index: 12661
+⏭️  [46/64] Already exists in index: jeevithame-nee
+⏭️  [47/64] Already exists in index: poonkuyile-nee-paaduka
+⏭️  [48/64] Already exists in index: pokaathe-sodaraa
+⏭️  [49/64] Already exists in index: premame-premame
+⏭️  [50/64] Already exists in index: manmadhamohanane
+⏭️  [51/64] Already exists in index: mahaneeyam-thiruvonam
+⏭️  [52/64] Already exists in index: 66262
+⏭️  [53/64] Already exists in index: veeshuka-neele
+⏭️  [54/64] Already exists in index: 12665
+⏭️  [55/64] Already exists in index: haa-parayuka-thozhee
+⏭️  [56/64] Already exists in index: premathin-neethi
+⏭️  [57/64] Already exists in index: varoo-varoo-nayaka
+⏭️  [58/64] Already exists in index: sambho-gaurisa
+⏭️  [59/64] Already exists in index: sumadhura-sushama-karame
+⏭️  [60/64] Already exists in index: chapala-chapala-chapala-manam
+⏭️  [61/64] Already exists in index: 79482
+⏭️  [62/64] Already exists in index: pokalle-pokalle
+⏭️  [63/64] Already exists in index: 79483
+⏭️  [64/64] Already exists in index: vannallo-vasanthakalam
+Year complete: success=0, skipped=64, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
