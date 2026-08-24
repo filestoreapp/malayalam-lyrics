@@ -107788,3 +107788,169 @@ Year complete: success=0, skipped=90, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1952
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1952
+   Page 1: https://m3db.com/archive/lyrics/year/1952
+   Found 153 songs on this page. Total unique so far: 153
+Total songs to scrape for this year: 153
+⏭️  [1/153] Already exists in index: 12540
+⏭️  [2/153] Already exists in index: aariro-kanmaniye
+⏭️  [3/153] Already exists in index: 66302
+⏭️  [4/153] Already exists in index: kalachakram-ithu-thiriyuka
+⏭️  [5/153] Already exists in index: ghora-karmamitharuthe
+⏭️  [6/153] Already exists in index: 66337
+⏭️  [7/153] Already exists in index: thathante-sannidhi
+⏭️  [8/153] Already exists in index: 12485
+⏭️  [9/153] Already exists in index: daivame-karunasagarame
+⏭️  [10/153] Already exists in index: 12549
+⏭️  [11/153] Already exists in index: pani-cheyyaathe
+⏭️  [12/153] Already exists in index: poovanchumee-thanu-thalarnnu
+⏭️  [13/153] Already exists in index: ponnumakanr
+⏭️  [14/153] Already exists in index: madhumaasachandrika
+⏭️  [15/153] Already exists in index: 12709
+⏭️  [16/153] Already exists in index: maara-manam-kolla-cheitha
+⏭️  [17/153] Already exists in index: lokare-ithu-kettu
+⏭️  [18/153] Already exists in index: vanithakalanimaale
+⏭️  [19/153] Already exists in index: 12544
+⏭️  [20/153] Already exists in index: 66480
+⏭️  [21/153] Already exists in index: aniyay-puzhayil
+⏭️  [22/153] Already exists in index: amma-thaan-paaril
+⏭️  [23/153] Already exists in index: 66479
+⏭️  [24/153] Already exists in index: 66482
+⏭️  [25/153] Already exists in index: aruthe-painkiliye
+⏭️  [26/153] Already exists in index: arumasodara
+⏭️  [27/153] Already exists in index: 66481
+⏭️  [28/153] Already exists in index: 66476
+⏭️  [29/153] Already exists in index: ananda-sudinamithe
+⏭️  [30/153] Already exists in index: udamayum-elimayum
+⏭️  [31/153] Already exists in index: kezhuka-thaye
+⏭️  [32/153] Already exists in index: 66484
+⏭️  [33/153] Already exists in index: 66483
+⏭️  [34/153] Already exists in index: 17839
+⏭️  [35/153] Already exists in index: 66485
+⏭️  [36/153] Already exists in index: paavanam-paavanam
+⏭️  [37/153] Already exists in index: 66486
+⏭️  [38/153] Already exists in index: pon-thiruvonam-varavaayi
+⏭️  [39/153] Already exists in index: vanamaali-varavaayi
+⏭️  [40/153] Already exists in index: varoo-nee-premaramani
+⏭️  [41/153] Already exists in index: arodum
+⏭️  [42/153] Already exists in index: 66415
+⏭️  [43/153] Already exists in index: 66386
+⏭️  [44/153] Already exists in index: 66388
+⏭️  [45/153] Already exists in index: kaniyoo-dayanidhe
+⏭️  [46/153] Already exists in index: 66417
+⏭️  [47/153] Already exists in index: 66416
+⏭️  [48/153] Already exists in index: 66412
+⏭️  [49/153] Already exists in index: 66413
+⏭️  [50/153] Already exists in index: 66414
+⏭️  [51/153] Already exists in index: 52829
+⏭️  [52/153] Already exists in index: 52832
+⏭️  [53/153] Already exists in index: 52825
+⏭️  [54/153] Already exists in index: kaliyay-pandoru-aattitayan
+⏭️  [55/153] Already exists in index: 12564
+⏭️  [56/153] Already exists in index: 52824
+⏭️  [57/153] Already exists in index: 66352
+⏭️  [58/153] Already exists in index: 52826
+⏭️  [59/153] Already exists in index: 12565
+⏭️  [60/153] Already exists in index: 66348
+⏭️  [61/153] Already exists in index: 12561
+⏭️  [62/153] Already exists in index: 66342
+⏭️  [63/153] Already exists in index: 12566
+⏭️  [64/153] Already exists in index: 12563
+⏭️  [65/153] Already exists in index: aa-neelavaanilen
+⏭️  [66/153] Already exists in index: 38744
+⏭️  [67/153] Already exists in index: 38746
+⏭️  [68/153] Already exists in index: 38754
+⏭️  [69/153] Already exists in index: 38749
+⏭️  [70/153] Already exists in index: 38745
+⏭️  [71/153] Already exists in index: kaattiladi-kanmayakkum
+⏭️  [72/153] Already exists in index: 52827
+⏭️  [73/153] Already exists in index: 38748
+⏭️  [74/153] Already exists in index: 38752
+⏭️  [75/153] Already exists in index: 38751
+⏭️  [76/153] Already exists in index: 38750
+⏭️  [77/153] Already exists in index: 38753
+⏭️  [78/153] Already exists in index: 38747
+⏭️  [79/153] Already exists in index: 38755
+⏭️  [80/153] Already exists in index: 66418
+⏭️  [81/153] Already exists in index: 66422
+⏭️  [82/153] Already exists in index: 66421
+⏭️  [83/153] Already exists in index: 66420
+⏭️  [84/153] Already exists in index: nirasamathramayi
+⏭️  [85/153] Already exists in index: 66419
+⏭️  [86/153] Already exists in index: 66424
+⏭️  [87/153] Already exists in index: 66423
+⏭️  [88/153] Already exists in index: 66474
+⏭️  [89/153] Already exists in index: vela-cheyyu
+⏭️  [90/153] Already exists in index: 66475
+⏭️  [91/153] Already exists in index: 66497
+⏭️  [92/153] Already exists in index: oh-en-maradevatha
+⏭️  [93/153] Already exists in index: 66498
+⏭️  [94/153] Already exists in index: 66499
+⏭️  [95/153] Already exists in index: innale-nattoru
+⏭️  [96/153] Already exists in index: deepangal-mangi
+⏭️  [97/153] Already exists in index: neelakkuruvi-neelakkuruvi
+⏭️  [98/153] Already exists in index: neelappoompeeli-nivarthaadm
+⏭️  [99/153] Already exists in index: neram-poy
+⏭️  [100/153] Already exists in index: neram-mangiya-nerathekkaa
+⏭️  [101/153] Already exists in index: 17292
+⏭️  [102/153] Already exists in index: poothamarakkombukalu
+⏭️  [103/153] Already exists in index: 8604
+⏭️  [104/153] Already exists in index: 17305
+⏭️  [105/153] Already exists in index: maankanikal-thedi
+⏭️  [106/153] Already exists in index: 18249
+⏭️  [107/153] Already exists in index: 8596
+⏭️  [108/153] Already exists in index: maavelippaattumaay-maamalanaattile
+⏭️  [109/153] Already exists in index: moolippaattumaay-thambran
+⏭️  [110/153] Already exists in index: vellaram-kunnile
+⏭️  [111/153] Already exists in index: 35068
+⏭️  [112/153] Already exists in index: 66375
+⏭️  [113/153] Already exists in index: 53043
+⏭️  [114/153] Already exists in index: 66382
+⏭️  [115/153] Already exists in index: 66380
+⏭️  [116/153] Already exists in index: 35067
+⏭️  [117/153] Already exists in index: 66383
+⏭️  [118/153] Already exists in index: 66384
+⏭️  [119/153] Already exists in index: 66378
+⏭️  [120/153] Already exists in index: 38857
+⏭️  [121/153] Already exists in index: 38856
+⏭️  [122/153] Already exists in index: 38864
+⏭️  [123/153] Already exists in index: ohoru-jeevithame
+⏭️  [124/153] Already exists in index: 38859
+⏭️  [125/153] Already exists in index: 38858
+⏭️  [126/153] Already exists in index: 38863
+⏭️  [127/153] Already exists in index: 38862
+⏭️  [128/153] Already exists in index: 38860
+⏭️  [129/153] Already exists in index: 38861
+⏭️  [130/153] Already exists in index: 79454
+⏭️  [131/153] Already exists in index: 79453
+⏭️  [132/153] Already exists in index: 12677
+⏭️  [133/153] Already exists in index: 12676
+⏭️  [134/153] Already exists in index: 12675
+⏭️  [135/153] Already exists in index: 79455
+⏭️  [136/153] Already exists in index: 12679
+⏭️  [137/153] Already exists in index: 79456
+⏭️  [138/153] Already exists in index: mohanane-ennathma
+⏭️  [139/153] Already exists in index: mohanane-ennathma-0
+⏭️  [140/153] Already exists in index: 12674
+⏭️  [141/153] Already exists in index: 66338
+⏭️  [142/153] Already exists in index: 52828
+⏭️  [143/153] Already exists in index: 12678
+⏭️  [144/153] Already exists in index: 66373
+⏭️  [145/153] Already exists in index: 66365
+⏭️  [146/153] Already exists in index: 66369
+⏭️  [147/153] Already exists in index: 66371
+⏭️  [148/153] Already exists in index: 66368
+⏭️  [149/153] Already exists in index: 66367
+⏭️  [150/153] Already exists in index: 66370
+⏭️  [151/153] Already exists in index: 66366
+⏭️  [152/153] Already exists in index: 66374
+⏭️  [153/153] Already exists in index: 66372
+Year complete: success=0, skipped=153, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
