@@ -107164,3 +107164,70 @@ Year complete: success=0, skipped=163, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1960
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1960
+   Page 1: https://m3db.com/archive/lyrics/year/1960
+   Found 54 songs on this page. Total unique so far: 54
+Total songs to scrape for this year: 54
+⏭️  [1/54] Already exists in index: 11975
+⏭️  [2/54] Already exists in index: illa-varilla-nee
+⏭️  [3/54] Already exists in index: 13241
+⏭️  [4/54] Already exists in index: 13243
+⏭️  [5/54] Already exists in index: 13244
+⏭️  [6/54] Already exists in index: 6677
+⏭️  [7/54] Already exists in index: 14427
+⏭️  [8/54] Already exists in index: 13245
+⏭️  [9/54] Already exists in index: 13242
+⏭️  [10/54] Already exists in index: 11974
+⏭️  [11/54] Already exists in index: 11976
+⏭️  [12/54] Already exists in index: 67003
+⏭️  [13/54] Already exists in index: 67004
+⏭️  [14/54] Already exists in index: 67005
+⏭️  [15/54] Already exists in index: 13240
+⏭️  [16/54] Already exists in index: arakka-roofa
+⏭️  [17/54] Already exists in index: ikkanathe-polathe-meesa
+⏭️  [18/54] Already exists in index: 13256
+⏭️  [19/54] Already exists in index: 13265
+⏭️  [20/54] Already exists in index: 13260
+⏭️  [21/54] Already exists in index: 13258
+⏭️  [22/54] Already exists in index: 13252
+⏭️  [23/54] Already exists in index: 13262
+⏭️  [24/54] Already exists in index: 13269
+⏭️  [25/54] Already exists in index: 13254
+⏭️  [26/54] Already exists in index: 37980
+⏭️  [27/54] Already exists in index: 17550
+⏭️  [28/54] Already exists in index: 37979
+⏭️  [29/54] Already exists in index: 37969
+⏭️  [30/54] Already exists in index: 17548
+⏭️  [31/54] Already exists in index: 37977
+⏭️  [32/54] Already exists in index: 37978
+⏭️  [33/54] Already exists in index: 67019
+⏭️  [34/54] Already exists in index: 67008
+⏭️  [35/54] Already exists in index: 67007
+⏭️  [36/54] Already exists in index: 67010
+⏭️  [37/54] Already exists in index: paattupaadi-urakkaam-njaan
+⏭️  [38/54] Already exists in index: 67011
+⏭️  [39/54] Already exists in index: 67012
+⏭️  [40/54] Already exists in index: 64306
+⏭️  [41/54] Already exists in index: 67013
+⏭️  [42/54] Already exists in index: 67014
+⏭️  [43/54] Already exists in index: 67009
+⏭️  [44/54] Already exists in index: 67020
+⏭️  [45/54] Already exists in index: 67015
+⏭️  [46/54] Already exists in index: 13248
+⏭️  [47/54] Already exists in index: 13251
+⏭️  [48/54] Already exists in index: chandana-charchitha
+⏭️  [49/54] Already exists in index: 13250
+⏭️  [50/54] Already exists in index: 13249
+⏭️  [51/54] Already exists in index: 67025
+⏭️  [52/54] Already exists in index: 13246
+⏭️  [53/54] Already exists in index: 13247
+⏭️  [54/54] Already exists in index: maaran-varunnennu
+Year complete: success=0, skipped=54, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
