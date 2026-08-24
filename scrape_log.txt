@@ -108169,3 +108169,40 @@ Year complete: success=0, skipped=11, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1941
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1941
+   Page 1: https://m3db.com/archive/lyrics/year/1941
+   Found 24 songs on this page. Total unique so far: 24
+Total songs to scrape for this year: 24
+⏭️  [1/24] Already exists in index: akhila-lokaikaveera
+⏭️  [2/24] Already exists in index: arutharuthe-kopam
+⏭️  [3/24] Already exists in index: arinjen-arinjen
+⏭️  [4/24] Already exists in index: ithilumenthupari-bhagyam
+⏭️  [5/24] Already exists in index: ini-enthano-bhavam
+⏭️  [6/24] Already exists in index: enthusara-mulakil
+⏭️  [7/24] Already exists in index: ennomal-thankame
+⏭️  [8/24] Already exists in index: 35038
+⏭️  [9/24] Already exists in index: 35037
+⏭️  [10/24] Already exists in index: chithamellam-thelinju
+⏭️  [11/24] Already exists in index: janakninkaloru-piraviyil
+⏭️  [12/24] Already exists in index: jayaharenatha-bhagavan
+⏭️  [13/24] Already exists in index: namaste-pranathulya
+⏭️  [14/24] Already exists in index: narayana-nama
+⏭️  [15/24] Already exists in index: narayana-namo
+⏭️  [16/24] Already exists in index: narayanam-bhaje-0
+⏭️  [17/24] Already exists in index: paramapuruha-nin
+⏭️  [18/24] Already exists in index: madhava-nin-malaratiye
+⏭️  [19/24] Already exists in index: vande-vande-varijanethra
+⏭️  [20/24] Already exists in index: sree-ramavarmma-maharaja
+⏭️  [21/24] Already exists in index: sree-vaikundavasa
+⏭️  [22/24] Already exists in index: saraseeruha-lochana
+⏭️  [23/24] Already exists in index: hantha-hantha
+⏭️  [24/24] Already exists in index: hare-sakalaloka-nayaka
+Year complete: success=0, skipped=24, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
