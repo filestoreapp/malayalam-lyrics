@@ -107433,3 +107433,76 @@ Year complete: success=0, skipped=92, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1956
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1956
+   Page 1: https://m3db.com/archive/lyrics/year/1956
+   Found 60 songs on this page. Total unique so far: 60
+Total songs to scrape for this year: 60
+⏭️  [1/60] Already exists in index: 38124
+⏭️  [2/60] Already exists in index: 38128
+⏭️  [3/60] Already exists in index: 38131
+⏭️  [4/60] Already exists in index: ithu-jeevitham-thaan
+⏭️  [5/60] Already exists in index: 38123
+⏭️  [6/60] Already exists in index: 11275
+⏭️  [7/60] Already exists in index: 38129
+⏭️  [8/60] Already exists in index: kizhakku-ninnoru
+⏭️  [9/60] Already exists in index: 38127
+⏭️  [10/60] Already exists in index: 38126
+⏭️  [11/60] Already exists in index: 38132
+⏭️  [12/60] Already exists in index: 38125
+⏭️  [13/60] Already exists in index: munnetam-pranayam
+⏭️  [14/60] Already exists in index: anandavalli-nee-thanneyallee
+⏭️  [15/60] Already exists in index: ullathu-chollu-penne
+⏭️  [16/60] Already exists in index: puthuvarsham-vannalo
+⏭️  [17/60] Already exists in index: maniyarayellamalankarichu
+⏭️  [18/60] Already exists in index: 66747
+⏭️  [19/60] Already exists in index: 66745
+⏭️  [20/60] Already exists in index: maariville-maranju
+⏭️  [21/60] Already exists in index: 66748
+⏭️  [22/60] Already exists in index: hare-murare
+⏭️  [23/60] Already exists in index: 11268
+⏭️  [24/60] Already exists in index: 66772
+⏭️  [25/60] Already exists in index: 11265
+⏭️  [26/60] Already exists in index: 11266
+⏭️  [27/60] Already exists in index: 11271
+⏭️  [28/60] Already exists in index: 7108
+⏭️  [29/60] Already exists in index: 66774
+⏭️  [30/60] Already exists in index: 11269
+⏭️  [31/60] Already exists in index: 11273
+⏭️  [32/60] Already exists in index: 11272
+⏭️  [33/60] Already exists in index: 11267
+⏭️  [34/60] Already exists in index: maayalle-maariville
+⏭️  [35/60] Already exists in index: 38148
+⏭️  [36/60] Already exists in index: 38160
+⏭️  [37/60] Already exists in index: 67006
+⏭️  [38/60] Already exists in index: 38156
+⏭️  [39/60] Already exists in index: 38150
+⏭️  [40/60] Already exists in index: 38153
+⏭️  [41/60] Already exists in index: 38151
+⏭️  [42/60] Already exists in index: chanchaadunni
+⏭️  [43/60] Already exists in index: 38157
+⏭️  [44/60] Already exists in index: jeeveswaraa-nee-pirinjaal
+⏭️  [45/60] Already exists in index: 38158
+⏭️  [46/60] Already exists in index: 38155
+⏭️  [47/60] Already exists in index: 38149
+⏭️  [48/60] Already exists in index: 38154
+⏭️  [49/60] Already exists in index: 38152
+⏭️  [50/60] Already exists in index: 38147
+⏭️  [51/60] Already exists in index: 17893
+⏭️  [52/60] Already exists in index: 17896
+⏭️  [53/60] Already exists in index: 17892
+⏭️  [54/60] Already exists in index: nazhiyuri-paalu-kondu
+⏭️  [55/60] Already exists in index: 14426
+⏭️  [56/60] Already exists in index: 11840
+⏭️  [57/60] Already exists in index: 17891
+⏭️  [58/60] Already exists in index: 66814
+⏭️  [59/60] Already exists in index: bhaaram-thingiya-jeevitham
+⏭️  [60/60] Already exists in index: 17895
+Year complete: success=0, skipped=60, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
