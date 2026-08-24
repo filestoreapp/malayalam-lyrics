@@ -23,6 +23,7 @@ async function loadSong() {
       ${song.year ? `<p><strong>Year:</strong> ${song.year}</p>` : ''}
     `;
 
+    // Use textContent to preserve \n and rely on CSS white-space: pre-line
     document.getElementById('lyricsContent').textContent = song.lyrics;
   } catch (error) {
     document.getElementById('lyricsContent').textContent = error.message;
