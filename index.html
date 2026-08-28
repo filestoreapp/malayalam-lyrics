@@ -3,23 +3,62 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Malayalam Movie Lyrics</title>
+  <title>Malayalam Movie Lyrics Archive</title>
+  <meta name="description" content="Browse lyrics from thousands of Malayalam film songs, organised by movie, year and singer.">
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
 
-  <header class="main-header">
-    <h1 class="site-title">🎵 Malayalam Movie Lyrics</h1>
-    <div class="search-box">
-      <input type="text" id="movieSearch" placeholder="Search movie...">
+  <div class="sprocket"></div>
+
+  <header class="site-header">
+    <div class="header-top">
+      <div class="brand">
+        <div class="vinyl-mark" id="headerVinyl"></div>
+        <h1 class="site-title">Malayalam Lyrics Archive</h1>
+      </div>
+      <div class="header-actions">
+        <button class="icon-btn" id="favBtn" aria-label="Favourites">
+          ♡
+          <span class="fav-badge" id="favCount">0</span>
+        </button>
+        <button class="icon-btn" id="themeToggle" aria-label="Toggle theme">☀️</button>
+      </div>
     </div>
+    <p class="site-tagline">വരികളുടെ ഒരു വലിയ ശേഖരം · a home for old and new Malayalam film songs</p>
+
+    <div class="search-row">
+      <div class="search-box">
+        <input type="text" id="movieSearch" placeholder="Search movie, song, singer or lyricist…">
+      </div>
+      <button class="dice-btn" id="randomBtn" aria-label="Random song" title="Surprise me">🎲</button>
+    </div>
+
+    <div class="filter-row" id="decadeFilters">
+      <!-- decade chips injected by JS -->
+      <select class="sort-select" id="sortSelect">
+        <option value="year-desc">Newest first</option>
+        <option value="year-asc">Oldest first</option>
+        <option value="name-asc">Movie name (A–Z)</option>
+        <option value="songs-desc">Most songs</option>
+      </select>
+    </div>
+
+    <div class="stats-bar" id="statsBar"></div>
   </header>
+
+  <div class="sprocket"></div>
 
   <main class="main-content">
     <div id="movieCount" class="song-count"></div>
     <div id="movieList" class="song-grid"></div>
   </main>
 
+  <footer class="site-footer">
+    Malayalam Lyrics Archive · lovingly kept for karaoke nights, nostalgia and everything in between
+  </footer>
+
+  <script src="assets/js/common.js"></script>
   <script src="assets/js/main.js"></script>
 </body>
 </html>

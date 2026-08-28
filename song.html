@@ -3,18 +3,61 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Lyrics</title>
+  <title>Lyrics · Malayalam Lyrics Archive</title>
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-  <header>
-    <a href="index.html" class="back-link">← Back to list</a>
-    <h1 id="songTitle"></h1>
+
+  <div class="sprocket"></div>
+
+  <header class="sub-header">
+    <div class="header-top">
+      <div class="brand"></div>
+      <div class="header-actions">
+        <button class="icon-btn" id="favBtn" aria-label="Favourites">
+          ♡
+          <span class="fav-badge" id="favCount">0</span>
+        </button>
+        <button class="icon-btn" id="themeToggle" aria-label="Toggle theme">☀️</button>
+      </div>
+    </div>
+    <div class="breadcrumb">
+      <a href="index.html">Archive</a> <span>/</span>
+      <a href="#" id="crumbMovie">…</a> <span>/</span>
+      <span id="crumbSong">…</span>
+    </div>
   </header>
-  <main>
-    <div id="songMeta"></div>
-    <div id="lyricsContent"></div>
+
+  <main class="song-page-main">
+    <div class="song-hero">
+      <div class="song-vinyl" id="songVinyl"></div>
+      <h1 class="song-title" id="songTitle">Loading…</h1>
+      <p class="song-subtitle" id="songSubtitle"></p>
+    </div>
+
+    <div class="meta-chips" id="songMeta"></div>
+
+    <div class="song-toolbar">
+      <button class="tool-btn" id="favToggleBtn">♡ Save</button>
+      <button class="tool-btn" id="copyBtn">⎘ Copy lyrics</button>
+      <button class="tool-btn" id="shareBtn">⤴ Share</button>
+      <button class="tool-btn" id="printBtn">🖨 Print</button>
+      <div class="font-size-group">
+        <button id="fontMinus" aria-label="Smaller text">A−</button>
+        <button id="fontPlus" aria-label="Larger text">A+</button>
+      </div>
+    </div>
+
+    <div class="lyrics-card" id="lyricsContent"></div>
+
+    <div class="song-nav" id="songNav"></div>
   </main>
+
+  <footer class="site-footer">
+    Malayalam Lyrics Archive
+  </footer>
+
+  <script src="assets/js/common.js"></script>
   <script src="assets/js/song.js"></script>
 </body>
 </html>

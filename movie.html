@@ -3,17 +3,44 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Movie Songs</title>
+  <title>Movie Songs · Malayalam Lyrics Archive</title>
   <link rel="stylesheet" href="assets/css/style.css">
 </head>
 <body>
-  <header>
-    <a href="index.html" class="back-link">← Back to movies</a>
-    <h1 id="movieTitle"></h1>
+
+  <div class="sprocket"></div>
+
+  <header class="sub-header">
+    <div class="header-top">
+      <div class="brand"></div>
+      <div class="header-actions">
+        <button class="icon-btn" id="favBtn" aria-label="Favourites">
+          ♡
+          <span class="fav-badge" id="favCount">0</span>
+        </button>
+        <button class="icon-btn" id="themeToggle" aria-label="Toggle theme">☀️</button>
+      </div>
+    </div>
+    <div class="breadcrumb">
+      <a href="index.html">Archive</a> <span>/</span> <span id="crumbFilm">…</span>
+    </div>
+    <div class="movie-title-block">
+      <h1 id="movieTitle">Loading…</h1>
+      <p class="meta-line" id="movieMeta"></p>
+    </div>
   </header>
-  <main>
-    <div id="songList" class="song-grid"></div>
+
+  <div class="sprocket"></div>
+
+  <main class="main-content">
+    <div class="track-list" id="songList"></div>
   </main>
+
+  <footer class="site-footer">
+    Malayalam Lyrics Archive
+  </footer>
+
+  <script src="assets/js/common.js"></script>
   <script src="assets/js/movie.js"></script>
 </body>
 </html>
