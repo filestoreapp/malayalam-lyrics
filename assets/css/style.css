@@ -98,6 +98,12 @@ button, input, select {
   background-position: center;
   background-color: var(--gold);
   opacity: 0.9;
+  animation: reelScroll 7s linear infinite;
+}
+
+@keyframes reelScroll {
+  from { background-position: 0 center; }
+  to { background-position: -220px center; }
 }
 
 .sprocket.bottom {
@@ -111,6 +117,21 @@ button, input, select {
   padding: 36px 20px 28px;
   text-align: center;
   position: relative;
+}
+
+.site-header > * {
+  animation: fadeInUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.site-header .header-top { animation-delay: 0.02s; }
+.site-header .site-tagline { animation-delay: 0.08s; }
+.site-header .search-row { animation-delay: 0.14s; }
+.site-header .filter-row { animation-delay: 0.2s; }
+.site-header .stats-bar { animation-delay: 0.26s; }
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to { opacity: 1; transform: translateY(0); }
 }
 
 .header-top {
@@ -132,6 +153,7 @@ button, input, select {
   width: 42px;
   height: 42px;
   flex-shrink: 0;
+  animation: spin 9s linear infinite;
 }
 
 .site-title {
@@ -260,6 +282,16 @@ button, input, select {
   transform: rotate(-12deg) scale(1.05);
 }
 
+.dice-btn.rolling {
+  animation: diceRoll 0.5s ease;
+}
+
+@keyframes diceRoll {
+  0% { transform: rotate(0); }
+  50% { transform: rotate(180deg) scale(1.15); }
+  100% { transform: rotate(360deg); }
+}
+
 .filter-row {
   display: flex;
   flex-wrap: wrap;
@@ -364,6 +396,9 @@ button, input, select {
   display: flex;
   gap: 14px;
   align-items: center;
+  opacity: 0;
+  animation: fadeInUp 0.45s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation-delay: calc(min(var(--i, 0), 14) * 30ms);
 }
 
 .movie-card:hover {
@@ -599,6 +634,9 @@ button, input, select {
   margin-bottom: 10px;
   cursor: pointer;
   transition: border-color var(--ease), transform var(--ease), background var(--ease);
+  opacity: 0;
+  animation: fadeInUp 0.45s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation-delay: calc(min(var(--i, 0), 14) * 35ms);
 }
 
 .track-row:hover {
@@ -664,12 +702,14 @@ button, input, select {
 .song-hero {
   text-align: center;
   margin-bottom: 24px;
+  animation: fadeInUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
 }
 
 .song-vinyl {
   width: 84px;
   height: 84px;
   margin: 0 auto 18px;
+  animation: spin 10s linear infinite;
 }
 
 .song-title {
@@ -692,6 +732,8 @@ button, input, select {
   gap: 8px;
   justify-content: center;
   margin: 18px 0 22px;
+  animation: fadeInUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation-delay: 0.08s;
 }
 
 .meta-chip {
@@ -715,6 +757,8 @@ button, input, select {
   gap: 8px;
   justify-content: center;
   margin-bottom: 26px;
+  animation: fadeInUp 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation-delay: 0.14s;
 }
 
 .tool-btn {
@@ -780,6 +824,14 @@ button, input, select {
   font-size: 19px;
   box-shadow: var(--shadow);
   position: relative;
+  opacity: 0;
+  transform: scale(0.98);
+  animation: cardIn 0.55s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  animation-delay: 0.2s;
+}
+
+@keyframes cardIn {
+  to { opacity: 1; transform: scale(1); }
 }
 
 .lyrics-card::before {
