@@ -31,6 +31,7 @@ async function loadSongsForMovie() {
     songs.forEach((song, i) => {
       const row = document.createElement('div');
       row.className = 'track-row';
+      row.style.setProperty('--i', i);
       const fav = isFavorite(song.id);
       row.innerHTML = `
         <div class="track-num">${i + 1}</div>

@@ -150,9 +150,10 @@ function applyFilters() {
   renderMovies();
 }
 
-function createMovieCard(movie) {
+function createMovieCard(movie, index) {
   const card = document.createElement('div');
   card.className = 'movie-card';
+  card.style.setProperty('--i', index);
   const initial = (movie.film || '?').trim().charAt(0) || '?';
   card.innerHTML = `
     <div class="disc"><div class="disc-label">${escapeHtml(initial)}</div></div>
@@ -180,7 +181,7 @@ function renderMovies() {
         No movies match that search. Try a different title, singer or lyricist.
       </div>`;
   } else {
-    pageMovies.forEach(movie => movieList.appendChild(createMovieCard(movie)));
+    pageMovies.forEach((movie, i) => movieList.appendChild(createMovieCard(movie, i)));
   }
 
   movieCount.textContent = filteredMovies.length
@@ -244,6 +245,9 @@ sortSelect.addEventListener('change', () => {
 
 randomBtn.addEventListener('click', () => {
   if (!allSongs.length) return;
+  randomBtn.classList.remove('rolling');
+  void randomBtn.offsetWidth; // restart animation
+  randomBtn.classList.add('rolling');
   const song = allSongs[Math.floor(Math.random() * allSongs.length)];
   window.location.href = `song.html?id=${encodeURIComponent(song.id)}&year=${encodeURIComponent(song.year || 'unknown')}`;
 });
