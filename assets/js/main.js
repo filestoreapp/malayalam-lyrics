@@ -1,173 +1,81 @@
-const ITEMS_PER_PAGE = 50;
+const ITEMS_PER_PAGE = 50; // movies per page
 
-let allSongs = [];
-let filteredSongs = [];
+let allMovies = [];
+let filteredMovies = [];
 let currentPage = 1;
-let currentFilterType = 'all';
-let currentFilterValue = '';
-let currentAlphabet = '';
-let currentSort = 'title';
-let currentSearch = '';
+let searchQuery = '';
 
-const searchInput = document.getElementById('searchInput');
-const filterType = document.getElementById('filterType');
-const filterValue = document.getElementById('filterValue');
-const sortType = document.getElementById('sortType');
-const songList = document.getElementById('songList');
-const songCount = document.getElementById('songCount');
-const statsBar = document.getElementById('statsBar');
-const alphabetBrowse = document.getElementById('alphabetBrowse');
-const paginationDiv = document.getElementById('pagination');
-const featuredSong = document.getElementById('featuredSong');
-const randomSongBtn = document.getElementById('randomSongBtn');
-const themeToggle = document.getElementById('themeToggle');
-
-// Theme toggle
-const savedTheme = localStorage.getItem('theme') || 'dark';
-document.body.classList.toggle('light', savedTheme === 'light');
-
-themeToggle.addEventListener('click', () => {
-  document.body.classList.toggle('light');
-  localStorage.setItem('theme', document.body.classList.contains('light') ? 'light' : 'dark');
-});
+const movieSearch = document.getElementById('movieSearch');
+const movieList = document.getElementById('movieList');
+const movieCount = document.getElementById('movieCount');
 
 // Load data
-async function loadSongs() {
+async function loadData() {
   try {
     const response = await fetch('data/index.json');
     const data = await response.json();
-    allSongs = Object.values(data);
-    return allSongs;
+    const songs = Object.values(data);
+
+    // Extract unique movies
+    const movieMap = new Map();
+    songs.forEach(song => {
+      const film = song.film || 'Unknown';
+      if (!movieMap.has(film)) {
+        movieMap.set(film, {
+          film,
+          year: song.year || '',
+          songs: []
+        });
+      }
+      movieMap.get(film).songs.push(song);
+    });
+
+    allMovies = Array.from(movieMap.values());
+    return allMovies;
   } catch (err) {
-    console.error('Failed to load index.json', err);
-    songList.innerHTML = '<p>Error loading songs.</p>';
+    console.error('Failed to load data', err);
+    movieList.innerHTML = '<p>Error loading movies.</p>';
     return [];
   }
 }
 
-// Get unique values for a field
-function getUniqueValues(field) {
-  const vals = new Set();
-  allSongs.forEach(song => {
-    const val = song[field];
-    if (val) vals.add(val);
-  });
-  return Array.from(vals).sort();
-}
-
-// Stats bar
-function renderStats() {
-  const totalSongs = allSongs.length;
-  const movies = getUniqueValues('film').length;
-  const lyricists = getUniqueValues('lyricist').length;
-  const musicDirectors = getUniqueValues('musicDirector').length;
-  const singers = getUniqueValues('singers').length;
-  const years = getUniqueValues('year').length;
-
-  statsBar.innerHTML = `
-    <span>🎵 Songs: <strong>${totalSongs}</strong></span>
-    <span>🎬 Movies: <strong>${movies}</strong></span>
-    <span>✍️ Lyricists: <strong>${lyricists}</strong></span>
-    <span>🎼 Music: <strong>${musicDirectors}</strong></span>
-    <span>🎤 Singers: <strong>${singers}</strong></span>
-    <span>📅 Years: <strong>${years}</strong></span>
-  `;
-}
-
-// Alphabet browse
-function renderAlphabet() {
-  const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
-  alphabetBrowse.innerHTML = '<button data-letter="" class="active">All</button>';
-  letters.forEach(letter => {
-    const btn = document.createElement('button');
-    btn.textContent = letter;
-    btn.dataset.letter = letter;
-    btn.addEventListener('click', () => {
-      currentAlphabet = letter;
-      document.querySelectorAll('.alphabet-browse button').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      currentPage = 1;
-      applyFiltersAndRender();
-    });
-    alphabetBrowse.appendChild(btn);
-  });
-}
-
-// Featured song (Lyrics of the Day)
-function renderFeaturedSong() {
-  if (allSongs.length === 0) return;
-  const now = new Date();
-  const start = new Date(now.getFullYear(), 0, 0);
-  const diff = now - start;
-  const dayOfYear = Math.floor(diff / (1000 * 60 * 60 * 24));
-  const index = dayOfYear % allSongs.length;
-  const song = allSongs[index];
-  featuredSong.innerHTML = `
-    <div class="label">✨ Lyrics of the Day</div>
-    <h2>${song.songName}</h2>
-    <p>Film: ${song.film} | Year: ${song.year}</p>
-  `;
-  featuredSong.addEventListener('click', () => goToSong(song));
-}
-
-// Go to song page
-function goToSong(song) {
-  const year = song.year || 'unknown';
-  window.location.href = `song.html?id=${song.id}&year=${encodeURIComponent(year)}`;
-}
-
-// Create song card
-function createSongCard(song) {
+// Create movie card
+function createMovieCard(movie) {
   const card = document.createElement('div');
-  card.className = 'song-card';
+  card.className = 'song-card'; // reuse existing card style
   card.innerHTML = `
-    <h3>${song.songName}</h3>
-    <p>Film: ${song.film}</p>
-    <p>Lyricist: ${song.lyricist}</p>
-    <p>Music: ${song.musicDirector}</p>
-    <p>Singer(s): ${song.singers}</p>
-    <p>Year: ${song.year}</p>
-    <div class="card-actions">
-      <button class="share-btn" title="Share">🔗</button>
-    </div>
+    <h3>${movie.film}</h3>
+    <p>Year: ${movie.year}</p>
+    <p>Songs: ${movie.songs.length}</p>
   `;
-  card.addEventListener('click', (e) => {
-    if (e.target.classList.contains('share-btn')) return;
-    goToSong(song);
-  });
-  const shareBtn = card.querySelector('.share-btn');
-  shareBtn.addEventListener('click', (e) => {
-    e.stopPropagation();
-    const songUrl = `${window.location.origin}${window.location.pathname.replace('index.html','')}song.html?id=${song.id}&year=${encodeURIComponent(song.year || 'unknown')}`;
-    if (navigator.share) {
-      navigator.share({ title: song.songName, url: songUrl }).catch(() => {});
-    } else {
-      navigator.clipboard.writeText(songUrl).then(() => alert('Link copied!'));
-    }
+  card.addEventListener('click', () => {
+    window.location.href = `movie.html?film=${encodeURIComponent(movie.film)}`;
   });
   return card;
 }
 
-// Render grid with pagination
-function renderSongs() {
-  songList.innerHTML = '';
+// Render movies with pagination
+function renderMovies() {
+  movieList.innerHTML = '';
   const start = (currentPage - 1) * ITEMS_PER_PAGE;
-  const end = Math.min(start + ITEMS_PER_PAGE, filteredSongs.length);
-  const pageSongs = filteredSongs.slice(start, end);
+  const end = Math.min(start + ITEMS_PER_PAGE, filteredMovies.length);
+  const pageMovies = filteredMovies.slice(start, end);
 
-  if (pageSongs.length === 0) {
-    songList.innerHTML = '<p style="grid-column:1/-1; text-align:center;">No songs found.</p>';
+  if (pageMovies.length === 0) {
+    movieList.innerHTML = '<p style="grid-column:1/-1; text-align:center;">No movies found.</p>';
   } else {
-    pageSongs.forEach(song => songList.appendChild(createSongCard(song)));
+    pageMovies.forEach(movie => movieList.appendChild(createMovieCard(movie)));
   }
 
-  songCount.textContent = `Showing ${start + 1}-${end} of ${filteredSongs.length} songs (Total: ${allSongs.length})`;
+  movieCount.textContent = `Showing ${start + 1}-${end} of ${filteredMovies.length} movies`;
   renderPagination();
 }
 
 // Pagination
 function renderPagination() {
-  const totalPages = Math.ceil(filteredSongs.length / ITEMS_PER_PAGE);
+  const totalPages = Math.ceil(filteredMovies.length / ITEMS_PER_PAGE);
+  const paginationDiv = document.createElement('div');
+  paginationDiv.className = 'pagination';
   paginationDiv.innerHTML = '';
 
   const prevBtn = document.createElement('button');
@@ -176,7 +84,7 @@ function renderPagination() {
   prevBtn.addEventListener('click', () => {
     if (currentPage > 1) {
       currentPage--;
-      renderSongs();
+      renderMovies();
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   });
@@ -193,7 +101,7 @@ function renderPagination() {
     if (i === currentPage) pageBtn.classList.add('active');
     pageBtn.addEventListener('click', () => {
       currentPage = i;
-      renderSongs();
+      renderMovies();
       window.scrollTo({ top: 0, behavior: 'smooth' });
     });
     paginationDiv.appendChild(pageBtn);
@@ -205,106 +113,36 @@ function renderPagination() {
   nextBtn.addEventListener('click', () => {
     if (currentPage < totalPages) {
       currentPage++;
-      renderSongs();
+      renderMovies();
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   });
   paginationDiv.appendChild(nextBtn);
+
+  // Remove old pagination if exists
+  const oldPagination = document.querySelector('.pagination');
+  if (oldPagination) oldPagination.remove();
+  movieList.after(paginationDiv);
 }
 
-// Apply filters and sorting
-function applyFiltersAndRender() {
-  currentSearch = searchInput.value.toLowerCase().trim();
-  const query = currentSearch;
-
-  filteredSongs = allSongs.filter(song => {
-    const matchesSearch = !query ||
-      song.songName.toLowerCase().includes(query) ||
-      song.film.toLowerCase().includes(query) ||
-      song.lyricist.toLowerCase().includes(query) ||
-      song.musicDirector.toLowerCase().includes(query) ||
-      song.singers.toLowerCase().includes(query) ||
-      song.year.includes(query);
-
-    const matchesType = currentFilterType === 'all' || currentFilterValue === '' ||
-      song[currentFilterType] === currentFilterValue;
-
-    const matchesAlphabet = currentAlphabet === '' ||
-      song.songName.charAt(0).toUpperCase() === currentAlphabet;
-
-    return matchesSearch && matchesType && matchesAlphabet;
-  });
-
-  switch (currentSort) {
-    case 'title':
-      filteredSongs.sort((a, b) => a.songName.localeCompare(b.songName, 'ml'));
-      break;
-    case 'titleDesc':
-      filteredSongs.sort((a, b) => b.songName.localeCompare(a.songName, 'ml'));
-      break;
-    case 'year':
-      filteredSongs.sort((a, b) => (b.year || '').localeCompare(a.year || '', undefined, { numeric: true }));
-      break;
-    case 'yearOldest':
-      filteredSongs.sort((a, b) => (a.year || '').localeCompare(b.year || '', undefined, { numeric: true }));
-      break;
-    case 'movie':
-      filteredSongs.sort((a, b) => a.film.localeCompare(b.film, 'ml'));
-      break;
-    case 'added':
-      // Keep original order
-      break;
-  }
-
+// Filter movies by search
+function applySearch() {
+  searchQuery = movieSearch.value.toLowerCase().trim();
+  filteredMovies = allMovies.filter(movie =>
+    movie.film.toLowerCase().includes(searchQuery) ||
+    movie.year.includes(searchQuery)
+  );
   currentPage = 1;
-  renderSongs();
+  renderMovies();
 }
 
-// Populate filter value dropdown
-function populateFilterValues() {
-  currentFilterType = filterType.value;
-  filterValue.innerHTML = '<option value="">All</option>';
-  if (currentFilterType !== 'all') {
-    const values = getUniqueValues(currentFilterType);
-    values.forEach(val => {
-      const opt = document.createElement('option');
-      opt.value = val;
-      opt.textContent = val;
-      filterValue.appendChild(opt);
-    });
-  }
-  filterValue.value = '';
-  currentFilterValue = '';
-  applyFiltersAndRender();
-}
+movieSearch.addEventListener('input', applySearch);
 
-// Event listeners
-searchInput.addEventListener('input', applyFiltersAndRender);
-filterType.addEventListener('change', populateFilterValues);
-filterValue.addEventListener('change', () => {
-  currentFilterValue = filterValue.value;
-  applyFiltersAndRender();
-});
-sortType.addEventListener('change', () => {
-  currentSort = sortType.value;
-  applyFiltersAndRender();
-});
-randomSongBtn.addEventListener('click', () => {
-  if (allSongs.length === 0) return;
-  const randomIndex = Math.floor(Math.random() * filteredSongs.length || allSongs.length);
-  const song = filteredSongs[randomIndex] || allSongs[randomIndex];
-  goToSong(song);
-});
-
-// Initialize
+// Init
 async function init() {
-  await loadSongs();
-  if (allSongs.length === 0) return;
-  renderStats();
-  renderAlphabet();
-  renderFeaturedSong();
-  populateFilterValues();
-  applyFiltersAndRender();
+  await loadData();
+  filteredMovies = allMovies;
+  renderMovies();
 }
 
 init();
