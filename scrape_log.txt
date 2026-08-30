@@ -130448,3 +130448,52 @@ Year complete: success=0, skipped=35, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1958
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1958
+   Page 1: https://m3db.com/archive/lyrics/year/1958
+   Found 36 songs on this page. Total unique so far: 36
+Total songs to scrape for this year: 36
+⏭️  [1/36] Already exists in index: 17947
+⏭️  [2/36] Already exists in index: 7187
+⏭️  [3/36] Already exists in index: 13239
+⏭️  [4/36] Already exists in index: 13235
+⏭️  [5/36] Already exists in index: 13238
+⏭️  [6/36] Already exists in index: 13236
+⏭️  [7/36] Already exists in index: 13237
+⏭️  [8/36] Already exists in index: 7188
+⏭️  [9/36] Already exists in index: 65537
+⏭️  [10/36] Already exists in index: 17946
+⏭️  [11/36] Already exists in index: 66945
+⏭️  [12/36] Already exists in index: 65508
+⏭️  [13/36] Already exists in index: 65524
+⏭️  [14/36] Already exists in index: 66947
+⏭️  [15/36] Already exists in index: 66946
+⏭️  [16/36] Already exists in index: 65542
+⏭️  [17/36] Already exists in index: 17944
+⏭️  [18/36] Already exists in index: 17945
+⏭️  [19/36] Already exists in index: 66888
+⏭️  [20/36] Already exists in index: 66929
+⏭️  [21/36] Already exists in index: 66886
+⏭️  [22/36] Already exists in index: 66885
+⏭️  [23/36] Already exists in index: 66934
+⏭️  [24/36] Already exists in index: 11988
+⏭️  [25/36] Already exists in index: 66887
+⏭️  [26/36] Already exists in index: 66930
+⏭️  [27/36] Already exists in index: 66931
+⏭️  [28/36] Already exists in index: 17942
+⏭️  [29/36] Already exists in index: 17940
+⏭️  [30/36] Already exists in index: odi-odi-odi-vannu
+⏭️  [31/36] Already exists in index: 17943
+⏭️  [32/36] Already exists in index: 13281
+⏭️  [33/36] Already exists in index: 66948
+⏭️  [34/36] Already exists in index: 66949
+⏭️  [35/36] Already exists in index: 66950
+⏭️  [36/36] Already exists in index: 14441
+Year complete: success=0, skipped=36, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
