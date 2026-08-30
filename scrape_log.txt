@@ -130400,3 +130400,51 @@ Year complete: success=0, skipped=54, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1959
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1959
+   Page 1: https://m3db.com/archive/lyrics/year/1959
+   Found 35 songs on this page. Total unique so far: 35
+Total songs to scrape for this year: 35
+⏭️  [1/35] Already exists in index: 66970
+⏭️  [2/35] Already exists in index: 66980
+⏭️  [3/35] Already exists in index: 66978
+⏭️  [4/35] Already exists in index: 66979
+⏭️  [5/35] Already exists in index: 66971
+⏭️  [6/35] Already exists in index: 66972
+⏭️  [7/35] Already exists in index: 66981
+⏭️  [8/35] Already exists in index: oru-panineerppoo
+⏭️  [9/35] Already exists in index: 8373
+⏭️  [10/35] Already exists in index: 8369
+⏭️  [11/35] Already exists in index: 8377
+⏭️  [12/35] Already exists in index: 66961
+⏭️  [13/35] Already exists in index: 8371
+⏭️  [14/35] Already exists in index: 66959
+⏭️  [15/35] Already exists in index: 66960
+⏭️  [16/35] Already exists in index: 8374
+⏭️  [17/35] Already exists in index: 8368
+⏭️  [18/35] Already exists in index: 14432
+⏭️  [19/35] Already exists in index: 14440
+⏭️  [20/35] Already exists in index: 14429
+⏭️  [21/35] Already exists in index: 14434
+⏭️  [22/35] Already exists in index: 14431
+⏭️  [23/35] Already exists in index: 14438
+⏭️  [24/35] Already exists in index: 14433
+⏭️  [25/35] Already exists in index: 14439
+⏭️  [26/35] Already exists in index: 14430
+⏭️  [27/35] Already exists in index: 66963
+⏭️  [28/35] Already exists in index: 66966
+⏭️  [29/35] Already exists in index: 17948
+⏭️  [30/35] Already exists in index: 66967
+⏭️  [31/35] Already exists in index: 64334
+⏭️  [32/35] Already exists in index: malarthorum-mandhahasam
+⏭️  [33/35] Already exists in index: 14428
+⏭️  [34/35] Already exists in index: 64307
+⏭️  [35/35] Already exists in index: 17949
+Year complete: success=0, skipped=35, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
