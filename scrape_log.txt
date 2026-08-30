@@ -131291,3 +131291,26 @@ Year complete: success=0, skipped=78, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1949
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1949
+   Page 1: https://m3db.com/archive/lyrics/year/1949
+   Found 10 songs on this page. Total unique so far: 10
+Total songs to scrape for this year: 10
+⏭️  [1/10] Already exists in index: alolamala
+⏭️  [2/10] Already exists in index: ashaaheenam
+⏭️  [3/10] Already exists in index: ahaa-mohaname
+⏭️  [4/10] Already exists in index: evam-niravadhi
+⏭️  [5/10] Already exists in index: jeevitha-vaadi
+⏭️  [6/10] Already exists in index: thrikkodi-thrikkodi
+⏭️  [7/10] Already exists in index: porinaayiranguvin
+⏭️  [8/10] Already exists in index: premamanoharame
+⏭️  [9/10] Already exists in index: ragaramyame
+⏭️  [10/10] Already exists in index: sokavikalame
+Year complete: success=0, skipped=10, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
