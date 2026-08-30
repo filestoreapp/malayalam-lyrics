@@ -131200,3 +131200,94 @@ Year complete: success=0, skipped=64, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1950
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1950
+   Page 1: https://m3db.com/archive/lyrics/year/1950
+   Found 78 songs on this page. Total unique so far: 78
+Total songs to scrape for this year: 78
+⏭️  [1/78] Already exists in index: 40424
+⏭️  [2/78] Already exists in index: 40421
+⏭️  [3/78] Already exists in index: kezhuka-athmasakhi
+⏭️  [4/78] Already exists in index: 40420
+⏭️  [5/78] Already exists in index: 17812
+⏭️  [6/78] Already exists in index: 40423
+⏭️  [7/78] Already exists in index: 40419
+⏭️  [8/78] Already exists in index: 40422
+⏭️  [9/78] Already exists in index: 40418
+⏭️  [10/78] Already exists in index: 40417
+⏭️  [11/78] Already exists in index: 40425
+⏭️  [12/78] Already exists in index: 12587
+⏭️  [13/78] Already exists in index: aasha-thakarukayo
+⏭️  [14/78] Already exists in index: 12592
+⏭️  [15/78] Already exists in index: 12589
+⏭️  [16/78] Already exists in index: kalitha-kalamaya
+⏭️  [17/78] Already exists in index: 66253
+⏭️  [18/78] Already exists in index: 66254
+⏭️  [19/78] Already exists in index: nee-maathraminnu-chaare
+⏭️  [20/78] Already exists in index: varika-varika
+⏭️  [21/78] Already exists in index: varumo-en-priyamaanasan
+⏭️  [22/78] Already exists in index: 12624
+⏭️  [23/78] Already exists in index: 12628
+⏭️  [24/78] Already exists in index: 66242
+⏭️  [25/78] Already exists in index: 12630
+⏭️  [26/78] Already exists in index: 12631
+⏭️  [27/78] Already exists in index: 12627
+⏭️  [28/78] Already exists in index: 12632
+⏭️  [29/78] Already exists in index: 12626
+⏭️  [30/78] Already exists in index: manoharamee-maharajyam
+⏭️  [31/78] Already exists in index: 12525
+⏭️  [32/78] Already exists in index: 12625
+⏭️  [33/78] Already exists in index: 66241
+⏭️  [34/78] Already exists in index: 12629
+⏭️  [35/78] Already exists in index: 12623
+⏭️  [36/78] Already exists in index: 12647
+⏭️  [37/78] Already exists in index: ellaam-sundaramayam
+⏭️  [38/78] Already exists in index: 12645
+⏭️  [39/78] Already exists in index: 66246
+⏭️  [40/78] Already exists in index: ganamohana
+⏭️  [41/78] Already exists in index: jaathivairam
+⏭️  [42/78] Already exists in index: thakarukayo
+⏭️  [43/78] Already exists in index: dhavalaroopa
+⏭️  [44/78] Already exists in index: ninne-charanatainthen
+⏭️  [45/78] Already exists in index: ponne-neeyum-njanum
+⏭️  [46/78] Already exists in index: 66245
+⏭️  [47/78] Already exists in index: 12642
+⏭️  [48/78] Already exists in index: sukrutharaagamayamullam
+⏭️  [49/78] Already exists in index: sneham-thookum-mathe
+⏭️  [50/78] Already exists in index: 34994
+⏭️  [51/78] Already exists in index: 34998
+⏭️  [52/78] Already exists in index: 66243
+⏭️  [53/78] Already exists in index: 34999
+⏭️  [54/78] Already exists in index: 34996
+⏭️  [55/78] Already exists in index: jeevithamoham
+⏭️  [56/78] Already exists in index: 34995
+⏭️  [57/78] Already exists in index: 66244
+⏭️  [58/78] Already exists in index: prameswari-nathe
+⏭️  [59/78] Already exists in index: 34997
+⏭️  [60/78] Already exists in index: mayam
+⏭️  [61/78] Already exists in index: vanparideena
+⏭️  [62/78] Already exists in index: 78115
+⏭️  [63/78] Already exists in index: 78134
+⏭️  [64/78] Already exists in index: 66239
+⏭️  [65/78] Already exists in index: 78133
+⏭️  [66/78] Already exists in index: 78132
+⏭️  [67/78] Already exists in index: 78131
+⏭️  [68/78] Already exists in index: 78130
+⏭️  [69/78] Already exists in index: 78129
+⏭️  [70/78] Already exists in index: 78128
+⏭️  [71/78] Already exists in index: 78127
+⏭️  [72/78] Already exists in index: 78126
+⏭️  [73/78] Already exists in index: 78123
+⏭️  [74/78] Already exists in index: parasurama-bhoomi
+⏭️  [75/78] Already exists in index: 78122
+⏭️  [76/78] Already exists in index: 78121
+⏭️  [77/78] Already exists in index: 78118
+⏭️  [78/78] Already exists in index: 78117
+Year complete: success=0, skipped=78, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
