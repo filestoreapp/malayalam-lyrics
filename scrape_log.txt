@@ -108302,3 +108302,166 @@ Year complete: success=0, skipped=20, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 2025
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/2025
+   Page 1: https://m3db.com/archive/lyrics/year/2025
+   Found 150 songs on this page. Total unique so far: 150
+Total songs to scrape for this year: 150
+⏭️  [1/150] Already exists in index: azrael
+⏭️  [2/150] Already exists in index: kaavalai-chekavarundo
+⏭️  [3/150] Already exists in index: aarorum
+⏭️  [4/150] Already exists in index: ithale-ponnithale
+⏭️  [5/150] Already exists in index: ini-sooryasthamaym
+⏭️  [6/150] Already exists in index: kavantha
+⏭️  [7/150] Already exists in index: khalbinnakame
+⏭️  [8/150] Already exists in index: thattathilu
+⏭️  [9/150] Already exists in index: sundari-laila
+⏭️  [10/150] Already exists in index: sumahaasithe
+⏭️  [11/150] Already exists in index: nanam-melle-melle
+⏭️  [12/150] Already exists in index: mazha-nanavariyum-manassu
+⏭️  [13/150] Already exists in index: raa-shalabhangalay-nammal
+⏭️  [14/150] Already exists in index: vadakku-dikkiloru
+⏭️  [15/150] Already exists in index: aalappy-express-manamel-urukkay
+⏭️  [16/150] Already exists in index: every-day
+⏭️  [17/150] Already exists in index: cheruthu
+⏭️  [18/150] Already exists in index: d-day
+⏭️  [19/150] Already exists in index: do-it
+⏭️  [20/150] Already exists in index: thakathai
+⏭️  [21/150] Already exists in index: panjaara-punch
+⏭️  [22/150] Already exists in index: pottu-pottu
+⏭️  [23/150] Already exists in index: boxing-101
+⏭️  [24/150] Already exists in index: varum-pokum
+⏭️  [25/150] Already exists in index: welcome-gymkhana
+⏭️  [26/150] Already exists in index: hatja
+⏭️  [27/150] Already exists in index: pulari-manjinullile
+⏭️  [28/150] Already exists in index: eka-eka
+⏭️  [29/150] Already exists in index: yaanangal
+⏭️  [30/150] Already exists in index: aazhathil
+⏭️  [31/150] Already exists in index: kathirunne
+⏭️  [32/150] Already exists in index: akalunnu-melle
+⏭️  [33/150] Already exists in index: theeram-thodathe
+⏭️  [34/150] Already exists in index: nishayil-0
+⏭️  [35/150] Already exists in index: nishayil-1
+⏭️  [36/150] Already exists in index: nishayil
+⏭️  [37/150] Already exists in index: neeyorikkal-ente-muriyil
+⏭️  [38/150] Already exists in index: madhuramoorunna
+⏭️  [39/150] Already exists in index: vellodin-kingini-kettiya
+⏭️  [40/150] Already exists in index: kannadi-poove
+⏭️  [41/150] Already exists in index: kinavin-vari
+⏭️  [42/150] Already exists in index: nasrani-penkutti
+⏭️  [43/150] Already exists in index: paavana-sneha-poornane
+⏭️  [44/150] Already exists in index: thalarathe
+⏭️  [45/150] Already exists in index: bhoolokam-sundaram
+⏭️  [46/150] Already exists in index: marshal-duty
+⏭️  [47/150] Already exists in index: cyclone-central
+⏭️  [48/150] Already exists in index: chattuli
+⏭️  [49/150] Already exists in index: twinkle-twinkle-i-got-my-dinosaur
+⏭️  [50/150] Already exists in index: nee-nila-chiriyale
+⏭️  [51/150] Already exists in index: mele-manathu
+⏭️  [52/150] Already exists in index: kandu-kandu-0
+⏭️  [53/150] Already exists in index: arikilay
+⏭️  [54/150] Already exists in index: onnum-nadakkillini
+⏭️  [55/150] Already exists in index: nila-kaayum
+⏭️  [56/150] Already exists in index: vennilavu-pole
+⏭️  [57/150] Already exists in index: kaattum-thorathe-peythitum-mariyum
+⏭️  [58/150] Already exists in index: athisayam
+⏭️  [59/150] Already exists in index: maname-aalolam
+⏭️  [60/150] Already exists in index: kaaderum-kaattinte
+⏭️  [61/150] Already exists in index: thallimarikanee
+⏭️  [62/150] Already exists in index: naga-naga-vazhka
+⏭️  [63/150] Already exists in index: manju-peyyanu-mamala-thullanu
+⏭️  [64/150] Already exists in index: thoppi-vecha-vallabhan
+⏭️  [65/150] Already exists in index: ee-rathri
+⏭️  [66/150] Already exists in index: maargazhi
+⏭️  [67/150] Already exists in index: kandu-kandu
+⏭️  [68/150] Already exists in index: anpe
+⏭️  [69/150] Already exists in index: kanmanippoove
+⏭️  [70/150] Already exists in index: kadha-thudarum
+⏭️  [71/150] Already exists in index: kadha-thudarum-2
+⏭️  [72/150] Already exists in index: kadha-thudarum-0
+⏭️  [73/150] Already exists in index: kondattam
+⏭️  [74/150] Already exists in index: nenje
+⏭️  [75/150] Already exists in index: pemari-ivanaye
+⏭️  [76/150] Already exists in index: edakkochi-ishiq
+⏭️  [77/150] Already exists in index: idiyoorini-pazhimelethi
+⏭️  [78/150] Already exists in index: one-kind
+⏭️  [79/150] Already exists in index: fear-song
+⏭️  [80/150] Already exists in index: madi-raja-pani-marannirikkana-raaja
+⏭️  [81/150] Already exists in index: eda-mone
+⏭️  [82/150] Already exists in index: nagarame
+⏭️  [83/150] Already exists in index: love-bite
+⏭️  [84/150] Already exists in index: aadu-ponmayile
+⏭️  [85/150] Already exists in index: kaattinu-meyaan
+⏭️  [86/150] Already exists in index: maayum-maayum
+⏭️  [87/150] Already exists in index: minnalvala
+⏭️  [88/150] Already exists in index: vedaa-vaadaa
+⏭️  [89/150] Already exists in index: nee-ariyathoru-naal
+⏭️  [90/150] Already exists in index: viral-thodum
+⏭️  [91/150] Already exists in index: aakasham-ariyathe
+⏭️  [92/150] Already exists in index: aaha
+⏭️  [93/150] Already exists in index: enthanennariyilla
+⏭️  [94/150] Already exists in index: kaa-kaa
+⏭️  [95/150] Already exists in index: para-para-para
+⏭️  [96/150] Already exists in index: baby-baby
+⏭️  [97/150] Already exists in index: vaazhkai
+⏭️  [98/150] Already exists in index: heart-attack
+⏭️  [99/150] Already exists in index: aarbhadam
+⏭️  [100/150] Already exists in index: kollam-pattu-0
+⏭️  [101/150] Already exists in index: paka
+⏭️  [102/150] Already exists in index: braidaathiye
+⏭️  [103/150] Already exists in index: onnadichaal
+⏭️  [104/150] Already exists in index: njaan-thaniye
+⏭️  [105/150] Already exists in index: mannum-vinnum
+⏭️  [106/150] Already exists in index: kedathe-0
+⏭️  [107/150] Already exists in index: cheth-song
+⏭️  [108/150] Already exists in index: savathikuthu
+⏭️  [109/150] Already exists in index: piranth
+⏭️  [110/150] Already exists in index: local-gen-z
+⏭️  [111/150] Already exists in index: ambilippoo
+⏭️  [112/150] Already exists in index: arikil-etho-novin
+⏭️  [113/150] Already exists in index: karivala-chinniya-poleyoral
+⏭️  [114/150] Already exists in index: karakkam
+⏭️  [115/150] Already exists in index: aakasha-maunam-nirayumaazhame
+⏭️  [116/150] Already exists in index: karimegha-thazhappilum
+⏭️  [117/150] Already exists in index: neeye-nenjil
+⏭️  [118/150] Already exists in index: manalu-parunnori
+⏭️  [119/150] Already exists in index: o-kinaakkaalam
+⏭️  [120/150] Already exists in index: radio-song
+⏭️  [121/150] Already exists in index: wave-song
+⏭️  [122/150] Already exists in index: chiriye
+⏭️  [123/150] Already exists in index: kanmanee
+⏭️  [124/150] Already exists in index: kaattilaadi
+⏭️  [125/150] Already exists in index: crushaane-crushaane
+⏭️  [126/150] Already exists in index: chaleyaa
+⏭️  [127/150] Already exists in index: queen-night
+⏭️  [128/150] Already exists in index: thani-lokah-murakkari
+⏭️  [129/150] Already exists in index: shokamookam
+⏭️  [130/150] Already exists in index: bubble-poomottukal
+⏭️  [131/150] Already exists in index: ohh-thiri-vazhithiri
+⏭️  [132/150] Already exists in index: kanavukale-0
+⏭️  [133/150] Already exists in index: mauna-loa
+⏭️  [134/150] Already exists in index: voice-voiceless
+⏭️  [135/150] Already exists in index: ormathoppil
+⏭️  [136/150] Already exists in index: sambrani-penthiri
+⏭️  [137/150] Already exists in index: orkkathe
+⏭️  [138/150] Already exists in index: naadaaya-naadaake
+⏭️  [139/150] Already exists in index: samshayam
+⏭️  [140/150] Already exists in index: porilenthaa-kala
+⏭️  [141/150] Already exists in index: varika-varika-0
+⏭️  [142/150] Already exists in index: 103673
+⏭️  [143/150] Already exists in index: jeppu-song
+⏭️  [144/150] Already exists in index: thaarakam
+⏭️  [145/150] Already exists in index: ravin
+⏭️  [146/150] Already exists in index: hope-song
+⏭️  [147/150] Already exists in index: hope-song-neeyorekanka
+⏭️  [148/150] Already exists in index: mayajaalame
+⏭️  [149/150] Already exists in index: karayathe
+⏭️  [150/150] Already exists in index: vida-parayaam
+Year complete: success=0, skipped=150, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
