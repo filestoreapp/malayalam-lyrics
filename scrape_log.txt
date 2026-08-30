@@ -129986,3 +129986,174 @@ Year complete: success=0, skipped=132, failed=0
 
 === Master Scraper Finished ===
 Total songs in index: 22104
+=== Master Scraper Started ===
+Fetching year list...
+Filtered to years: 1962
+Found 1 year archives to process.
+
+📅 Processing year: https://m3db.com/archive/lyrics/year/1962
+   Page 1: https://m3db.com/archive/lyrics/year/1962
+   Found 158 songs on this page. Total unique so far: 158
+Total songs to scrape for this year: 158
+⏭️  [1/158] Already exists in index: 11292
+⏭️  [2/158] Already exists in index: aryaputhra-ithile
+⏭️  [3/158] Already exists in index: 11293
+⏭️  [4/158] Already exists in index: 11290
+⏭️  [5/158] Already exists in index: 11291
+⏭️  [6/158] Already exists in index: 11289
+⏭️  [7/158] Already exists in index: 11286
+⏭️  [8/158] Already exists in index: 67237
+⏭️  [9/158] Already exists in index: 64343
+⏭️  [10/158] Already exists in index: valarnnu-valarnnu
+⏭️  [11/158] Already exists in index: 17581
+⏭️  [12/158] Already exists in index: 67146
+⏭️  [13/158] Already exists in index: 64352
+⏭️  [14/158] Already exists in index: 67148
+⏭️  [15/158] Already exists in index: 67147
+⏭️  [16/158] Already exists in index: thaakin-thaararo
+⏭️  [17/158] Already exists in index: 67155
+⏭️  [18/158] Already exists in index: 67150
+⏭️  [19/158] Already exists in index: 67153
+⏭️  [20/158] Already exists in index: 67149
+⏭️  [21/158] Already exists in index: 11278
+⏭️  [22/158] Already exists in index: 11277
+⏭️  [23/158] Already exists in index: 67396
+⏭️  [24/158] Already exists in index: 11282
+⏭️  [25/158] Already exists in index: 11285
+⏭️  [26/158] Already exists in index: 11279
+⏭️  [27/158] Already exists in index: 7216
+⏭️  [28/158] Already exists in index: 11283
+⏭️  [29/158] Already exists in index: 11276
+⏭️  [30/158] Already exists in index: 11284
+⏭️  [31/158] Already exists in index: 11281
+⏭️  [32/158] Already exists in index: 11280
+⏭️  [33/158] Already exists in index: 67172
+⏭️  [34/158] Already exists in index: 14363
+⏭️  [35/158] Already exists in index: 14371
+⏭️  [36/158] Already exists in index: 14376
+⏭️  [37/158] Already exists in index: 14372
+⏭️  [38/158] Already exists in index: 67179
+⏭️  [39/158] Already exists in index: 14374
+⏭️  [40/158] Already exists in index: 14373
+⏭️  [41/158] Already exists in index: 14362
+⏭️  [42/158] Already exists in index: 14375
+⏭️  [43/158] Already exists in index: 14360
+⏭️  [44/158] Already exists in index: 7254
+⏭️  [45/158] Already exists in index: 67374
+⏭️  [46/158] Already exists in index: 67371
+⏭️  [47/158] Already exists in index: 67373
+⏭️  [48/158] Already exists in index: 14331
+⏭️  [49/158] Already exists in index: 14332
+⏭️  [50/158] Already exists in index: 14333
+⏭️  [51/158] Already exists in index: 14359
+⏭️  [52/158] Already exists in index: 55387
+⏭️  [53/158] Already exists in index: 13005
+⏭️  [54/158] Already exists in index: 12650
+⏭️  [55/158] Already exists in index: 12648
+⏭️  [56/158] Already exists in index: 8703
+⏭️  [57/158] Already exists in index: panchaarappaalu-mittayi
+⏭️  [58/158] Already exists in index: 8699
+⏭️  [59/158] Already exists in index: 8702
+⏭️  [60/158] Already exists in index: mulkkireedamithenthinu-nalki
+⏭️  [61/158] Already exists in index: 8701
+⏭️  [62/158] Already exists in index: 7426
+⏭️  [63/158] Already exists in index: 11971
+⏭️  [64/158] Already exists in index: 11972
+⏭️  [65/158] Already exists in index: 14394
+⏭️  [66/158] Already exists in index: 14397
+⏭️  [67/158] Already exists in index: 14395
+⏭️  [68/158] Already exists in index: 14364
+⏭️  [69/158] Already exists in index: 14365
+⏭️  [70/158] Already exists in index: 11973
+⏭️  [71/158] Already exists in index: 67308
+⏭️  [72/158] Already exists in index: 14385
+⏭️  [73/158] Already exists in index: 14396
+⏭️  [74/158] Already exists in index: 14366
+⏭️  [75/158] Already exists in index: 67190
+⏭️  [76/158] Already exists in index: 14335
+⏭️  [77/158] Already exists in index: 14361
+⏭️  [78/158] Already exists in index: 67188
+⏭️  [79/158] Already exists in index: 14337
+⏭️  [80/158] Already exists in index: 67187
+⏭️  [81/158] Already exists in index: 14338
+⏭️  [82/158] Already exists in index: 14334
+⏭️  [83/158] Already exists in index: 14339
+⏭️  [84/158] Already exists in index: 14336
+⏭️  [85/158] Already exists in index: 67191
+⏭️  [86/158] Already exists in index: 67231
+⏭️  [87/158] Already exists in index: 67192
+⏭️  [88/158] Already exists in index: 67193
+⏭️  [89/158] Already exists in index: 67219
+⏭️  [90/158] Already exists in index: 17594
+⏭️  [91/158] Already exists in index: 67234
+⏭️  [92/158] Already exists in index: 67223
+⏭️  [93/158] Already exists in index: 67235
+⏭️  [94/158] Already exists in index: 67236
+⏭️  [95/158] Already exists in index: 12535
+⏭️  [96/158] Already exists in index: enthinnu-moham
+⏭️  [97/158] Already exists in index: enne-nee-kani-kandu
+⏭️  [98/158] Already exists in index: 16543
+⏭️  [99/158] Already exists in index: 12697
+⏭️  [100/158] Already exists in index: thanka-chilanka-kilukki
+⏭️  [101/158] Already exists in index: 17592
+⏭️  [102/158] Already exists in index: 9843
+⏭️  [103/158] Already exists in index: 16539
+⏭️  [104/158] Already exists in index: 12536
+⏭️  [105/158] Already exists in index: 67165
+⏭️  [106/158] Already exists in index: 67164
+⏭️  [107/158] Already exists in index: 67158
+⏭️  [108/158] Already exists in index: 67163
+⏭️  [109/158] Already exists in index: 67166
+⏭️  [110/158] Already exists in index: 67170
+⏭️  [111/158] Already exists in index: 67167
+⏭️  [112/158] Already exists in index: 67168
+⏭️  [113/158] Already exists in index: 67171
+⏭️  [114/158] Already exists in index: 67169
+⏭️  [115/158] Already exists in index: 67271
+⏭️  [116/158] Already exists in index: 67272
+⏭️  [117/158] Already exists in index: 67281
+⏭️  [118/158] Already exists in index: 67276
+⏭️  [119/158] Already exists in index: 67274
+⏭️  [120/158] Already exists in index: 67275
+⏭️  [121/158] Already exists in index: 67273
+⏭️  [122/158] Already exists in index: 67282
+⏭️  [123/158] Already exists in index: sree-charanaambujam
+⏭️  [124/158] Already exists in index: 67279
+⏭️  [125/158] Already exists in index: 67280
+⏭️  [126/158] Already exists in index: 17582
+⏭️  [127/158] Already exists in index: 67251
+⏭️  [128/158] Already exists in index: 17584
+⏭️  [129/158] Already exists in index: 67240
+⏭️  [130/158] Already exists in index: 17586
+⏭️  [131/158] Already exists in index: 17591
+⏭️  [132/158] Already exists in index: 67241
+⏭️  [133/158] Already exists in index: 17585
+⏭️  [134/158] Already exists in index: 67239
+⏭️  [135/158] Already exists in index: 17589
+⏭️  [136/158] Already exists in index: 17588
+⏭️  [137/158] Already exists in index: 67249
+⏭️  [138/158] Already exists in index: 67238
+⏭️  [139/158] Already exists in index: 67252
+⏭️  [140/158] Already exists in index: 67250
+⏭️  [141/158] Already exists in index: 14377
+⏭️  [142/158] Already exists in index: 14381
+⏭️  [143/158] Already exists in index: 14384
+⏭️  [144/158] Already exists in index: 14379
+⏭️  [145/158] Already exists in index: 14378
+⏭️  [146/158] Already exists in index: 13285
+⏭️  [147/158] Already exists in index: 14380
+⏭️  [148/158] Already exists in index: 14383
+⏭️  [149/158] Already exists in index: 14382
+⏭️  [150/158] Already exists in index: 14354
+⏭️  [151/158] Already exists in index: irunduvallo-paarum-vaanum
+⏭️  [152/158] Already exists in index: 64356
+⏭️  [153/158] Already exists in index: 14355
+⏭️  [154/158] Already exists in index: 14351
+⏭️  [155/158] Already exists in index: 14356
+⏭️  [156/158] Already exists in index: 14349
+⏭️  [157/158] Already exists in index: 14357
+⏭️  [158/158] Already exists in index: 14350
+Year complete: success=0, skipped=158, failed=0
+
+=== Master Scraper Finished ===
+Total songs in index: 22104
